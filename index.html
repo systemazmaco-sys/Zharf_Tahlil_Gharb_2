@@ -90,8 +90,15 @@
   nav a{
     font-size:14px;color:var(--text-dim);text-decoration:none;
     transition:color .15s;position:relative;
+    padding-bottom:3px;
+  }
+  nav a::after{
+    content:"";position:absolute;right:0;bottom:0;width:100%;height:1px;
+    background:var(--amber);transform:scaleX(0);transform-origin:right;
+    transition:transform .25s ease;
   }
   nav a:hover{color:var(--text)}
+  nav a:hover::after{transform:scaleX(1)}
 
   .btn{
     display:inline-flex;align-items:center;gap:8px;
@@ -142,6 +149,23 @@
     font-size:11px;color:var(--text-faint);margin-top:10px;
   }
   .chart-note b{color:var(--danger);font-weight:600}
+
+  .chart-line{stroke-dasharray:1;stroke-dashoffset:1;animation:draw 2.1s .3s cubic-bezier(.65,0,.35,1) forwards}
+  .chart-fill{opacity:0;animation:fadein .9s 1.9s ease forwards}
+  .anomaly-dot circle:first-child{transform-origin:155px 60px;animation:pulse-ring 2.2s 2.2s ease-out infinite}
+  .anomaly-dot circle:last-child{opacity:0;animation:fadein .4s 2.2s ease forwards}
+  .anomaly-band{opacity:0;animation:fadein .5s 1.7s ease forwards}
+  @keyframes draw{to{stroke-dashoffset:0}}
+  @keyframes fadein{to{opacity:1}}
+  @keyframes pulse-ring{
+    0%{opacity:.55;transform:scale(1)}
+    100%{opacity:0;transform:scale(3.2)}
+  }
+  @media(prefers-reduced-motion:reduce){
+    .chart-line{stroke-dasharray:none;stroke-dashoffset:0;animation:none}
+    .chart-fill,.anomaly-band,.anomaly-dot circle:last-child{opacity:1;animation:none}
+    .anomaly-dot circle:first-child{animation:none;display:none}
+  }
 
   /* STATS BAR */
   .stats{
@@ -217,12 +241,32 @@
     background:var(--bg-panel);
     border-top:1px solid var(--line);border-bottom:1px solid var(--line);
   }
-  .process-list{display:flex;flex-direction:column}
+  .process-list{display:flex;flex-direction:column;position:relative}
+  .process-list::before{
+    content:"";position:absolute;top:0;bottom:0;right:31px;width:1px;
+    background:var(--line);transform-origin:top;transform:scaleY(0);
+    transition:transform 1.5s cubic-bezier(.16,1,.3,1);
+  }
+  .process-list.in::before{transform:scaleY(1)}
   .process-item{
     display:grid;grid-template-columns:64px 1fr;gap:24px;
     padding:26px 0;
     border-bottom:1px solid var(--line-soft);
+    position:relative;
+    opacity:0;transform:translateX(10px);
+    transition:opacity .6s ease,transform .6s ease;
   }
+  .process-item.in{opacity:1;transform:none}
+  .process-item:nth-child(1){transition-delay:.05s}
+  .process-item:nth-child(2){transition-delay:.35s}
+  .process-item:nth-child(3){transition-delay:.65s}
+  .process-item:nth-child(4){transition-delay:.95s}
+  .process-item::after{
+    content:"";position:absolute;top:32px;right:27px;width:9px;height:9px;border-radius:50%;
+    background:var(--amber);border:2px solid var(--bg-panel);box-shadow:0 0 0 3px var(--bg-panel);
+    transform:scale(0);transition:transform .4s cubic-bezier(.34,1.56,.64,1);
+  }
+  .process-item.in::after{transform:scale(1);transition-delay:inherit}
   .process-item:last-child{border-bottom:none}
   .process-item .n{
     font-size:22px;font-weight:700;color:var(--amber-dim);
@@ -235,14 +279,58 @@
   .track-grid{display:grid;grid-template-columns:1fr 1fr;gap:48px}
   .track-list{list-style:none;margin:0;padding:0}
   .track-list li{
-    display:flex;align-items:center;gap:12px;
-    padding:14px 0;border-bottom:1px solid var(--line-soft);
+    padding:16px 0;border-bottom:1px solid var(--line-soft);
     font-size:15px;color:var(--text);
   }
-  .track-list li::before{
-    content:"";width:6px;height:6px;background:var(--amber);flex-shrink:0;
+  .track-list li:last-child{border-bottom:none}
+  .track-row{display:flex;align-items:baseline;justify-content:space-between;gap:12px;margin-bottom:10px}
+  .track-row span:first-child{font-weight:500}
+  .track-row .tag{color:var(--text-faint);font-size:12px;flex-shrink:0}
+  .track-bar{height:4px;background:var(--line-soft);border-radius:2px;overflow:hidden}
+  .track-bar-fill{height:100%;width:0;border-radius:2px;background:linear-gradient(90deg,var(--amber-dim),var(--amber-bright));transition:width 1.2s cubic-bezier(.16,1,.3,1)}
+  .track-bar-fill[data-national="1"]{background:linear-gradient(90deg,var(--teal),#7fd4c9)}
+  .track-list li.in .track-bar-fill{width:var(--w)}
+  .track-hint{margin-top:16px;font-size:12px;color:var(--text-faint)}
+
+  /* NETWORK / ORG DIRECTORY */
+  .org-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:10px}
+  .org-grid a{
+    display:flex;align-items:center;justify-content:space-between;gap:10px;
+    padding:13px 16px;background:var(--bg-panel);border:1px solid var(--line);
+    border-radius:3px;color:var(--text-dim);font-size:13.5px;text-decoration:none;
+    transition:border-color .15s,color .15s,transform .15s;
   }
-  .track-list li span{color:var(--text-faint);font-size:12.5px;margin-right:auto}
+  .org-grid a:hover{border-color:var(--amber-dim);color:var(--text);transform:translateX(-3px)}
+  .org-grid a svg{width:14px;height:14px;flex-shrink:0;opacity:.45;transform:scaleX(-1)}
+  .org-grid a.featured{
+    grid-column:1 / -1;
+    border-color:var(--amber-dim);
+    background:linear-gradient(135deg,var(--bg-panel-2),var(--bg-panel));
+    color:var(--amber-bright);font-weight:600;font-size:15px;padding:16px 20px;
+  }
+
+  /* RESOURCES: articles + news */
+  .res-two-col{display:grid;grid-template-columns:1fr 1fr;gap:40px;align-items:start}
+  .res-card-list{display:flex;flex-direction:column;gap:1px;background:var(--line);border:1px solid var(--line);border-radius:4px;overflow:hidden}
+  .res-card{background:var(--bg-panel);padding:20px 22px}
+  .res-card h4{font-size:14.5px;margin-bottom:7px;font-weight:600}
+  .res-card h4 a{color:var(--text);text-decoration:none}
+  .res-card h4 a:hover{color:var(--amber-bright)}
+  .res-card p{font-size:13px;color:var(--text-dim);margin:0 0 9px}
+  .res-card .meta{font-size:11.5px;color:var(--text-faint);display:flex;gap:10px;align-items:center}
+  .res-card .meta .live-dot{width:6px;height:6px;border-radius:50%;background:var(--teal);display:inline-block;box-shadow:0 0 0 3px rgba(79,179,168,.16)}
+  .res-note{margin-top:14px;font-size:12px;color:var(--text-faint);padding:12px 14px;border:1px dashed var(--line);border-radius:3px;line-height:1.9}
+
+  /* DEVICES */
+  .device-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:1px;background:var(--line);border:1px solid var(--line);border-radius:4px;overflow:hidden}
+  .device-card{background:var(--bg-panel);padding:26px}
+  .device-card .dv-head{display:flex;justify-content:space-between;align-items:baseline;margin-bottom:16px}
+  .device-card h4{font-size:16.5px}
+  .device-card .dv-brand{font-size:11.5px;color:var(--text-faint);letter-spacing:.03em}
+  .device-spec-row{display:flex;justify-content:space-between;padding:9px 0;border-bottom:1px solid var(--line-soft);font-size:13px}
+  .device-spec-row:last-child{border-bottom:none}
+  .device-spec-row span:first-child{color:var(--text-faint)}
+  .device-spec-row span:last-child{color:var(--text);font-variant-numeric:tabular-nums;font-weight:500}
   .quote-block{
     background:var(--bg-panel);border:1px solid var(--line);border-radius:4px;
     padding:28px;position:relative;
@@ -313,6 +401,9 @@
     .hero h1{font-size:32px}
     nav{display:none}
     .row-2{grid-template-columns:1fr}
+    .org-grid{grid-template-columns:1fr}
+    .res-two-col{grid-template-columns:1fr}
+    .device-grid{grid-template-columns:1fr}
   }
 
   @media(prefers-reduced-motion:no-preference){
@@ -338,6 +429,8 @@
       <a href="#about">درباره ما</a>
       <a href="#services">خدمات</a>
       <a href="#process">روش کار</a>
+      <a href="#network">شبکه و منابع</a>
+      <a href="#devices">دستگاه‌های ماینر</a>
       <a href="#track-record">سوابق همکاری</a>
       <a href="#contact">تماس</a>
     </nav>
@@ -374,9 +467,9 @@
             <line x1="0" y1="40" x2="400" y2="40" stroke="#17273b" stroke-width="1"/>
             <line x1="0" y1="80" x2="400" y2="80" stroke="#17273b" stroke-width="1"/>
             <line x1="0" y1="120" x2="400" y2="120" stroke="#17273b" stroke-width="1"/>
-            <path d="M0,120 L40,118 L80,121 L120,119 L150,120 L155,60 L160,30 L200,26 L240,28 L280,27 L320,29 L360,26 L400,27"
+            <path class="chart-line" pathLength="1" d="M0,120 L40,118 L80,121 L120,119 L150,120 L155,60 L160,30 L200,26 L240,28 L280,27 L320,29 L360,26 L400,27"
                   fill="none" stroke="#e0982f" stroke-width="2"/>
-            <path d="M0,120 L40,118 L80,121 L120,119 L150,120 L155,60 L160,30 L200,26 L240,28 L280,27 L320,29 L360,26 L400,27 L400,160 L0,160 Z"
+            <path class="chart-fill" d="M0,120 L40,118 L80,121 L120,119 L150,120 L155,60 L160,30 L200,26 L240,28 L280,27 L320,29 L360,26 L400,27 L400,160 L0,160 Z"
                   fill="url(#g1)" opacity="0.5"/>
             <defs>
               <linearGradient id="g1" x1="0" y1="0" x2="0" y2="1">
@@ -384,9 +477,12 @@
                 <stop offset="100%" stop-color="#e0982f" stop-opacity="0"/>
               </linearGradient>
             </defs>
-            <rect x="150" y="14" width="10" height="146" fill="#c65b4e" opacity="0.12"/>
-            <line x1="155" y1="14" x2="155" y2="160" stroke="#c65b4e" stroke-width="1" stroke-dasharray="3 3"/>
-            <circle cx="155" cy="60" r="3.5" fill="#c65b4e"/>
+            <rect class="anomaly-band" x="150" y="14" width="10" height="146" fill="#c65b4e" opacity="0.12"/>
+            <line class="anomaly-band" x1="155" y1="14" x2="155" y2="160" stroke="#c65b4e" stroke-width="1" stroke-dasharray="3 3"/>
+            <g class="anomaly-dot">
+              <circle cx="155" cy="60" r="3.5" fill="none" stroke="#c65b4e" stroke-width="2"/>
+              <circle cx="155" cy="60" r="3.5" fill="#c65b4e"/>
+            </g>
           </svg>
         </div>
         <div class="chart-note">
@@ -400,10 +496,10 @@
   <!-- STATS -->
   <div class="stats">
     <div class="container stats-grid">
-      <div class="stat"><div class="num">۱٬۲۰۰+</div><div class="label">دستگاه تخلیه و کارشناسی‌شده</div></div>
-      <div class="stat"><div class="num">۳۰۰+</div><div class="label">پرونده مستندسازی‌شده</div></div>
-      <div class="stat"><div class="num">۵</div><div class="label">شرکت توزیع همکار</div></div>
-      <div class="stat"><div class="num">۲.۵</div><div class="label">سال سابقه اجرایی</div></div>
+      <div class="stat"><div class="num" data-count="1200" data-suffix="+">۰</div><div class="label">دستگاه تخلیه و کارشناسی‌شده</div></div>
+      <div class="stat"><div class="num" data-count="300" data-suffix="+">۰</div><div class="label">پرونده مستندسازی‌شده</div></div>
+      <div class="stat"><div class="num" data-count="5" data-suffix="">۰</div><div class="label">شرکت توزیع همکار</div></div>
+      <div class="stat"><div class="num" data-count="2.5" data-suffix="">۰</div><div class="label">سال سابقه اجرایی</div></div>
     </div>
   </div>
 
@@ -532,6 +628,162 @@
     </div>
   </section>
 
+
+  <!-- NETWORK: distribution companies + Tavanir -->
+  <section id="network">
+    <div class="container">
+      <div class="section-head">
+        <div class="eyebrow">شبکه و منابع</div>
+        <h2>دسترسی مستقیم به شرکت‌های توزیع نیروی برق و توانیر</h2>
+        <p>لینک رسمی وب‌سایت ۳۹ شرکت توزیع نیروی برق سراسر کشور و شرکت مادر تخصصی توانیر، برای مراجعه سریع کارشناسان و همکاران.</p>
+      </div>
+      <div class="org-grid">
+        <a href="https://www.tavanir.org.ir" target="_blank" rel="noopener" class="featured">
+          شرکت توانیر — شرکت مادر تخصصی نیروی برق ایران
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M7 17L17 7M17 7H9M17 7V15"/></svg>
+        </a>
+          <a href="https://eaedc.ir" target="_blank" rel="noopener">برق آذربایجان شرقی<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M7 17L17 7M17 7H9M17 7V15"/></svg></a>
+          <a href="https://toztab.ir" target="_blank" rel="noopener">برق شهرستان تبریز<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M7 17L17 7M17 7H9M17 7V15"/></svg></a>
+          <a href="https://waepd.ir" target="_blank" rel="noopener">برق آذربایجان غربی<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M7 17L17 7M17 7H9M17 7V15"/></svg></a>
+          <a href="https://aped.ir" target="_blank" rel="noopener">برق اردبیل<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M7 17L17 7M17 7H9M17 7V15"/></svg></a>
+          <a href="https://epedc.ir" target="_blank" rel="noopener">برق اصفهان<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M7 17L17 7M17 7H9M17 7V15"/></svg></a>
+          <a href="https://eepdc.ir" target="_blank" rel="noopener">برق شهرستان اصفهان<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M7 17L17 7M17 7H9M17 7V15"/></svg></a>
+          <a href="https://aepdc.ir" target="_blank" rel="noopener">برق البرز<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M7 17L17 7M17 7H9M17 7V15"/></svg></a>
+          <a href="https://bargh-ilam.ir" target="_blank" rel="noopener">برق ایلام<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M7 17L17 7M17 7H9M17 7V15"/></svg></a>
+          <a href="https://bedc.ir" target="_blank" rel="noopener">برق بوشهر<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M7 17L17 7M17 7H9M17 7V15"/></svg></a>
+          <a href="https://tvedc.ir" target="_blank" rel="noopener">برق تهران<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M7 17L17 7M17 7H9M17 7V15"/></svg></a>
+          <a href="https://tbtb.ir" target="_blank" rel="noopener">برق تهران بزرگ<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M7 17L17 7M17 7H9M17 7V15"/></svg></a>
+          <a href="https://chb-edc.ir" target="_blank" rel="noopener">برق چهارمحال و بختیاری<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M7 17L17 7M17 7H9M17 7V15"/></svg></a>
+          <a href="https://skedc.ir" target="_blank" rel="noopener">برق خراسان جنوبی<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M7 17L17 7M17 7H9M17 7V15"/></svg></a>
+          <a href="https://kedc.ir" target="_blank" rel="noopener">برق خراسان رضوی<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M7 17L17 7M17 7H9M17 7V15"/></svg></a>
+          <a href="https://meedc.ir" target="_blank" rel="noopener">برق شهرستان مشهد<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M7 17L17 7M17 7H9M17 7V15"/></svg></a>
+          <a href="https://nkedc.ir" target="_blank" rel="noopener">برق خراسان شمالی<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M7 17L17 7M17 7H9M17 7V15"/></svg></a>
+          <a href="https://kepdc.co.ir" target="_blank" rel="noopener">برق خوزستان<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M7 17L17 7M17 7H9M17 7V15"/></svg></a>
+          <a href="https://aepdco.ir" target="_blank" rel="noopener">برق شهرستان اهواز<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M7 17L17 7M17 7H9M17 7V15"/></svg></a>
+          <a href="https://zedc.ir" target="_blank" rel="noopener">برق زنجان<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M7 17L17 7M17 7H9M17 7V15"/></svg></a>
+          <a href="https://semepd.ir" target="_blank" rel="noopener">برق سمنان<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M7 17L17 7M17 7H9M17 7V15"/></svg></a>
+          <a href="https://sbepdc.ir" target="_blank" rel="noopener">برق سیستان و بلوچستان<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M7 17L17 7M17 7H9M17 7V15"/></svg></a>
+          <a href="https://farsedc.ir" target="_blank" rel="noopener">برق فارس<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M7 17L17 7M17 7H9M17 7V15"/></svg></a>
+          <a href="https://shirazedc.co.ir" target="_blank" rel="noopener">برق شهرستان شیراز<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M7 17L17 7M17 7H9M17 7V15"/></svg></a>
+          <a href="https://qazvin-ed.co.ir" target="_blank" rel="noopener">برق قزوین<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M7 17L17 7M17 7H9M17 7V15"/></svg></a>
+          <a href="https://qepd.co.ir" target="_blank" rel="noopener">برق قم<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M7 17L17 7M17 7H9M17 7V15"/></svg></a>
+          <a href="https://kurdelectric.ir" target="_blank" rel="noopener">برق کردستان<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M7 17L17 7M17 7H9M17 7V15"/></svg></a>
+          <a href="https://sked.co.ir" target="_blank" rel="noopener">برق جنوب کرمان<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M7 17L17 7M17 7H9M17 7V15"/></svg></a>
+          <a href="https://nked.co.ir" target="_blank" rel="noopener">برق شمال کرمان<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M7 17L17 7M17 7H9M17 7V15"/></svg></a>
+          <a href="https://kpedc.ir" target="_blank" rel="noopener">برق کرمانشاه<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M7 17L17 7M17 7H9M17 7V15"/></svg></a>
+          <a href="https://kbepdco.ir" target="_blank" rel="noopener">برق کهگیلویه و بویراحمد<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M7 17L17 7M17 7H9M17 7V15"/></svg></a>
+          <a href="https://ped-golestan.ir" target="_blank" rel="noopener">برق گلستان<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M7 17L17 7M17 7H9M17 7V15"/></svg></a>
+          <a href="https://gilanpdc.ir" target="_blank" rel="noopener">برق گیلان<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M7 17L17 7M17 7H9M17 7V15"/></svg></a>
+          <a href="https://ledc.ir" target="_blank" rel="noopener">برق لرستان<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M7 17L17 7M17 7H9M17 7V15"/></svg></a>
+          <a href="https://maztozi.ir" target="_blank" rel="noopener">برق مازندران<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M7 17L17 7M17 7H9M17 7V15"/></svg></a>
+          <a href="https://bargh-gmaz.ir" target="_blank" rel="noopener">برق غرب مازندران<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M7 17L17 7M17 7H9M17 7V15"/></svg></a>
+          <a href="https://mpedc.ir" target="_blank" rel="noopener">برق مرکزی<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M7 17L17 7M17 7H9M17 7V15"/></svg></a>
+          <a href="https://site.hedc.co.ir" target="_blank" rel="noopener">برق هرمزگان<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M7 17L17 7M17 7H9M17 7V15"/></svg></a>
+          <a href="https://edch.ir" target="_blank" rel="noopener">برق همدان<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M7 17L17 7M17 7H9M17 7V15"/></svg></a>
+          <a href="https://yed.co.ir" target="_blank" rel="noopener">برق یزد<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M7 17L17 7M17 7H9M17 7V15"/></svg></a>
+      </div>
+    </div>
+  </section>
+
+  <!-- RESOURCES: articles + tavanir news -->
+  <section id="resources" style="background:var(--bg-panel);border-top:1px solid var(--line);border-bottom:1px solid var(--line)">
+    <div class="container">
+      <div class="section-head">
+        <div class="eyebrow">منابع تخصصی</div>
+        <h2>مقالات روش‌شناسی و اخبار توانیر در حوزه رمزارز</h2>
+        <p>گزیده‌ای از منابع عمومی درباره‌ی روش‌های شناسایی استخراج غیرمجاز رمزارز، در کنار آخرین اخبار رسمی توانیر در این حوزه.</p>
+      </div>
+      <div class="res-two-col">
+        <div>
+          <h3 style="font-size:16px;margin-bottom:16px;color:var(--text-dim)">روش‌های شناسایی ماینر غیرمجاز</h3>
+          <div class="res-card-list">
+            <div class="res-card">
+              <h4><a href="https://news.tavanir.org.ir/news/131639/%D9%81%D8%B9%D8%A7%D9%84%DB%8C%D8%AA-%DB%B7%DB%B0%DB%B0-%D9%87%D8%B2%D8%A7%D8%B1-%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%85%D8%A7%DB%8C%D9%86%D8%B1-%D8%BA%DB%8C%D8%B1%D9%85%D8%AC%D8%A7%D8%B2-%D8%AF%D8%B1-%DA%A9%D8%B4%D9%88%D8%B1-%D9%88-%D9%86%D9%82%D8%B4-%D8%A2%D9%86-%D8%AF%D8%B1-%D9%86%D8%A7%D8%AA%D8%B1%D8%A7%D8%B2%DB%8C%D9%87%D8%A7%DB%8C" target="_blank" rel="noopener">داده‌کاوی الگوی مصرف و گزارش‌های مردمی؛ دو ستون اصلی شناسایی</a></h4>
+              <p>به گفته‌ی مجری طرح مقابله با استخراج غیرمجاز در توانیر، ترکیب تحلیل داده‌ی مصرف با گزارش‌های شهروندان درباره افت ولتاژ، مؤثرترین مسیر شناسایی ماینرهای پنهان بوده است.</p>
+              <div class="meta"><span>خبرگزاری توانیر</span></div>
+            </div>
+            <div class="res-card">
+              <h4><a href="https://news.tavanir.org.ir/news/131655/%D8%B3%D8%B1%D9%82%D8%AA-%D8%A7%D9%86%D8%B1%DA%98%DB%8C-%D8%AF%D8%B1-%D8%B3%D8%A7%DB%8C%D9%87-%D8%B1%D9%85%D8%B2%D8%A7%D8%B1%D8%B2" target="_blank" rel="noopener">سرقت انرژی در سایه رمزارز: مرز میان ماینر مجاز و غیرمجاز</a></h4>
+              <p>مقاله‌ای تحلیلی درباره‌ی تفاوت ماینرهای دارای مجوز رسمی از سازمان صمت با فعالیت‌های پنهان متکی بر انشعاب غیرقانونی و دستکاری کنتور، و پیامدهای آن برای شبکه‌ی برق.</p>
+              <div class="meta"><span>خبرگزاری توانیر</span></div>
+            </div>
+            <div class="res-card">
+              <h4><a href="https://arzdigital.com/blog/best-bitcoin-miners/" target="_blank" rel="noopener">شاخص‌های فنی تشخیص دستگاه: هش‌ریت، توان مصرفی و بازده انرژی</a></h4>
+              <p>راهنمایی برای کارشناسان درباره‌ی مشخصه‌های فنی رایج دستگاه‌های ماینر که در بازرسی میدانی برای شناسایی مدل و برآورد مصرف واقعی دستگاه به‌کار می‌آید.</p>
+              <div class="meta"><span>ارز دیجیتال</span></div>
+            </div>
+          </div>
+          <div class="res-note">این فهرست به‌صورت دستی گردآوری و به‌روزرسانی می‌شود. در صورت تمایل، بخش «مقالات» می‌تواند به مجموعه‌ی گزارش‌های داخلی ژرف تحلیل غرب نیز مجهز شود.</div>
+        </div>
+        <div>
+          <h3 style="font-size:16px;margin-bottom:16px;color:var(--text-dim)">آخرین اخبار توانیر</h3>
+          <div class="res-card-list">
+            <div class="res-card">
+              <h4><a href="https://news.tavanir.org.ir/news/135607/%DA%A9%D8%B4%D9%81-%D9%88-%D8%B6%D8%A8%D8%B7-%DB%B8%DB%B5-%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%85%D8%A7%DB%8C%D9%86%D8%B1-%D8%BA%DB%8C%D8%B1%D9%85%D8%AC%D8%A7%D8%B2-%D8%AF%D8%B1-%D8%AF%D9%88-%D9%88%D8%A7%D8%AD%D8%AF-%DA%AF%D9%84%D8%AE%D8%A7%D9%86%D9%87-%D8%A7%DB%8C-%D9%88-%D8%AF%D8%A7%D9%85%D8%AF%D8%A7%D8%B1%DB%8C" target="_blank" rel="noopener">کشف ۸۵ دستگاه ماینر غیرمجاز در دو واحد گلخانه‌ای و دامداری در فریمان</a></h4>
+              <p>عملیات مشترک واحد حراست شرکت توزیع خراسان رضوی و تیم‌های بازرسی شهرستان به کشف و ضبط دستگاه‌ها منجر شد.</p>
+              <div class="meta"><span class="live-dot"></span><span>خراسان رضوی</span></div>
+            </div>
+            <div class="res-card">
+              <h4><a href="https://news.tavanir.org.ir/news/135251/%DB%B1%DB%B8%DB%B0%DB%B0-%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%A7%D8%B3%D8%AA%D8%AE%D8%B1%D8%A7%D8%AC-%D9%85%D8%A7%DB%8C%D9%86%D8%B1-%D8%BA%DB%8C%D8%B1%D9%85%D8%AC%D8%A7%D8%B2-%D8%AF%D8%B1-%D8%AE%D8%B1%D8%A7%D8%B3%D8%A7%D9%86-%D8%B1%D8%B6%D9%88%DB%8C-%D8%A7%D9%85%D8%AD%D8%A7%D8%A1-%D8%B4%D8%AF" target="_blank" rel="noopener">امحای ۱٬۸۰۰ دستگاه ماینر غیرمجاز در خراسان رضوی</a></h4>
+              <p>در پنجمین مرحله‌ی امحا، مجموع دستگاه‌های جمع‌آوری‌شده از سال ۱۴۰۲ در این استان به بیش از ۱۰ هزار دستگاه رسید.</p>
+              <div class="meta"><span class="live-dot"></span><span>خراسان رضوی</span></div>
+            </div>
+            <div class="res-card">
+              <h4><a href="https://news.tavanir.org.ir/news/133426/%D8%AA%D9%88%D9%82%DB%8C%D9%81-%DB%B4%DB%B7-%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%85%D8%A7%DB%8C%D9%86%D8%B1-%D8%BA%DB%8C%D8%B1%D9%85%D8%AC%D8%A7%D8%B2-%D8%AF%D8%B1-%D8%A7%D8%B3%D8%AA%D8%A7%D9%86-%D9%81%D8%A7%D8%B1%D8%B3" target="_blank" rel="noopener">توقیف ۴۷ دستگاه ماینر غیرمجاز در استان فارس</a></h4>
+              <p>دستگاه‌ها در منازل مسکونی، انباری و سوله‌های تجاری کشف و برای پیگیری قضایی تحویل مراجع ذی‌ربط شدند.</p>
+              <div class="meta"><span class="live-dot"></span><span>فارس</span></div>
+            </div>
+          </div>
+          <div class="res-note">
+            دریافت خودکار و لحظه‌ای اخبار توانیر روی یک سایت ایستا به دلیل محدودیت CORS مرورگر ممکن نیست؛ این بخش برای به‌روز ماندن به یکی از دو روش نیاز دارد: <b>۱)</b> به‌روزرسانی دستی همین کارت‌ها، یا <b>۲)</b> افزودن یک سرویس میانی (بک‌اند کوچک) که اخبار را دوره‌ای از سایت توانیر بخواند و در قالب JSON در اختیار سایت بگذارد. اگر مایلید گزینه‌ی دوم را پیاده‌سازی کنیم بگویید تا برایتان آماده کنم.
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- DEVICES -->
+  <section id="devices">
+    <div class="container">
+      <div class="section-head">
+        <div class="eyebrow">پایش بازار تجهیزات</div>
+        <h2>جدیدترین دستگاه‌های ماینر و مشخصات فنی آن‌ها</h2>
+        <p>مرجع سریع کارشناسان میدانی برای تطبیق مدل دستگاه کشف‌شده با مشخصات فنی واقعی آن، جهت برآورد دقیق‌تر مصرف برق در گزارش کارشناسی.</p>
+      </div>
+      <div class="device-grid">
+        <div class="device-card">
+          <div class="dv-head"><h4>Antminer S21 Pro</h4><span class="dv-brand">Bitmain</span></div>
+          <div class="device-spec-row"><span>هش‌ریت</span><span>۲۳۴ TH/s</span></div>
+          <div class="device-spec-row"><span>مصرف برق</span><span>۳٬۵۱۰ وات</span></div>
+          <div class="device-spec-row"><span>بازده انرژی</span><span>۱۵ J/TH</span></div>
+          <div class="device-spec-row"><span>الگوریتم</span><span>SHA-256</span></div>
+        </div>
+        <div class="device-card">
+          <div class="dv-head"><h4>Antminer S21e XP Hyd 3U</h4><span class="dv-brand">Bitmain</span></div>
+          <div class="device-spec-row"><span>هش‌ریت</span><span>۸۶۰ TH/s</span></div>
+          <div class="device-spec-row"><span>مصرف برق</span><span>۱۱٬۱۸۰ وات</span></div>
+          <div class="device-spec-row"><span>خنک‌کننده</span><span>مایع (Hydro)</span></div>
+          <div class="device-spec-row"><span>الگوریتم</span><span>SHA-256</span></div>
+        </div>
+        <div class="device-card">
+          <div class="dv-head"><h4>Whatsminer M60S</h4><span class="dv-brand">MicroBT</span></div>
+          <div class="device-spec-row"><span>هش‌ریت</span><span>۱۸۶ TH/s</span></div>
+          <div class="device-spec-row"><span>مصرف برق</span><span>۳٬۴۴۰ وات</span></div>
+          <div class="device-spec-row"><span>بازده انرژی</span><span>۱۸.۵ J/TH</span></div>
+          <div class="device-spec-row"><span>الگوریتم</span><span>SHA-256</span></div>
+        </div>
+        <div class="device-card">
+          <div class="dv-head"><h4>Whatsminer M63S</h4><span class="dv-brand">MicroBT</span></div>
+          <div class="device-spec-row"><span>هش‌ریت</span><span>۴۵۰ TH/s</span></div>
+          <div class="device-spec-row"><span>مصرف برق</span><span>۷٬۶۵۰ وات</span></div>
+          <div class="device-spec-row"><span>بازده انرژی</span><span>~۱۷ J/TH</span></div>
+          <div class="device-spec-row"><span>الگوریتم</span><span>SHA-256</span></div>
+        </div>
+      </div>
+      <div class="res-note" style="margin-top:20px">مشخصات فنی از منابع عمومی صنعت ماینینگ گردآوری شده و برای مرجع سریع کارشناسی است؛ توصیه می‌شود پیش از استناد در گزارش رسمی، با مستندات رسمی سازنده مطابقت داده شود.</div>
+    </div>
+  </section>
+
   <!-- TRACK RECORD -->
   <section id="track-record">
     <div class="container track-grid">
@@ -539,13 +791,14 @@
         <div class="eyebrow">سوابق همکاری</div>
         <h2 style="font-size:28px;margin-bottom:24px">شرکت‌های توزیع نیروی برق همکار</h2>
         <ul class="track-list">
-          <li>شرکت توزیع نیروی برق استان تهران <span>کارشناسی و تخلیه اطلاعات</span></li>
-          <li>شرکت توزیع نیروی برق تهران بزرگ <span>کارشناسی و تخلیه اطلاعات</span></li>
-          <li>شرکت توزیع نیروی برق استان قم <span>کارشناسی و تخلیه اطلاعات</span></li>
-          <li>شرکت توزیع نیروی برق استان مرکزی <span>کارشناسی و تخلیه اطلاعات</span></li>
-          <li>شرکت توزیع نیروی برق استان کردستان <span>همکاری مستمر ۲ ساله</span></li>
-          <li>واحد نظارت و ساماندهی رمزارزی توانیر <span>معرفی و هماهنگی سراسری</span></li>
+          <li style="--w:84%"><div class="track-row"><span>شرکت توزیع نیروی برق استان تهران</span><span class="tag">کارشناسی و تخلیه اطلاعات</span></div><div class="track-bar"><div class="track-bar-fill"></div></div></li>
+          <li style="--w:74%"><div class="track-row"><span>شرکت توزیع نیروی برق تهران بزرگ</span><span class="tag">کارشناسی و تخلیه اطلاعات</span></div><div class="track-bar"><div class="track-bar-fill"></div></div></li>
+          <li style="--w:44%"><div class="track-row"><span>شرکت توزیع نیروی برق استان قم</span><span class="tag">کارشناسی و تخلیه اطلاعات</span></div><div class="track-bar"><div class="track-bar-fill"></div></div></li>
+          <li style="--w:30%"><div class="track-row"><span>شرکت توزیع نیروی برق استان مرکزی</span><span class="tag">کارشناسی و تخلیه اطلاعات</span></div><div class="track-bar"><div class="track-bar-fill"></div></div></li>
+          <li style="--w:20%"><div class="track-row"><span>شرکت توزیع نیروی برق استان کردستان</span><span class="tag">همکاری مستمر ۲ ساله</span></div><div class="track-bar"><div class="track-bar-fill"></div></div></li>
+          <li style="--w:100%"><div class="track-row"><span>واحد نظارت و ساماندهی رمزارزی توانیر</span><span class="tag">معرفی و هماهنگی سراسری</span></div><div class="track-bar"><div class="track-bar-fill" data-national="1"></div></div></li>
         </ul>
+        <div class="track-hint">نسبت پرونده‌های مستندسازی‌شده به تفکیک شرکت همکار — بر پایه‌ی آمار تجمعی</div>
       </div>
       <div>
         <div class="quote-block">
@@ -662,7 +915,9 @@
   });
 
   // Scroll reveal
-  if (window.matchMedia('(prefers-reduced-motion: no-preference)').matches) {
+  var reduceMotion = !window.matchMedia('(prefers-reduced-motion: no-preference)').matches;
+
+  if (!reduceMotion) {
     document.querySelectorAll('section, .stat').forEach(el => el.classList.add('reveal'));
     var io = new IntersectionObserver((entries)=>{
       entries.forEach(entry=>{
@@ -670,7 +925,50 @@
       });
     }, {threshold:0.12});
     document.querySelectorAll('.reveal').forEach(el=>io.observe(el));
+
+    // Timeline: connecting line + staggered step reveal
+    var processIO = new IntersectionObserver((entries)=>{
+      entries.forEach(entry=>{
+        if(entry.isIntersecting){ entry.target.classList.add('in'); processIO.unobserve(entry.target); }
+      });
+    }, {threshold:0.25});
+    document.querySelectorAll('.process-list, .process-item').forEach(el=>processIO.observe(el));
+
+    // Partner comparison bars
+    var trackIO = new IntersectionObserver((entries)=>{
+      entries.forEach(entry=>{
+        if(entry.isIntersecting){ entry.target.classList.add('in'); trackIO.unobserve(entry.target); }
+      });
+    }, {threshold:0.4});
+    document.querySelectorAll('.track-list li').forEach(el=>trackIO.observe(el));
+  } else {
+    document.querySelectorAll('.process-list, .process-item, .track-list li').forEach(el=>el.classList.add('in'));
   }
+
+  // Animated stat counters (Persian numerals, fa-IR grouping)
+  var faFmt = new Intl.NumberFormat('fa-IR', {maximumFractionDigits:1});
+  function animateCount(el){
+    var target = parseFloat(el.getAttribute('data-count'));
+    var suffix = el.getAttribute('data-suffix') || '';
+    var isDecimal = target % 1 !== 0;
+    if (reduceMotion) { el.textContent = faFmt.format(target) + suffix; return; }
+    var start = null, duration = 1400;
+    function step(ts){
+      if(!start) start = ts;
+      var p = Math.min((ts - start) / duration, 1);
+      var eased = 1 - Math.pow(1 - p, 3);
+      var current = target * eased;
+      el.textContent = faFmt.format(isDecimal ? Math.round(current*10)/10 : Math.round(current)) + suffix;
+      if(p < 1) requestAnimationFrame(step); else el.textContent = faFmt.format(target) + suffix;
+    }
+    requestAnimationFrame(step);
+  }
+  var statIO = new IntersectionObserver((entries)=>{
+    entries.forEach(entry=>{
+      if(entry.isIntersecting){ animateCount(entry.target); statIO.unobserve(entry.target); }
+    });
+  }, {threshold:0.5});
+  document.querySelectorAll('.num[data-count]').forEach(el=>statIO.observe(el));
 </script>
 
 </body>
