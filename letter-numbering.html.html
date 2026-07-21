@@ -1,0 +1,593 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<title>دفتر اندیکاتور نامه‌های صادره | ژرف تحلیل غرب</title>
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Vazirmatn:wght@400;500;600;700&display=swap');
+
+:root{
+  --navy:#0B1B2E;
+  --navy-2:#0F2438;
+  --panel:#112B41;
+  --teal:#14535A;
+  --teal-2:#1B6B70;
+  --gold:#C9A227;
+  --gold-soft:#8A7326;
+  --cream:#EDE8DD;
+  --muted:#8FA3AD;
+  --line:#233B4E;
+  --danger:#B0433F;
+}
+*{box-sizing:border-box;}
+body{
+  margin:0;
+  font-family:'Vazirmatn',Tahoma,sans-serif;
+  background:var(--navy);
+  color:var(--cream);
+  direction:rtl;
+}
+.wrap{
+  max-width:880px;
+  margin:0 auto;
+  padding:28px 20px 60px;
+  position:relative;
+}
+.spine{
+  position:absolute;
+  top:0; bottom:0; right:0;
+  width:26px;
+  background:repeating-linear-gradient(
+    to bottom,
+    var(--teal) 0px, var(--teal) 22px,
+    var(--navy) 22px, var(--navy) 30px
+  );
+  border-left:1px solid var(--line);
+  opacity:.55;
+}
+.wrap > *{ padding-right:34px; }
+
+header{
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  border-bottom:1px solid var(--line);
+  padding-bottom:16px;
+  margin-bottom:22px;
+  gap:10px;
+  flex-wrap:wrap;
+}
+.brand{
+  display:flex;
+  flex-direction:column;
+  gap:2px;
+}
+.brand .name{
+  font-weight:700;
+  font-size:16px;
+  color:var(--cream);
+  letter-spacing:.3px;
+}
+.brand .sub{
+  font-size:12px;
+  color:var(--muted);
+}
+.badge{
+  font-size:11px;
+  color:var(--gold);
+  border:1px solid var(--gold-soft);
+  border-radius:4px;
+  padding:4px 10px;
+  white-space:nowrap;
+}
+.status-pill{
+  font-size:10px;
+  border-radius:4px;
+  padding:3px 9px;
+  white-space:nowrap;
+  border:1px solid var(--line);
+  color:var(--muted);
+}
+.status-pill.ok{ color:#7fbf8f; border-color:#2c4a34; }
+.status-pill.err{ color:var(--danger); border-color:var(--danger); }
+
+.stampbox{
+  background:var(--panel);
+  border:1px solid var(--line);
+  border-radius:10px;
+  padding:26px 22px;
+  margin-bottom:22px;
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  gap:20px;
+  flex-wrap:wrap;
+}
+.stamp{
+  border:2px dashed var(--gold-soft);
+  color:var(--gold);
+  border-radius:10px;
+  padding:14px 22px;
+  font-size:24px;
+  font-weight:700;
+  letter-spacing:1px;
+  transform:rotate(-2deg);
+  font-family:'Vazirmatn',monospace;
+  direction:ltr;
+  text-align:center;
+  min-width:220px;
+}
+.stamp .lbl{
+  display:block;
+  font-size:10px;
+  font-weight:500;
+  color:var(--muted);
+  letter-spacing:2px;
+  margin-bottom:4px;
+  transform:none;
+}
+.stamp.empty{ color:var(--muted); border-color:var(--line); }
+
+.formcol{ flex:1; min-width:240px; display:flex; flex-direction:column; gap:10px; }
+label{ font-size:12px; color:var(--muted); margin-bottom:2px; display:block; }
+input[type=text]{
+  width:100%;
+  background:var(--navy-2);
+  border:1px solid var(--line);
+  color:var(--cream);
+  border-radius:6px;
+  padding:9px 10px;
+  font-family:inherit;
+  font-size:13px;
+}
+input[type=text]:focus{ outline:none; border-color:var(--teal-2); }
+
+.issue-btn{
+  background:var(--gold);
+  color:#1a1400;
+  border:none;
+  border-radius:6px;
+  padding:12px 20px;
+  font-family:inherit;
+  font-size:14px;
+  font-weight:700;
+  cursor:pointer;
+  white-space:nowrap;
+}
+.issue-btn:hover{ background:#dab434; }
+.issue-btn:active{ transform:scale(.98); }
+.issue-btn:disabled{ opacity:.5; cursor:default; }
+
+.tools{
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  gap:10px;
+  margin-bottom:10px;
+  flex-wrap:wrap;
+}
+.tools input[type=text]{ max-width:220px; }
+.tools .actions{ display:flex; gap:8px; }
+.ghost-btn{
+  background:transparent;
+  border:1px solid var(--line);
+  color:var(--muted);
+  border-radius:6px;
+  padding:7px 12px;
+  font-family:inherit;
+  font-size:12px;
+  cursor:pointer;
+}
+.ghost-btn:hover{ border-color:var(--teal-2); color:var(--cream); }
+
+table{
+  width:100%;
+  border-collapse:collapse;
+  font-size:13px;
+}
+thead th{
+  text-align:right;
+  color:var(--muted);
+  font-weight:500;
+  font-size:11px;
+  border-bottom:1px solid var(--line);
+  padding:8px 6px;
+}
+tbody td{
+  padding:10px 6px;
+  border-bottom:1px solid var(--line);
+  vertical-align:top;
+}
+tbody tr.void{ opacity:.45; }
+.num-cell{
+  font-family:monospace,'Vazirmatn';
+  direction:ltr;
+  text-align:right;
+  color:var(--gold);
+  font-weight:700;
+  white-space:nowrap;
+}
+.void-tag{
+  font-size:10px;
+  color:var(--danger);
+  border:1px solid var(--danger);
+  border-radius:4px;
+  padding:1px 6px;
+  margin-right:6px;
+}
+.row-actions{ display:flex; gap:6px; }
+.icon-btn{
+  background:transparent;
+  border:1px solid var(--line);
+  color:var(--muted);
+  border-radius:5px;
+  padding:4px 9px;
+  font-size:11px;
+  cursor:pointer;
+  font-family:inherit;
+}
+.icon-btn:hover{ color:var(--cream); border-color:var(--teal-2); }
+.icon-btn.danger:hover{ color:var(--danger); border-color:var(--danger); }
+
+.empty-state{
+  text-align:center;
+  color:var(--muted);
+  padding:36px 0;
+  font-size:13px;
+}
+footer{
+  margin-top:26px;
+  font-size:11px;
+  color:var(--muted);
+  border-top:1px solid var(--line);
+  padding-top:14px;
+}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div class="spine"></div>
+
+  <header>
+    <div class="brand">
+      <span class="name">ژرف تحلیل غرب</span>
+      <span class="sub">دفتر اندیکاتور نامه‌های صادره</span>
+    </div>
+    <div style="display:flex; align-items:center; gap:8px;">
+      <span class="status-pill" id="statusPill">در حال اتصال...</span>
+      <span class="badge" id="yearBadge">سال ...</span>
+    </div>
+  </header>
+
+  <div class="stampbox">
+    <div class="stamp empty" id="stampDisplay">
+      <span class="lbl">آخرین شماره صادر شده</span>
+      —
+    </div>
+    <div class="formcol">
+      <div>
+        <label for="subjectInput">موضوع نامه (اختیاری)</label>
+        <input type="text" id="subjectInput" placeholder="مثلاً: درخواست همکاری بازرسی فنی">
+      </div>
+      <div>
+        <label for="recipientInput">مخاطب (اختیاری)</label>
+        <input type="text" id="recipientInput" placeholder="مثلاً: شرکت توزیع برق اهواز">
+      </div>
+      <button class="issue-btn" id="issueBtn">صدور شماره نامه جدید</button>
+    </div>
+  </div>
+
+  <div class="tools">
+    <input type="text" id="searchInput" placeholder="جستجو در موضوع، مخاطب یا شماره...">
+    <div class="actions">
+      <button class="ghost-btn" id="exportBtn">خروجی CSV</button>
+      <button class="ghost-btn" id="printBtn">چاپ فهرست</button>
+      <button class="ghost-btn" id="refreshBtn">به‌روزرسانی</button>
+    </div>
+  </div>
+
+  <table id="logTable">
+    <thead>
+      <tr>
+        <th>شماره نامه</th>
+        <th>تاریخ</th>
+        <th>موضوع</th>
+        <th>مخاطب</th>
+        <th></th>
+      </tr>
+    </thead>
+    <tbody id="logBody"></tbody>
+  </table>
+  <div class="empty-state" id="emptyState" style="display:none;">هنوز نامه‌ای ثبت نشده — با دکمه بالا اولین شماره را صادر کنید.</div>
+
+  <footer>
+    قالب شماره: ZTG-سال-ترتیب (مثال ZTG-1405-001) — شماره‌گذاری هر سال شمسی از ۱ آغاز می‌شود. اطلاعات این دفتر روی یک پایگاه‌دادهٔ آنلاین (Supabase) ذخیره می‌شود و از هر دستگاهی قابل دسترسی است.
+  </footer>
+</div>
+
+<script>
+const SUPABASE_URL = 'https://fmjsfdfwjkaqxhyceeoq.supabase.co';
+const SUPABASE_KEY = 'sb_publishable_pTHiPE2P1V347aaFG0sFtw_dwncaRZE';
+const sb = window.supabase.createClient(SUPABASE_URL, SUPABASE_KEY);
+
+let entries = [];
+
+function jdiv(a, b){ return ~~(a / b); }
+function jmod(a, b){ return a - ~~(a / b) * b; }
+
+const JALAALI_BREAKS = [-61, 9, 38, 199, 426, 686, 756, 818, 1111, 1181, 1210, 1635, 2060, 2097, 2192, 2262, 2324, 2394, 2456, 3178];
+
+function jalCalLeap(jy){
+  const bl = JALAALI_BREAKS.length;
+  const gy = jy + 621;
+  let leapJ = -14;
+  let jp = JALAALI_BREAKS[0];
+  let jump = 0;
+  for (let i = 1; i < bl; i += 1){
+    const jm = JALAALI_BREAKS[i];
+    jump = jm - jp;
+    if (jy < jm) break;
+    leapJ = leapJ + jdiv(jump, 33) * 8 + jdiv(jmod(jump, 33), 4);
+    jp = jm;
+  }
+  let n = jy - jp;
+  leapJ = leapJ + jdiv(n, 33) * 8 + jdiv(jmod(n, 33) + 3, 4);
+  if (jmod(jump, 33) === 4 && jump - n === 4) leapJ += 1;
+  const leapG = jdiv(gy, 4) - jdiv((jdiv(gy, 100) + 1) * 3, 4) - 150;
+  const march = 20 + leapJ - leapG;
+  if (jump - n < 6) n = n - jump + jdiv(jump, 33) * 33;
+  let leap = jmod(jmod(n + 1, 33) - 1, 4);
+  if (leap === -1) leap = 4;
+  return { leap, gy, march };
+}
+
+function g2d(gy, gm, gd){
+  let d = jdiv((gy + jdiv(gm - 8, 6) + 100100) * 1461, 4)
+    + jdiv(153 * jmod(gm + 9, 12) + 2, 5)
+    + gd - 34840408;
+  d = d - jdiv(jdiv(gy + 100100 + jdiv(gm - 8, 6), 100) * 3, 4) + 752;
+  return d;
+}
+
+function d2g(jdn){
+  let j = 4 * jdn + 139361631;
+  j = j + jdiv(jdiv(4 * jdn + 183187720, 146097) * 3, 4) * 4 - 3908;
+  const i = jdiv(jmod(j, 1461), 4) * 5 + 308;
+  const gd = jdiv(jmod(i, 153), 5) + 1;
+  const gm = jmod(jdiv(i, 153), 12) + 1;
+  const gy = jdiv(j, 1461) - 100100 + jdiv(8 - gm, 6);
+  return { gy, gm, gd };
+}
+
+function toJalali(gy, gm, gd){
+  const jdn = g2d(gy, gm, gd);
+  const gy2 = d2g(jdn).gy;
+  let jy = gy2 - 621;
+  const r = jalCalLeap(jy);
+  const jdn1f = g2d(gy2, 3, r.march);
+  let jd, jm;
+  let k = jdn - jdn1f;
+  if (k >= 0){
+    if (k <= 185){
+      jm = 1 + jdiv(k, 31);
+      jd = jmod(k, 31) + 1;
+      return { jy, jm, jd };
+    }
+    k -= 186;
+  } else {
+    jy -= 1;
+    k += 179;
+    if (r.leap === 1) k += 1;
+  }
+  jm = 7 + jdiv(k, 30);
+  jd = jmod(k, 30) + 1;
+  return { jy, jm, jd };
+}
+
+function todayJalali(){
+  const now = new Date();
+  return toJalali(now.getFullYear(), now.getMonth()+1, now.getDate());
+}
+
+function faDigits(str){
+  const map = {'0':'۰','1':'۱','2':'۲','3':'۳','4':'۴','5':'۵','6':'۶','7':'۷','8':'۸','9':'۹'};
+  return String(str).replace(/[0-9]/g, d => map[d]);
+}
+
+function formatJalaliDate(j){
+  const months = ['فروردین','اردیبهشت','خرداد','تیر','مرداد','شهریور','مهر','آبان','آذر','دی','بهمن','اسفند'];
+  return `${faDigits(j.jd)} ${months[j.jm-1]} ${faDigits(j.jy)}`;
+}
+
+function currentYear(){
+  return todayJalali().jy;
+}
+
+function buildNumber(year, seq){
+  return `ZTG-${year}-${String(seq).padStart(3,'0')}`;
+}
+
+function setStatus(state, text){
+  const pill = document.getElementById('statusPill');
+  pill.textContent = text;
+  pill.className = 'status-pill' + (state === 'ok' ? ' ok' : state === 'err' ? ' err' : '');
+}
+
+async function loadEntries(){
+  setStatus('', 'در حال بارگذاری...');
+  const { data, error } = await sb
+    .from('letters')
+    .select('*')
+    .order('created_at', { ascending: false });
+  if (error){
+    setStatus('err', 'خطا در اتصال');
+    console.error(error);
+    return;
+  }
+  entries = data || [];
+  setStatus('ok', 'متصل');
+  render();
+}
+
+async function issueNumber(){
+  const btn = document.getElementById('issueBtn');
+  btn.disabled = true;
+  try{
+    const year = currentYear();
+
+    let { data: counterRow, error: cErr } = await sb
+      .from('counters')
+      .select('*')
+      .eq('year', year)
+      .maybeSingle();
+    if (cErr) throw cErr;
+
+    let seq;
+    if (counterRow){
+      seq = counterRow.seq + 1;
+      const { error: uErr } = await sb
+        .from('counters')
+        .update({ seq })
+        .eq('year', year);
+      if (uErr) throw uErr;
+    } else {
+      seq = 1;
+      const { error: iErr } = await sb
+        .from('counters')
+        .insert({ year, seq });
+      if (iErr) throw iErr;
+    }
+
+    const j = todayJalali();
+    const id = Date.now().toString(36) + Math.random().toString(36).slice(2,6);
+    const newEntry = {
+      id,
+      number: buildNumber(year, seq),
+      year, seq,
+      date_label: formatJalaliDate(j),
+      subject: document.getElementById('subjectInput').value.trim() || '—',
+      recipient: document.getElementById('recipientInput').value.trim() || '—',
+      is_void: false
+    };
+
+    const { error: lErr } = await sb.from('letters').insert(newEntry);
+    if (lErr) throw lErr;
+
+    document.getElementById('subjectInput').value = '';
+    document.getElementById('recipientInput').value = '';
+    await loadEntries();
+  }catch(e){
+    console.error(e);
+    alert('خطا در صدور شماره. اتصال اینترنت یا تنظیمات دیتابیس را بررسی کن.');
+  }finally{
+    btn.disabled = false;
+  }
+}
+
+async function toggleVoid(id, current){
+  const { error } = await sb
+    .from('letters')
+    .update({ is_void: !current })
+    .eq('id', id);
+  if (error){ console.error(error); alert('خطا در به‌روزرسانی'); return; }
+  await loadEntries();
+}
+
+async function deleteEntry(id){
+  if (!confirm('این ردیف کاملاً حذف شود؟ توجه: شماره نامه دوباره استفاده نخواهد شد.')) return;
+  const { error } = await sb.from('letters').delete().eq('id', id);
+  if (error){ console.error(error); alert('خطا در حذف'); return; }
+  await loadEntries();
+}
+
+function render(){
+  const year = currentYear();
+  document.getElementById('yearBadge').textContent = `سال ${faDigits(year)}`;
+
+  const active = entries.filter(e => !e.is_void);
+  const last = active[0];
+  const stamp = document.getElementById('stampDisplay');
+  if (last){
+    stamp.classList.remove('empty');
+    stamp.innerHTML = `<span class="lbl">آخرین شماره صادر شده</span>${last.number}`;
+  } else {
+    stamp.classList.add('empty');
+    stamp.innerHTML = `<span class="lbl">آخرین شماره صادر شده</span>—`;
+  }
+
+  const q = document.getElementById('searchInput').value.trim().toLowerCase();
+  const list = entries.filter(e => {
+    if (!q) return true;
+    return e.number.toLowerCase().includes(q) ||
+      (e.subject||'').toLowerCase().includes(q) ||
+      (e.recipient||'').toLowerCase().includes(q);
+  });
+
+  const body = document.getElementById('logBody');
+  const emptyState = document.getElementById('emptyState');
+  body.innerHTML = '';
+
+  if (list.length === 0){
+    emptyState.style.display = 'block';
+    return;
+  }
+  emptyState.style.display = 'none';
+
+  for (const e of list){
+    const tr = document.createElement('tr');
+    if (e.is_void) tr.className = 'void';
+    tr.innerHTML = `
+      <td class="num-cell">${e.is_void ? '<span class="void-tag">باطل</span>' : ''}${e.number}</td>
+      <td>${e.date_label}</td>
+      <td>${escapeHtml(e.subject)}</td>
+      <td>${escapeHtml(e.recipient)}</td>
+      <td>
+        <div class="row-actions">
+          <button class="icon-btn" data-act="void" data-id="${e.id}" data-cur="${e.is_void}">${e.is_void ? 'فعال‌سازی' : 'ابطال'}</button>
+          <button class="icon-btn danger" data-act="del" data-id="${e.id}">حذف</button>
+        </div>
+      </td>
+    `;
+    body.appendChild(tr);
+  }
+
+  body.querySelectorAll('[data-act="void"]').forEach(b => {
+    b.addEventListener('click', () => toggleVoid(b.dataset.id, b.dataset.cur === 'true'));
+  });
+  body.querySelectorAll('[data-act="del"]').forEach(b => {
+    b.addEventListener('click', () => deleteEntry(b.dataset.id));
+  });
+}
+
+function escapeHtml(str){
+  const d = document.createElement('div');
+  d.textContent = str || '';
+  return d.innerHTML;
+}
+
+function exportCsv(){
+  const rows = [['شماره نامه','تاریخ','موضوع','مخاطب','وضعیت']];
+  for (const e of entries){
+    rows.push([e.number, e.date_label, e.subject, e.recipient, e.is_void ? 'باطل' : 'صادر شده']);
+  }
+  const csv = rows.map(r => r.map(c => `"${String(c).replace(/"/g,'""')}"`).join(',')).join('\n');
+  const blob = new Blob(['\uFEFF' + csv], { type: 'text/csv;charset=utf-8;' });
+  const url = URL.createObjectURL(blob);
+  const a = document.createElement('a');
+  a.href = url;
+  a.download = 'دفتر-اندیکاتور-نامه‌ها.csv';
+  a.click();
+  URL.revokeObjectURL(url);
+}
+
+document.getElementById('issueBtn').addEventListener('click', issueNumber);
+document.getElementById('searchInput').addEventListener('input', render);
+document.getElementById('exportBtn').addEventListener('click', exportCsv);
+document.getElementById('printBtn').addEventListener('click', () => window.print());
+document.getElementById('refreshBtn').addEventListener('click', loadEntries);
+
+loadEntries();
+</script>
+</body>
+</html>
