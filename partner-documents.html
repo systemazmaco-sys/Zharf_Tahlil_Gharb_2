@@ -1,0 +1,350 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>اسناد و مدارک همکاری | ژرف تحلیل غرب</title>
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+<link rel="preconnect" href="https://cdn.jsdelivr.net">
+<link href="https://cdn.jsdelivr.net/gh/rastikerdar/vazirmatn@v33.003/Vazirmatn-font-face.css" rel="stylesheet">
+<style>
+:root{
+  --bg:#0a1420; --bg-panel:#0f1e30; --bg-panel-2:#122438;
+  --line:#1e3450; --line-soft:#17273b;
+  --text:#e7edf5; --text-dim:#9db0c7; --text-faint:#6d84a0;
+  --amber:#e0982f; --amber-bright:#f5b34a; --amber-dim:#8a6428;
+  --teal:#4fb3a8; --teal-bright:#7fd4c9;
+  --danger:#c65b4e; --radius:3px;
+}
+*{box-sizing:border-box}
+body{font-family:"Vazirmatn",Tahoma,sans-serif;margin:0;background:var(--bg);color:var(--text);line-height:1.8}
+a{color:inherit}
+.container{max-width:960px;margin:0 auto;padding:0 24px}
+header{border-bottom:1px solid var(--line);padding:22px 0}
+.header-inner{display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:12px}
+.brand{display:flex;flex-direction:column;gap:2px}
+.brand strong{font-size:16px}
+.brand span{font-size:11px;color:var(--text-faint)}
+.back-link{font-size:13px;color:var(--text-dim);text-decoration:none;display:flex;align-items:center;gap:6px}
+.back-link:hover{color:var(--amber-bright)}
+
+main{padding:44px 0 80px}
+.eyebrow{font-size:13px;color:var(--amber);letter-spacing:.08em;font-weight:600;display:flex;align-items:center;gap:10px;margin-bottom:14px}
+.eyebrow::before{content:"";width:22px;height:1px;background:var(--amber-dim)}
+h1{font-size:26px;margin:0 0 10px;font-weight:700}
+.lead{color:var(--text-dim);font-size:15px;margin-bottom:28px;max-width:60ch}
+
+.company-banner{
+  background:linear-gradient(135deg,var(--bg-panel-2),var(--bg-panel));
+  border:1px solid var(--teal);
+  border-radius:6px;
+  padding:16px 20px;
+  margin-bottom:28px;
+  display:flex; align-items:center; gap:12px;
+  color:var(--teal-bright); font-weight:600; font-size:14.5px;
+}
+.company-banner .dot{width:8px;height:8px;border-radius:50%;background:var(--teal);flex-shrink:0}
+
+.chips{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:28px}
+.chip{
+  font-size:12.5px; padding:7px 14px; border-radius:20px;
+  border:1px solid var(--line); color:var(--text-dim);
+  cursor:pointer; background:transparent; font-family:inherit;
+  transition:all .15s;
+}
+.chip:hover{border-color:var(--teal)}
+.chip.active{background:var(--teal);border-color:var(--teal);color:#06201d;font-weight:600}
+
+.doc-list{display:flex;flex-direction:column;gap:1px;background:var(--line);border:1px solid var(--line);border-radius:6px;overflow:hidden;margin-bottom:36px}
+.doc-card{background:var(--bg-panel);padding:18px 20px;display:flex;justify-content:space-between;gap:16px;align-items:flex-start;flex-wrap:wrap}
+.doc-main{flex:1;min-width:220px}
+.doc-main h4{font-size:15px;margin:0 0 6px}
+.doc-main p{font-size:13px;color:var(--text-dim);margin:0 0 8px}
+.doc-meta{font-size:11.5px;color:var(--text-faint);display:flex;gap:10px;flex-wrap:wrap}
+.doc-meta .tag{border:1px solid var(--line);border-radius:3px;padding:2px 8px}
+.doc-actions{display:flex;gap:8px;align-items:center}
+.doc-actions a{font-size:12.5px;color:var(--amber-bright);text-decoration:none;border:1px solid var(--amber-dim);padding:7px 14px;border-radius:3px}
+.doc-actions a:hover{border-color:var(--amber-bright)}
+.doc-actions button{background:transparent;border:1px solid var(--line);color:var(--text-faint);border-radius:3px;padding:7px 10px;font-size:12px;cursor:pointer;font-family:inherit}
+.doc-actions button:hover{color:var(--danger);border-color:var(--danger)}
+
+.empty-state{padding:40px 0;text-align:center;color:var(--text-faint);font-size:13.5px}
+
+.admin-toggle{
+  font-size:12.5px;color:var(--text-faint);background:transparent;border:1px dashed var(--line);
+  border-radius:4px;padding:9px 16px;cursor:pointer;font-family:inherit;
+}
+.admin-toggle:hover{color:var(--text-dim);border-color:var(--teal)}
+
+.admin-panel{
+  margin-top:22px; background:var(--bg-panel); border:1px solid var(--line); border-radius:6px;
+  padding:24px; display:none;
+}
+.admin-panel.open{display:block}
+.admin-panel h3{font-size:15px;margin:0 0 16px;color:var(--teal-bright)}
+.field{display:flex;flex-direction:column;gap:6px;margin-bottom:14px}
+.field label{font-size:12.5px;color:var(--text-dim)}
+.field input,.field select,.field textarea{
+  background:var(--bg-panel-2);border:1px solid var(--line);border-radius:3px;
+  padding:10px 12px;color:var(--text);font-family:inherit;font-size:13.5px;
+}
+.field textarea{min-height:70px;resize:vertical}
+.admin-actions{display:flex;gap:10px;align-items:center;margin-top:6px}
+.btn-submit{
+  background:var(--amber);color:#171008;border:none;border-radius:3px;
+  padding:10px 20px;font-size:13.5px;font-weight:600;cursor:pointer;font-family:inherit;
+}
+.btn-submit:hover{background:var(--amber-bright)}
+.btn-submit:disabled{opacity:.5;cursor:default}
+.status-msg{font-size:12.5px;color:var(--text-faint)}
+.status-msg.ok{color:var(--teal-bright)}
+.status-msg.err{color:var(--danger)}
+
+footer{border-top:1px solid var(--line);padding:26px 0;font-size:12px;color:var(--text-faint)}
+</style>
+</head>
+<body>
+<header>
+  <div class="container header-inner">
+    <div class="brand">
+      <strong>ژرف تحلیل غرب</strong>
+      <span>اسناد و مدارک همکاری با شرکت‌های توزیع</span>
+    </div>
+    <a href="index.html" class="back-link">
+      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M17 7L7 17M7 17H15M7 17V9"/></svg>
+      بازگشت به سایت اصلی
+    </a>
+  </div>
+</header>
+
+<main>
+  <div class="container">
+    <div class="eyebrow">شبکه همکاری</div>
+    <h1>مدارک و مستندات همکاری</h1>
+    <p class="lead">فهرست اسناد، گزارش‌ها و مدارک منتشرشده برای شرکت‌های توزیع نیروی برق همکار. هر شرکت با کلیک روی نام خود در سایت اصلی به این صفحه هدایت می‌شود.</p>
+
+    <div id="companyBanner"></div>
+
+    <div class="chips" id="chips"></div>
+
+    <div class="doc-list" id="docList"></div>
+    <div class="empty-state" id="emptyState" style="display:none;">هنوز مدرکی برای این فیلتر ثبت نشده است.</div>
+
+    <button class="admin-toggle" id="adminToggle">افزودن مدرک جدید (ویژه مدیر سایت)</button>
+
+    <div class="admin-panel" id="adminPanel">
+      <h3>افزودن مدرک جدید</h3>
+      <div class="field">
+        <label>رمز عبور</label>
+        <input type="password" id="pwInput" placeholder="رمز عبور مدیر">
+      </div>
+      <div class="field">
+        <label>شرکت مربوطه</label>
+        <select id="companySelect"></select>
+      </div>
+      <div class="field">
+        <label>عنوان مدرک</label>
+        <input type="text" id="titleInput" placeholder="مثلاً: معرفی‌نامه همکاری فنی">
+      </div>
+      <div class="field">
+        <label>توضیح کوتاه (اختیاری)</label>
+        <textarea id="descInput" placeholder="توضیح کوتاه دربارهٔ این مدرک"></textarea>
+      </div>
+      <div class="field">
+        <label>فایل (PDF یا تصویر)</label>
+        <input type="file" id="fileInput" accept=".pdf,.jpg,.jpeg,.png,.webp">
+      </div>
+      <div class="admin-actions">
+        <button class="btn-submit" id="uploadBtn">آپلود و انتشار مدرک</button>
+        <span class="status-msg" id="uploadStatus"></span>
+      </div>
+    </div>
+  </div>
+</main>
+
+<footer>
+  <div class="container">© ۱۴۰۵ ژرف تحلیل غرب</div>
+</footer>
+
+<script>
+const SUPABASE_URL = 'https://fmjsfdfwjkaqxhyceeoq.supabase.co';
+const SUPABASE_KEY = 'sb_publishable_pTHiPE2P1V347aaFG0sFtw_dwncaRZE';
+const sb = window.supabase.createClient(SUPABASE_URL, SUPABASE_KEY);
+const BUCKET = 'partner-docs';
+const ADMIN_PASSWORD = 'zharf-1405'; // این رمز را تغییر بده
+
+const COMPANIES = [
+  { slug: 'tehran', label: 'شرکت توزیع نیروی برق استان تهران', short: 'تهران' },
+  { slug: 'khuzestan', label: 'شرکت توزیع نیروی برق استان خوزستان', short: 'خوزستان' },
+  { slug: 'west-azerbaijan', label: 'شرکت توزیع نیروی برق استان آذربایجان غربی', short: 'آذربایجان غربی' },
+  { slug: 'hamedan', label: 'شرکت توزیع نیروی برق استان همدان', short: 'همدان' },
+  { slug: 'kurdistan', label: 'شرکت توزیع نیروی برق استان کردستان', short: 'کردستان' },
+  { slug: 'markazi', label: 'شرکت توزیع نیروی برق استان مرکزی', short: 'مرکزی' },
+  { slug: 'qom', label: 'شرکت توزیع نیروی برق استان قم', short: 'قم' },
+  { slug: 'ahvaz', label: 'شرکت توزیع نیروی برق شهرستان اهواز', short: 'اهواز' },
+];
+
+let documents = [];
+let activeFilter = 'all';
+
+function getParam(name){
+  return new URLSearchParams(window.location.search).get(name);
+}
+
+function initBanner(){
+  const slug = getParam('company');
+  const company = COMPANIES.find(c => c.slug === slug);
+  const box = document.getElementById('companyBanner');
+  if (company){
+    activeFilter = company.slug;
+    box.innerHTML = `<div class="company-banner"><span class="dot"></span>در حال مشاهده مدارک اختصاصی: ${company.label}</div>`;
+  }
+}
+
+function renderChips(){
+  const wrap = document.getElementById('chips');
+  const all = [{ slug: 'all', short: 'همه شرکت‌ها' }, ...COMPANIES];
+  wrap.innerHTML = '';
+  for (const c of all){
+    const btn = document.createElement('button');
+    btn.className = 'chip' + (activeFilter === c.slug ? ' active' : '');
+    btn.textContent = c.short;
+    btn.addEventListener('click', () => { activeFilter = c.slug; renderChips(); renderDocs(); });
+    wrap.appendChild(btn);
+  }
+}
+
+function populateCompanySelect(){
+  const sel = document.getElementById('companySelect');
+  sel.innerHTML = COMPANIES.map(c => `<option value="${c.slug}" data-label="${c.label}">${c.label}</option>`).join('');
+}
+
+async function loadDocs(){
+  const { data, error } = await sb
+    .from('partner_documents')
+    .select('*')
+    .order('uploaded_at', { ascending: false });
+  if (error){ console.error(error); return; }
+  documents = data || [];
+  renderDocs();
+}
+
+function renderDocs(){
+  const list = document.getElementById('docList');
+  const empty = document.getElementById('emptyState');
+  const filtered = activeFilter === 'all' ? documents : documents.filter(d => d.company_slug === activeFilter);
+  list.innerHTML = '';
+  if (filtered.length === 0){
+    empty.style.display = 'block';
+    return;
+  }
+  empty.style.display = 'none';
+  for (const d of filtered){
+    const row = document.createElement('div');
+    row.className = 'doc-card';
+    row.innerHTML = `
+      <div class="doc-main">
+        <h4>${escapeHtml(d.title)}</h4>
+        ${d.description ? `<p>${escapeHtml(d.description)}</p>` : ''}
+        <div class="doc-meta">
+          <span class="tag">${escapeHtml(d.company_label)}</span>
+          <span>${new Date(d.uploaded_at).toLocaleDateString('fa-IR')}</span>
+        </div>
+      </div>
+      <div class="doc-actions">
+        <a href="${d.file_url}" target="_blank" rel="noopener">مشاهده مدرک</a>
+        <button data-id="${d.id}">حذف</button>
+      </div>
+    `;
+    list.appendChild(row);
+  }
+  list.querySelectorAll('.doc-actions button').forEach(b => {
+    b.addEventListener('click', () => deleteDoc(b.dataset.id));
+  });
+}
+
+async function deleteDoc(id){
+  const pw = prompt('برای حذف، رمز عبور مدیر را وارد کنید:');
+  if (pw !== ADMIN_PASSWORD){
+    if (pw !== null) alert('رمز عبور اشتباه است.');
+    return;
+  }
+  const { error } = await sb.from('partner_documents').delete().eq('id', id);
+  if (error){ alert('خطا در حذف مدرک'); console.error(error); return; }
+  await loadDocs();
+}
+
+function escapeHtml(str){
+  const d = document.createElement('div');
+  d.textContent = str || '';
+  return d.innerHTML;
+}
+
+document.getElementById('adminToggle').addEventListener('click', () => {
+  document.getElementById('adminPanel').classList.toggle('open');
+});
+
+document.getElementById('uploadBtn').addEventListener('click', async () => {
+  const statusEl = document.getElementById('uploadStatus');
+  const pw = document.getElementById('pwInput').value;
+  if (pw !== ADMIN_PASSWORD){
+    statusEl.textContent = 'رمز عبور اشتباه است.';
+    statusEl.className = 'status-msg err';
+    return;
+  }
+  const sel = document.getElementById('companySelect');
+  const companySlug = sel.value;
+  const companyLabel = sel.selectedOptions[0].dataset.label;
+  const title = document.getElementById('titleInput').value.trim();
+  const description = document.getElementById('descInput').value.trim();
+  const file = document.getElementById('fileInput').files[0];
+
+  if (!title || !file){
+    statusEl.textContent = 'عنوان و فایل الزامی هستند.';
+    statusEl.className = 'status-msg err';
+    return;
+  }
+
+  const btn = document.getElementById('uploadBtn');
+  btn.disabled = true;
+  statusEl.textContent = 'در حال آپلود...';
+  statusEl.className = 'status-msg';
+
+  try{
+    const path = `${companySlug}/${Date.now()}-${file.name}`;
+    const { error: upErr } = await sb.storage.from(BUCKET).upload(path, file);
+    if (upErr) throw upErr;
+
+    const { data: urlData } = sb.storage.from(BUCKET).getPublicUrl(path);
+    const fileUrl = urlData.publicUrl;
+
+    const id = Date.now().toString(36) + Math.random().toString(36).slice(2,6);
+    const { error: insErr } = await sb.from('partner_documents').insert({
+      id, title, description, company_slug: companySlug, company_label: companyLabel,
+      file_url: fileUrl, file_name: file.name
+    });
+    if (insErr) throw insErr;
+
+    statusEl.textContent = 'مدرک با موفقیت منتشر شد.';
+    statusEl.className = 'status-msg ok';
+    document.getElementById('titleInput').value = '';
+    document.getElementById('descInput').value = '';
+    document.getElementById('fileInput').value = '';
+    document.getElementById('pwInput').value = '';
+    await loadDocs();
+  }catch(e){
+    console.error(e);
+    statusEl.textContent = 'خطا در آپلود. اتصال یا تنظیمات Supabase را بررسی کن.';
+    statusEl.className = 'status-msg err';
+  }finally{
+    btn.disabled = false;
+  }
+});
+
+initBanner();
+renderChips();
+populateCompanySelect();
+loadDocs();
+</script>
+</body>
+</html>
