@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>درخواست کارشناسی | ژرف تحلیل غرب</title>
+<script src="companies-data.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@emailjs/browser@4/dist/email.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+<link rel="preconnect" href="https://cdn.jsdelivr.net">
+<link href="https://cdn.jsdelivr.net/gh/rastikerdar/vazirmatn@v33.003/Vazirmatn-font-face.css" rel="stylesheet">
+<style>
+:root{
+  --bg:#0a1420; --bg-panel:#0f1e30; --bg-panel-2:#122438;
+  --line:#1e3450; --line-soft:#17273b;
+  --text:#e7edf5; --text-dim:#9db0c7; --text-faint:#6d84a0;
+  --amber:#e0982f; --amber-bright:#f5b34a; --amber-dim:#8a6428;
+  --teal:#4fb3a8; --danger:#c65b4e;
+}
+*{box-sizing:border-box}
+body{font-family:"Vazirmatn",Tahoma,sans-serif;margin:0;background:var(--bg);color:var(--text);line-height:1.8}
+a{color:inherit}
+.container{max-width:640px;margin:0 auto;padding:0 24px}
+header{border-bottom:1px solid var(--line);padding:22px 0}
+.header-inner{display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:12px}
+.brand strong{font-size:16px}
+.back-link{font-size:13px;color:var(--text-dim)}
+.back-link:hover{color:var(--amber-bright)}
+main{padding:48px 0 90px}
+.eyebrow{font-size:13px;color:var(--amber);letter-spacing:.08em;font-weight:600;display:flex;align-items:center;gap:10px;margin-bottom:14px}
+.eyebrow::before{content:"";width:22px;height:1px;background:var(--amber-dim)}
+h1{font-size:23px;margin:0 0 8px}
+.company-tag{font-size:13px;color:var(--text-faint);margin-bottom:32px}
+form{display:flex;flex-direction:column;gap:16px}
+.field{display:flex;flex-direction:column;gap:8px}
+.field label{font-size:13px;color:var(--text-dim)}
+.field input,.field textarea{
+  background:var(--bg-panel);border:1px solid var(--line);border-radius:2px;
+  padding:12px 14px;color:var(--text);font-family:inherit;font-size:14.5px;outline:none;
+}
+.field input:focus,.field textarea:focus{border-color:var(--amber-dim)}
+.row-2{display:grid;grid-template-columns:1fr 1fr;gap:16px}
+.section-label{font-size:12.5px;color:var(--amber);margin-top:8px;letter-spacing:.04em}
+.btn-primary{
+  background:var(--amber);color:#171008;border:none;border-radius:2px;
+  padding:13px 22px;font-size:14.5px;font-weight:600;cursor:pointer;font-family:inherit;align-self:flex-start;
+}
+.btn-primary:hover{background:var(--amber-bright)}
+.btn-primary:disabled{opacity:.5;cursor:default}
+.form-msg{display:none;padding:12px 14px;border:1px solid var(--amber-dim);border-radius:2px;font-size:14px;color:var(--amber-bright);background:rgba(224,152,47,.08)}
+.form-msg.err{display:block;border-color:var(--danger);color:var(--danger);background:rgba(198,91,78,.08)}
+@media(max-width:560px){.row-2{grid-template-columns:1fr}}
+</style>
+</head>
+<body>
+<header>
+  <div class="container header-inner">
+    <div class="brand"><strong>ژرف تحلیل غرب</strong></div>
+    <a href="index.html" class="back-link">بازگشت به سایت اصلی</a>
+  </div>
+</header>
+
+<main>
+  <div class="container">
+    <div class="eyebrow">درخواست کارشناسی</div>
+    <h1>ثبت درخواست کارشناسی فنی</h1>
+    <div class="company-tag" id="companyTag"></div>
+
+    <form id="requestForm">
+      <div class="row-2">
+        <div class="field"><label>نام و نام خانوادگی</label><input id="fullName" required></div>
+        <div class="field"><label>سمت / مسئولیت</label><input id="role"></div>
+      </div>
+      <div class="field"><label>شماره تماس</label><input id="phone" required placeholder="09xxxxxxxxx"></div>
+
+      <div class="section-label">مشخصات کارشناسی</div>
+      <div class="row-2">
+        <div class="field"><label>تعداد دستگاه مورد کارشناسی</label><input id="deviceCount" type="number" min="1"></div>
+        <div class="field"><label>تاریخ مدنظر برای کارشناسی</label><input id="inspectionDate" placeholder="مثلاً ۱۴۰۵/۰۵/۱۰"></div>
+      </div>
+      <div class="field"><label>مدل دستگاه‌ها</label><input id="deviceModels" placeholder="مثلاً Antminer S21 Pro، Whatsminer M60S"></div>
+      <div class="field"><label>محل کارشناسی</label><input id="inspectionLocation" placeholder="آدرس یا محل تقریبی"></div>
+      <div class="field"><label>توضیحات تکمیلی (اختیاری)</label><textarea id="message" style="min-height:80px"></textarea></div>
+
+      <button type="submit" class="btn-primary" id="submitBtn">ارسال درخواست</button>
+      <div class="form-msg" id="formMsg"></div>
+    </form>
+  </div>
+</main>
+
+<script>
+// --- تنظیمات EmailJS: بعد از ساخت اکانت این سه مقدار را جایگزین کن ---
+const EMAILJS_SERVICE_ID = 'YOUR_SERVICE_ID';
+const EMAILJS_TEMPLATE_ID = 'YOUR_TEMPLATE_ID';
+const EMAILJS_PUBLIC_KEY = 'YOUR_PUBLIC_KEY';
+emailjs.init({ publicKey: EMAILJS_PUBLIC_KEY });
+
+const SUPABASE_URL = 'https://fmjsfdfwjkaqxhyceeoq.supabase.co';
+const SUPABASE_KEY = 'sb_publishable_pTHiPE2P1V347aaFG0sFtw_dwncaRZE';
+const sb = window.supabase.createClient(SUPABASE_URL, SUPABASE_KEY);
+
+const slug = getCompanyParam();
+const company = findCompany(slug);
+document.getElementById('companyTag').textContent = company ? `شرکت: ${company.label}` : 'شرکت مشخص نشده — از طریق سایت اصلی وارد شوید';
+
+document.getElementById('requestForm').addEventListener('submit', async (e) => {
+  e.preventDefault();
+  const btn = document.getElementById('submitBtn');
+  const msg = document.getElementById('formMsg');
+  btn.disabled = true;
+  msg.className = 'form-msg';
+  msg.style.display = 'none';
+
+  const payload = {
+    request_type: 'expert',
+    company_label: company ? company.label : 'نامشخص',
+    full_name: document.getElementById('fullName').value.trim(),
+    role: document.getElementById('role').value.trim(),
+    phone: document.getElementById('phone').value.trim(),
+    device_count: document.getElementById('deviceCount').value.trim(),
+    device_models: document.getElementById('deviceModels').value.trim(),
+    inspection_date: document.getElementById('inspectionDate').value.trim(),
+    inspection_location: document.getElementById('inspectionLocation').value.trim(),
+    message: document.getElementById('message').value.trim(),
+  };
+
+  try{
+    await emailjs.send(EMAILJS_SERVICE_ID, EMAILJS_TEMPLATE_ID, payload);
+
+    const id = Date.now().toString(36) + Math.random().toString(36).slice(2,6);
+    await sb.from('service_requests').insert({
+      id, request_type: 'expert', company_slug: slug || 'unknown', company_label: payload.company_label,
+      full_name: payload.full_name, role: payload.role, phone: payload.phone,
+      device_count: payload.device_count, device_models: payload.device_models,
+      inspection_date: payload.inspection_date, inspection_location: payload.inspection_location,
+      message: payload.message
+    });
+
+    msg.textContent = 'درخواست شما با موفقیت ثبت و ارسال شد. به‌زودی با شما تماس گرفته می‌شود.';
+    msg.style.display = 'block';
+    document.getElementById('requestForm').reset();
+  }catch(err){
+    console.error(err);
+    msg.textContent = 'خطا در ارسال درخواست. لطفاً دوباره تلاش کنید یا مستقیم تماس بگیرید.';
+    msg.className = 'form-msg err';
+    msg.style.display = 'block';
+  }finally{
+    btn.disabled = false;
+  }
+});
+</script>
+</body>
+</html>
