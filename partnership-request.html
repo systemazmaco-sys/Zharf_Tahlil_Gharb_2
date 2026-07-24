@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>درخواست همکاری | ژرف تحلیل غرب</title>
+<script src="companies-data.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@emailjs/browser@4/dist/email.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+<link rel="preconnect" href="https://cdn.jsdelivr.net">
+<link href="https://cdn.jsdelivr.net/gh/rastikerdar/vazirmatn@v33.003/Vazirmatn-font-face.css" rel="stylesheet">
+<style>
+:root{
+  --bg:#0a1420; --bg-panel:#0f1e30; --bg-panel-2:#122438;
+  --line:#1e3450; --line-soft:#17273b;
+  --text:#e7edf5; --text-dim:#9db0c7; --text-faint:#6d84a0;
+  --amber:#e0982f; --amber-bright:#f5b34a; --amber-dim:#8a6428;
+  --teal:#4fb3a8; --teal-bright:#7fd4c9; --danger:#c65b4e;
+}
+*{box-sizing:border-box}
+body{font-family:"Vazirmatn",Tahoma,sans-serif;margin:0;background:var(--bg);color:var(--text);line-height:1.85}
+a{color:inherit}
+.container{max-width:680px;margin:0 auto;padding:0 24px}
+header{border-bottom:1px solid var(--line);padding:22px 0}
+.header-inner{display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:12px}
+.brand strong{font-size:16px}
+.back-link{font-size:13px;color:var(--text-dim)}
+.back-link:hover{color:var(--amber-bright)}
+main{padding:48px 0 90px}
+.eyebrow{font-size:13px;color:var(--teal);letter-spacing:.08em;font-weight:600;display:flex;align-items:center;gap:10px;margin-bottom:14px}
+.eyebrow::before{content:"";width:22px;height:1px;background:var(--teal)}
+h1{font-size:23px;margin:0 0 8px}
+.company-tag{font-size:13px;color:var(--text-faint);margin-bottom:28px}
+
+.terms-box{
+  background:var(--bg-panel);border:1px solid var(--line);border-radius:6px;
+  padding:24px 22px;margin-bottom:16px;font-size:14px;color:var(--text-dim);
+}
+.terms-box h3{color:var(--text);font-size:15px;margin:0 0 12px}
+.terms-box ul{margin:0;padding-right:20px}
+.terms-box li{margin-bottom:8px}
+.terms-note{font-size:12px;color:var(--text-faint);margin-top:14px;border-top:1px solid var(--line-soft);padding-top:14px}
+
+.contract-link{
+  display:flex;align-items:center;justify-content:space-between;gap:10px;flex-wrap:wrap;
+  border:1px solid var(--teal);border-radius:6px;padding:14px 18px;margin-bottom:36px;
+  font-size:13.5px;color:var(--teal-bright);
+}
+.contract-link a{font-weight:600}
+
+form{display:flex;flex-direction:column;gap:16px}
+.field{display:flex;flex-direction:column;gap:8px}
+.field label{font-size:13px;color:var(--text-dim)}
+.field input,.field textarea{
+  background:var(--bg-panel);border:1px solid var(--line);border-radius:2px;
+  padding:12px 14px;color:var(--text);font-family:inherit;font-size:14.5px;outline:none;
+}
+.field input:focus,.field textarea:focus{border-color:var(--teal)}
+.row-2{display:grid;grid-template-columns:1fr 1fr;gap:16px}
+.btn-primary{
+  background:var(--teal);color:#06201d;border:none;border-radius:2px;
+  padding:13px 22px;font-size:14.5px;font-weight:600;cursor:pointer;font-family:inherit;align-self:flex-start;
+}
+.btn-primary:hover{background:var(--teal-bright)}
+.btn-primary:disabled{opacity:.5;cursor:default}
+.form-msg{display:none;padding:12px 14px;border:1px solid var(--teal);border-radius:2px;font-size:14px;color:var(--teal-bright);background:rgba(79,179,168,.08)}
+.form-msg.err{display:block;border-color:var(--danger);color:var(--danger);background:rgba(198,91,78,.08)}
+@media(max-width:560px){.row-2{grid-template-columns:1fr}}
+</style>
+</head>
+<body>
+<header>
+  <div class="container header-inner">
+    <div class="brand"><strong>ژرف تحلیل غرب</strong></div>
+    <a href="index.html" class="back-link">بازگشت به سایت اصلی</a>
+  </div>
+</header>
+
+<main>
+  <div class="container">
+    <div class="eyebrow">درخواست همکاری</div>
+    <h1>شرایط همکاری و ثبت درخواست</h1>
+    <div class="company-tag" id="companyTag"></div>
+
+    <div class="terms-box">
+      <h3>چارچوب کلی همکاری</h3>
+      <ul>
+        <li>ارائه خدمات کارشناسی فنی، تخلیه اطلاعات و تحلیل داده دستگاه‌های تولید رمزارزی برای پرونده‌های استخراج غیرمجاز.</li>
+        <li>تنظیم گزارش کارشناسی مستند و قابل استناد در مراجع نظارتی و قضایی.</li>
+        <li>هماهنگی اجرا با واحد حراست شرکت توزیع طرف قرارداد پیش از هر مرحله از عملیات میدانی.</li>
+        <li>تعیین نحوه تسویه (بر اساس تعرفه هر دستگاه یا قرارداد دوره‌ای) در جلسه فنی اولیه.</li>
+        <li>حفظ محرمانگی اطلاعات پرونده‌ها طبق ضوابط داخلی شرکت توزیع طرف همکاری.</li>
+      </ul>
+      <div class="terms-note">این بند‌ها چارچوب کلی همکاری را نشان می‌دهند؛ جزئیات نهایی در قرارداد رسمی که پس از هماهنگی اولیه تنظیم می‌شود مشخص خواهد شد.</div>
+    </div>
+
+    <div class="contract-link">
+      <span>نمونه قرارداد همکاری برای مطالعه</span>
+      <a href="sample-contract.pdf" target="_blank" rel="noopener">دانلود نمونه قرارداد ↗</a>
+    </div>
+
+    <form id="requestForm">
+      <div class="row-2">
+        <div class="field"><label>نام و نام خانوادگی</label><input id="fullName" required></div>
+        <div class="field"><label>سمت / مسئولیت</label><input id="role"></div>
+      </div>
+      <div class="field"><label>شماره تماس</label><input id="phone" required placeholder="09xxxxxxxxx"></div>
+      <div class="field"><label>توضیحات یا زمینه همکاری (اختیاری)</label><textarea id="message" style="min-height:90px" placeholder="مثلاً حجم پرونده‌های سالانه، بازه زمانی مدنظر و ..."></textarea></div>
+
+      <button type="submit" class="btn-primary" id="submitBtn">ارسال درخواست همکاری</button>
+      <div class="form-msg" id="formMsg"></div>
+    </form>
+  </div>
+</main>
+
+<script>
+const EMAILJS_SERVICE_ID = 'YOUR_SERVICE_ID';
+const EMAILJS_TEMPLATE_ID = 'YOUR_TEMPLATE_ID';
+const EMAILJS_PUBLIC_KEY = 'YOUR_PUBLIC_KEY';
+emailjs.init({ publicKey: EMAILJS_PUBLIC_KEY });
+
+const SUPABASE_URL = 'https://fmjsfdfwjkaqxhyceeoq.supabase.co';
+const SUPABASE_KEY = 'sb_publishable_pTHiPE2P1V347aaFG0sFtw_dwncaRZE';
+const sb = window.supabase.createClient(SUPABASE_URL, SUPABASE_KEY);
+
+const slug = getCompanyParam();
+const company = findCompany(slug);
+document.getElementById('companyTag').textContent = company ? `شرکت: ${company.label}` : 'شرکت مشخص نشده — از طریق سایت اصلی وارد شوید';
+
+document.getElementById('requestForm').addEventListener('submit', async (e) => {
+  e.preventDefault();
+  const btn = document.getElementById('submitBtn');
+  const msg = document.getElementById('formMsg');
+  btn.disabled = true;
+  msg.className = 'form-msg';
+  msg.style.display = 'none';
+
+  const payload = {
+    request_type: 'partnership',
+    company_label: company ? company.label : 'نامشخص',
+    full_name: document.getElementById('fullName').value.trim(),
+    role: document.getElementById('role').value.trim(),
+    phone: document.getElementById('phone').value.trim(),
+    device_count: '', device_models: '', inspection_date: '', inspection_location: '',
+    message: document.getElementById('message').value.trim(),
+  };
+
+  try{
+    await emailjs.send(EMAILJS_SERVICE_ID, EMAILJS_TEMPLATE_ID, payload);
+
+    const id = Date.now().toString(36) + Math.random().toString(36).slice(2,6);
+    await sb.from('service_requests').insert({
+      id, request_type: 'partnership', company_slug: slug || 'unknown', company_label: payload.company_label,
+      full_name: payload.full_name, role: payload.role, phone: payload.phone,
+      message: payload.message
+    });
+
+    msg.textContent = 'درخواست همکاری شما با موفقیت ثبت و ارسال شد. به‌زودی با شما تماس گرفته می‌شود.';
+    msg.style.display = 'block';
+    document.getElementById('requestForm').reset();
+  }catch(err){
+    console.error(err);
+    msg.textContent = 'خطا در ارسال درخواست. لطفاً دوباره تلاش کنید یا مستقیم تماس بگیرید.';
+    msg.className = 'form-msg err';
+    msg.style.display = 'block';
+  }finally{
+    btn.disabled = false;
+  }
+});
+</script>
+</body>
+</html>
