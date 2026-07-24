@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>درخواست ثبت‌شده استانی | ژرف تحلیل غرب</title>
+<script src="companies-data.js"></script>
+<link rel="preconnect" href="https://cdn.jsdelivr.net">
+<link href="https://cdn.jsdelivr.net/gh/rastikerdar/vazirmatn@v33.003/Vazirmatn-font-face.css" rel="stylesheet">
+<style>
+:root{
+  --bg:#0a1420; --bg-panel:#0f1e30; --bg-panel-2:#122438;
+  --line:#1e3450; --line-soft:#17273b;
+  --text:#e7edf5; --text-dim:#9db0c7; --text-faint:#6d84a0;
+  --amber:#e0982f; --amber-bright:#f5b34a; --amber-dim:#8a6428;
+  --teal:#4fb3a8; --teal-bright:#7fd4c9;
+}
+*{box-sizing:border-box}
+body{font-family:"Vazirmatn",Tahoma,sans-serif;margin:0;background:var(--bg);color:var(--text);line-height:1.8}
+a{color:inherit;text-decoration:none}
+.container{max-width:760px;margin:0 auto;padding:0 24px}
+header{border-bottom:1px solid var(--line);padding:22px 0}
+.header-inner{display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:12px}
+.brand strong{font-size:16px}
+.back-link{font-size:13px;color:var(--text-dim)}
+.back-link:hover{color:var(--amber-bright)}
+
+main{padding:56px 0 90px}
+.eyebrow{font-size:13px;color:var(--amber);letter-spacing:.08em;font-weight:600;display:flex;align-items:center;gap:10px;margin-bottom:14px}
+.eyebrow::before{content:"";width:22px;height:1px;background:var(--amber-dim)}
+h1{font-size:24px;margin:0 0 10px;font-weight:700}
+.lead{color:var(--text-dim);font-size:14.5px;margin-bottom:8px}
+.official-link{font-size:13px;color:var(--text-faint);margin-bottom:36px;display:inline-block}
+.official-link:hover{color:var(--text-dim)}
+
+.action-grid{display:grid;grid-template-columns:1fr 1fr;gap:14px;margin-bottom:16px}
+.action-card{
+  background:var(--bg-panel);border:1px solid var(--line);border-radius:6px;
+  padding:26px 22px;transition:border-color .15s,transform .15s;
+}
+.action-card:hover{transform:translateY(-2px)}
+.action-card.expert:hover{border-color:var(--amber-dim)}
+.action-card.partnership:hover{border-color:var(--teal)}
+.action-card h3{font-size:16px;margin:0 0 8px}
+.action-card p{font-size:13px;color:var(--text-dim);margin:0 0 16px}
+.action-card .go{font-size:12.5px;font-weight:600}
+.action-card.expert .go{color:var(--amber-bright)}
+.action-card.partnership .go{color:var(--teal-bright)}
+
+.docs-note{
+  margin-top:8px;font-size:13px;color:var(--teal-bright);
+  border:1px solid var(--teal);border-radius:6px;padding:14px 18px;
+  display:flex;justify-content:space-between;align-items:center;gap:10px;flex-wrap:wrap;
+}
+.docs-note a{font-weight:600}
+
+.not-found{color:var(--text-dim);font-size:14px}
+
+@media(max-width:600px){.action-grid{grid-template-columns:1fr}}
+</style>
+</head>
+<body>
+<header>
+  <div class="container header-inner">
+    <div class="brand"><strong>ژرف تحلیل غرب</strong></div>
+    <a href="index.html" class="back-link">بازگشت به سایت اصلی</a>
+  </div>
+</header>
+
+<main>
+  <div class="container" id="content">
+    <!-- filled by JS -->
+  </div>
+</main>
+
+<script>
+const slug = getCompanyParam();
+const company = findCompany(slug);
+const content = document.getElementById('content');
+
+if (!company){
+  content.innerHTML = `<p class="not-found">شرکت موردنظر یافت نشد. لطفاً از طریق سایت اصلی، شرکت خود را انتخاب کنید.</p>`;
+} else {
+  content.innerHTML = `
+    <div class="eyebrow">درخواست آنلاین</div>
+    <h1>${company.label}</h1>
+    <p class="lead">از این صفحه می‌توانید درخواست کارشناسی فنی یا درخواست همکاری خود را برای ژرف تحلیل غرب ثبت کنید.</p>
+    <a class="official-link" href="${company.url}" target="_blank" rel="noopener">مشاهده وب‌سایت رسمی این شرکت ↗</a>
+
+    <div class="action-grid">
+      <a class="action-card expert" href="expert-request.html?company=${company.slug}">
+        <h3>درخواست کارشناسی</h3>
+        <p>ثبت درخواست کارشناسی فنی و تخلیه اطلاعات دستگاه‌های تولید رمزارزی کشف‌شده.</p>
+        <span class="go">ثبت درخواست کارشناسی ←</span>
+      </a>
+      <a class="action-card partnership" href="partnership-request.html?company=${company.slug}">
+        <h3>درخواست همکاری</h3>
+        <p>مشاهده شرایط همکاری، نمونه قرارداد و ثبت درخواست همکاری رسمی.</p>
+        <span class="go">ثبت درخواست همکاری ←</span>
+      </a>
+    </div>
+
+    ${company.partner ? `
+    <div class="docs-note">
+      <span>این شرکت هم‌اکنون از شرکای همکار فعال ژرف تحلیل غرب است.</span>
+      <a href="partner-documents.html?company=${company.slug}">مشاهده مدارک همکاری ↗</a>
+    </div>` : ''}
+  `;
+}
+</script>
+</body>
+</html>
