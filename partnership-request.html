@@ -41,12 +41,18 @@ h1{font-size:23px;margin:0 0 8px}
 .terms-box li{margin-bottom:8px}
 .terms-note{font-size:12px;color:var(--text-faint);margin-top:14px;border-top:1px solid var(--line-soft);padding-top:14px}
 
-.contract-link{
-  display:flex;align-items:center;justify-content:space-between;gap:10px;flex-wrap:wrap;
-  border:1px solid var(--teal);border-radius:6px;padding:14px 18px;margin-bottom:36px;
-  font-size:13.5px;color:var(--teal-bright);
+.docs-box{
+  border:1px solid var(--line);border-radius:6px;margin-bottom:36px;overflow:hidden;
 }
-.contract-link a{font-weight:600}
+.docs-box h3{font-size:14px;margin:0;padding:14px 18px;background:var(--bg-panel);color:var(--text)}
+.docs-list{display:flex;flex-direction:column}
+.docs-list a{
+  display:flex;align-items:center;justify-content:space-between;gap:10px;
+  padding:13px 18px;font-size:13.5px;color:var(--text-dim);
+  border-top:1px solid var(--line-soft);
+}
+.docs-list a:hover{color:var(--teal-bright);background:rgba(79,179,168,.06)}
+.docs-list a .go{color:var(--teal-bright);font-weight:600;font-size:12.5px;white-space:nowrap}
 
 form{display:flex;flex-direction:column;gap:16px}
 .field{display:flex;flex-direction:column;gap:8px}
@@ -94,9 +100,40 @@ form{display:flex;flex-direction:column;gap:16px}
       <div class="terms-note">این بند‌ها چارچوب کلی همکاری را نشان می‌دهند؛ جزئیات نهایی در قرارداد رسمی که پس از هماهنگی اولیه تنظیم می‌شود مشخص خواهد شد.</div>
     </div>
 
-    <div class="contract-link">
-      <span>نمونه قرارداد همکاری برای مطالعه</span>
-      <a href="sample-contract.pdf" target="_blank" rel="noopener">دانلود نمونه قرارداد ↗</a>
+    <div class="docs-box">
+      <h3>مدارک پیشنهاد همکاری</h3>
+      <div class="docs-list">
+        <a href="service-description.pdf" target="_blank" rel="noopener">
+          <span>شرح خدمات تخصصی ژرف تحلیل غرب</span>
+          <span class="go">دانلود ↗</span>
+        </a>
+        <a href="cooperation-proposal.pdf" target="_blank" rel="noopener">
+          <span>پیشنهاد نوع همکاری و مدل مالی قرارداد</span>
+          <span class="go">دانلود ↗</span>
+        </a>
+      </div>
+    </div>
+
+    <div class="docs-box">
+      <h3>توصیه‌نامه‌ها و سوابق همکاری</h3>
+      <div class="docs-list">
+        <a href="ref-letter-kurdistan.jpg" target="_blank" rel="noopener">
+          <span>توصیه‌نامه شرکت توزیع نیروی برق استان کردستان</span>
+          <span class="go">مشاهده ↗</span>
+        </a>
+        <a href="ref-letter-tavanir-montazeri.png" target="_blank" rel="noopener">
+          <span>نامه رسمی دفتر حراست و امور محرمانه توانیر</span>
+          <span class="go">مشاهده ↗</span>
+        </a>
+        <a href="ref-letter-tavanir-sefidmo-1.pdf" target="_blank" rel="noopener">
+          <span>نامه بهره‌برداری از تجربه — واحد نظارت توانیر</span>
+          <span class="go">مشاهده ↗</span>
+        </a>
+        <a href="ref-letter-tavanir-sefidmo-2.jpg" target="_blank" rel="noopener">
+          <span>نامه معرفی جهت گردهمایی کارشناسان توانیر</span>
+          <span class="go">مشاهده ↗</span>
+        </a>
+      </div>
     </div>
 
     <form id="requestForm">
