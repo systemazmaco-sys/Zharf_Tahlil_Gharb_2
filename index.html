@@ -765,7 +765,7 @@
         </div>
         <div>
           <h3 style="font-size:16px;margin-bottom:16px;color:var(--text-dim)">آخرین اخبار توانیر</h3>
-          <div class="res-card-list">
+          <div class="res-card-list" id="tavanirNewsList">
             <div class="res-card">
               <h4><a href="https://news.tavanir.org.ir/news/135607/%DA%A9%D8%B4%D9%81-%D9%88-%D8%B6%D8%A8%D8%B7-%DB%B8%DB%B5-%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%85%D8%A7%DB%8C%D9%86%D8%B1-%D8%BA%DB%8C%D8%B1%D9%85%D8%AC%D8%A7%D8%B2-%D8%AF%D8%B1-%D8%AF%D9%88-%D9%88%D8%A7%D8%AD%D8%AF-%DA%AF%D9%84%D8%AE%D8%A7%D9%86%D9%87-%D8%A7%DB%8C-%D9%88-%D8%AF%D8%A7%D9%85%D8%AF%D8%A7%D8%B1%DB%8C" target="_blank" rel="noopener">کشف ۸۵ دستگاه ماینر غیرمجاز در دو واحد گلخانه‌ای و دامداری در فریمان</a></h4>
               <p>عملیات مشترک واحد حراست شرکت توزیع خراسان رضوی و تیم‌های بازرسی شهرستان به کشف و ضبط دستگاه‌ها منجر شد.</p>
@@ -782,8 +782,8 @@
               <div class="meta"><span class="live-dot"></span><span>فارس</span></div>
             </div>
           </div>
-          <div class="res-note">
-            دریافت خودکار و لحظه‌ای اخبار توانیر روی یک سایت ایستا به دلیل محدودیت CORS مرورگر ممکن نیست؛ این بخش برای به‌روز ماندن به یکی از دو روش نیاز دارد: <b>۱)</b> به‌روزرسانی دستی همین کارت‌ها، یا <b>۲)</b> افزودن یک سرویس میانی (بک‌اند کوچک) که اخبار را دوره‌ای از سایت توانیر بخواند و در قالب JSON در اختیار سایت بگذارد. اگر مایلید گزینه‌ی دوم را پیاده‌سازی کنیم بگویید تا برایتان آماده کنم.
+          <div class="res-note" id="tavanirNewsNote">
+            اخبار این بخش هر چند ساعت یک‌بار به‌صورت خودکار از سایت خبری توانیر دریافت و به‌روزرسانی می‌شود.
           </div>
         </div>
       </div>
@@ -1022,6 +1022,35 @@
     });
   }, {threshold:0.5});
   document.querySelectorAll('.num[data-count]').forEach(el=>statIO.observe(el));
+
+  // Dynamic Tavanir news — loaded from tavanir-news.json (updated automatically via GitHub Actions).
+  // If the file is missing or fetch fails, the static fallback cards already in the page stay as-is.
+  (function loadTavanirNews(){
+    var listEl = document.getElementById('tavanirNewsList');
+    var noteEl = document.getElementById('tavanirNewsNote');
+    if (!listEl) return;
+    fetch('tavanir-news.json', { cache: 'no-store' })
+      .then(function(res){ if(!res.ok) throw new Error('no news file'); return res.json(); })
+      .then(function(data){
+        if (!data.items || !data.items.length) throw new Error('empty');
+        listEl.innerHTML = data.items.slice(0, 6).map(function(item){
+          return '<div class="res-card">' +
+            '<h4><a href="' + item.url + '" target="_blank" rel="noopener">' + item.title + '</a></h4>' +
+            '<div class="meta"><span class="live-dot"></span><span>خبرگزاری توانیر</span></div>' +
+          '</div>';
+        }).join('');
+        if (noteEl && data.updated_at){
+          var d = new Date(data.updated_at);
+          noteEl.textContent = 'آخرین به‌روزرسانی خودکار: ' + d.toLocaleString('fa-IR');
+        }
+      })
+      .catch(function(){
+        if (noteEl){
+          noteEl.textContent = 'اخبار این بخش هر چند ساعت یک‌بار به‌صورت خودکار از سایت خبری توانیر دریافت و به‌روزرسانی می‌شود.';
+        }
+        // fallback: static cards already in the HTML remain visible
+      });
+  })();
 </script>
 
 </body>
