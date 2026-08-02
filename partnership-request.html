@@ -143,6 +143,10 @@ form{display:flex;flex-direction:column;gap:16px}
       </div>
       <div class="field"><label>شماره تماس</label><input id="phone" required placeholder="09xxxxxxxxx"></div>
       <div class="field"><label>توضیحات یا زمینه همکاری (اختیاری)</label><textarea id="message" style="min-height:90px" placeholder="مثلاً حجم پرونده‌های سالانه، بازه زمانی مدنظر و ..."></textarea></div>
+      <div class="field">
+        <label>فایل پیشنهاد همکاری تکمیل‌شده (اختیاری)</label>
+        <input type="file" id="attachmentInput" accept=".pdf,.doc,.docx,.jpg,.jpeg,.png">
+      </div>
 
       <button type="submit" class="btn-primary" id="submitBtn">ارسال درخواست همکاری</button>
       <div class="form-msg" id="formMsg"></div>
@@ -180,16 +184,28 @@ document.getElementById('requestForm').addEventListener('submit', async (e) => {
     phone: document.getElementById('phone').value.trim(),
     device_count: '', device_models: '', inspection_date: '', inspection_location: '',
     message: document.getElementById('message').value.trim(),
+    attachment_url: '',
   };
 
   try{
+    const file = document.getElementById('attachmentInput').files[0];
+    if (file){
+      msg.textContent = 'در حال آپلود فایل...';
+      msg.style.display = 'block';
+      const path = `${slug || 'unknown'}/${Date.now()}-${file.name}`;
+      const { error: upErr } = await sb.storage.from('request-attachments').upload(path, file);
+      if (upErr) throw upErr;
+      const { data: urlData } = sb.storage.from('request-attachments').getPublicUrl(path);
+      payload.attachment_url = urlData.publicUrl;
+    }
+
     await emailjs.send(EMAILJS_SERVICE_ID, EMAILJS_TEMPLATE_ID, payload);
 
     const id = Date.now().toString(36) + Math.random().toString(36).slice(2,6);
     await sb.from('service_requests').insert({
       id, request_type: 'partnership', company_slug: slug || 'unknown', company_label: payload.company_label,
       full_name: payload.full_name, role: payload.role, phone: payload.phone,
-      message: payload.message
+      message: payload.message, attachment_url: payload.attachment_url
     });
 
     msg.textContent = 'درخواست همکاری شما با موفقیت ثبت و ارسال شد. به‌زودی با شما تماس گرفته می‌شود.';
