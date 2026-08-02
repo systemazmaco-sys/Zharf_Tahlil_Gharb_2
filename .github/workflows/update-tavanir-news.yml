@@ -1,0 +1,39 @@
+name: Update Tavanir News
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'   # هر ۶ ساعت یک‌بار
+  workflow_dispatch: {}       # امکان اجرای دستی از تب Actions
+
+permissions:
+  contents: write
+
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: npm install cheerio
+
+      - name: Fetch latest Tavanir news
+        run: node fetch-news.js
+
+      - name: Commit updated news.json if changed
+        run: |
+          git config user.name "tavanir-news-bot"
+          git config user.email "actions@github.com"
+          if ! git diff --quiet -- tavanir-news.json; then
+            git add tavanir-news.json
+            git commit -m "chore: update Tavanir news [automated]"
+            git push
+          else
+            echo "No changes in news."
+          fi
