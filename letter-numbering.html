@@ -2,6 +2,7 @@
 <html lang="fa" dir="rtl">
 <head>
 <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
 <title>دفتر اندیکاتور نامه‌های صادره | ژرف تحلیل غرب</title>
 <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
 <style>
@@ -181,8 +182,13 @@ input[type=text]:focus{ outline:none; border-color:var(--teal-2); }
 }
 .ghost-btn:hover{ border-color:var(--teal-2); color:var(--cream); }
 
+.table-scroll{
+  overflow-x:auto;
+  -webkit-overflow-scrolling:touch;
+}
 table{
   width:100%;
+  min-width:520px;
   border-collapse:collapse;
   font-size:13px;
 }
@@ -243,6 +249,23 @@ footer{
   border-top:1px solid var(--line);
   padding-top:14px;
 }
+
+@media(max-width:640px){
+  .wrap{ padding:20px 14px 48px; }
+  .wrap > *{ padding-right:24px; }
+  .spine{ width:16px; }
+  .stampbox{ padding:18px 16px; gap:16px; }
+  .stamp{ min-width:0; width:100%; font-size:20px; padding:12px 14px; transform:none; }
+  .formcol{ min-width:0; width:100%; }
+  /* 16px keeps iOS Safari from zooming in on focus */
+  input[type=text]{ font-size:16px; padding:11px 12px; }
+  .issue-btn{ width:100%; padding:14px 18px; }
+  .tools{ gap:8px; }
+  .tools input[type=text]{ max-width:none; width:100%; }
+  .tools .actions{ width:100%; flex-wrap:wrap; }
+  .tools .actions .ghost-btn{ flex:1; min-height:38px; }
+  .icon-btn{ padding:6px 10px; }
+}
 </style>
 </head>
 <body>
@@ -287,6 +310,7 @@ footer{
     </div>
   </div>
 
+  <div class="table-scroll">
   <table id="logTable">
     <thead>
       <tr>
@@ -299,6 +323,7 @@ footer{
     </thead>
     <tbody id="logBody"></tbody>
   </table>
+  </div>
   <div class="empty-state" id="emptyState" style="display:none;">هنوز نامه‌ای ثبت نشده — با دکمه بالا اولین شماره را صادر کنید.</div>
 
   <footer>

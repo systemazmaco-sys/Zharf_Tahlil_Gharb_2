@@ -49,7 +49,12 @@ form{display:flex;flex-direction:column;gap:16px}
 .btn-primary:disabled{opacity:.5;cursor:default}
 .form-msg{display:none;padding:12px 14px;border:1px solid var(--amber-dim);border-radius:2px;font-size:14px;color:var(--amber-bright);background:rgba(224,152,47,.08)}
 .form-msg.err{display:block;border-color:var(--danger);color:var(--danger);background:rgba(198,91,78,.08)}
-@media(max-width:560px){.row-2{grid-template-columns:1fr}}
+@media(max-width:640px){
+  .row-2{grid-template-columns:1fr}
+  /* 16px keeps iOS Safari from zooming in on focus */
+  .field input,.field textarea{font-size:16px}
+  .btn-primary{width:100%;align-self:stretch;padding:15px 22px}
+}
 </style>
 </head>
 <body>
