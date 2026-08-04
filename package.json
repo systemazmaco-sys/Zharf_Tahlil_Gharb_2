@@ -1,0 +1,12 @@
+{
+  "name": "zharf-tahlil-gharb-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Static site for Zharf Tahlil Gharb, plus the scheduled AI news collector.",
+  "scripts": {
+    "fetch-ai-news": "node fetch-ai-news.js"
+  },
+  "dependencies": {
+    "rss-parser": "3.13.0"
+  }
+}

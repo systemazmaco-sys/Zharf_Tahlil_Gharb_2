@@ -119,9 +119,10 @@
   .brand-text strong{font-size:18px;font-weight:700;font-family:"Cube","Vazirmatn",Tahoma,sans-serif}
   .brand-text span{font-size:11px;color:var(--text-faint);letter-spacing:.05em}
 
-  nav{display:flex;gap:32px}
+  nav{display:flex;gap:22px}
   nav a{
     font-size:14px;color:var(--text-dim);text-decoration:none;
+    white-space:nowrap;
     transition:color .15s;position:relative;
     padding-bottom:3px;
   }
@@ -304,7 +305,7 @@
   }
   .process-list.in::before{transform:scaleY(1)}
   .process-item{
-    display:grid;grid-template-columns:64px 1fr;gap:24px;
+    display:grid;grid-template-columns:64px 170px 1fr;gap:24px;align-items:center;
     padding:26px 0;
     border-bottom:1px solid var(--line-soft);
     position:relative;
@@ -329,6 +330,12 @@
   }
   .process-item h4{font-size:16px;margin-bottom:6px}
   .process-item p{color:var(--text-dim);font-size:14.5px;max-width:60ch}
+  .proc-illus{
+    width:170px;height:92px;align-self:center;justify-self:start;
+    opacity:.85;
+  }
+  .proc-flow{stroke-dasharray:4 6;animation:coolant 1.4s linear infinite}
+  @media(prefers-reduced-motion:reduce){.proc-flow{animation:none}}
 
   /* TRACK RECORD */
   .track-grid{display:grid;grid-template-columns:1fr 1fr;gap:48px}
@@ -396,6 +403,18 @@
   /* DEVICES */
   .device-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:1px;background:var(--line);border:1px solid var(--line);border-radius:4px;overflow:hidden}
   .device-card{background:var(--bg-panel);padding:26px}
+  .device-img{
+    background:linear-gradient(160deg,var(--bg-panel-2),var(--bg));
+    border:1px solid var(--line-soft);border-radius:3px;
+    margin-bottom:18px;padding:10px;
+  }
+  .device-img svg{width:100%;height:auto;display:block}
+  .svg-defs{position:absolute;width:0;height:0;overflow:hidden}
+  .coolant-flow{stroke-dasharray:5 7;animation:coolant 1.6s linear infinite}
+  @keyframes coolant{to{stroke-dashoffset:-12}}
+  @media(prefers-reduced-motion:reduce){
+    .coolant-flow{animation:none}
+  }
   .device-card .dv-head{display:flex;justify-content:space-between;align-items:baseline;margin-bottom:16px}
   .device-card h4{font-size:16.5px}
   .device-card .dv-brand{font-size:11.5px;color:var(--text-faint);letter-spacing:.03em}
@@ -423,6 +442,39 @@
   }
   .seal-item h4{font-size:14.5px;color:var(--text);margin-bottom:4px}
   .seal-item p{font-size:12.5px;color:var(--text-faint);margin:0}
+
+  /* DOCUMENTS */
+  .doc-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:20px}
+  .doc-card{
+    display:flex;flex-direction:column;
+    background:var(--bg);border:1px solid var(--line);border-radius:4px;
+    overflow:hidden;text-decoration:none;color:inherit;
+    transition:border-color .2s ease,transform .2s ease;
+  }
+  .doc-card:hover{border-color:var(--amber-dim);transform:translateY(-3px)}
+  .doc-thumb{
+    position:relative;aspect-ratio:620/420;overflow:hidden;
+    background:#e9edf2;border-bottom:1px solid var(--line);
+  }
+  .doc-thumb img{
+    width:100%;height:auto;display:block;
+    /* Letters are scans: anchor to the letterhead and dim them into the dark palette. */
+    filter:grayscale(.25) contrast(1.05);opacity:.9;
+    transition:opacity .2s ease;
+  }
+  .doc-card:hover .doc-thumb img{opacity:1}
+  .doc-thumb::after{
+    content:"";position:absolute;inset:0;
+    background:linear-gradient(to bottom,rgba(8,17,26,0) 45%,rgba(8,17,26,.85) 100%);
+  }
+  .doc-meta{padding:18px 20px 20px;display:flex;flex-direction:column;gap:6px;flex:1}
+  .doc-meta h4{font-size:15px;color:var(--text)}
+  .doc-meta p{font-size:12.5px;color:var(--text-faint);margin:0;flex:1}
+  .doc-tag{
+    align-self:flex-start;margin-top:8px;
+    font-size:11px;letter-spacing:.04em;color:var(--amber-bright);
+    border:1px solid var(--amber-dim);border-radius:2px;padding:3px 9px;
+  }
 
   /* CONTACT */
   .contact-grid{display:grid;grid-template-columns:.9fr 1.1fr;gap:56px}
@@ -476,6 +528,12 @@
     .res-two-col{gap:28px}
     .track-grid{gap:32px}
     .seal-strip{gap:36px}
+    .doc-grid{grid-template-columns:repeat(2,1fr)}
+    /* Stack the illustration above the text instead of beside it */
+    .process-item{grid-template-columns:56px 1fr;align-items:start}
+    .process-item .n{grid-column:1;grid-row:1 / span 2}
+    .proc-illus{grid-column:2;grid-row:1;width:100%;max-width:190px;height:auto;margin-bottom:14px}
+    .process-item > div:last-child{grid-column:2;grid-row:2}
   }
 
   /* MOBILE NAV */
@@ -500,6 +558,7 @@
     nav.open{opacity:1;visibility:visible;pointer-events:auto;transform:none}
     nav a{
       font-size:15px;color:var(--text);
+      white-space:normal;
       padding:14px 0;
       border-bottom:1px solid var(--line-soft);
     }
@@ -547,11 +606,13 @@
     .process-list::before{right:20px}
     .process-item::after{right:16px;top:26px}
     .process-item .n{font-size:19px}
+    .proc-illus{max-width:170px;margin-bottom:12px}
     .track-row{flex-direction:column;align-items:flex-start;gap:2px;margin-bottom:8px}
     .track-list li{font-size:14.5px}
     .org-grid a{padding:14px;font-size:13px}
     .org-grid a.featured{font-size:14px;padding:15px 16px}
     .res-card{padding:16px 18px}
+    .doc-grid{grid-template-columns:1fr;gap:14px}
     .device-card{padding:20px}
     .device-card h4{font-size:15.5px}
     .seal-strip{gap:24px;margin-top:36px;padding-top:32px}
@@ -593,6 +654,7 @@
       <a href="#network">شبکه و منابع</a>
       <a href="#devices">دستگاه‌های ماینر</a>
       <a href="#track-record">سوابق همکاری</a>
+  <a href="#documents">مستندات</a>
       <a href="#contact">تماس</a>
       <a href="letter-numbering.html" target="_blank" rel="noopener">شماره نامه</a>
       <a href="#contact" class="btn btn-primary nav-cta">درخواست همکاری</a>
@@ -764,6 +826,12 @@
       <div class="process-list">
         <div class="process-item">
           <div class="n">۰۱</div>
+          <svg class="proc-illus" viewBox="0 0 170 92" aria-hidden="true">
+              <rect x="14" y="12" width="58" height="70" rx="4" fill="#0f2033" stroke="#2b4b6e"/>
+              <g stroke="#3a6b8f" stroke-width="2" stroke-linecap="round"><path d="M26 30h34M26 42h34M26 54h22"/></g>
+              <path d="M112 12l30 11v22c0 17-12 28-30 35-18-7-30-18-30-35V23z" fill="#12283d" stroke="#e0982f" stroke-width="1.6"/>
+              <path d="M100 46l9 9 17-19" fill="none" stroke="#e0982f" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+            </svg>
           <div>
             <h4>بررسی اولیه و هماهنگی با واحد حراست</h4>
             <p>دریافت شرح پرونده و هماهنگی دسترسی به دستگاه‌های مورد بررسی با مدیریت حراست شرکت توزیع.</p>
@@ -771,6 +839,16 @@
         </div>
         <div class="process-item">
           <div class="n">۰۲</div>
+          <svg class="proc-illus" viewBox="0 0 170 92" aria-hidden="true">
+              <rect x="10" y="24" width="52" height="46" rx="4" fill="#0f2033" stroke="#2b4b6e"/>
+              <circle cx="28" cy="47" r="10" fill="none" stroke="#e0982f" stroke-width="1.6"/>
+              <circle cx="28" cy="47" r="3.4" fill="#e0982f"/>
+              <g stroke="#2b4b6e" stroke-width="2" stroke-linecap="round"><path d="M46 36v22M54 36v22"/></g>
+              <path class="proc-flow" d="M62 47h46" fill="none" stroke="#4fb3a8" stroke-width="2.4" stroke-linecap="round"/>
+              <rect x="108" y="26" width="52" height="36" rx="3" fill="#0f2033" stroke="#2b4b6e"/>
+              <path d="M102 70h64" stroke="#2b4b6e" stroke-width="3" stroke-linecap="round"/>
+              <g stroke="#4fb3a8" stroke-width="1.8" stroke-linecap="round" opacity=".9"><path d="M116 36h30M116 44h22M116 52h34"/></g>
+            </svg>
           <div>
             <h4>تخلیه‌ی فنی اطلاعات دستگاه</h4>
             <p>استخراج داده‌ی خام هر دستگاه با روش تخصصی طراحی‌شده، بدون آسیب به تجهیزات و با حفظ زنجیره‌ی مستندسازی.</p>
@@ -778,6 +856,14 @@
         </div>
         <div class="process-item">
           <div class="n">۰۳</div>
+          <svg class="proc-illus" viewBox="0 0 170 92" aria-hidden="true">
+              <path d="M14 76h142" stroke="#2b4b6e" stroke-width="1.6"/>
+              <path d="M14 76V12" stroke="#2b4b6e" stroke-width="1.6"/>
+              <g fill="#1e3d5c"><rect x="26" y="56" width="16" height="20" rx="2"/><rect x="50" y="48" width="16" height="28" rx="2"/><rect x="98" y="52" width="16" height="24" rx="2"/><rect x="122" y="60" width="16" height="16" rx="2"/></g>
+              <rect x="74" y="22" width="16" height="54" rx="2" fill="#e0982f" opacity=".85"/>
+              <path d="M14 50h142" stroke="#4fb3a8" stroke-width="1.6" stroke-dasharray="5 5"/>
+              <circle cx="82" cy="22" r="4" fill="#f2b45c"/>
+            </svg>
           <div>
             <h4>تحلیل داده و تطبیق با پرونده</h4>
             <p>مقایسه‌ی داده‌ی استخراج‌شده با ادعاها و مستندات پرونده برای تعیین بازه‌ی دقیق فعالیت و میزان مصرف.</p>
@@ -785,6 +871,13 @@
         </div>
         <div class="process-item">
           <div class="n">۰۴</div>
+          <svg class="proc-illus" viewBox="0 0 170 92" aria-hidden="true">
+              <rect x="30" y="8" width="72" height="80" rx="4" fill="#0f2033" stroke="#2b4b6e"/>
+              <g stroke="#3a6b8f" stroke-width="2" stroke-linecap="round"><path d="M42 24h48M42 36h48M42 48h32M42 60h40"/></g>
+              <circle cx="126" cy="60" r="24" fill="none" stroke="#e0982f" stroke-width="2"/>
+              <circle cx="126" cy="60" r="18" fill="none" stroke="#e0982f" stroke-width="1" opacity=".7"/>
+              <path d="M116 60l7 8 14-16" fill="none" stroke="#e0982f" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+            </svg>
           <div>
             <h4>تدوین گزارش کارشناسی نهایی</h4>
             <p>تحویل گزارش مستند و قابل استناد جهت ارائه به کمیسیون‌های داخلی و مراجع قضایی.</p>
@@ -851,13 +944,13 @@
     </div>
   </section>
 
-  <!-- RESOURCES: articles + tavanir news -->
+  <!-- RESOURCES: articles + AI news -->
   <section id="resources" style="background:var(--bg-panel);border-top:1px solid var(--line);border-bottom:1px solid var(--line)">
     <div class="container">
       <div class="section-head">
         <div class="eyebrow">منابع تخصصی</div>
-        <h2>مقالات روش‌شناسی و اخبار توانیر در حوزه رمزارز</h2>
-        <p>گزیده‌ای از منابع عمومی درباره‌ی روش‌های شناسایی استخراج غیرمجاز رمزارز، در کنار آخرین اخبار رسمی توانیر در این حوزه.</p>
+        <h2>مقالات روش‌شناسی و تازه‌ترین دستاوردهای هوش مصنوعی</h2>
+        <p>گزیده‌ای از منابع عمومی درباره‌ی روش‌های شناسایی استخراج غیرمجاز رمزارز، در کنار تازه‌ترین دستاوردها و اخبار هوش مصنوعی که به‌صورت خودکار از منابع تخصصی این حوزه به‌روز می‌شود.</p>
       </div>
       <div class="res-two-col">
         <div>
@@ -882,26 +975,16 @@
           <div class="res-note">این فهرست به‌صورت دستی گردآوری و به‌روزرسانی می‌شود. در صورت تمایل، بخش «مقالات» می‌تواند به مجموعه‌ی گزارش‌های داخلی ژرف تحلیل غرب نیز مجهز شود.</div>
         </div>
         <div>
-          <h3 style="font-size:16px;margin-bottom:16px;color:var(--text-dim)">آخرین اخبار توانیر</h3>
-          <div class="res-card-list" id="tavanirNewsList">
+          <h3 style="font-size:16px;margin-bottom:16px;color:var(--text-dim)">تازه‌ترین دستاوردها و اخبار هوش مصنوعی</h3>
+          <div class="res-card-list" id="aiNewsList">
             <div class="res-card">
-              <h4><a href="https://news.tavanir.org.ir/news/135607/%DA%A9%D8%B4%D9%81-%D9%88-%D8%B6%D8%A8%D8%B7-%DB%B8%DB%B5-%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%85%D8%A7%DB%8C%D9%86%D8%B1-%D8%BA%DB%8C%D8%B1%D9%85%D8%AC%D8%A7%D8%B2-%D8%AF%D8%B1-%D8%AF%D9%88-%D9%88%D8%A7%D8%AD%D8%AF-%DA%AF%D9%84%D8%AE%D8%A7%D9%86%D9%87-%D8%A7%DB%8C-%D9%88-%D8%AF%D8%A7%D9%85%D8%AF%D8%A7%D8%B1%DB%8C" target="_blank" rel="noopener">کشف ۸۵ دستگاه ماینر غیرمجاز در دو واحد گلخانه‌ای و دامداری در فریمان</a></h4>
-              <p>عملیات مشترک واحد حراست شرکت توزیع خراسان رضوی و تیم‌های بازرسی شهرستان به کشف و ضبط دستگاه‌ها منجر شد.</p>
-              <div class="meta"><span class="live-dot"></span><span>خراسان رضوی</span></div>
-            </div>
-            <div class="res-card">
-              <h4><a href="https://news.tavanir.org.ir/news/135251/%DB%B1%DB%B8%DB%B0%DB%B0-%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%A7%D8%B3%D8%AA%D8%AE%D8%B1%D8%A7%D8%AC-%D9%85%D8%A7%DB%8C%D9%86%D8%B1-%D8%BA%DB%8C%D8%B1%D9%85%D8%AC%D8%A7%D8%B2-%D8%AF%D8%B1-%D8%AE%D8%B1%D8%A7%D8%B3%D8%A7%D9%86-%D8%B1%D8%B6%D9%88%DB%8C-%D8%A7%D9%85%D8%AD%D8%A7%D8%A1-%D8%B4%D8%AF" target="_blank" rel="noopener">امحای ۱٬۸۰۰ دستگاه ماینر غیرمجاز در خراسان رضوی</a></h4>
-              <p>در پنجمین مرحله‌ی امحا، مجموع دستگاه‌های جمع‌آوری‌شده از سال ۱۴۰۲ در این استان به بیش از ۱۰ هزار دستگاه رسید.</p>
-              <div class="meta"><span class="live-dot"></span><span>خراسان رضوی</span></div>
-            </div>
-            <div class="res-card">
-              <h4><a href="https://news.tavanir.org.ir/news/133426/%D8%AA%D9%88%D9%82%DB%8C%D9%81-%DB%B4%DB%B7-%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%85%D8%A7%DB%8C%D9%86%D8%B1-%D8%BA%DB%8C%D8%B1%D9%85%D8%AC%D8%A7%D8%B2-%D8%AF%D8%B1-%D8%A7%D8%B3%D8%AA%D8%A7%D9%86-%D9%81%D8%A7%D8%B1%D8%B3" target="_blank" rel="noopener">توقیف ۴۷ دستگاه ماینر غیرمجاز در استان فارس</a></h4>
-              <p>دستگاه‌ها در منازل مسکونی، انباری و سوله‌های تجاری کشف و برای پیگیری قضایی تحویل مراجع ذی‌ربط شدند.</p>
-              <div class="meta"><span class="live-dot"></span><span>فارس</span></div>
+              <h4><a href="https://deepmind.google/discover/blog/" target="_blank" rel="noopener">در حال دریافت تازه‌ترین اخبار هوش مصنوعی…</a></h4>
+              <p>این فهرست هر چند ساعت یک‌بار از منابع تخصصی هوش مصنوعی به‌صورت خودکار به‌روزرسانی می‌شود.</p>
+              <div class="meta"><span class="live-dot"></span><span>زومیت، دیجیاتو، DeepMind، OpenAI، MIT Technology Review</span></div>
             </div>
           </div>
-          <div class="res-note" id="tavanirNewsNote">
-            اخبار این بخش هر چند ساعت یک‌بار به‌صورت خودکار از سایت خبری توانیر دریافت و به‌روزرسانی می‌شود.
+          <div class="res-note" id="aiNewsNote">
+            اخبار این بخش هر چند ساعت یک‌بار به‌صورت خودکار از منابع تخصصی هوش مصنوعی دریافت و به‌روزرسانی می‌شود.
           </div>
         </div>
       </div>
@@ -916,8 +999,40 @@
         <h2>جدیدترین دستگاه‌های ماینر و مشخصات فنی آن‌ها</h2>
         <p>مرجع سریع کارشناسان میدانی برای تطبیق مدل دستگاه کشف‌شده با مشخصات فنی واقعی آن، جهت برآورد دقیق‌تر مصرف برق در گزارش کارشناسی.</p>
       </div>
+      <svg class="svg-defs" aria-hidden="true" focusable="false">
+        <defs>
+          <linearGradient id="miCase" x1="0" y1="0" x2="0" y2="1">
+            <stop offset="0" stop-color="#1c3149"/><stop offset="1" stop-color="#0d1c2b"/>
+          </linearGradient>
+          <symbol id="mi-fan" viewBox="0 0 64 64">
+            <circle cx="32" cy="32" r="30" fill="#0f2033" stroke="#2b4b6e" stroke-width="1.4"/>
+            <circle cx="32" cy="32" r="24" fill="none" stroke="#1d3450" stroke-width="1"/>
+            <g fill="#20405f" stroke="#33587d" stroke-width="1">
+              <!-- SMIL rather than CSS: document stylesheets do not reach into a <use> shadow tree. -->
+              <animateTransform attributeName="transform" type="rotate" from="0 32 32" to="360 32 32" dur="4s" repeatCount="indefinite"/>
+              <path d="M32 32C43 25 54 29 55 38 46 40 36 38 32 32Z"/>
+              <path d="M32 32C43 25 54 29 55 38 46 40 36 38 32 32Z" transform="rotate(120 32 32)"/>
+              <path d="M32 32C43 25 54 29 55 38 46 40 36 38 32 32Z" transform="rotate(240 32 32)"/>
+            </g>
+            <circle cx="32" cy="32" r="6.5" fill="#e0982f"/>
+          </symbol>
+        </defs>
+      </svg>
       <div class="device-grid">
         <div class="device-card">
+          <div class="device-img">
+            <svg viewBox="0 0 320 150" role="img" aria-label="طرح شماتیک ماینر هوا-خنک با دو فن مکنده">
+              <rect x="20" y="22" width="280" height="106" rx="7" fill="url(#miCase)" stroke="#2b4b6e"/>
+              <rect x="20" y="22" width="280" height="10" rx="5" fill="#22394f"/>
+              <use href="#mi-fan" x="34" y="40" width="70" height="70"/>
+              <use href="#mi-fan" x="216" y="40" width="70" height="70"/>
+              <g stroke="#28455f" stroke-width="2" stroke-linecap="round">
+                <path d="M124 48v54M136 48v54M148 48v54M160 48v54M172 48v54M184 48v54M196 48v54"/>
+              </g>
+              <rect x="126" y="110" width="68" height="8" rx="4" fill="#14283c" stroke="#2b4b6e"/>
+              <circle cx="160" cy="38" r="3" fill="#4fb3a8"/>
+            </svg>
+          </div>
           <div class="dv-head"><h4>Antminer S21 Pro</h4><span class="dv-brand">Bitmain</span></div>
           <div class="device-spec-row"><span>هش‌ریت</span><span>۲۳۴ TH/s</span></div>
           <div class="device-spec-row"><span>مصرف برق</span><span>۳٬۵۱۰ وات</span></div>
@@ -925,6 +1040,23 @@
           <div class="device-spec-row"><span>الگوریتم</span><span>SHA-256</span></div>
         </div>
         <div class="device-card">
+          <div class="device-img">
+            <svg viewBox="0 0 320 150" role="img" aria-label="طرح شماتیک ماینر آب-خنک رک‌مونت با ورودی و خروجی مایع خنک‌کننده">
+              <rect x="20" y="46" width="280" height="60" rx="5" fill="url(#miCase)" stroke="#2b4b6e"/>
+              <rect x="20" y="46" width="280" height="8" rx="4" fill="#22394f"/>
+              <g stroke="#28455f" stroke-width="1.4">
+                <path d="M96 60h180M96 70h180M96 80h180M96 90h180"/>
+              </g>
+              <g fill="#0f2033" stroke="#4fb3a8" stroke-width="2">
+                <circle cx="52" cy="66" r="9"/><circle cx="52" cy="88" r="9"/>
+              </g>
+              <g class="coolant-flow" fill="none" stroke="#4fb3a8" stroke-width="2.4" stroke-linecap="round">
+                <path d="M52 66H6"/><path d="M52 88H6"/>
+              </g>
+              <text x="160" y="34" text-anchor="middle" fill="#5c7896" font-size="12" font-family="monospace">HYDRO 3U</text>
+              <path d="M300 66h12M300 88h12" stroke="#2b4b6e" stroke-width="3" stroke-linecap="round"/>
+            </svg>
+          </div>
           <div class="dv-head"><h4>Antminer S21e XP Hyd 3U</h4><span class="dv-brand">Bitmain</span></div>
           <div class="device-spec-row"><span>هش‌ریت</span><span>۸۶۰ TH/s</span></div>
           <div class="device-spec-row"><span>مصرف برق</span><span>۱۱٬۱۸۰ وات</span></div>
@@ -932,6 +1064,18 @@
           <div class="device-spec-row"><span>الگوریتم</span><span>SHA-256</span></div>
         </div>
         <div class="device-card">
+          <div class="device-img">
+            <svg viewBox="0 0 320 150" role="img" aria-label="طرح شماتیک ماینر هوا-خنک با یک فن و شبکه‌ی تهویه">
+              <rect x="20" y="26" width="280" height="98" rx="7" fill="url(#miCase)" stroke="#2b4b6e"/>
+              <rect x="20" y="26" width="280" height="10" rx="5" fill="#22394f"/>
+              <use href="#mi-fan" x="34" y="42" width="66" height="66"/>
+              <rect x="116" y="44" width="168" height="62" rx="3" fill="#0f2033" stroke="#28455f"/>
+              <g stroke="#28455f" stroke-width="1.6">
+                <path d="M128 48v54M140 48v54M152 48v54M164 48v54M176 48v54M188 48v54M200 48v54M212 48v54M224 48v54M236 48v54M248 48v54M260 48v54M272 48v54"/>
+              </g>
+              <circle cx="108" cy="116" r="3" fill="#e0982f"/>
+            </svg>
+          </div>
           <div class="dv-head"><h4>Whatsminer M60S</h4><span class="dv-brand">MicroBT</span></div>
           <div class="device-spec-row"><span>هش‌ریت</span><span>۱۸۶ TH/s</span></div>
           <div class="device-spec-row"><span>مصرف برق</span><span>۳٬۴۴۰ وات</span></div>
@@ -939,6 +1083,21 @@
           <div class="device-spec-row"><span>الگوریتم</span><span>SHA-256</span></div>
         </div>
         <div class="device-card">
+          <div class="device-img">
+            <svg viewBox="0 0 320 150" role="img" aria-label="طرح شماتیک ماینر پرتوان با دو فن و صفحه‌ی مبدل حرارتی">
+              <rect x="20" y="24" width="280" height="102" rx="7" fill="url(#miCase)" stroke="#2b4b6e"/>
+              <rect x="20" y="24" width="280" height="10" rx="5" fill="#22394f"/>
+              <use href="#mi-fan" x="30" y="42" width="62" height="62"/>
+              <use href="#mi-fan" x="228" y="42" width="62" height="62"/>
+              <rect x="104" y="44" width="112" height="58" rx="3" fill="#0f2033" stroke="#28455f"/>
+              <g stroke="#3a6b8f" stroke-width="1.4">
+                <path d="M112 52h96M112 62h96M112 72h96M112 82h96M112 92h96"/>
+              </g>
+              <g class="coolant-flow" fill="none" stroke="#e0982f" stroke-width="2" stroke-linecap="round" opacity=".8">
+                <path d="M116 108h88"/>
+              </g>
+            </svg>
+          </div>
           <div class="dv-head"><h4>Whatsminer M63S</h4><span class="dv-brand">MicroBT</span></div>
           <div class="device-spec-row"><span>هش‌ریت</span><span>۴۵۰ TH/s</span></div>
           <div class="device-spec-row"><span>مصرف برق</span><span>۷٬۶۵۰ وات</span></div>
@@ -1002,6 +1161,67 @@
             <p>مورد استفاده در تحویل مستندات تخلیه اطلاعات ماینر</p>
           </div>
         </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- DOCUMENTS -->
+  <section id="documents" style="background:var(--bg-panel);border-top:1px solid var(--line);border-bottom:1px solid var(--line)">
+    <div class="container">
+      <div class="section-head">
+        <div class="eyebrow">مستندات و اعتبارنامه‌ها</div>
+        <h2>نامه‌ها و مدارک رسمی همکاری</h2>
+        <p>تصویر نامه‌های رسمی توانیر و شرکت‌های توزیع درباره‌ی روش تخلیه‌ی اطلاعات ماینر، به‌همراه شرح خدمات و طرح پیشنهاد همکاری. برای مشاهده‌ی نسخه‌ی کامل، روی هر مدرک کلیک کنید.</p>
+      </div>
+      <div class="doc-grid">
+        <a class="doc-card" href="ref-letter-tavanir-sefidmo-1.pdf" target="_blank" rel="noopener">
+          <div class="doc-thumb"><img src="docs-thumbs/thumb-tavanir-sefidmo-1.jpg" alt="نامه‌ی توانیر به مدیران حراست شرکت‌های توزیع نیروی برق" loading="lazy" width="620" height="854"></div>
+          <div class="doc-meta">
+            <h4>ابلاغیه توانیر به شرکت‌های توزیع</h4>
+            <p>بهره‌برداری از تجربه‌ی شرکت توزیع نیروی برق استان کردستان</p>
+            <span class="doc-tag">PDF</span>
+          </div>
+        </a>
+        <a class="doc-card" href="ref-letter-tavanir-sefidmo-2.jpg" target="_blank" rel="noopener">
+          <div class="doc-thumb"><img src="docs-thumbs/thumb-tavanir-sefidmo-2.jpg" alt="نامه‌ی توانیر درباره‌ی استفاده از خدمات کارشناسی در گردهمایی سالانه" loading="lazy" width="620" height="884"></div>
+          <div class="doc-meta">
+            <h4>دعوت به گردهمایی سالانه کارشناسان IT</h4>
+            <p>ارائه‌ی تجربه‌ی تعیین مدت زمان کارکرد ماینرهای توقیف‌شده</p>
+            <span class="doc-tag">تصویر</span>
+          </div>
+        </a>
+        <a class="doc-card" href="ref-letter-tavanir-montazeri.png" target="_blank" rel="noopener">
+          <div class="doc-thumb"><img src="docs-thumbs/thumb-tavanir-montazeri.jpg" alt="نامه‌ی حراست شرکت توزیع نیروی برق استان کردستان به دفتر مرکزی حراست توانیر" loading="lazy" width="620" height="854"></div>
+          <div class="doc-meta">
+            <h4>گزارش حراست برق کردستان به توانیر</h4>
+            <p>نقش روش تخلیه و تحلیل داده در پرونده‌های ماینر غیرمجاز</p>
+            <span class="doc-tag">تصویر</span>
+          </div>
+        </a>
+        <a class="doc-card" href="ref-letter-kurdistan.jpg" target="_blank" rel="noopener">
+          <div class="doc-thumb"><img src="docs-thumbs/thumb-kurdistan.jpg" alt="نامه‌ی رسمی شرکت توزیع نیروی برق استان کردستان" loading="lazy" width="620" height="854"></div>
+          <div class="doc-meta">
+            <h4>تأییدیه‌ی شرکت توزیع برق کردستان</h4>
+            <p>شناسایی بیش از ۷۰۰ دستگاه و تشکیل ۲۵۰ پرونده‌ی کارشناسی</p>
+            <span class="doc-tag">تصویر</span>
+          </div>
+        </a>
+        <a class="doc-card" href="service-description.pdf" target="_blank" rel="noopener">
+          <div class="doc-thumb"><img src="docs-thumbs/thumb-service-description.jpg" alt="سند شرح خدمات کارشناسی ژرف تحلیل غرب" loading="lazy" width="620" height="803"></div>
+          <div class="doc-meta">
+            <h4>شرح خدمات کارشناسی</h4>
+            <p>دامنه‌ی کار، خروجی‌ها و استانداردهای گزارش‌دهی</p>
+            <span class="doc-tag">PDF</span>
+          </div>
+        </a>
+        <a class="doc-card" href="cooperation-proposal.pdf" target="_blank" rel="noopener">
+          <div class="doc-thumb"><img src="docs-thumbs/thumb-cooperation-proposal.jpg" alt="طرح پیشنهاد همکاری ژرف تحلیل غرب" loading="lazy" width="620" height="803"></div>
+          <div class="doc-meta">
+            <h4>طرح پیشنهاد همکاری</h4>
+            <p>چارچوب همکاری با شرکت‌های توزیع نیروی برق</p>
+            <span class="doc-tag">PDF</span>
+          </div>
+        </a>
       </div>
     </div>
   </section>
@@ -1181,20 +1401,37 @@
   }, {threshold:0.5});
   document.querySelectorAll('.num[data-count]').forEach(el=>statIO.observe(el));
 
-  // Dynamic Tavanir news — loaded from tavanir-news.json (updated automatically via GitHub Actions).
-  // If the file is missing or fetch fails, the static fallback cards already in the page stay as-is.
-  (function loadTavanirNews(){
-    var listEl = document.getElementById('tavanirNewsList');
-    var noteEl = document.getElementById('tavanirNewsNote');
+  // Dynamic AI news — loaded from ai-news.json (refreshed by .github/workflows/update-ai-news.yml).
+  // If the file is missing or fetch fails, the static placeholder card in the page stays as-is.
+  (function loadAiNews(){
+    var listEl = document.getElementById('aiNewsList');
+    var noteEl = document.getElementById('aiNewsNote');
     if (!listEl) return;
-    fetch('tavanir-news.json', { cache: 'no-store' })
+
+    function esc(value){
+      return String(value == null ? '' : value)
+        .replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;')
+        .replace(/"/g,'&quot;').replace(/'/g,'&#39;');
+    }
+    var faDate = new Intl.DateTimeFormat('fa-IR', {year:'numeric', month:'long', day:'numeric'});
+    function formatDate(value){
+      if(!value) return '';
+      var d = new Date(value);
+      return isNaN(d) ? '' : faDate.format(d);
+    }
+
+    fetch('ai-news.json', { cache: 'no-store' })
       .then(function(res){ if(!res.ok) throw new Error('no news file'); return res.json(); })
       .then(function(data){
         if (!data.items || !data.items.length) throw new Error('empty');
         listEl.innerHTML = data.items.slice(0, 6).map(function(item){
+          var when = formatDate(item.published);
           return '<div class="res-card">' +
-            '<h4><a href="' + item.url + '" target="_blank" rel="noopener">' + item.title + '</a></h4>' +
-            '<div class="meta"><span class="live-dot"></span><span>خبرگزاری توانیر</span></div>' +
+            '<h4><a href="' + esc(item.url) + '" target="_blank" rel="noopener"' +
+              (item.lang === 'en' ? ' lang="en" dir="ltr"' : '') + '>' + esc(item.title) + '</a></h4>' +
+            '<div class="meta"><span class="live-dot"></span><span>' + esc(item.source) + '</span>' +
+              (when ? '<span>' + esc(when) + '</span>' : '') +
+            '</div>' +
           '</div>';
         }).join('');
         if (noteEl && data.updated_at){
@@ -1204,9 +1441,9 @@
       })
       .catch(function(){
         if (noteEl){
-          noteEl.textContent = 'اخبار این بخش هر چند ساعت یک‌بار به‌صورت خودکار از سایت خبری توانیر دریافت و به‌روزرسانی می‌شود.';
+          noteEl.textContent = 'اخبار این بخش هر چند ساعت یک‌بار به‌صورت خودکار از منابع تخصصی هوش مصنوعی دریافت و به‌روزرسانی می‌شود.';
         }
-        // fallback: static cards already in the HTML remain visible
+        // fallback: static card already in the HTML remains visible
       });
   })();
 </script>
