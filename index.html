@@ -1344,18 +1344,27 @@
       }
     });
   }, {threshold:0.4});
-  document.querySelectorAll('.wave-trace').forEach(function(path){
+  document.querySelectorAll('.wave-trace').forEach(function(path, i){
     var len = path.getTotalLength();
     path.style.strokeDasharray = len;
     path.style.strokeDashoffset = len;
+    path.style.transitionDelay = (i * 0.16).toFixed(2) + 's';
   });
-  // SMIL motion instead of CSS offset-path: Safari/iOS ignores motion paths on SVG elements
-  document.querySelectorAll('.wave-dot').forEach(function(dot){
+  // SMIL motion instead of CSS offset-path: Safari/iOS ignores motion paths on SVG elements.
+  // Each row gets its own period and a head start, so the dots never travel in lockstep.
+  document.querySelectorAll('.wave-dot').forEach(function(dot, i){
     var trace = dot.closest('.wave-group').querySelector('.wave-trace');
     if(!trace) return;
+    var dur = 3.1 + (i % 4) * 0.5;
+    // Phase offset: the dot enters the cycle part-way along the path, runs to the
+    // end, wraps to the start and comes back — Safari ignores a negative begin.
+    var phase = Number((0.13 + i * 0.37) % 1).toFixed(3);
     var motion = document.createElementNS('http://www.w3.org/2000/svg','animateMotion');
     motion.setAttribute('path', trace.getAttribute('d'));
-    motion.setAttribute('dur', '3.4s');
+    motion.setAttribute('dur', dur + 's');
+    motion.setAttribute('calcMode', 'linear');
+    motion.setAttribute('keyPoints', phase + ';1;0;' + phase);
+    motion.setAttribute('keyTimes', '0;' + (1 - phase).toFixed(3) + ';' + (1 - phase).toFixed(3) + ';1');
     motion.setAttribute('repeatCount', 'indefinite');
     motion.setAttribute('rotate', '0');
     dot.appendChild(motion);
