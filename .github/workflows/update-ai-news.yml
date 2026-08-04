@@ -1,4 +1,4 @@
-name: Update Tavanir News
+name: Update AI News
 
 on:
   schedule:
@@ -19,20 +19,21 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: '20'
+          cache: 'npm'
 
       - name: Install dependencies
-        run: npm install cheerio
+        run: npm ci
 
-      - name: Fetch latest Tavanir news
-        run: node fetch-news.js
+      - name: Fetch latest AI news
+        run: node fetch-ai-news.js
 
-      - name: Commit updated news.json if changed
+      - name: Commit updated ai-news.json if changed
         run: |
-          git config user.name "tavanir-news-bot"
+          git config user.name "ai-news-bot"
           git config user.email "actions@github.com"
-          if ! git diff --quiet -- tavanir-news.json; then
-            git add tavanir-news.json
-            git commit -m "chore: update Tavanir news [automated]"
+          if ! git diff --quiet -- ai-news.json; then
+            git add ai-news.json
+            git commit -m "chore: update AI news [automated]"
             git push
           else
             echo "No changes in news."
