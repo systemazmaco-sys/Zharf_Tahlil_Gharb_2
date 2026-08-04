@@ -8,6 +8,8 @@
 
   var CONFIG = {
     engineer: 'مهندس سعیدی‌نژاد',
+    // نام نماینده‌ای که در گفت‌وگو حضور دارد.
+    agentName: 'مهندس محمدی',
     // عکس نماینده؛ صفحه‌ها همگی در ریشه‌ی سایت هستند، پس مسیر نسبی کافی است.
     avatar: 'agent.jpg',
     // حق‌الزحمه‌ی کارشناسی هر دستگاه به ریال، با احتساب بیمه و مالیات.
@@ -47,7 +49,7 @@
     '.ztg-avatar{width:38px;height:38px;border-radius:50%;background:#0a1420;border:1px solid #8a6428;object-fit:cover;flex-shrink:0}',
     '.ztg-hero{align-self:center;text-align:center;padding:8px 0 2px}',
     '.ztg-hero img{width:88px;height:88px;border-radius:50%;object-fit:cover;border:2px solid #e0982f;box-shadow:0 8px 22px rgba(3,8,14,.55)}',
-    '.ztg-hero b{display:block;margin-top:9px;font-size:14px;color:#f5b34a;font-weight:600}',
+    '.ztg-hero b{display:block;margin-top:9px;font-size:15px;color:#f5b34a;font-weight:600}',
     '.ztg-title{flex:1;min-width:0;line-height:1.5}',
     '.ztg-title strong{display:block;font-size:13.5px;color:#e7edf5;font-weight:600}',
     '.ztg-title span{display:block;font-size:11px;color:#6d84a0;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}',
@@ -195,8 +197,8 @@
       '</button>' +
       '<div class="ztg-panel" role="dialog" aria-label="گفت‌وگو با نماینده‌ی ' + CONFIG.engineer + '">' +
         '<div class="ztg-head">' +
-          '<img class="ztg-avatar" src="' + CONFIG.avatar + '" alt="نماینده‌ی ' + CONFIG.engineer + '">' +
-          '<div class="ztg-title"><strong>نماینده‌ی ' + CONFIG.engineer + '</strong><span></span></div>' +
+          '<img class="ztg-avatar" src="' + CONFIG.avatar + '" alt="' + CONFIG.agentName + '">' +
+          '<div class="ztg-title"><strong>' + CONFIG.agentName + '</strong><span></span></div>' +
           '<button class="ztg-close" type="button" aria-label="بستن گفت‌وگو">&times;</button>' +
         '</div>' +
         '<div class="ztg-log" id="ztgLog" aria-live="polite"></div>' +
@@ -207,7 +209,7 @@
     this.root = root;
     this.log = root.querySelector('#ztgLog');
     this.foot = root.querySelector('#ztgFoot');
-    root.querySelector('.ztg-title span').textContent = 'ژرف تحلیل غرب';
+    root.querySelector('.ztg-title span').textContent = 'نماینده‌ی ' + CONFIG.engineer;
 
     var self = this;
     root.querySelector('.ztg-launcher').addEventListener('click', function () { self.open(); });
@@ -388,11 +390,11 @@
     var hero = document.createElement('div');
     hero.className = 'ztg-hero';
     hero.innerHTML = '<img src="' + CONFIG.avatar + '" alt="">' +
-      '<b>من نماینده‌ی ' + CONFIG.engineer + ' هستم</b>';
+      '<b>' + CONFIG.agentName + '</b>';
     this.log.appendChild(hero);
     this.scroll();
 
-    this.say('با عرض سلام و وقت بخیر، من نماینده‌ی ' + CONFIG.engineer + ' هستم. هر سؤالی دارید من در خدمتم.')
+    this.say('با عرض سلام و وقت بخیر، من ' + CONFIG.agentName + '، نماینده‌ی ' + CONFIG.engineer + ' هستم. هر سؤالی دارید من در خدمتم.')
       .then(function () {
         return self.say('می‌خواهید درباره‌ی نحوه‌ی ثبت درخواست کارشناسی یا همکاری کمکتان کنم؟ یا محاسبه‌ی میزان حق‌الزحمه‌ی کارشناسی به ازای هر دستگاه؟ و یا اگر پیغامی برای مهندس دارید بگویید تا به ایشان اطلاع بدهم.');
       })
