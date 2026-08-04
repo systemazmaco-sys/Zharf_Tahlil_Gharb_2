@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>گزارش تخلیه اطلاعاتی ماینر</title>
+<style>
+  :root { --navy:#16214a; --line:#d8dce8; --bg:#f5f6fa; }
+  * { box-sizing:border-box; }
+  body { margin:0; background:var(--bg); font-family:Tahoma,Arial,sans-serif; color:#1b1f2a; }
+  header { background:var(--navy); color:#fff; padding:18px 24px; }
+  header h1 { margin:0; font-size:18px; }
+  header p { margin:6px 0 0; font-size:13px; opacity:.8; }
+  main { padding:20px; max-width:1200px; margin:0 auto; }
+  section { background:#fff; border:1px solid var(--line); border-radius:10px; padding:16px; margin-bottom:18px; }
+  h2 { font-size:15px; margin:0 0 12px; color:var(--navy); }
+  .grid { display:grid; grid-template-columns:repeat(auto-fit,minmax(220px,1fr)); gap:12px; }
+  label { display:block; font-size:12px; margin-bottom:4px; color:#48506b; }
+  input, textarea, button { font-family:inherit; font-size:13px; }
+  input, textarea { width:100%; padding:8px; border:1px solid var(--line); border-radius:6px; }
+  button { background:var(--navy); color:#fff; border:0; border-radius:6px; padding:10px 16px; cursor:pointer; }
+  button.ghost { background:#fff; color:var(--navy); border:1px solid var(--navy); }
+  button:disabled { opacity:.5; cursor:default; }
+  table { width:100%; border-collapse:collapse; font-size:12px; }
+  th, td { border:1px solid var(--line); padding:6px; text-align:right; }
+  th { background:#eef1f8; }
+  td input { padding:5px; }
+  .warn { color:#b3261e; font-size:11px; }
+  .actions { display:flex; gap:10px; flex-wrap:wrap; align-items:center; }
+  #status { font-size:13px; color:#48506b; }
+</style>
+</head>
+<body>
+<header>
+  <h1>ساخت گزارش تخلیه اطلاعاتی دستگاه‌های ماینر</h1>
+  <p>عکس لیبل و اسکرین‌شات لاگ هر دستگاه را انتخاب کنید؛ مدل، سریال و تاریخ آخرین یوزر به‌صورت خودکار خوانده می‌شود.</p>
+</header>
+<main>
+  <section>
+    <h2>۱) اطلاعات سربرگ</h2>
+    <div class="grid">
+      <div><label>استان</label><input id="province" placeholder="قم" /></div>
+      <div><label>پرونده - واحد</label><input id="case_unit" placeholder="11 دستگاهی رستمی-خانی – شرکت توزیع قم" /></div>
+      <div><label>آدرس</label><input id="address" placeholder="اداره أموال تملیکی" /></div>
+      <div><label>شماره گزارش</label><input id="report_number" placeholder="ZTG-1405-0023" /></div>
+      <div><label>تاریخ کشف (شمسی)</label><input id="discovery_date" placeholder="1404/08/03" /></div>
+      <div><label>تاریخ گزارش (شمسی)</label><input id="report_date" placeholder="1405/04/31" /></div>
+      <div><label>تائید مسئول مربوطه</label><input id="approver" placeholder="مهندس نجفی" /></div>
+      <div><label>تعداد دستگاه بررسی شده</label><input id="device_count" placeholder="11 دستگاه" /></div>
+    </div>
+    <div style="margin-top:12px"><label>توضیحات کارشناسی</label><textarea id="expert_notes" rows="2"></textarea></div>
+  </section>
+
+  <section>
+    <h2>۲) عکس‌ها</h2>
+    <p style="font-size:12px;color:#48506b;margin-top:0">
+      برای تفکیک دستگاه‌ها، نام فایل‌ها را با شماره دستگاه شروع کنید (مثل <code>3-label.jpg</code> و <code>3-log.png</code>).
+      در غیر این صورت عکس‌ها به ترتیب زمان عکس‌برداری، دو به دو (لیبل + لاگ) گروه می‌شوند.
+    </p>
+    <div class="actions">
+      <input type="file" id="images" multiple accept="image/*" />
+      <button id="scan">اسکن عکس‌ها</button>
+      <span id="status"></span>
+    </div>
+  </section>
+
+  <section>
+    <h2>۳) بازبینی و اصلاح</h2>
+    <table id="devices">
+      <thead>
+        <tr>
+          <th>#</th><th>مدل</th><th>هش‌ریت</th><th>سریال</th>
+          <th>تاریخ استارت (میلادی)</th><th>آمپر</th><th>مدت کارکرد</th><th>وضعیت</th>
+        </tr>
+      </thead>
+      <tbody></tbody>
+    </table>
+    <div class="actions" style="margin-top:14px">
+      <button class="ghost" id="recalc">محاسبه مدت کارکرد</button>
+      <button id="docx">دریافت وورد</button>
+      <button id="pdf">دریافت PDF</button>
+    </div>
+  </section>
+</main>
+<script>
+const HEADER_FIELDS = ["province","case_unit","address","report_number","discovery_date","report_date","approver","device_count","expert_notes"];
+let session = null;
+let devices = [];
+
+const status = (text) => { document.getElementById("status").textContent = text; };
+const header = () => Object.fromEntries(HEADER_FIELDS.map(f => [f, document.getElementById(f).value.trim()]));
+
+function render() {
+  const body = document.querySelector("#devices tbody");
+  body.innerHTML = "";
+  devices.forEach((device, row) => {
+    const tr = document.createElement("tr");
+    tr.innerHTML = `
+      <td>${device.index}</td>
+      <td><input data-row="${row}" data-key="model" value="${device.model || ""}" /></td>
+      <td><input data-row="${row}" data-key="hashrate" value="${device.hashrate || ""}" /></td>
+      <td><input data-row="${row}" data-key="serial" value="${device.serial || ""}" /></td>
+      <td><input data-row="${row}" data-key="start_date" value="${device.start_date || ""}" placeholder="2025-09-11" /></td>
+      <td><input data-row="${row}" data-key="amps" value="${device.amps || ""}" /></td>
+      <td>${device.days ?? "-"}</td>
+      <td class="warn">${(device.warnings || []).join("؛ ")}</td>`;
+    body.appendChild(tr);
+  });
+  body.querySelectorAll("input").forEach(input => {
+    input.addEventListener("change", () => {
+      devices[input.dataset.row][input.dataset.key] = input.value.trim();
+    });
+  });
+}
+
+document.getElementById("scan").addEventListener("click", async () => {
+  const picked = document.getElementById("images").files;
+  if (!picked.length) { status("ابتدا عکس‌ها را انتخاب کنید."); return; }
+  const form = new FormData();
+  for (const file of picked) form.append("images", file);
+  status("در حال اسکن و OCR… (چند ثانیه برای هر عکس)");
+  const response = await fetch("/api/scan", { method: "POST", body: form });
+  const data = await response.json();
+  if (!response.ok) { status(data.error || "خطا در اسکن"); return; }
+  session = data.session;
+  devices = data.devices;
+  if (!document.getElementById("report_date").value) {
+    document.getElementById("report_date").value = data.report_date;
+  }
+  if (!document.getElementById("device_count").value) {
+    document.getElementById("device_count").value = `${devices.length} دستگاه`;
+  }
+  status(`${devices.length} دستگاه شناسایی شد.`);
+  render();
+});
+
+document.getElementById("recalc").addEventListener("click", async () => {
+  if (!devices.length) return;
+  const response = await fetch("/api/summary", {
+    method: "POST", headers: { "Content-Type": "application/json" },
+    body: JSON.stringify({ header: header(), devices })
+  });
+  const rows = await response.json();
+  if (!response.ok) { status(rows.error || "تاریخ کشف را بررسی کنید."); return; }
+  rows.forEach((row, index) => { devices[index].days = row["مدت کارکرد (روز)"]; });
+  status("مدت کارکرد به‌روز شد.");
+  render();
+});
+
+async function download(format) {
+  if (!devices.length) { status("ابتدا عکس‌ها را اسکن کنید."); return; }
+  if (!document.getElementById("discovery_date").value.trim()) { status("تاریخ کشف را وارد کنید."); return; }
+  status("در حال ساخت گزارش…");
+  const response = await fetch("/api/report", {
+    method: "POST", headers: { "Content-Type": "application/json" },
+    body: JSON.stringify({ header: header(), devices, session, format })
+  });
+  if (!response.ok) {
+    const error = await response.json().catch(() => ({}));
+    status(error.error || "ساخت گزارش ناموفق بود.");
+    return;
+  }
+  const blob = await response.blob();
+  const link = document.createElement("a");
+  link.href = URL.createObjectURL(blob);
+  link.download = format === "pdf" ? "report.pdf" : "report.docx";
+  link.click();
+  status("گزارش دانلود شد.");
+}
+
+document.getElementById("docx").addEventListener("click", () => download("docx"));
+document.getElementById("pdf").addEventListener("click", () => download("pdf"));
+</script>
+</body>
+</html>

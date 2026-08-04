@@ -1,0 +1,7 @@
+template.docx
+devices.json
+*.docx
+*.pdf
+__pycache__/
+photos/
+out/
