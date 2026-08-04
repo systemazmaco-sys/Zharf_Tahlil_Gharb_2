@@ -8,6 +8,10 @@
 
   var CONFIG = {
     engineer: 'مهندس سعیدی‌نژاد',
+    // نام نماینده‌ای که در گفت‌وگو حضور دارد.
+    agentName: 'مهندس محمدی',
+    // عکس نماینده؛ صفحه‌ها همگی در ریشه‌ی سایت هستند، پس مسیر نسبی کافی است.
+    avatar: 'agent.jpg',
     // حق‌الزحمه‌ی کارشناسی هر دستگاه به ریال، با احتساب بیمه و مالیات.
     // اسکان و ایاب‌وذهاب جداگانه و بر عهده‌ی شرکت توزیع است.
     feePerDeviceRials: 18750000,
@@ -35,14 +39,17 @@
     'padding:12px 18px;font-family:inherit;font-size:14px;font-weight:600;cursor:pointer;box-shadow:0 10px 26px rgba(3,8,14,.45)}',
     '.ztg-launcher:hover{background:#f5b34a}',
     '.ztg-launcher svg{width:20px;height:20px;flex-shrink:0}',
+    '.ztg-launcher img{width:26px;height:26px;border-radius:50%;object-fit:cover;flex-shrink:0;border:1px solid rgba(23,16,8,.35)}',
     '.ztg-badge{position:absolute;top:-4px;right:-4px;width:12px;height:12px;border-radius:50%;background:#4fb3a8;border:2px solid #0a1420}',
     '.ztg-panel{display:none;flex-direction:column;width:370px;max-width:calc(100vw - 32px);height:540px;max-height:calc(100vh - 110px);',
     'background:#0f1e30;border:1px solid #1e3450;border-radius:10px;overflow:hidden;box-shadow:0 24px 60px rgba(3,8,14,.6)}',
     '.ztg-bot.open .ztg-panel{display:flex}',
     '.ztg-bot.open .ztg-launcher{display:none}',
     '.ztg-head{display:flex;align-items:center;gap:11px;padding:14px 16px;background:#122438;border-bottom:1px solid #1e3450}',
-    '.ztg-avatar{width:36px;height:36px;border-radius:50%;background:#0a1420;border:1px solid #8a6428;display:flex;align-items:center;justify-content:center;flex-shrink:0}',
-    '.ztg-avatar svg{width:19px;height:19px}',
+    '.ztg-avatar{width:38px;height:38px;border-radius:50%;background:#0a1420;border:1px solid #8a6428;object-fit:cover;flex-shrink:0}',
+    '.ztg-hero{align-self:center;text-align:center;padding:8px 0 2px}',
+    '.ztg-hero img{width:88px;height:88px;border-radius:50%;object-fit:cover;border:2px solid #e0982f;box-shadow:0 8px 22px rgba(3,8,14,.55)}',
+    '.ztg-hero b{display:block;margin-top:9px;font-size:15px;color:#f5b34a;font-weight:600}',
     '.ztg-title{flex:1;min-width:0;line-height:1.5}',
     '.ztg-title strong{display:block;font-size:13.5px;color:#e7edf5;font-weight:600}',
     '.ztg-title span{display:block;font-size:11px;color:#6d84a0;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}',
@@ -186,12 +193,12 @@
     root.className = 'ztg-bot';
     root.innerHTML =
       '<button class="ztg-launcher" type="button" aria-label="گفت‌وگو با نماینده‌ی ' + CONFIG.engineer + '">' +
-        ICON_CHAT + '<span>گفت‌وگو با نماینده</span><span class="ztg-badge"></span>' +
+        '<img src="' + CONFIG.avatar + '" alt="">' + '<span>گفت‌وگو با نماینده</span><span class="ztg-badge"></span>' +
       '</button>' +
       '<div class="ztg-panel" role="dialog" aria-label="گفت‌وگو با نماینده‌ی ' + CONFIG.engineer + '">' +
         '<div class="ztg-head">' +
-          '<div class="ztg-avatar">' + ICON_AGENT + '</div>' +
-          '<div class="ztg-title"><strong>نماینده‌ی ' + CONFIG.engineer + '</strong><span></span></div>' +
+          '<img class="ztg-avatar" src="' + CONFIG.avatar + '" alt="' + CONFIG.agentName + '">' +
+          '<div class="ztg-title"><strong>' + CONFIG.agentName + '</strong><span></span></div>' +
           '<button class="ztg-close" type="button" aria-label="بستن گفت‌وگو">&times;</button>' +
         '</div>' +
         '<div class="ztg-log" id="ztgLog" aria-live="polite"></div>' +
@@ -202,8 +209,7 @@
     this.root = root;
     this.log = root.querySelector('#ztgLog');
     this.foot = root.querySelector('#ztgFoot');
-    root.querySelector('.ztg-title span').textContent =
-      this.company ? this.company.label : 'ژرف تحلیل غرب';
+    root.querySelector('.ztg-title span').textContent = 'نماینده‌ی ' + CONFIG.engineer;
 
     var self = this;
     root.querySelector('.ztg-launcher').addEventListener('click', function () { self.open(); });
@@ -381,11 +387,14 @@
 
   Bot.prototype.greet = function () {
     var self = this;
-    var who = this.company
-      ? 'من نماینده‌ی ' + CONFIG.engineer + ' در <b>' + this.escape(this.company.label) + '</b> هستم.'
-      : 'من نماینده‌ی ' + CONFIG.engineer + ' هستم.';
+    var hero = document.createElement('div');
+    hero.className = 'ztg-hero';
+    hero.innerHTML = '<img src="' + CONFIG.avatar + '" alt="">' +
+      '<b>' + CONFIG.agentName + '</b>';
+    this.log.appendChild(hero);
+    this.scroll();
 
-    this.say('با عرض سلام و وقت بخیر، ' + who + ' هر سؤالی دارید من در خدمتم.')
+    this.say('با عرض سلام و وقت بخیر، من ' + CONFIG.agentName + '، نماینده‌ی ' + CONFIG.engineer + ' هستم. هر سؤالی دارید من در خدمتم.')
       .then(function () {
         return self.say('می‌خواهید درباره‌ی نحوه‌ی ثبت درخواست کارشناسی یا همکاری کمکتان کنم؟ یا محاسبه‌ی میزان حق‌الزحمه‌ی کارشناسی به ازای هر دستگاه؟ و یا اگر پیغامی برای مهندس دارید بگویید تا به ایشان اطلاع بدهم.');
       })
