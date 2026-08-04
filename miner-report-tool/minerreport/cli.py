@@ -52,6 +52,7 @@ def command_scan(args) -> int:
         return 1
     header = _header_from_args(args, len(devices))
     data_path = Path(args.data).expanduser()
+    data_path.parent.mkdir(parents=True, exist_ok=True)
     save_payload(data_path, header, devices)
     _print_summary(header, devices)
     print(f"\nفایل داده ذخیره شد: {data_path}")
