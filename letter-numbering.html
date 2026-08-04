@@ -48,6 +48,63 @@ body{
   opacity:.55;
 }
 .wrap > *{ padding-right:34px; }
+#authGate{
+  min-height:100vh;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  padding:24px;
+}
+.auth-card{
+  width:min(100%, 390px);
+  background:var(--panel);
+  border:1px solid var(--line);
+  border-radius:10px;
+  padding:30px 26px;
+  box-shadow:0 18px 50px rgba(0,0,0,.22);
+}
+.auth-card h1{
+  margin:0 0 8px;
+  color:var(--cream);
+  font-size:22px;
+}
+.auth-card p{
+  margin:0 0 24px;
+  color:var(--muted);
+  font-size:13px;
+}
+.auth-field{ margin-bottom:14px; }
+.auth-field input{
+  width:100%;
+  background:var(--navy-2);
+  border:1px solid var(--line);
+  color:var(--cream);
+  border-radius:6px;
+  padding:11px 12px;
+  font-family:inherit;
+  font-size:16px;
+}
+.auth-field input:focus{ outline:none; border-color:var(--teal-2); }
+.auth-btn{
+  width:100%;
+  background:var(--gold);
+  color:#1a1400;
+  border:none;
+  border-radius:6px;
+  padding:12px 20px;
+  font-family:inherit;
+  font-size:14px;
+  font-weight:700;
+  cursor:pointer;
+}
+.auth-btn:hover{ background:#dab434; }
+.auth-btn:disabled{ opacity:.5; cursor:default; }
+#authErr{
+  min-height:20px;
+  margin-top:12px;
+  color:var(--danger);
+  font-size:12px;
+}
 
 header{
   display:flex;
@@ -92,6 +149,7 @@ header{
 }
 .status-pill.ok{ color:#7fbf8f; border-color:#2c4a34; }
 .status-pill.err{ color:var(--danger); border-color:var(--danger); }
+.logout-btn{ padding:4px 9px; font-size:11px; }
 
 .stampbox{
   background:var(--panel);
@@ -269,7 +327,26 @@ footer{
 </style>
 </head>
 <body>
-<div class="wrap">
+<div id="authGate">
+  <div class="auth-card">
+    <h1>ورود به دفتر اندیکاتور</h1>
+    <p>این بخش خصوصی است؛ برای ادامه وارد شوید.</p>
+    <form id="authForm">
+      <div class="auth-field">
+        <label for="authEmail">ایمیل</label>
+        <input type="email" id="authEmail" autocomplete="username" required>
+      </div>
+      <div class="auth-field">
+        <label for="authPass">رمز عبور</label>
+        <input type="password" id="authPass" autocomplete="current-password" required>
+      </div>
+      <button type="submit" class="auth-btn" id="authBtn">ورود</button>
+      <div id="authErr" role="alert"></div>
+    </form>
+  </div>
+</div>
+
+<div class="wrap" id="app" style="display:none">
   <div class="spine"></div>
 
   <header>
@@ -280,6 +357,7 @@ footer{
     <div style="display:flex; align-items:center; gap:8px;">
       <span class="status-pill" id="statusPill">در حال اتصال...</span>
       <span class="badge" id="yearBadge">سال ...</span>
+      <button type="button" class="ghost-btn logout-btn" id="logoutBtn" style="display:none">خروج</button>
     </div>
   </header>
 
@@ -327,7 +405,7 @@ footer{
   <div class="empty-state" id="emptyState" style="display:none;">هنوز نامه‌ای ثبت نشده — با دکمه بالا اولین شماره را صادر کنید.</div>
 
   <footer>
-    قالب شماره: ZTG-سال-ترتیب (مثال ZTG-1405-001) — شماره‌گذاری هر سال شمسی از ۱ آغاز می‌شود. اطلاعات این دفتر روی یک پایگاه‌دادهٔ آنلاین (Supabase) ذخیره می‌شود و از هر دستگاهی قابل دسترسی است.
+    قالب شماره: ZTG-سال-ترتیب (مثال ZTG-1405-001) — شماره‌گذاری هر سال شمسی از ۱ آغاز می‌شود. اطلاعات این دفتر روی یک پایگاه‌دادهٔ آنلاین (Supabase) ذخیره می‌شود و دسترسی به آن فقط برای حساب‌های مجاز امکان‌پذیر است.
   </footer>
 </div>
 
@@ -612,7 +690,68 @@ document.getElementById('exportBtn').addEventListener('click', exportCsv);
 document.getElementById('printBtn').addEventListener('click', () => window.print());
 document.getElementById('refreshBtn').addEventListener('click', loadEntries);
 
-loadEntries();
+const authGate = document.getElementById('authGate');
+const app = document.getElementById('app');
+const logoutBtn = document.getElementById('logoutBtn');
+const authForm = document.getElementById('authForm');
+const authEmail = document.getElementById('authEmail');
+const authPass = document.getElementById('authPass');
+const authBtn = document.getElementById('authBtn');
+const authErr = document.getElementById('authErr');
+
+function showApp(){
+  authGate.style.display = 'none';
+  app.style.display = 'block';
+  logoutBtn.style.display = 'inline-block';
+}
+
+function showGate(){
+  authGate.style.display = 'flex';
+  app.style.display = 'none';
+  logoutBtn.style.display = 'none';
+}
+
+authForm.addEventListener('submit', async event => {
+  event.preventDefault();
+  authBtn.disabled = true;
+  authErr.textContent = '';
+  try{
+    const { error } = await sb.auth.signInWithPassword({
+      email: authEmail.value.trim(),
+      password: authPass.value
+    });
+    if (error) authErr.textContent = 'ایمیل یا رمز عبور نادرست است.';
+  }catch(error){
+    console.error(error);
+    authErr.textContent = 'ایمیل یا رمز عبور نادرست است.';
+  }finally{
+    authBtn.disabled = false;
+  }
+});
+
+logoutBtn.addEventListener('click', async () => {
+  await sb.auth.signOut();
+  showGate();
+});
+
+sb.auth.onAuthStateChange((event, session) => {
+  if (session) {
+    showApp();
+    loadEntries();
+  } else {
+    showGate();
+  }
+});
+
+(async function initAuth(){
+  const { data: { session } } = await sb.auth.getSession();
+  if (session) {
+    showApp();
+    loadEntries();
+  } else {
+    showGate();
+  }
+})();
 </script>
 </body>
 </html>
