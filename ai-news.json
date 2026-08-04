@@ -1,29 +1,69 @@
 {
-  "updated_at": "2026-08-04T00:05:46.058Z",
+  "updated_at": "2026-08-04T19:17:37.915Z",
   "items": [
     {
-      "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
-      "url": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-08-03T23:19:50.000Z",
-      "summary": "After a quarter that delivered $1 billion in profit, Palantir CEO Alex Karp on Monday once again warned that AI frontier labs are too untrustworthy for enterprises."
+      "title": "خالق ChatGPT به دلیل تبعیض علیه کارگران آمریکایی جریمه شد",
+      "url": "https://www.zoomit.ir/business/464529-openai-settles-doj-discrimination-lawsuit/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-08-04T18:49:54.000Z",
+      "summary": "اوپن‌ای‌آی برای حل‌وفصل شکایت وزارت دادگستری آمریکا، ۳.۲ میلیون دلار جریمه پرداخت می‌کند."
     },
     {
-      "title": "AWS is helping vibe-coding startup Superblocks, and the implications are big",
-      "url": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/",
+      "title": "Spotify expands AI remix and covers project with Merlin partnership",
+      "url": "https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort/",
       "source": "TechCrunch AI",
       "lang": "en",
-      "published": "2026-08-03T20:00:00.000Z",
-      "summary": "AWS now allows vibe-coding tool Superblocks to be embedded into the private clouds of AWS customers. It's another step toward decoupling apps from models."
+      "published": "2026-08-04T15:50:06.000Z",
+      "summary": "Spotify says Merlin, which represents more than 30,000 independent labels and distributors, has joined Universal Music Group in backing its upcoming AI-powered remix and covers product. The paid tool will let fans create"
     },
     {
-      "title": "Design Arena creators raise $7.9 million to bring taste to AI models",
-      "url": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
+      "title": "Texas halts new data centers as governor calls for audits",
+      "url": "https://techcrunch.com/2026/08/04/texas-halts-new-data-centers-as-governor-calls-for-audits/",
       "source": "TechCrunch AI",
       "lang": "en",
-      "published": "2026-08-03T19:28:57.000Z",
-      "summary": "Design Arena is used by 5.3 million people around the world, providing critical human evaluations to frontier labs."
+      "published": "2026-08-04T15:42:35.000Z",
+      "summary": "Tech companies and developers have been scouring the U.S. for places to build data centers, and they’ve been drawn to Texas’ loose regulations and seemingly abundant power supply. But even Texas can be pushed to the brin"
+    },
+    {
+      "title": "Elon Musk spends half his time talking robots and AI on Tesla earnings calls",
+      "url": "https://techcrunch.com/2026/08/04/elon-musk-spends-half-his-time-talking-robots-and-ai-on-tesla-earnings-calls/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-08-04T15:20:06.000Z",
+      "summary": "An analysis of the last seven years of Tesla earnings calls shows just little attention Musk pays to Tesla's car business."
+    },
+    {
+      "title": "آیا هوش مصنوعی می‌تواند به رمزگشایی زبان‌های گمشده کمک کند؟",
+      "url": "https://www.zoomit.ir/human-science/464388-ai-lost-languages-deciphering/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-08-04T13:30:00.000Z",
+      "summary": "هوش مصنوعی با تحلیل سریع الگوها و آزمودن فرضیه‌ها به کمک زبان‌شناسان آمده است، اما موفقیت آن همچنان به حدس و گمان‌های انسانی بستگی دارد."
+    },
+    {
+      "title": "تلویزیون‌های هوش مصنوعی ۲۰۲۶ ال‌جی در ابعاد بزرگ رونمایی شدند",
+      "url": "https://www.zoomit.ir/tv/464504-lg-2026-ai-tv-lineup/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-08-04T08:36:57.000Z",
+      "summary": "ال‌جی از مجموعه‌ی جدید تلویزیون‌های هوش مصنوعی سال ۲۰۲۶ رونمایی کرد که شامل ۲۵ مدل غول‌پیکر با فناوری‌های پیشرفته است."
+    },
+    {
+      "title": "New ways to learn and teach with ChatGPT Work and Codex",
+      "url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
+      "source": "OpenAI",
+      "lang": "en",
+      "published": "2026-08-04T00:00:00.000Z",
+      "summary": "Explore new education plugins for ChatGPT Work and Codex that help K–12 teachers, college educators, and students learn, teach, research, and build."
+    },
+    {
+      "title": "Apple is getting this wrong",
+      "url": "https://openai.com/index/apple-is-getting-this-wrong",
+      "source": "OpenAI",
+      "lang": "en",
+      "published": "2026-08-03T22:00:00.000Z",
+      "summary": "OpenAI addresses Apple’s baseless lawsuit, corrects claims about its employees, and shares messages documenting what happened."
     },
     {
       "title": "Trump’s AI protectionism has come for robotics",
@@ -32,46 +72,6 @@
       "lang": "en",
       "published": "2026-08-03T18:43:30.000Z",
       "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Humanoid robots usually elicit more cringe than awe: They stumble, kick children, "
-    },
-    {
-      "title": "پیشرفت‌های هوش مصنوعی چین چگونه باعث دو دستگی در دره سیلیکون و دولت ترامپ شد؟",
-      "url": "https://digiato.com/artificial-intelligence/china-tech-advances-silicon-valley-trump-chaos",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-08-03T18:30:00.000Z",
-      "summary": "پیشرفت‌های شتابان چین در تولید هوش مصنوعی متن‌باز، رباتیک و تراشه‌های سخت‌افزاری، معادله برتری تکنولوژیک آمریکا را برهم زده است. The post پیشرفت‌های هوش مصنوعی چین چگونه باعث دو دستگی در دره سیلیکون و دولت ترامپ شد؟ appe"
-    },
-    {
-      "title": "تصاویر گوگل‌بوک لنوو لو رفت؛ لپ‌تاپ متفاوت با دکمه هوش مصنوعی",
-      "url": "https://www.zoomit.ir/laptop/464462-lenovo-googlebook-leaks-laptop-tablet/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-08-03T14:55:00.000Z",
-      "summary": "تصاویر رسمی فاش‌شده از گوگل‌بوک‌های لنوو، طراحی لپ‌تاپ و یک تبلت دوکاره را با دکمه‌ی اختصاصی جمنای فاش کردند."
-    },
-    {
-      "title": "قانون شفافیت هوش مصنوعی در اتحادیه اروپا به اجرا درآمد",
-      "url": "https://digiato.com/artificial-intelligence/eu-ai-act-transparency-rules-enforced",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-08-03T14:30:00.000Z",
-      "summary": "اجرای این مقررات با هدف افزایش اعتماد کاربران و مقابله با انتشار اخبار کذب در سراسر اروپا آغاز شده است. The post قانون شفافیت هوش مصنوعی در اتحادیه اروپا به اجرا درآمد appeared first on دیجیاتو."
-    },
-    {
-      "title": "نمایش اشتباه نقشه آفریقا؛ دردسر هوش مصنوعی برای آمریکا در کنفرانس ایدز",
-      "url": "https://www.zoomit.ir/science/464406-ai-generated-map-african-country-wrong/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-08-03T11:10:00.000Z",
-      "summary": "وزارت خارجه آمریکا در کنفرانس جهانی ایدز در برزیل، نقشه‌ای از آفریقا را نمایش داد که با هوش مصنوعی تولید شده و کشورها در آن اشتباه نشان داده شده بود."
-    },
-    {
-      "title": "یوتیوب پاک‌سازی ویدیوهای هوش مصنوعی را شروع کرد",
-      "url": "https://www.zoomit.ir/ai-articles/464433-youtube-removes-ai-spam-channels/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-08-03T09:03:22.000Z",
-      "summary": "یوتیوب در ۶ ماه گذشته بیش از ۱۳۰ هزار کانال مرتبط با محتوای بی‌کیفیت و اسپم تولیدشده با هوش مصنوعی را مسدود کرد."
     },
     {
       "title": "Here’s why AI agents lie and cheat to reach their goals",
@@ -90,12 +90,12 @@
       "summary": "GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations."
     },
     {
-      "title": "Ten advances in mathematics and theoretical computer science",
-      "url": "https://openai.com/index/ten-advances-in-mathematics",
-      "source": "OpenAI",
+      "title": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
+      "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
+      "source": "Google DeepMind",
       "lang": "en",
-      "published": "2026-08-01T00:00:00.000Z",
-      "summary": "OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity."
+      "published": "2026-07-30T15:00:59.000Z",
+      "summary": "Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks. It represents a step change in video understanding, tool orchestration, and multi-robot collaboration for robotic applications."
     }
   ]
 }
