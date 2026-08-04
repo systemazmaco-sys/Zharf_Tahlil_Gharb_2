@@ -17,7 +17,7 @@
   .grid { display:grid; grid-template-columns:repeat(auto-fit,minmax(220px,1fr)); gap:12px; }
   label { display:block; font-size:12px; margin-bottom:4px; color:#48506b; }
   input, textarea, button { font-family:inherit; font-size:13px; }
-  input, textarea { width:100%; padding:8px; border:1px solid var(--line); border-radius:6px; }
+  input, textarea, select { width:100%; padding:8px; border:1px solid var(--line); border-radius:6px; font-family:inherit; font-size:13px; }
   button { background:var(--navy); color:#fff; border:0; border-radius:6px; padding:10px 16px; cursor:pointer; }
   button.ghost { background:#fff; color:var(--navy); border:1px solid var(--navy); }
   button:disabled { opacity:.5; cursor:default; }
@@ -27,23 +27,40 @@
   td input { padding:5px; }
   .warn { color:#b3261e; font-size:11px; }
   .actions { display:flex; gap:10px; flex-wrap:wrap; align-items:center; }
-  #status { font-size:13px; color:#48506b; }
+  #status { position:sticky; bottom:0; display:block; background:#fff; border:1px solid var(--line);
+            border-radius:8px; padding:10px 14px; font-size:13px; color:#48506b; margin-top:8px; }
 </style>
 </head>
 <body>
 <header>
   <h1>ساخت گزارش تخلیه اطلاعاتی دستگاه‌های ماینر</h1>
-  <p>عکس لیبل و اسکرین‌شات لاگ هر دستگاه را انتخاب کنید؛ مدل، سریال و تاریخ آخرین یوزر به‌صورت خودکار خوانده می‌شود.</p>
+  <p>پوشه هر پرونده را روی سیستم بسازید و عکس لیبل و لاگ دستگاه‌ها را در آن بگذارید؛ مدل، سریال و تاریخ آخرین یوزر به‌صورت خودکار خوانده می‌شود.</p>
 </header>
 <main>
   <section>
-    <h2>۱) اطلاعات سربرگ</h2>
+    <h2>۱) پرونده</h2>
+    <p style="font-size:12px;color:#48506b;margin-top:0">
+      پوشه پرونده‌ها: <code id="cases_root">…</code> — برای هر پرونده یک پوشه بسازید و عکس‌ها را با نام
+      <code>1-label.jpg</code> و <code>1-log.jpg</code> داخل آن بگذارید.
+    </p>
+    <div class="grid">
+      <div><label>نام پرونده</label><select id="case"></select></div>
+      <div style="align-self:end" class="actions">
+        <button class="ghost" id="refresh_cases">به‌روزرسانی فهرست</button>
+        <button class="ghost" id="open_folder">باز کردن پوشه</button>
+      </div>
+      <div><label>تاریخ کشف (شمسی)</label><input id="discovery_date" placeholder="1404/08/03" /></div>
+      <div style="align-self:end" class="actions"><button id="scan_case">خواندن عکس‌های پرونده</button></div>
+    </div>
+  </section>
+
+  <section>
+    <h2>۲) اطلاعات سربرگ</h2>
     <div class="grid">
       <div><label>استان</label><input id="province" placeholder="قم" /></div>
       <div><label>پرونده - واحد</label><input id="case_unit" placeholder="11 دستگاهی رستمی-خانی – شرکت توزیع قم" /></div>
       <div><label>آدرس</label><input id="address" placeholder="اداره أموال تملیکی" /></div>
       <div><label>شماره گزارش</label><input id="report_number" placeholder="ZTG-1405-0023" /></div>
-      <div><label>تاریخ کشف (شمسی)</label><input id="discovery_date" placeholder="1404/08/03" /></div>
       <div><label>تاریخ گزارش (شمسی)</label><input id="report_date" placeholder="1405/04/31" /></div>
       <div><label>تائید مسئول مربوطه</label><input id="approver" placeholder="مهندس نجفی" /></div>
       <div><label>تعداد دستگاه بررسی شده</label><input id="device_count" placeholder="11 دستگاه" /></div>
@@ -52,20 +69,20 @@
   </section>
 
   <section>
-    <h2>۲) عکس‌ها</h2>
+    <h2>۳) عکس‌ها (اختیاری: انتخاب دستی فایل‌ها)</h2>
     <p style="font-size:12px;color:#48506b;margin-top:0">
-      برای تفکیک دستگاه‌ها، نام فایل‌ها را با شماره دستگاه شروع کنید (مثل <code>3-label.jpg</code> و <code>3-log.png</code>).
+      اگر نمی‌خواهید از پوشه پرونده استفاده کنید، عکس‌ها را از اینجا انتخاب کنید. برای تفکیک دستگاه‌ها،
+      نام فایل‌ها را با شماره دستگاه شروع کنید (مثل <code>3-label.jpg</code> و <code>3-log.png</code>).
       در غیر این صورت عکس‌ها به ترتیب زمان عکس‌برداری، دو به دو (لیبل + لاگ) گروه می‌شوند.
     </p>
     <div class="actions">
       <input type="file" id="images" multiple accept="image/*" />
       <button id="scan">اسکن عکس‌ها</button>
-      <span id="status"></span>
     </div>
   </section>
 
   <section>
-    <h2>۳) بازبینی و اصلاح</h2>
+    <h2>۴) بازبینی و اصلاح</h2>
     <table id="devices">
       <thead>
         <tr>
@@ -77,10 +94,14 @@
     </table>
     <div class="actions" style="margin-top:14px">
       <button class="ghost" id="recalc">محاسبه مدت کارکرد</button>
-      <button id="docx">دریافت وورد</button>
-      <button id="pdf">دریافت PDF</button>
+      <button id="save">ساخت وورد در پوشه پرونده</button>
+      <button id="save_pdf">ساخت PDF در پوشه پرونده</button>
+      <button class="ghost" id="docx">دریافت وورد</button>
+      <button class="ghost" id="pdf">دریافت PDF</button>
     </div>
   </section>
+
+  <span id="status">آماده.</span>
 </main>
 <script>
 const HEADER_FIELDS = ["province","case_unit","address","report_number","discovery_date","report_date","approver","device_count","expert_notes"];
@@ -89,6 +110,39 @@ let devices = [];
 
 const status = (text) => { document.getElementById("status").textContent = text; };
 const header = () => Object.fromEntries(HEADER_FIELDS.map(f => [f, document.getElementById(f).value.trim()]));
+const caseName = () => document.getElementById("case").value;
+
+async function loadCases() {
+  const response = await fetch("/api/cases");
+  const data = await response.json();
+  document.getElementById("cases_root").textContent = data.root;
+  const select = document.getElementById("case");
+  const previous = select.value;
+  select.innerHTML = "";
+  if (!data.cases.length) {
+    select.innerHTML = `<option value="">— پوشه‌ای ساخته نشده —</option>`;
+    status("در پوشه پرونده‌ها هنوز پرونده‌ای نیست؛ یک پوشه بسازید و عکس‌ها را در آن بگذارید.");
+    return;
+  }
+  data.cases.forEach(item => {
+    const option = document.createElement("option");
+    option.value = item.name;
+    option.textContent = `${item.name} (${item.images} عکس)`;
+    select.appendChild(option);
+  });
+  if (previous) select.value = previous;
+}
+
+function applyScan(data) {
+  devices = data.devices;
+  if (!document.getElementById("report_date").value) {
+    document.getElementById("report_date").value = data.report_date;
+  }
+  if (!document.getElementById("device_count").value) {
+    document.getElementById("device_count").value = `${devices.length} دستگاه`;
+  }
+  render();
+}
 
 function render() {
   const body = document.querySelector("#devices tbody");
@@ -123,15 +177,40 @@ document.getElementById("scan").addEventListener("click", async () => {
   const data = await response.json();
   if (!response.ok) { status(data.error || "خطا در اسکن"); return; }
   session = data.session;
-  devices = data.devices;
-  if (!document.getElementById("report_date").value) {
-    document.getElementById("report_date").value = data.report_date;
-  }
-  if (!document.getElementById("device_count").value) {
-    document.getElementById("device_count").value = `${devices.length} دستگاه`;
-  }
+  applyScan(data);
   status(`${devices.length} دستگاه شناسایی شد.`);
-  render();
+});
+
+document.getElementById("refresh_cases").addEventListener("click", loadCases);
+
+document.getElementById("open_folder").addEventListener("click", async () => {
+  const response = await fetch("/api/open-case", {
+    method: "POST", headers: { "Content-Type": "application/json" },
+    body: JSON.stringify({ case: caseName() })
+  });
+  const data = await response.json();
+  status(response.ok ? `پوشه باز شد: ${data.path}` : (data.error || "باز کردن پوشه ناموفق بود."));
+});
+
+document.getElementById("case").addEventListener("change", () => {
+  const unit = document.getElementById("case_unit");
+  if (!unit.value) unit.value = caseName();
+});
+
+document.getElementById("scan_case").addEventListener("click", async () => {
+  if (!caseName()) { status("ابتدا یک پوشه پرونده بسازید و فهرست را به‌روزرسانی کنید."); return; }
+  status("در حال خواندن عکس‌های پرونده و OCR… (چند ثانیه برای هر عکس)");
+  const response = await fetch("/api/scan-case", {
+    method: "POST", headers: { "Content-Type": "application/json" },
+    body: JSON.stringify({ case: caseName() })
+  });
+  const data = await response.json();
+  if (!response.ok) { status(data.error || "خطا در اسکن"); return; }
+  session = null;
+  const unit = document.getElementById("case_unit");
+  if (!unit.value) unit.value = data.case;
+  applyScan(data);
+  status(`${devices.length} دستگاه از پوشه «${data.case}» خوانده شد.`);
 });
 
 document.getElementById("recalc").addEventListener("click", async () => {
@@ -168,8 +247,24 @@ async function download(format) {
   status("گزارش دانلود شد.");
 }
 
+async function saveToCase(format) {
+  if (!devices.length) { status("ابتدا عکس‌ها را اسکن کنید."); return; }
+  if (!caseName()) { status("پرونده انتخاب نشده است."); return; }
+  if (!document.getElementById("discovery_date").value.trim()) { status("تاریخ کشف را وارد کنید."); return; }
+  status("در حال ساخت گزارش…");
+  const response = await fetch("/api/save-report", {
+    method: "POST", headers: { "Content-Type": "application/json" },
+    body: JSON.stringify({ header: header(), devices, case: caseName(), format })
+  });
+  const data = await response.json();
+  status(response.ok ? `ذخیره شد: ${data.files.join(" و ")}` : (data.error || "ساخت گزارش ناموفق بود."));
+}
+
+document.getElementById("save").addEventListener("click", () => saveToCase("docx"));
+document.getElementById("save_pdf").addEventListener("click", () => saveToCase("pdf"));
 document.getElementById("docx").addEventListener("click", () => download("docx"));
 document.getElementById("pdf").addEventListener("click", () => download("pdf"));
+loadCases();
 </script>
 </body>
 </html>
