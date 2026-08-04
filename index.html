@@ -394,6 +394,7 @@
   .res-card{background:var(--bg-panel);padding:20px 22px}
   .res-card h4{font-size:14.5px;margin-bottom:7px;font-weight:600}
   .res-card h4 a{color:var(--text);text-decoration:none}
+  .res-card h4 a[lang="en"]{display:block;text-align:left}
   .res-card h4 a:hover{color:var(--amber-bright)}
   .res-card p{font-size:13px;color:var(--text-dim);margin:0 0 9px}
   .res-card .meta{font-size:11.5px;color:var(--text-faint);display:flex;gap:10px;align-items:center}
@@ -978,8 +979,8 @@
           <h3 style="font-size:16px;margin-bottom:16px;color:var(--text-dim)">تازه‌ترین دستاوردها و اخبار هوش مصنوعی</h3>
           <div class="res-card-list" id="aiNewsList">
             <div class="res-card">
-              <h4><a href="https://deepmind.google/discover/blog/" target="_blank" rel="noopener">در حال دریافت تازه‌ترین اخبار هوش مصنوعی…</a></h4>
-              <p>این فهرست هر چند ساعت یک‌بار از منابع تخصصی هوش مصنوعی به‌صورت خودکار به‌روزرسانی می‌شود.</p>
+              <h4><a href="https://deepmind.google/discover/blog/" target="_blank" rel="noopener">وبلاگ دستاوردهای Google DeepMind</a></h4>
+              <p>تا بارگذاری فهرست خودکار، از همین منبع می‌توانید تازه‌ترین دستاوردهای هوش مصنوعی را دنبال کنید.</p>
               <div class="meta"><span class="live-dot"></span><span>زومیت، دیجیاتو، DeepMind، OpenAI، MIT Technology Review</span></div>
             </div>
           </div>
@@ -1327,6 +1328,14 @@
   // Scroll reveal
   var reduceMotion = !window.matchMedia('(prefers-reduced-motion: no-preference)').matches;
 
+  if (reduceMotion) {
+    // SMIL animations are out of reach of the CSS media query. The fan lives in a
+    // <symbol>, so its timeline belongs to the hidden defs root rather than the card.
+    document.querySelectorAll('.svg-defs, .device-img svg').forEach(svg => {
+      if (svg.pauseAnimations) svg.pauseAnimations();
+    });
+  }
+
   if (!reduceMotion) {
     document.querySelectorAll('section, .stat').forEach(el => el.classList.add('reveal'));
     var io = new IntersectionObserver((entries)=>{
@@ -1420,6 +1429,10 @@
       return isNaN(d) ? '' : faDate.format(d);
     }
 
+    function safeUrl(value){
+      return /^https?:\/\//i.test(String(value == null ? '' : value)) ? value : '#';
+    }
+
     fetch('ai-news.json', { cache: 'no-store' })
       .then(function(res){ if(!res.ok) throw new Error('no news file'); return res.json(); })
       .then(function(data){
@@ -1427,7 +1440,7 @@
         listEl.innerHTML = data.items.slice(0, 6).map(function(item){
           var when = formatDate(item.published);
           return '<div class="res-card">' +
-            '<h4><a href="' + esc(item.url) + '" target="_blank" rel="noopener"' +
+            '<h4><a href="' + esc(safeUrl(item.url)) + '" target="_blank" rel="noopener"' +
               (item.lang === 'en' ? ' lang="en" dir="ltr"' : '') + '>' + esc(item.title) + '</a></h4>' +
             '<div class="meta"><span class="live-dot"></span><span>' + esc(item.source) + '</span>' +
               (when ? '<span>' + esc(when) + '</span>' : '') +
