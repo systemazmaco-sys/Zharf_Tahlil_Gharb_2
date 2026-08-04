@@ -953,7 +953,7 @@
       <div class="res-two-col">
         <div>
           <h3 style="font-size:16px;margin-bottom:16px;color:var(--text-dim)">روش‌های شناسایی ماینر غیرمجاز</h3>
-          <div class="res-card-list">
+          <div class="res-card-list" id="minerNewsList">
             <div class="res-card">
               <h4><a href="https://news.tavanir.org.ir/news/131639/%D9%81%D8%B9%D8%A7%D9%84%DB%8C%D8%AA-%DB%B7%DB%B0%DB%B0-%D9%87%D8%B2%D8%A7%D8%B1-%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%85%D8%A7%DB%8C%D9%86%D8%B1-%D8%BA%DB%8C%D8%B1%D9%85%D8%AC%D8%A7%D8%B2-%D8%AF%D8%B1-%DA%A9%D8%B4%D9%88%D8%B1-%D9%88-%D9%86%D9%82%D8%B4-%D8%A2%D9%86-%D8%AF%D8%B1-%D9%86%D8%A7%D8%AA%D8%B1%D8%A7%D8%B2%DB%8C%D9%87%D8%A7%DB%8C" target="_blank" rel="noopener">داده‌کاوی الگوی مصرف و گزارش‌های مردمی؛ دو ستون اصلی شناسایی</a></h4>
               <p>به گفته‌ی مجری طرح مقابله با استخراج غیرمجاز در توانیر، ترکیب تحلیل داده‌ی مصرف با گزارش‌های شهروندان درباره افت ولتاژ، مؤثرترین مسیر شناسایی ماینرهای پنهان بوده است.</p>
@@ -970,7 +970,7 @@
               <div class="meta"><span>ارز دیجیتال</span></div>
             </div>
           </div>
-          <div class="res-note">این فهرست به‌صورت دستی گردآوری و به‌روزرسانی می‌شود. در صورت تمایل، بخش «مقالات» می‌تواند به مجموعه‌ی گزارش‌های داخلی ژرف تحلیل غرب نیز مجهز شود.</div>
+          <div class="res-note" id="minerNewsNote">این بخش هر چند ساعت یک‌بار به‌صورت خودکار از منابع خبری صنعت برق و کشف ماینر غیرمجاز به‌روزرسانی می‌شود.</div>
         </div>
         <div>
           <h3 style="font-size:16px;margin-bottom:16px;color:var(--text-dim)">تازه‌ترین دستاوردها و اخبار هوش مصنوعی</h3>
@@ -1463,6 +1463,56 @@
           noteEl.textContent = 'اخبار این بخش هر چند ساعت یک‌بار به‌صورت خودکار از منابع تخصصی هوش مصنوعی دریافت و به‌روزرسانی می‌شود.';
         }
         // fallback: static card already in the HTML remains visible
+      });
+  })();
+
+  // Dynamic miner news — loaded from miner-news.json (refreshed by .github/workflows/update-ai-news.yml).
+  // If the file is missing or fetch fails, the static cards in the page stay as-is.
+  (function loadMinerNews(){
+    var listEl = document.getElementById('minerNewsList');
+    var noteEl = document.getElementById('minerNewsNote');
+    if (!listEl) return;
+
+    function esc(value){
+      return String(value == null ? '' : value)
+        .replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;')
+        .replace(/"/g,'&quot;').replace(/'/g,'&#39;');
+    }
+    var faDate = new Intl.DateTimeFormat('fa-IR', {year:'numeric', month:'long', day:'numeric'});
+    function formatDate(value){
+      if(!value) return '';
+      var d = new Date(value);
+      return isNaN(d) ? '' : faDate.format(d);
+    }
+
+    function safeUrl(value){
+      return /^https?:\/\//i.test(String(value == null ? '' : value)) ? value : '#';
+    }
+
+    fetch('miner-news.json', { cache: 'no-store' })
+      .then(function(res){ if(!res.ok) throw new Error('no news file'); return res.json(); })
+      .then(function(data){
+        if (!data.items || !data.items.length) throw new Error('empty');
+        listEl.innerHTML = data.items.slice(0, 5).map(function(item){
+          var when = formatDate(item.published);
+          return '<div class="res-card">' +
+            '<h4><a href="' + esc(safeUrl(item.url)) + '" target="_blank" rel="noopener">' + esc(item.title) + '</a></h4>' +
+            (item.summary ? '<p>' + esc(item.summary) + '</p>' : '') +
+            '<div class="meta"><span class="live-dot"></span><span>' + esc(item.source) + '</span>' +
+              (when ? '<span>' + esc(when) + '</span>' : '') +
+            '</div>' +
+          '</div>';
+        }).join('');
+        if (noteEl && data.updated_at){
+          var d = new Date(data.updated_at);
+          noteEl.textContent = 'آخرین به‌روزرسانی خودکار: ' + d.toLocaleString('fa-IR');
+        }
+      })
+      .catch(function(){
+        if (noteEl){
+          noteEl.textContent = 'این بخش هر چند ساعت یک‌بار به‌صورت خودکار از منابع خبری صنعت برق و کشف ماینر غیرمجاز به‌روزرسانی می‌شود.';
+        }
+        // fallback: static cards already in the HTML remain visible
       });
   })();
 </script>
