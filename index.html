@@ -364,9 +364,6 @@
 .wave-dot{fill:var(--amber-bright);filter:drop-shadow(0 0 5px rgba(224,152,47,.9));opacity:0;transition:opacity .5s ease}
 .track-list li[data-national="1"] .wave-dot{fill:var(--teal-bright,#7fd4c9);filter:drop-shadow(0 0 5px rgba(79,179,168,.9))}
 .track-list li.in .wave-dot{opacity:1}
-@media(prefers-reduced-motion:reduce){
-  .wave-dot{display:none}
-}
   .track-hint{margin-top:16px;font-size:12px;color:var(--text-faint)}
 
   /* NETWORK / ORG DIRECTORY */
@@ -1336,6 +1333,35 @@
     });
   }
 
+  // Partner comparison waves keep running regardless of the motion preference.
+  var trackIO = new IntersectionObserver((entries)=>{
+    entries.forEach(entry=>{
+      if(entry.isIntersecting){
+        entry.target.classList.add('in');
+        var trace = entry.target.querySelector('.wave-trace');
+        if(trace) trace.style.strokeDashoffset = 0;
+        trackIO.unobserve(entry.target);
+      }
+    });
+  }, {threshold:0.4});
+  document.querySelectorAll('.wave-trace').forEach(function(path){
+    var len = path.getTotalLength();
+    path.style.strokeDasharray = len;
+    path.style.strokeDashoffset = len;
+  });
+  // SMIL motion instead of CSS offset-path: Safari/iOS ignores motion paths on SVG elements
+  document.querySelectorAll('.wave-dot').forEach(function(dot){
+    var trace = dot.closest('.wave-group').querySelector('.wave-trace');
+    if(!trace) return;
+    var motion = document.createElementNS('http://www.w3.org/2000/svg','animateMotion');
+    motion.setAttribute('path', trace.getAttribute('d'));
+    motion.setAttribute('dur', '3.4s');
+    motion.setAttribute('repeatCount', 'indefinite');
+    motion.setAttribute('rotate', '0');
+    dot.appendChild(motion);
+  });
+  document.querySelectorAll('.track-list li').forEach(el=>trackIO.observe(el));
+
   if (!reduceMotion) {
     document.querySelectorAll('section, .stat').forEach(el => el.classList.add('reveal'));
     var io = new IntersectionObserver((entries)=>{
@@ -1352,37 +1378,8 @@
       });
     }, {threshold:0.25});
     document.querySelectorAll('.process-list, .process-item').forEach(el=>processIO.observe(el));
-
-    // Partner comparison bars
-    var trackIO = new IntersectionObserver((entries)=>{
-      entries.forEach(entry=>{
-        if(entry.isIntersecting){
-          entry.target.classList.add('in');
-          var trace = entry.target.querySelector('.wave-trace');
-          if(trace) trace.style.strokeDashoffset = 0;
-          trackIO.unobserve(entry.target);
-        }
-      });
-    }, {threshold:0.4});
-    document.querySelectorAll('.wave-trace').forEach(function(path){
-      var len = path.getTotalLength();
-      path.style.strokeDasharray = len;
-      path.style.strokeDashoffset = len;
-    });
-    // SMIL motion instead of CSS offset-path: Safari/iOS ignores motion paths on SVG elements
-    document.querySelectorAll('.wave-dot').forEach(function(dot){
-      var trace = dot.closest('.wave-group').querySelector('.wave-trace');
-      if(!trace) return;
-      var motion = document.createElementNS('http://www.w3.org/2000/svg','animateMotion');
-      motion.setAttribute('path', trace.getAttribute('d'));
-      motion.setAttribute('dur', '3.4s');
-      motion.setAttribute('repeatCount', 'indefinite');
-      motion.setAttribute('rotate', '0');
-      dot.appendChild(motion);
-    });
-    document.querySelectorAll('.track-list li').forEach(el=>trackIO.observe(el));
   } else {
-    document.querySelectorAll('.process-list, .process-item, .track-list li').forEach(el=>el.classList.add('in'));
+    document.querySelectorAll('.process-list, .process-item').forEach(el=>el.classList.add('in'));
   }
 
   // Animated stat counters (Persian numerals, fa-IR grouping)
