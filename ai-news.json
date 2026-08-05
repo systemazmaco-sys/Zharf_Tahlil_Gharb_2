@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-08-04T19:17:37.915Z",
+  "updated_at": "2026-08-05T01:27:27.877Z",
   "items": [
+    {
+      "title": "گوگل هوش مصنوعی جمنای را به پشت گوشی‌هایش می‌آورد!",
+      "url": "https://www.zoomit.ir/mobile/464525-google-pixel-11-hilight-feature/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-08-04T21:15:00.000Z",
+      "summary": "گوگل در گوشی پیکسل ۱۱ از یک ویژگی نوری جدید به نام HiLight در پنل پشتی استفاده خواهد کرد که با دستیار هوش مصنوعی جمنای یکپارچه شده است."
+    },
+    {
+      "title": "SpaceX has bought $329M worth of Tesla Megapacks so far this year",
+      "url": "https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-08-04T21:07:26.000Z",
+      "summary": "The purchase illustrates just how interconnected Elon Musk's universe of companies are."
+    },
+    {
+      "title": "Open-weight AI models are catching up to the frontier. The safety gap remains.",
+      "url": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-08-04T20:05:26.000Z",
+      "summary": "A new SaferAI report finds Z.ai's open-weight GLM-5.2 approaches frontier AI capabilities while lacking key safety mitigations, renewing concerns that powerful open models could outpace governance and safeguards."
+    },
+    {
+      "title": "Anthropic signs $10B deal with AI cloud startup Volta",
+      "url": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-08-04T19:48:40.000Z",
+      "summary": "Anthropic has been on a cloud partnership spree in recent months, and its latest move is reportedly a $10 billion deal with AI cloud startup Volta."
+    },
+    {
+      "title": "ربات Figure 03 با هوش مصنوعی جدید خود حالا می‌تواند از نردبان بالا برود [تماشا کنید]",
+      "url": "https://digiato.com/robotics/figure-03-humanoid-robot-climbs-ladder-autonomously",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-08-04T19:30:00.000Z",
+      "summary": "ارتقا مدل هوش مصنوعی Helix باعث شده تا ربات Figure 03 برای پیمایش خودمختار بتواند ادراک بصری را با کنترل حرکتی کل بدن ترکیب کند. The post ربات Figure 03 با هوش مصنوعی جدید خود حالا می‌تواند از نردبان بالا برود [تماشا کنی"
+    },
+    {
+      "title": "Third-party cyber evaluations involving OpenAI models",
+      "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+      "source": "OpenAI",
+      "lang": "en",
+      "published": "2026-08-04T19:00:00.000Z",
+      "summary": "OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation."
+    },
     {
       "title": "خالق ChatGPT به دلیل تبعیض علیه کارگران آمریکایی جریمه شد",
       "url": "https://www.zoomit.ir/business/464529-openai-settles-doj-discrimination-lawsuit/",
@@ -10,44 +58,12 @@
       "summary": "اوپن‌ای‌آی برای حل‌وفصل شکایت وزارت دادگستری آمریکا، ۳.۲ میلیون دلار جریمه پرداخت می‌کند."
     },
     {
-      "title": "Spotify expands AI remix and covers project with Merlin partnership",
-      "url": "https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-08-04T15:50:06.000Z",
-      "summary": "Spotify says Merlin, which represents more than 30,000 independent labels and distributors, has joined Universal Music Group in backing its upcoming AI-powered remix and covers product. The paid tool will let fans create"
-    },
-    {
-      "title": "Texas halts new data centers as governor calls for audits",
-      "url": "https://techcrunch.com/2026/08/04/texas-halts-new-data-centers-as-governor-calls-for-audits/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-08-04T15:42:35.000Z",
-      "summary": "Tech companies and developers have been scouring the U.S. for places to build data centers, and they’ve been drawn to Texas’ loose regulations and seemingly abundant power supply. But even Texas can be pushed to the brin"
-    },
-    {
-      "title": "Elon Musk spends half his time talking robots and AI on Tesla earnings calls",
-      "url": "https://techcrunch.com/2026/08/04/elon-musk-spends-half-his-time-talking-robots-and-ai-on-tesla-earnings-calls/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-08-04T15:20:06.000Z",
-      "summary": "An analysis of the last seven years of Tesla earnings calls shows just little attention Musk pays to Tesla's car business."
-    },
-    {
       "title": "آیا هوش مصنوعی می‌تواند به رمزگشایی زبان‌های گمشده کمک کند؟",
       "url": "https://www.zoomit.ir/human-science/464388-ai-lost-languages-deciphering/",
       "source": "زومیت",
       "lang": "fa",
       "published": "2026-08-04T13:30:00.000Z",
       "summary": "هوش مصنوعی با تحلیل سریع الگوها و آزمودن فرضیه‌ها به کمک زبان‌شناسان آمده است، اما موفقیت آن همچنان به حدس و گمان‌های انسانی بستگی دارد."
-    },
-    {
-      "title": "تلویزیون‌های هوش مصنوعی ۲۰۲۶ ال‌جی در ابعاد بزرگ رونمایی شدند",
-      "url": "https://www.zoomit.ir/tv/464504-lg-2026-ai-tv-lineup/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-08-04T08:36:57.000Z",
-      "summary": "ال‌جی از مجموعه‌ی جدید تلویزیون‌های هوش مصنوعی سال ۲۰۲۶ رونمایی کرد که شامل ۲۵ مدل غول‌پیکر با فناوری‌های پیشرفته است."
     },
     {
       "title": "New ways to learn and teach with ChatGPT Work and Codex",
@@ -80,22 +96,6 @@
       "lang": "en",
       "published": "2026-08-03T08:30:05.000Z",
       "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. When two OpenAI models hacked into the we"
-    },
-    {
-      "title": "How we built a realtime system for responsive voice AI in six months",
-      "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
-      "source": "OpenAI",
-      "lang": "en",
-      "published": "2026-08-03T07:00:00.000Z",
-      "summary": "GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations."
-    },
-    {
-      "title": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
-      "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
-      "source": "Google DeepMind",
-      "lang": "en",
-      "published": "2026-07-30T15:00:59.000Z",
-      "summary": "Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks. It represents a step change in video understanding, tool orchestration, and multi-robot collaboration for robotic applications."
     }
   ]
 }
