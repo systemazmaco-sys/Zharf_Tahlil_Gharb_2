@@ -1,69 +1,53 @@
 {
-  "updated_at": "2026-08-05T13:40:23.779Z",
+  "updated_at": "2026-08-05T19:12:34.963Z",
   "items": [
     {
-      "title": "MacPaw taps Liquid AI to offer on-device inference to devs building for its app store",
-      "url": "https://techcrunch.com/2026/08/05/macpaw-taps-liquid-ai-to-offer-on-device-inference-to-devs-building-for-its-app-store/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-08-05T12:28:38.000Z",
-      "summary": "MacPaw is building a local version of its AI assistant Eney using Liquid AI's models."
-    },
-    {
-      "title": "کشتی سیاه هوش مصنوعی؛ چرا ژاپن از سلطه تکنولوژیک غرب می‌ترسد؟",
-      "url": "https://www.zoomit.ir/ai-articles/461800-japan-fears-ai-black-ship-featured/",
+      "title": "تغییر بزرگ در تیم هوش مصنوعی گوگل؛ دمیس هاسابیس جابه‌جا شد",
+      "url": "https://www.zoomit.ir/ai-articles/464626-google-deepmind-demis-hassabis-shakeup/",
       "source": "زومیت",
       "lang": "fa",
-      "published": "2026-08-05T11:29:22.000Z",
-      "summary": "توکیو برای رهایی از استعمار دیجیتال غرب، با اتکا به سرمایه‌های کلان و رباتیک پیشرفته، تهدید هوش مصنوعی را به فرصت تبدیل می‌کند."
+      "published": "2026-08-05T17:57:10.000Z",
+      "summary": "گوگل از تغییرات گسترده در ساختار تیم رهبری بخش هوش مصنوعی خود و جابه‌جایی دمیس هاسابیس خبر داد."
     },
     {
-      "title": "AI makes weather prediction better. Can WindBorne make it lucrative?",
-      "url": "https://techcrunch.com/2026/08/05/ai-makes-weather-prediction-better-can-windborne-make-it-lucrative/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-08-05T11:00:00.000Z",
-      "summary": "WindBorne Systems has raised $37 million Series B round to scale its weather balloons and AI forecasts."
-    },
-    {
-      "title": "سامسونگ از اولین تراشه حافظه با بیش از ۴۰۰ لایه برای پردازش هوش مصنوعی رونمایی کرد",
-      "url": "https://digiato.com/computers-hardware/samsung-fms-2026-3d-memory-zhbm-v10",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-08-05T09:30:25.000Z",
-      "summary": "این محصول جدید به لطف فناوری اتصال وافر، تراکم ذخیره‌سازی را تا ۵۸ درصد افزایش داده است و سرعت پردازش سرورهای ابری را بهبود می‌بخشد. The post سامسونگ از اولین تراشه حافظه با بیش از ۴۰۰ لایه برای پردازش هوش مصنوعی رونمایی"
-    },
-    {
-      "title": "نتایج یک نظرسنجی: داستان‌های هوش مصنوعی از نوشته‌های انسانی امتیاز بالاتری گرفتند",
-      "url": "https://digiato.com/artificial-intelligence/ai-generated-stories-higher-quality-study",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-08-05T08:54:47.000Z",
-      "summary": "پژوهش جدید نشان می‌دهد شرکت‌کنندگان کیفیت داستان‌های کوتاه ChatGPT را بالاتر از داستان‌های انسانی ارزیابی کردند. The post نتایج یک نظرسنجی: داستان‌های هوش مصنوعی از نوشته‌های انسانی امتیاز بالاتری گرفتند appeared first o"
-    },
-    {
-      "title": "ایلان ماسک سرورهای هوش مصنوعی انویدیا را به فضا پرتاب می‌کند",
-      "url": "https://www.zoomit.ir/ai-articles/464556-spacex-nvidia-space-data-centers/",
+      "title": "«صفحه‌ اول اینترنت» به استقبال سیستم نظارت با هوش مصنوعی رفت",
+      "url": "https://www.zoomit.ir/social-network/464622-reddit-introduces-ai-moderation-rules-hub/",
       "source": "زومیت",
       "lang": "fa",
-      "published": "2026-08-05T08:30:00.000Z",
-      "summary": "اسپیس‌ایکس در همکاری انحصاری با انویدیا، دیتاسنترهای فضایی مجهزبه سرورهای هوش مصنوعی را در مدار زمین احداث می‌کند."
+      "published": "2026-08-05T16:14:47.000Z",
+      "summary": "ردیت، ملقب‌به صفحه‌ی اول اینترنت، ابزار نظارتی جدیدی را معرفی کرد که از مدل‌های زبانی بزرگ برای مدیریت خودکار انجمن‌ها استفاده می‌کند."
     },
     {
-      "title": "تماشا کنید: با این ابزارهای هوش مصنوعی، زبان انگلیسی را بهتر یاد بگیرید",
-      "url": "https://www.zoomit.ir/video/464561-learning-english-ai-help/",
+      "title": "خالق چت‌بات کلاد، یک تیم اختصاصی برای طراحی تراشه تشکیل می‌دهد",
+      "url": "https://www.zoomit.ir/ai-articles/464620-anthropic-builds-in-house-chip-team/",
       "source": "زومیت",
       "lang": "fa",
-      "published": "2026-08-05T07:13:10.000Z",
-      "summary": "هوش مصنوعی می‌تواند به یادگیری زبان انگلیسی کمک بزرگی کند. در آیتم ویدیویی جدید زومیت شما را راهنمایی می‌کنیم."
+      "published": "2026-08-05T16:00:54.000Z",
+      "summary": "آنتروپیک با هدف افزایش سرعت و کارایی کلاد، در حال تشکیل یک تیم داخلی برای طراحی تراشه‌‌ی اختصاصی است."
     },
     {
-      "title": "SpaceX has bought $329M worth of Tesla Megapacks so far this year",
-      "url": "https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/",
+      "title": "Shopify says AI search is driving more traffic and sales, not replacing Google",
+      "url": "https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google/",
       "source": "TechCrunch AI",
       "lang": "en",
-      "published": "2026-08-04T21:07:26.000Z",
-      "summary": "The purchase illustrates just how interconnected Elon Musk's universe of companies are."
+      "published": "2026-08-05T15:56:14.000Z",
+      "summary": "Shopify says AI isn’t cannibalizing search traffic the way it has for publishers. Instead, AI-driven traffic and orders to Shopify stores tripled year over year in Q2."
+    },
+    {
+      "title": "Hark previews its browser use agent for completing tasks",
+      "url": "https://techcrunch.com/2026/08/05/hark-previews-its-browser-use-agent-for-completing-tasks/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-08-05T15:46:27.000Z",
+      "summary": "Hark claims that its browser use agent is faster and cheaper than competition."
+    },
+    {
+      "title": "TechCrunch Disrupt 2026’s Real World AI Stage features robots, automated factories, and extinct animals",
+      "url": "https://techcrunch.com/2026/08/05/techcrunch-disrupt-2026s-real-world-ai-stage-features-robots-automated-factories-and-extinct-animals/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-08-05T15:05:00.000Z",
+      "summary": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two."
     },
     {
       "title": "Third-party cyber evaluations involving OpenAI models",
@@ -96,6 +80,22 @@
       "lang": "en",
       "published": "2026-08-03T18:43:30.000Z",
       "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Humanoid robots usually elicit more cringe than awe: They stumble, kick children, "
+    },
+    {
+      "title": "Here’s why AI agents lie and cheat to reach their goals",
+      "url": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
+      "source": "MIT Technology Review",
+      "lang": "en",
+      "published": "2026-08-03T08:30:05.000Z",
+      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. When two OpenAI models hacked into the we"
+    },
+    {
+      "title": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
+      "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
+      "source": "Google DeepMind",
+      "lang": "en",
+      "published": "2026-07-30T15:00:59.000Z",
+      "summary": "Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks. It represents a step change in video understanding, tool orchestration, and multi-robot collaboration for robotic applications."
     }
   ]
 }
