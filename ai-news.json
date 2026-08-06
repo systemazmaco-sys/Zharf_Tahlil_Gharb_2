@@ -1,13 +1,53 @@
 {
-  "updated_at": "2026-08-06T08:13:23.848Z",
+  "updated_at": "2026-08-06T13:38:59.719Z",
   "items": [
     {
-      "title": "متا با معرفی ایجنت کدنویسی Muse Code به جنگ Codex و Claude Code رفت",
-      "url": "https://digiato.com/artificial-intelligence/meta-launches-muse-code-ai-agent",
+      "title": "Amid legal battles, Suno says it will start watermarking songs",
+      "url": "https://techcrunch.com/2026/08/06/amid-legal-battles-suno-says-it-will-start-watermarking-songs/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-08-06T13:31:57.000Z",
+      "summary": "Suno's watermarking feature comes as the company is fighting legal battles on several fronts."
+    },
+    {
+      "title": "Ex-Spotify employees raise $10M to bring the AI behind its recommendations to e-commerce",
+      "url": "https://techcrunch.com/2026/08/06/ex-spotify-employees-raise-10m-to-bring-the-ai-behind-its-recommendations-to-e-commerce/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-08-06T13:00:00.000Z",
+      "summary": "The startup's platform predicts what product a shopper wants next, learn their general taste, and fine-tune continuously based on what they do in real time."
+    },
+    {
+      "title": "Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI",
+      "url": "https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-08-06T13:00:00.000Z",
+      "summary": "Mirendil has signed a $100 million-plus Google Cloud partnership to expand its compute infrastructure, powering research into self-improving AI systems designed to accelerate scientific discovery and AI development."
+    },
+    {
+      "title": "استفاده از تصاویر هوش مصنوعی در تبلیغ ایرباد ناتینگ با واکنش تند کاربران مواجه شد",
+      "url": "https://digiato.com/gadgets/nothing-cmf-clip-pro-ai-marketing-backlash",
       "source": "دیجیاتو",
       "lang": "fa",
-      "published": "2026-08-06T06:44:59.000Z",
-      "summary": "زاکربرگ در معرفی این ابزار اعلام کرده که Muse Code می‌تواند شش ویژگی مختلف نرم‌افزاری را هم‌زمان و بدون تداخل توسعه دهد. The post متا با معرفی ایجنت کدنویسی Muse Code به جنگ Codex و Claude Code رفت appeared first on دیجی"
+      "published": "2026-08-06T11:54:48.000Z",
+      "summary": "از چهره‌های ساخت هوش مصنوعی در محتواهای تبلیغاتی ایرباد جدید ناتینگ با نام CMF Clip Pro استفاده شده است. The post استفاده از تصاویر هوش مصنوعی در تبلیغ ایرباد ناتینگ با واکنش تند کاربران مواجه شد appeared first on دیجیات"
+    },
+    {
+      "title": "توقف آپدیت مطالب گراکی‌پدیا؛ دایره‌المعارف هوش مصنوعی ایلان ماسک به گل نشست؟",
+      "url": "https://digiato.com/artificial-intelligence/elon-musk-grokipedia-stopped-updating-reports",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-08-06T10:51:32.000Z",
+      "summary": "گراکی‌پدیا، دایره‌المعارف هوش مصنوعی ایلان ماسک، به دلیل توقف سیستم‌های خودکار از آوریل تاکنون هیچ به‌روزرسانی تازه‌ای دریافت نکرده است. The post توقف آپدیت مطالب گراکی‌پدیا؛ دایره‌المعارف هوش مصنوعی ایلان ماسک به گل نشس"
+    },
+    {
+      "title": "پژوهشگران OpenAI: ایجنت‌ها دور از چشم ما انجمن مخفی برای هک تشکیل داده بودند",
+      "url": "https://digiato.com/artificial-intelligence/openai-agents-secret-message-board-black-hat-hack",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-08-06T09:53:29.000Z",
+      "summary": "پژوهشگران اوپن‌ای‌آی می‌گویند ایجنت‌های هوش مصنوعی با ایجاد انجمنی مخفی درون سیستم شرکت، راهکارهای نفوذ سایبری را به اشتراک گذاشته بودند. The post پژوهشگران OpenAI: ایجنت‌ها دور از چشم ما انجمن مخفی برای هک تشکیل داده بو"
     },
     {
       "title": "وابستگی خطرناک؛ ۷۰ درصد از درآمد هوش مصنوعی مایکروسافت را اوپن‌ای‌آی تأمین می‌کند",
@@ -16,14 +56,6 @@
       "lang": "fa",
       "published": "2026-08-06T06:21:14.000Z",
       "summary": "اسناد مالی نشان می‌دهد مایکروسافت بخش عمده‌ی درآمدهای هوش مصنوعی خود را از طریق همکاری با اوپن‌ای‌آی به دست می‌آورد."
-    },
-    {
-      "title": "پس از OpenAI و آنتروپیک، ایجنت متا نیز به سیستم‌های یک شرکت نفوذ کرد",
-      "url": "https://digiato.com/artificial-intelligence/meta-ai-model-hacks-company-system-cybersecurity-incident",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-08-06T06:18:15.000Z",
-      "summary": "مدل هوش مصنوعی متا به دلیل خطا در تنظیمات ارزیابی به اینترنت متصل شد و توانست به سیستم‌های یک شرکت دیگر نفوذ کند. The post پس از OpenAI و آنتروپیک، ایجنت متا نیز به سیستم‌های یک شرکت نفوذ کرد appeared first on دیجیاتو."
     },
     {
       "title": "هوش مصنوعی پیشرفته Muse Code متا برای کدنویسی از راه رسید",
@@ -48,38 +80,6 @@
       "lang": "fa",
       "published": "2026-08-06T03:28:36.000Z",
       "summary": "Mysten Labs tech chief joins Anthropic to work on AI securit|Cointelegraph خبرپو"
-    },
-    {
-      "title": "Meta launches Muse Code, an AI agent for large code bases",
-      "url": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-08-05T21:21:28.000Z",
-      "summary": "Meta expanded its AI coding offerings with a new agent that, it promises, can handle complex tasks with complex software."
-    },
-    {
-      "title": "دسترسی کاربران ایرانی به ChatGPT بدون VPN مسدود شد",
-      "url": "https://digiato.com/iran-technology-news/chatgpt-access-is-blocked-for-iranians-again",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-08-05T20:28:00.000Z",
-      "summary": "پس از اسپاتیفای نوبت به ChatGPT رسید The post دسترسی کاربران ایرانی به ChatGPT بدون VPN مسدود شد appeared first on دیجیاتو."
-    },
-    {
-      "title": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders",
-      "url": "https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-08-05T20:05:00.000Z",
-      "summary": "The serial entrepreneur joins the e-commerce company as CPO to lead its AI agents."
-    },
-    {
-      "title": "Jeff Dean and other top AI researchers are leaving Google to launch their own startup",
-      "url": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-08-05T19:30:19.000Z",
-      "summary": "The legendary Google executive is joined by other outgoing Google execs in a joint mission to use AI to push forward the process of scientific discovery."
     },
     {
       "title": "Third-party cyber evaluations involving OpenAI models",
