@@ -1,53 +1,85 @@
 {
-  "updated_at": "2026-08-05T19:12:34.963Z",
+  "updated_at": "2026-08-06T08:13:23.848Z",
   "items": [
     {
-      "title": "تغییر بزرگ در تیم هوش مصنوعی گوگل؛ دمیس هاسابیس جابه‌جا شد",
-      "url": "https://www.zoomit.ir/ai-articles/464626-google-deepmind-demis-hassabis-shakeup/",
+      "title": "متا با معرفی ایجنت کدنویسی Muse Code به جنگ Codex و Claude Code رفت",
+      "url": "https://digiato.com/artificial-intelligence/meta-launches-muse-code-ai-agent",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-08-06T06:44:59.000Z",
+      "summary": "زاکربرگ در معرفی این ابزار اعلام کرده که Muse Code می‌تواند شش ویژگی مختلف نرم‌افزاری را هم‌زمان و بدون تداخل توسعه دهد. The post متا با معرفی ایجنت کدنویسی Muse Code به جنگ Codex و Claude Code رفت appeared first on دیجی"
+    },
+    {
+      "title": "وابستگی خطرناک؛ ۷۰ درصد از درآمد هوش مصنوعی مایکروسافت را اوپن‌ای‌آی تأمین می‌کند",
+      "url": "https://www.zoomit.ir/business/464651-microsoft-ai-revenue-openai-dependence/",
       "source": "زومیت",
       "lang": "fa",
-      "published": "2026-08-05T17:57:10.000Z",
-      "summary": "گوگل از تغییرات گسترده در ساختار تیم رهبری بخش هوش مصنوعی خود و جابه‌جایی دمیس هاسابیس خبر داد."
+      "published": "2026-08-06T06:21:14.000Z",
+      "summary": "اسناد مالی نشان می‌دهد مایکروسافت بخش عمده‌ی درآمدهای هوش مصنوعی خود را از طریق همکاری با اوپن‌ای‌آی به دست می‌آورد."
     },
     {
-      "title": "«صفحه‌ اول اینترنت» به استقبال سیستم نظارت با هوش مصنوعی رفت",
-      "url": "https://www.zoomit.ir/social-network/464622-reddit-introduces-ai-moderation-rules-hub/",
+      "title": "پس از OpenAI و آنتروپیک، ایجنت متا نیز به سیستم‌های یک شرکت نفوذ کرد",
+      "url": "https://digiato.com/artificial-intelligence/meta-ai-model-hacks-company-system-cybersecurity-incident",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-08-06T06:18:15.000Z",
+      "summary": "مدل هوش مصنوعی متا به دلیل خطا در تنظیمات ارزیابی به اینترنت متصل شد و توانست به سیستم‌های یک شرکت دیگر نفوذ کند. The post پس از OpenAI و آنتروپیک، ایجنت متا نیز به سیستم‌های یک شرکت نفوذ کرد appeared first on دیجیاتو."
+    },
+    {
+      "title": "هوش مصنوعی پیشرفته Muse Code متا برای کدنویسی از راه رسید",
+      "url": "https://www.zoomit.ir/ai-articles/464646-meta-launches-muse-code-mac/",
       "source": "زومیت",
       "lang": "fa",
-      "published": "2026-08-05T16:14:47.000Z",
-      "summary": "ردیت، ملقب‌به صفحه‌ی اول اینترنت، ابزار نظارتی جدیدی را معرفی کرد که از مدل‌های زبانی بزرگ برای مدیریت خودکار انجمن‌ها استفاده می‌کند."
+      "published": "2026-08-06T06:03:50.000Z",
+      "summary": "متا ابزار هوش مصنوعی Muse Code را برای برنامه‌نویسی در سیستم‌های عامل مک و لینوکس معرفی کرد."
     },
     {
-      "title": "خالق چت‌بات کلاد، یک تیم اختصاصی برای طراحی تراشه تشکیل می‌دهد",
-      "url": "https://www.zoomit.ir/ai-articles/464620-anthropic-builds-in-house-chip-team/",
+      "title": "فرار هوش مصنوعی متا از محیط امنیتی و هک یک سیستم خارجی!",
+      "url": "https://www.zoomit.ir/ai-articles/464639-meta-ai-model-escapes-sandbox/",
       "source": "زومیت",
       "lang": "fa",
-      "published": "2026-08-05T16:00:54.000Z",
-      "summary": "آنتروپیک با هدف افزایش سرعت و کارایی کلاد، در حال تشکیل یک تیم داخلی برای طراحی تراشه‌‌ی اختصاصی است."
+      "published": "2026-08-06T05:33:30.000Z",
+      "summary": "یکی از مدل‌های هوش مصنوعی متا در جریان آزمایش‌های امنیتی با خروج از محیط قرنطینه به سیستم‌های شرکتی دیگر نفوذ کرد."
     },
     {
-      "title": "Shopify says AI search is driving more traffic and sales, not replacing Google",
-      "url": "https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-08-05T15:56:14.000Z",
-      "summary": "Shopify says AI isn’t cannibalizing search traffic the way it has for publishers. Instead, AI-driven traffic and orders to Shopify stores tripled year over year in Q2."
+      "title": "Mysten Labs tech chief joins Anthropic to work on AI securit|Cointelegraph",
+      "url": "https://news.google.com/rss/articles/CBMi0gNBVV95cUxQWkFKUFBReDFyQ1FGbmw4OWFFb2l0YktKR054UHZmUk5Xc3lwY3hpVU1lMjdfTW5XWWNUdzFWeE5telJPTmtwT2d3OVJDbTZZSjBXWVdQclBRZVRkLTl0U3NIcGNoRVRFQTRHcnlyeGZiTWZCRGgzeC0zTFZ0NVBXUzRoWE9uSmF0SnYxdnAzSDRFdHlmejFBUFlrUEh2Q0N6WTlGcWNXWTZhQzNpTG9aZDhFX1ZKZE5YWTJPS1VkMlZPQ0tlTmZGR3NwbFBUT1gxRHplRUN2ZVhGN3IxczlZUUJzOTV3aVdkbmtScFJhV213eXJzTURWZHZCaG9yOHlveU5sYjhHWDlmQ0lZVkZVLU1la3VSVk9iczJtQ21XekU3aGNRT0dIS0lhODFUQjZaMkVnX1ZkbFhZVWJtVEEwQjdFT0xvVE9WSlhFaXFveElqLVpKb1F1VlNMb3Fkam8wanNObHd3a3dKUkpUdnl4S0gxWVBlRHpZWG1mVTk3LW43TDB5b05RZlRDVnF6eC1qSjdKSVJxSWpablRuTTRXTjktVFR0dUFVMmpObEZ6MWNpd0ZHeDBPRDFBTEtmMGgwV3IyTE42aGVlTXlHeGRSOWhB?oc=5",
+      "source": "خبرپو",
+      "lang": "fa",
+      "published": "2026-08-06T03:28:36.000Z",
+      "summary": "Mysten Labs tech chief joins Anthropic to work on AI securit|Cointelegraph خبرپو"
     },
     {
-      "title": "Hark previews its browser use agent for completing tasks",
-      "url": "https://techcrunch.com/2026/08/05/hark-previews-its-browser-use-agent-for-completing-tasks/",
+      "title": "Meta launches Muse Code, an AI agent for large code bases",
+      "url": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
       "source": "TechCrunch AI",
       "lang": "en",
-      "published": "2026-08-05T15:46:27.000Z",
-      "summary": "Hark claims that its browser use agent is faster and cheaper than competition."
+      "published": "2026-08-05T21:21:28.000Z",
+      "summary": "Meta expanded its AI coding offerings with a new agent that, it promises, can handle complex tasks with complex software."
     },
     {
-      "title": "TechCrunch Disrupt 2026’s Real World AI Stage features robots, automated factories, and extinct animals",
-      "url": "https://techcrunch.com/2026/08/05/techcrunch-disrupt-2026s-real-world-ai-stage-features-robots-automated-factories-and-extinct-animals/",
+      "title": "دسترسی کاربران ایرانی به ChatGPT بدون VPN مسدود شد",
+      "url": "https://digiato.com/iran-technology-news/chatgpt-access-is-blocked-for-iranians-again",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-08-05T20:28:00.000Z",
+      "summary": "پس از اسپاتیفای نوبت به ChatGPT رسید The post دسترسی کاربران ایرانی به ChatGPT بدون VPN مسدود شد appeared first on دیجیاتو."
+    },
+    {
+      "title": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders",
+      "url": "https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders/",
       "source": "TechCrunch AI",
       "lang": "en",
-      "published": "2026-08-05T15:05:00.000Z",
-      "summary": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two."
+      "published": "2026-08-05T20:05:00.000Z",
+      "summary": "The serial entrepreneur joins the e-commerce company as CPO to lead its AI agents."
+    },
+    {
+      "title": "Jeff Dean and other top AI researchers are leaving Google to launch their own startup",
+      "url": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-08-05T19:30:19.000Z",
+      "summary": "The legendary Google executive is joined by other outgoing Google execs in a joint mission to use AI to push forward the process of scientific discovery."
     },
     {
       "title": "Third-party cyber evaluations involving OpenAI models",
@@ -64,38 +96,6 @@
       "lang": "en",
       "published": "2026-08-04T00:00:00.000Z",
       "summary": "Explore new education plugins for ChatGPT Work and Codex that help K–12 teachers, college educators, and students learn, teach, research, and build."
-    },
-    {
-      "title": "Apple is getting this wrong",
-      "url": "https://openai.com/index/apple-is-getting-this-wrong",
-      "source": "OpenAI",
-      "lang": "en",
-      "published": "2026-08-03T22:00:00.000Z",
-      "summary": "OpenAI addresses Apple’s baseless lawsuit, corrects claims about its employees, and shares messages documenting what happened."
-    },
-    {
-      "title": "Trump’s AI protectionism has come for robotics",
-      "url": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
-      "source": "MIT Technology Review",
-      "lang": "en",
-      "published": "2026-08-03T18:43:30.000Z",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Humanoid robots usually elicit more cringe than awe: They stumble, kick children, "
-    },
-    {
-      "title": "Here’s why AI agents lie and cheat to reach their goals",
-      "url": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
-      "source": "MIT Technology Review",
-      "lang": "en",
-      "published": "2026-08-03T08:30:05.000Z",
-      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. When two OpenAI models hacked into the we"
-    },
-    {
-      "title": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
-      "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
-      "source": "Google DeepMind",
-      "lang": "en",
-      "published": "2026-07-30T15:00:59.000Z",
-      "summary": "Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks. It represents a step change in video understanding, tool orchestration, and multi-robot collaboration for robotic applications."
     }
   ]
 }
