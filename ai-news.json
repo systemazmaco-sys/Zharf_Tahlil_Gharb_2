@@ -1,13 +1,53 @@
 {
-  "updated_at": "2026-08-07T12:37:54.065Z",
+  "updated_at": "2026-08-07T18:38:20.202Z",
   "items": [
     {
-      "title": "New Mexico court orders Meta to pay additional $567M in child safety case",
-      "url": "https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/",
+      "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
+      "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
       "source": "TechCrunch AI",
       "lang": "en",
-      "published": "2026-08-07T11:40:37.000Z",
-      "summary": "Meta's total fine has raked up to $942 million in this case"
+      "published": "2026-08-07T16:16:09.000Z",
+      "summary": "Cloudflare has introduced Kitesurf, a cloud-hosted browser designed for AI agents instead of people. The company says the browser uses less computing power than Chromium for common automation tasks, helping developers bu"
+    },
+    {
+      "title": "بیلبورد جنجالی سان‌فرانسیسکو؛ چت‌باتی که یک انسان واقعی پشت آن است",
+      "url": "https://www.zoomit.ir/ai-articles/464685-manually-responding-chatbot-chattjb-satire/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-08-07T15:40:00.000Z",
+      "summary": "کارمند سابق گوگل با اجاره‌ی بیلبوردی در سان‌فرانسیسکو، چت‌باتی به نام ChatTJB راه‌اندازی کرد که پاسخ‌های آن را خودش به صورت دستی می‌نویسد."
+    },
+    {
+      "title": "Responding to the next frontier of critical cyber capabilities",
+      "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+      "source": "OpenAI",
+      "lang": "en",
+      "published": "2026-08-07T15:20:00.000Z",
+      "summary": "OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls."
+    },
+    {
+      "title": "محققان از هوش مصنوعی برای ساخت ویروس‌های جدید استفاده کردند",
+      "url": "https://digiato.com/artificial-intelligence/ai-is-used-to-create-new-viruses",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-08-07T14:30:00.000Z",
+      "summary": "این اتفاق خطر استفاده از هوش مصنوعی برای ساخت ویروس‌هایی با کشندگی بالا را برجسته می‌کند. The post محققان از هوش مصنوعی برای ساخت ویروس‌های جدید استفاده کردند appeared first on دیجیاتو."
+    },
+    {
+      "title": "Airbnb says AI is helping it ship features faster as it tests a new search function",
+      "url": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-08-07T14:22:49.000Z",
+      "summary": "Airbnb will debut a new AI-powered search experience with a toggle."
+    },
+    {
+      "title": "Jill Lepore on the ‘Artificial State’ and why Silicon Valley’s leaders are bad sci-fi readers",
+      "url": "https://techcrunch.com/podcast/jill-lepore-on-the-artificial-state-and-why-silicon-valleys-leaders-are-bad-sci-fi-readers/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-08-07T14:00:00.000Z",
+      "summary": "Historian Jill Lepore has a theory about why tech companies often use soaring language to describe their products — almost as if they’re forming a new government. And whether you’re thinking of Twitter’s old “town hall i"
     },
     {
       "title": "هوش مصنوعی احتمالا عصر طلایی مشاوران مدیریتی را به پایان می‌رساند",
@@ -16,22 +56,6 @@
       "lang": "fa",
       "published": "2026-08-07T11:20:00.000Z",
       "summary": "صنعت چند میلیارد دلاری مشاوره‌ی استراتژیک با ظهور هوش مصنوعی و توانایی‌اش در تحلیل داده‌ها با چالش بقا روبه‌رو شده است."
-    },
-    {
-      "title": "دیپ‌سیک به‌دلیل تقاضای بی‌سابقه، قیمت API هوش مصنوعی خود را افزایش می‌دهد",
-      "url": "https://digiato.com/artificial-intelligence/deepseek-raises-api-prices-openai-price-war",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-08-07T10:05:00.000Z",
-      "summary": "قیمت‌گذاری اقتصادی مدل‌های DeepSeek در برابر OpenAI، این شرکت را با هجوم شدید کاربران و بحران زیرساختی همراه کرده است. The post دیپ‌سیک به‌دلیل تقاضای بی‌سابقه، قیمت API هوش مصنوعی خود را افزایش می‌دهد appeared first on "
-    },
-    {
-      "title": "گوگل با هوش مصنوعی Antigravity دستگاه مترجم آفلاین و سیار توسعه داد",
-      "url": "https://digiato.com/artificial-intelligence/google-gemma-translator-ai-project",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-08-07T09:35:00.000Z",
-      "summary": "این مترجم آفلاین به Raspberry Pi 5 مجهز شده و از مدل هوش مصنوعی Gemma 4 E2B بهره می‌برد. The post گوگل با هوش مصنوعی Antigravity دستگاه مترجم آفلاین و سیار توسعه داد appeared first on دیجیاتو."
     },
     {
       "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
@@ -50,30 +74,6 @@
       "summary": "ای‌ام‌دی با هدف تقویت توانایی‌های خود در بازار رو‌به‌رشد پردازش‌های استنتاجی هوش مصنوعی، استارتاپ کانادایی تالاس را تصاحب کرد."
     },
     {
-      "title": "دستاورد شوکه‌کننده: هوش مصنوعی خانواده جدیدی از ویروس‌های قابل تکثیر را خلق کرد",
-      "url": "https://www.zoomit.ir/ai-articles/464718-ai-creates-first-synthetic-virus/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-08-07T06:20:18.000Z",
-      "summary": "دانشمندان دانشگاه استنفورد برای نخستین‌بار در جهان موفق شدند با استفاده از یک مدل هوش مصنوعی، خانواده‌ای از ویروس‌های جدید و فعال را خلق کنند."
-    },
-    {
-      "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
-      "url": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-08-06T22:43:53.000Z",
-      "summary": "Additional details about OpenAI's mysterious new AI device make it sound like a pricey smart speaker."
-    },
-    {
-      "title": "ChatGPT brings unlimited text chats to free users",
-      "url": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-08-06T17:34:42.000Z",
-      "summary": "OpenAI said that ChatGPT free and Go users are also getting a new think button for complex queries."
-    },
-    {
       "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
       "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
       "source": "Google DeepMind",
@@ -90,12 +90,12 @@
       "summary": "ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna."
     },
     {
-      "title": "Working with the American Psychological Association on youth mental health and AI",
-      "url": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
-      "source": "OpenAI",
-      "lang": "en",
-      "published": "2026-08-06T06:00:00.000Z",
-      "summary": "OpenAI and the American Psychological Association advance evidence-based guidance, resources, and safeguards for responsible AI use and youth mental health."
+      "title": "Mysten Labs tech chief joins Anthropic to work on AI securit|Cointelegraph",
+      "url": "https://news.google.com/rss/articles/CBMi0gNBVV95cUxQWkFKUFBReDFyQ1FGbmw4OWFFb2l0YktKR054UHZmUk5Xc3lwY3hpVU1lMjdfTW5XWWNUdzFWeE5telJPTmtwT2d3OVJDbTZZSjBXWVdQclBRZVRkLTl0U3NIcGNoRVRFQTRHcnlyeGZiTWZCRGgzeC0zTFZ0NVBXUzRoWE9uSmF0SnYxdnAzSDRFdHlmejFBUFlrUEh2Q0N6WTlGcWNXWTZhQzNpTG9aZDhFX1ZKZE5YWTJPS1VkMlZPQ0tlTmZGR3NwbFBUT1gxRHplRUN2ZVhGN3IxczlZUUJzOTV3aVdkbmtScFJhV213eXJzTURWZHZCaG9yOHlveU5sYjhHWDlmQ0lZVkZVLU1la3VSVk9iczJtQ21XekU3aGNRT0dIS0lhODFUQjZaMkVnX1ZkbFhZVWJtVEEwQjdFT0xvVE9WSlhFaXFveElqLVpKb1F1VlNMb3Fkam8wanNObHd3a3dKUkpUdnl4S0gxWVBlRHpZWG1mVTk3LW43TDB5b05RZlRDVnF6eC1qSjdKSVJxSWpablRuTTRXTjktVFR0dUFVMmpObEZ6MWNpd0ZHeDBPRDFBTEtmMGgwV3IyTE42aGVlTXlHeGRSOWhB?oc=5",
+      "source": "خبرپو",
+      "lang": "fa",
+      "published": "2026-08-06T03:28:36.000Z",
+      "summary": "Mysten Labs tech chief joins Anthropic to work on AI securit|Cointelegraph خبرپو"
     }
   ]
 }
