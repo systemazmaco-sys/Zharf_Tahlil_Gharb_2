@@ -1,101 +1,101 @@
 {
-  "updated_at": "2026-08-06T13:38:59.719Z",
+  "updated_at": "2026-08-07T06:58:47.886Z",
   "items": [
     {
-      "title": "Amid legal battles, Suno says it will start watermarking songs",
-      "url": "https://techcrunch.com/2026/08/06/amid-legal-battles-suno-says-it-will-start-watermarking-songs/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-08-06T13:31:57.000Z",
-      "summary": "Suno's watermarking feature comes as the company is fighting legal battles on several fronts."
-    },
-    {
-      "title": "Ex-Spotify employees raise $10M to bring the AI behind its recommendations to e-commerce",
-      "url": "https://techcrunch.com/2026/08/06/ex-spotify-employees-raise-10m-to-bring-the-ai-behind-its-recommendations-to-e-commerce/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-08-06T13:00:00.000Z",
-      "summary": "The startup's platform predicts what product a shopper wants next, learn their general taste, and fine-tune continuously based on what they do in real time."
-    },
-    {
-      "title": "Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI",
-      "url": "https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-08-06T13:00:00.000Z",
-      "summary": "Mirendil has signed a $100 million-plus Google Cloud partnership to expand its compute infrastructure, powering research into self-improving AI systems designed to accelerate scientific discovery and AI development."
-    },
-    {
-      "title": "استفاده از تصاویر هوش مصنوعی در تبلیغ ایرباد ناتینگ با واکنش تند کاربران مواجه شد",
-      "url": "https://digiato.com/gadgets/nothing-cmf-clip-pro-ai-marketing-backlash",
+      "title": "اولین گجت OpenAI احتمالاً یک اسپیکر دونات‌شکل با قیمت ۳۰۰ تا ۴۰۰ دلار خواهد بود",
+      "url": "https://digiato.com/gadgets/openai-jony-ive-smart-speaker-details",
       "source": "دیجیاتو",
       "lang": "fa",
-      "published": "2026-08-06T11:54:48.000Z",
-      "summary": "از چهره‌های ساخت هوش مصنوعی در محتواهای تبلیغاتی ایرباد جدید ناتینگ با نام CMF Clip Pro استفاده شده است. The post استفاده از تصاویر هوش مصنوعی در تبلیغ ایرباد ناتینگ با واکنش تند کاربران مواجه شد appeared first on دیجیات"
+      "published": "2026-08-07T06:54:27.000Z",
+      "summary": "این گجت احتمالاً نخستین عضو از خانواده محصولات سخت‌افزاری OpenAI خواهد بود و انتظار می‌رود عرضه آن در سال ۲۰۲۷ اتفاق بیفتد. The post اولین گجت OpenAI احتمالاً یک اسپیکر دونات‌شکل با قیمت ۳۰۰ تا ۴۰۰ دلار خواهد بود appeare"
     },
     {
-      "title": "توقف آپدیت مطالب گراکی‌پدیا؛ دایره‌المعارف هوش مصنوعی ایلان ماسک به گل نشست؟",
-      "url": "https://digiato.com/artificial-intelligence/elon-musk-grokipedia-stopped-updating-reports",
+      "title": "دستاورد شوکه‌کننده: هوش مصنوعی خانواده جدیدی از ویروس‌های قابل تکثیر را خلق کرد",
+      "url": "https://www.zoomit.ir/ai-articles/464718-ai-creates-first-synthetic-virus/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-08-07T06:20:18.000Z",
+      "summary": "دانشمندان دانشگاه استنفورد برای نخستین‌بار در جهان موفق شدند با استفاده از یک مدل هوش مصنوعی، خانواده‌ای از ویروس‌های جدید و فعال را خلق کنند."
+    },
+    {
+      "title": "تماشا کنید: هوش مصنوعی برای پیدا کردن گوشی گمشده یک ابزار اختصاصی ساخت",
+      "url": "https://www.zoomit.ir/ai-articles/464700-claude-ai-finds-lost-phone/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-08-07T05:59:21.000Z",
+      "summary": "هوش مصنوعی Claude در یک دقیقه ابزار اختصاصی ساخت و گوشی گم‌شده‌ی کاربر را پیدا کرد."
+    },
+    {
+      "title": "شوک دیپ‌سیک به بازار هوش مصنوعی؛ افزایش شدید قیمت خدمات اعلام شد",
+      "url": "https://www.zoomit.ir/ai-articles/464645-deepseek-plans-significant-price-increase/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-08-07T03:20:00.000Z",
+      "summary": "دیپ‌سیک با انتشار بیانیه‌ای رسمی از برنامه‌ی خود برای افزایش محسوس قیمت خدمات هوش مصنوعی خبر داد."
+    },
+    {
+      "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
+      "url": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-08-06T22:43:53.000Z",
+      "summary": "Additional details about OpenAI's mysterious new AI device make it sound like a pricey smart speaker."
+    },
+    {
+      "title": "ChatGPT brings unlimited text chats to free users",
+      "url": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-08-06T17:34:42.000Z",
+      "summary": "OpenAI said that ChatGPT free and Go users are also getting a new think button for complex queries."
+    },
+    {
+      "title": "Naïve raises $28.5M to automate the grunt work of setting up and running a company",
+      "url": "https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-08-06T17:00:37.000Z",
+      "summary": "Taking vibe-coding a step further, Naïve claims its infra can automate most of the work in setting up and running a business."
+    },
+    {
+      "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
+      "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+      "source": "Google DeepMind",
+      "lang": "en",
+      "published": "2026-08-06T15:06:15.000Z",
+      "summary": ""
+    },
+    {
+      "title": "گوگل مپس به ایجنت هوش مصنوعی با قابلیت سفارش غذا مجهز شد",
+      "url": "https://digiato.com/app/google-maps-ask-maps-ai-food-ordering",
       "source": "دیجیاتو",
       "lang": "fa",
-      "published": "2026-08-06T10:51:32.000Z",
-      "summary": "گراکی‌پدیا، دایره‌المعارف هوش مصنوعی ایلان ماسک، به دلیل توقف سیستم‌های خودکار از آوریل تاکنون هیچ به‌روزرسانی تازه‌ای دریافت نکرده است. The post توقف آپدیت مطالب گراکی‌پدیا؛ دایره‌المعارف هوش مصنوعی ایلان ماسک به گل نشس"
+      "published": "2026-08-06T14:30:00.000Z",
+      "summary": "امکانات جدید Ask Maps به کاربران اجازه می‌دهد به‌طور مستقیم از داخل اپلیکیشن غذا سفارش داده و هتل یا رویدادهای محلی را پیدا کنند. The post گوگل مپس به ایجنت هوش مصنوعی با قابلیت سفارش غذا مجهز شد appeared first on دیجیات"
     },
     {
-      "title": "پژوهشگران OpenAI: ایجنت‌ها دور از چشم ما انجمن مخفی برای هک تشکیل داده بودند",
-      "url": "https://digiato.com/artificial-intelligence/openai-agents-secret-message-board-black-hat-hack",
+      "title": "افزونه جدید ادوبی با ۷۰ ابزار تخصصی برای ویرایش عکس و ویدیو به ChatGPT اضافه شد",
+      "url": "https://digiato.com/artificial-intelligence/adobe-chatgpt-plugin-70-tools-integration",
       "source": "دیجیاتو",
       "lang": "fa",
-      "published": "2026-08-06T09:53:29.000Z",
-      "summary": "پژوهشگران اوپن‌ای‌آی می‌گویند ایجنت‌های هوش مصنوعی با ایجاد انجمنی مخفی درون سیستم شرکت، راهکارهای نفوذ سایبری را به اشتراک گذاشته بودند. The post پژوهشگران OpenAI: ایجنت‌ها دور از چشم ما انجمن مخفی برای هک تشکیل داده بو"
+      "published": "2026-08-06T14:00:49.000Z",
+      "summary": "پلاگین جدید ادوبی بیش از ۷۰ ابزار تخصصی از جمله فتوشاپ، پریمیر، ایلاستریتور و فایرفلای را در ChatGPT در اختیار کاربران قرار می‌دهد. The post افزونه جدید ادوبی با ۷۰ ابزار تخصصی برای ویرایش عکس و ویدیو به ChatGPT اضافه شد"
     },
     {
-      "title": "وابستگی خطرناک؛ ۷۰ درصد از درآمد هوش مصنوعی مایکروسافت را اوپن‌ای‌آی تأمین می‌کند",
-      "url": "https://www.zoomit.ir/business/464651-microsoft-ai-revenue-openai-dependence/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-08-06T06:21:14.000Z",
-      "summary": "اسناد مالی نشان می‌دهد مایکروسافت بخش عمده‌ی درآمدهای هوش مصنوعی خود را از طریق همکاری با اوپن‌ای‌آی به دست می‌آورد."
-    },
-    {
-      "title": "هوش مصنوعی پیشرفته Muse Code متا برای کدنویسی از راه رسید",
-      "url": "https://www.zoomit.ir/ai-articles/464646-meta-launches-muse-code-mac/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-08-06T06:03:50.000Z",
-      "summary": "متا ابزار هوش مصنوعی Muse Code را برای برنامه‌نویسی در سیستم‌های عامل مک و لینوکس معرفی کرد."
-    },
-    {
-      "title": "فرار هوش مصنوعی متا از محیط امنیتی و هک یک سیستم خارجی!",
-      "url": "https://www.zoomit.ir/ai-articles/464639-meta-ai-model-escapes-sandbox/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-08-06T05:33:30.000Z",
-      "summary": "یکی از مدل‌های هوش مصنوعی متا در جریان آزمایش‌های امنیتی با خروج از محیط قرنطینه به سیستم‌های شرکتی دیگر نفوذ کرد."
-    },
-    {
-      "title": "Mysten Labs tech chief joins Anthropic to work on AI securit|Cointelegraph",
-      "url": "https://news.google.com/rss/articles/CBMi0gNBVV95cUxQWkFKUFBReDFyQ1FGbmw4OWFFb2l0YktKR054UHZmUk5Xc3lwY3hpVU1lMjdfTW5XWWNUdzFWeE5telJPTmtwT2d3OVJDbTZZSjBXWVdQclBRZVRkLTl0U3NIcGNoRVRFQTRHcnlyeGZiTWZCRGgzeC0zTFZ0NVBXUzRoWE9uSmF0SnYxdnAzSDRFdHlmejFBUFlrUEh2Q0N6WTlGcWNXWTZhQzNpTG9aZDhFX1ZKZE5YWTJPS1VkMlZPQ0tlTmZGR3NwbFBUT1gxRHplRUN2ZVhGN3IxczlZUUJzOTV3aVdkbmtScFJhV213eXJzTURWZHZCaG9yOHlveU5sYjhHWDlmQ0lZVkZVLU1la3VSVk9iczJtQ21XekU3aGNRT0dIS0lhODFUQjZaMkVnX1ZkbFhZVWJtVEEwQjdFT0xvVE9WSlhFaXFveElqLVpKb1F1VlNMb3Fkam8wanNObHd3a3dKUkpUdnl4S0gxWVBlRHpZWG1mVTk3LW43TDB5b05RZlRDVnF6eC1qSjdKSVJxSWpablRuTTRXTjktVFR0dUFVMmpObEZ6MWNpd0ZHeDBPRDFBTEtmMGgwV3IyTE42aGVlTXlHeGRSOWhB?oc=5",
-      "source": "خبرپو",
-      "lang": "fa",
-      "published": "2026-08-06T03:28:36.000Z",
-      "summary": "Mysten Labs tech chief joins Anthropic to work on AI securit|Cointelegraph خبرپو"
-    },
-    {
-      "title": "Third-party cyber evaluations involving OpenAI models",
-      "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+      "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
+      "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
       "source": "OpenAI",
       "lang": "en",
-      "published": "2026-08-04T19:00:00.000Z",
-      "summary": "OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation."
+      "published": "2026-08-06T10:00:00.000Z",
+      "summary": "ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna."
     },
     {
-      "title": "New ways to learn and teach with ChatGPT Work and Codex",
-      "url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
+      "title": "Working with the American Psychological Association on youth mental health and AI",
+      "url": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
       "source": "OpenAI",
       "lang": "en",
-      "published": "2026-08-04T00:00:00.000Z",
-      "summary": "Explore new education plugins for ChatGPT Work and Codex that help K–12 teachers, college educators, and students learn, teach, research, and build."
+      "published": "2026-08-06T06:00:00.000Z",
+      "summary": "OpenAI and the American Psychological Association advance evidence-based guidance, resources, and safeguards for responsible AI use and youth mental health."
     }
   ]
 }
