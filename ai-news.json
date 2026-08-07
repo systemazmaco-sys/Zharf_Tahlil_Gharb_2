@@ -1,13 +1,53 @@
 {
-  "updated_at": "2026-08-07T06:58:47.886Z",
+  "updated_at": "2026-08-07T12:37:54.065Z",
   "items": [
     {
-      "title": "اولین گجت OpenAI احتمالاً یک اسپیکر دونات‌شکل با قیمت ۳۰۰ تا ۴۰۰ دلار خواهد بود",
-      "url": "https://digiato.com/gadgets/openai-jony-ive-smart-speaker-details",
+      "title": "New Mexico court orders Meta to pay additional $567M in child safety case",
+      "url": "https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-08-07T11:40:37.000Z",
+      "summary": "Meta's total fine has raked up to $942 million in this case"
+    },
+    {
+      "title": "هوش مصنوعی احتمالا عصر طلایی مشاوران مدیریتی را به پایان می‌رساند",
+      "url": "https://www.zoomit.ir/ai-articles/464662-ai-threat-to-strategic-consultants/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-08-07T11:20:00.000Z",
+      "summary": "صنعت چند میلیارد دلاری مشاوره‌ی استراتژیک با ظهور هوش مصنوعی و توانایی‌اش در تحلیل داده‌ها با چالش بقا روبه‌رو شده است."
+    },
+    {
+      "title": "دیپ‌سیک به‌دلیل تقاضای بی‌سابقه، قیمت API هوش مصنوعی خود را افزایش می‌دهد",
+      "url": "https://digiato.com/artificial-intelligence/deepseek-raises-api-prices-openai-price-war",
       "source": "دیجیاتو",
       "lang": "fa",
-      "published": "2026-08-07T06:54:27.000Z",
-      "summary": "این گجت احتمالاً نخستین عضو از خانواده محصولات سخت‌افزاری OpenAI خواهد بود و انتظار می‌رود عرضه آن در سال ۲۰۲۷ اتفاق بیفتد. The post اولین گجت OpenAI احتمالاً یک اسپیکر دونات‌شکل با قیمت ۳۰۰ تا ۴۰۰ دلار خواهد بود appeare"
+      "published": "2026-08-07T10:05:00.000Z",
+      "summary": "قیمت‌گذاری اقتصادی مدل‌های DeepSeek در برابر OpenAI، این شرکت را با هجوم شدید کاربران و بحران زیرساختی همراه کرده است. The post دیپ‌سیک به‌دلیل تقاضای بی‌سابقه، قیمت API هوش مصنوعی خود را افزایش می‌دهد appeared first on "
+    },
+    {
+      "title": "گوگل با هوش مصنوعی Antigravity دستگاه مترجم آفلاین و سیار توسعه داد",
+      "url": "https://digiato.com/artificial-intelligence/google-gemma-translator-ai-project",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-08-07T09:35:00.000Z",
+      "summary": "این مترجم آفلاین به Raspberry Pi 5 مجهز شده و از مدل هوش مصنوعی Gemma 4 E2B بهره می‌برد. The post گوگل با هوش مصنوعی Antigravity دستگاه مترجم آفلاین و سیار توسعه داد appeared first on دیجیاتو."
+    },
+    {
+      "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
+      "url": "https://openai.com/index/hsp-gruppe",
+      "source": "OpenAI",
+      "lang": "en",
+      "published": "2026-08-07T09:00:00.000Z",
+      "summary": "Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service."
+    },
+    {
+      "title": "ای‌ام‌دی با تصاحب تالاس به جنگ انویدیا در بازار پردازش هوش مصنوعی می‌رود",
+      "url": "https://www.zoomit.ir/business/464728-amd-acquires-ai-startup-taalas/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-08-07T07:35:36.000Z",
+      "summary": "ای‌ام‌دی با هدف تقویت توانایی‌های خود در بازار رو‌به‌رشد پردازش‌های استنتاجی هوش مصنوعی، استارتاپ کانادایی تالاس را تصاحب کرد."
     },
     {
       "title": "دستاورد شوکه‌کننده: هوش مصنوعی خانواده جدیدی از ویروس‌های قابل تکثیر را خلق کرد",
@@ -16,22 +56,6 @@
       "lang": "fa",
       "published": "2026-08-07T06:20:18.000Z",
       "summary": "دانشمندان دانشگاه استنفورد برای نخستین‌بار در جهان موفق شدند با استفاده از یک مدل هوش مصنوعی، خانواده‌ای از ویروس‌های جدید و فعال را خلق کنند."
-    },
-    {
-      "title": "تماشا کنید: هوش مصنوعی برای پیدا کردن گوشی گمشده یک ابزار اختصاصی ساخت",
-      "url": "https://www.zoomit.ir/ai-articles/464700-claude-ai-finds-lost-phone/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-08-07T05:59:21.000Z",
-      "summary": "هوش مصنوعی Claude در یک دقیقه ابزار اختصاصی ساخت و گوشی گم‌شده‌ی کاربر را پیدا کرد."
-    },
-    {
-      "title": "شوک دیپ‌سیک به بازار هوش مصنوعی؛ افزایش شدید قیمت خدمات اعلام شد",
-      "url": "https://www.zoomit.ir/ai-articles/464645-deepseek-plans-significant-price-increase/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-08-07T03:20:00.000Z",
-      "summary": "دیپ‌سیک با انتشار بیانیه‌ای رسمی از برنامه‌ی خود برای افزایش محسوس قیمت خدمات هوش مصنوعی خبر داد."
     },
     {
       "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
@@ -50,36 +74,12 @@
       "summary": "OpenAI said that ChatGPT free and Go users are also getting a new think button for complex queries."
     },
     {
-      "title": "Naïve raises $28.5M to automate the grunt work of setting up and running a company",
-      "url": "https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-08-06T17:00:37.000Z",
-      "summary": "Taking vibe-coding a step further, Naïve claims its infra can automate most of the work in setting up and running a business."
-    },
-    {
       "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
       "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
       "source": "Google DeepMind",
       "lang": "en",
       "published": "2026-08-06T15:06:15.000Z",
       "summary": ""
-    },
-    {
-      "title": "گوگل مپس به ایجنت هوش مصنوعی با قابلیت سفارش غذا مجهز شد",
-      "url": "https://digiato.com/app/google-maps-ask-maps-ai-food-ordering",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-08-06T14:30:00.000Z",
-      "summary": "امکانات جدید Ask Maps به کاربران اجازه می‌دهد به‌طور مستقیم از داخل اپلیکیشن غذا سفارش داده و هتل یا رویدادهای محلی را پیدا کنند. The post گوگل مپس به ایجنت هوش مصنوعی با قابلیت سفارش غذا مجهز شد appeared first on دیجیات"
-    },
-    {
-      "title": "افزونه جدید ادوبی با ۷۰ ابزار تخصصی برای ویرایش عکس و ویدیو به ChatGPT اضافه شد",
-      "url": "https://digiato.com/artificial-intelligence/adobe-chatgpt-plugin-70-tools-integration",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-08-06T14:00:49.000Z",
-      "summary": "پلاگین جدید ادوبی بیش از ۷۰ ابزار تخصصی از جمله فتوشاپ، پریمیر، ایلاستریتور و فایرفلای را در ChatGPT در اختیار کاربران قرار می‌دهد. The post افزونه جدید ادوبی با ۷۰ ابزار تخصصی برای ویرایش عکس و ویدیو به ChatGPT اضافه شد"
     },
     {
       "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
