@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-08-08T12:23:46.077Z",
+  "updated_at": "2026-08-08T18:20:47.489Z",
   "items": [
+    {
+      "title": "بایت‌دنس یک هوش مصنوعی عظیم برای رقابت با میتوس می‌سازد؛ ادعای منابع آگاه",
+      "url": "https://www.zoomit.ir/ai-articles/464729-bytedance-ten-trillion-parameter-ai/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-08-08T16:40:00.000Z",
+      "summary": "بایت‌دنس در حال آموزش یک مدل هوش مصنوعی جدید با ۱۰ تریلیون پارامتر است که ابعادش با پیشرفته‌ترین سیستم‌های آمریکایی رقابت می‌کند."
+    },
+    {
+      "title": "همکاری اپل با علی‌بابا در چین؛ هوش مصنوعی Qwen به مک می‌آید",
+      "url": "https://www.zoomit.ir/ai-articles/464815-apple-mac-alibaba-qwen-china/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-08-08T14:20:00.000Z",
+      "summary": "اپل با انتشار یک راهنمای رسمی، امکان اتصال دستیار صوتی سیری و ابزارهای نگارشی مک را به هوش مصنوعی چینی Qwen فراهم کرد."
+    },
     {
       "title": "بینوباکس و تجربه یکپارچه هوش مصنوعی",
       "url": "https://www.zoomit.ir/pr/464804-binobox-integrated-ai-platform-iran/",
@@ -8,22 +24,6 @@
       "lang": "fa",
       "published": "2026-08-08T10:21:50.000Z",
       "summary": "پلتفرم ایرانی بینوباکس با تجمیع ابزارهای تولید متن، تصویر، صدا و ویدیو در یک محیط یکپارچه، چالش تحریم‌ها و دسترسی کاربران به هوش مصنوعی را حل کرده است"
-    },
-    {
-      "title": "ایران با یک طلا در المپیاد جهانی هوش مصنوعی درخشید",
-      "url": "https://www.zoomit.ir/tech-iran/464790-iran-ioai-2026-one-gold-two-silver-one-bronze/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-08-08T08:00:26.000Z",
-      "summary": "تیم ملی المپیاد هوش مصنوعی ایران در المپیاد جهانی هوش مصنوعی چهار مدال گرفت و یک پله بالاتر از دوره قبل ایستاد."
-    },
-    {
-      "title": "توسعه هوش مصنوعی جدید اوپن‌ای‌آی به دلایل امنیتی متوقف شد",
-      "url": "https://www.zoomit.ir/ai-articles/464756-openai-pauses-astra-model-cybersecurity/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-08-08T05:35:00.000Z",
-      "summary": "توسعه مدل هوش مصنوعی جدید آسترا به دلیل نگرانی از توانایی‌های سایبری مخرب متوقف شد."
     },
     {
       "title": "OpenAI says it slowed Astra model development over security concerns",
