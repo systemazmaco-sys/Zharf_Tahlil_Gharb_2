@@ -1,13 +1,37 @@
 {
-  "updated_at": "2026-08-07T18:38:20.202Z",
+  "updated_at": "2026-08-08T00:47:16.276Z",
   "items": [
+    {
+      "title": "OpenAI says it slowed Astra model development over security concerns",
+      "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-08-07T22:48:24.000Z",
+      "summary": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against traditionally well-protected real-world sy"
+    },
+    {
+      "title": "گوشی‌های پیکسل گوگل به‌لطف هوش مصنوعی یک ویژگی هیجان‌انگیز دریافت می‌کنند",
+      "url": "https://www.zoomit.ir/mobile/464721-pixel-ai-lockscreen-clocks/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-08-07T22:05:00.000Z",
+      "summary": "گوگل در حال توسعه‌ی قابلیت هیجان‌انگیزی مبتنی‌بر هوش مصنوعی برای گوشی‌های پیکسل است."
+    },
+    {
+      "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
+      "url": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-08-07T21:30:11.000Z",
+      "summary": "After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending."
+    },
     {
       "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
       "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
       "source": "TechCrunch AI",
       "lang": "en",
       "published": "2026-08-07T16:16:09.000Z",
-      "summary": "Cloudflare has introduced Kitesurf, a cloud-hosted browser designed for AI agents instead of people. The company says the browser uses less computing power than Chromium for common automation tasks, helping developers bu"
+      "summary": "Kitesurf is a cloud-hosted browser designed for AI agents instead of people. It uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents more efficiently."
     },
     {
       "title": "بیلبورد جنجالی سان‌فرانسیسکو؛ چت‌باتی که یک انسان واقعی پشت آن است",
@@ -34,22 +58,6 @@
       "summary": "این اتفاق خطر استفاده از هوش مصنوعی برای ساخت ویروس‌هایی با کشندگی بالا را برجسته می‌کند. The post محققان از هوش مصنوعی برای ساخت ویروس‌های جدید استفاده کردند appeared first on دیجیاتو."
     },
     {
-      "title": "Airbnb says AI is helping it ship features faster as it tests a new search function",
-      "url": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-08-07T14:22:49.000Z",
-      "summary": "Airbnb will debut a new AI-powered search experience with a toggle."
-    },
-    {
-      "title": "Jill Lepore on the ‘Artificial State’ and why Silicon Valley’s leaders are bad sci-fi readers",
-      "url": "https://techcrunch.com/podcast/jill-lepore-on-the-artificial-state-and-why-silicon-valleys-leaders-are-bad-sci-fi-readers/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-08-07T14:00:00.000Z",
-      "summary": "Historian Jill Lepore has a theory about why tech companies often use soaring language to describe their products — almost as if they’re forming a new government. And whether you’re thinking of Twitter’s old “town hall i"
-    },
-    {
       "title": "هوش مصنوعی احتمالا عصر طلایی مشاوران مدیریتی را به پایان می‌رساند",
       "url": "https://www.zoomit.ir/ai-articles/464662-ai-threat-to-strategic-consultants/",
       "source": "زومیت",
@@ -64,14 +72,6 @@
       "lang": "en",
       "published": "2026-08-07T09:00:00.000Z",
       "summary": "Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service."
-    },
-    {
-      "title": "ای‌ام‌دی با تصاحب تالاس به جنگ انویدیا در بازار پردازش هوش مصنوعی می‌رود",
-      "url": "https://www.zoomit.ir/business/464728-amd-acquires-ai-startup-taalas/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-08-07T07:35:36.000Z",
-      "summary": "ای‌ام‌دی با هدف تقویت توانایی‌های خود در بازار رو‌به‌رشد پردازش‌های استنتاجی هوش مصنوعی، استارتاپ کانادایی تالاس را تصاحب کرد."
     },
     {
       "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
@@ -92,10 +92,10 @@
     {
       "title": "Mysten Labs tech chief joins Anthropic to work on AI securit|Cointelegraph",
       "url": "https://news.google.com/rss/articles/CBMi0gNBVV95cUxQWkFKUFBReDFyQ1FGbmw4OWFFb2l0YktKR054UHZmUk5Xc3lwY3hpVU1lMjdfTW5XWWNUdzFWeE5telJPTmtwT2d3OVJDbTZZSjBXWVdQclBRZVRkLTl0U3NIcGNoRVRFQTRHcnlyeGZiTWZCRGgzeC0zTFZ0NVBXUzRoWE9uSmF0SnYxdnAzSDRFdHlmejFBUFlrUEh2Q0N6WTlGcWNXWTZhQzNpTG9aZDhFX1ZKZE5YWTJPS1VkMlZPQ0tlTmZGR3NwbFBUT1gxRHplRUN2ZVhGN3IxczlZUUJzOTV3aVdkbmtScFJhV213eXJzTURWZHZCaG9yOHlveU5sYjhHWDlmQ0lZVkZVLU1la3VSVk9iczJtQ21XekU3aGNRT0dIS0lhODFUQjZaMkVnX1ZkbFhZVWJtVEEwQjdFT0xvVE9WSlhFaXFveElqLVpKb1F1VlNMb3Fkam8wanNObHd3a3dKUkpUdnl4S0gxWVBlRHpZWG1mVTk3LW43TDB5b05RZlRDVnF6eC1qSjdKSVJxSWpablRuTTRXTjktVFR0dUFVMmpObEZ6MWNpd0ZHeDBPRDFBTEtmMGgwV3IyTE42aGVlTXlHeGRSOWhB?oc=5",
-      "source": "خبرپو",
+      "source": "khabarpu.com",
       "lang": "fa",
       "published": "2026-08-06T03:28:36.000Z",
-      "summary": "Mysten Labs tech chief joins Anthropic to work on AI securit|Cointelegraph خبرپو"
+      "summary": "Mysten Labs tech chief joins Anthropic to work on AI securit|Cointelegraph khabarpu.com"
     }
   ]
 }
