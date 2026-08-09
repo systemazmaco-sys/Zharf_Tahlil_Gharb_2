@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-08-09T00:51:39.461Z",
+  "updated_at": "2026-08-09T06:36:22.919Z",
   "items": [
+    {
+      "title": "سودآوری غیرمنتظره کامیون‌های زباله به‌لطف هوش مصنوعی!",
+      "url": "https://www.zoomit.ir/business/464766-ai-boosts-corporate-profit-margins/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-08-09T03:20:00.000Z",
+      "summary": "آمارهای جدید نشان می‌دهد استفاده از ابزارهای هوش مصنوعی باعث بهبود چشمگیر حاشیه‌ی سود شرکت‌های بزرگ آمریکایی شده است."
+    },
     {
       "title": "هوش مصنوعی به‌طور ناخواسته به دیتاسنترهای خودش آسیب می‌زند",
       "url": "https://www.zoomit.ir/ai-articles/464655-ai-data-centers-power-fluctuations/",
@@ -32,14 +40,6 @@
       "lang": "fa",
       "published": "2026-08-08T16:40:00.000Z",
       "summary": "بایت‌دنس در حال آموزش یک مدل هوش مصنوعی جدید با ۱۰ تریلیون پارامتر است که ابعادش با پیشرفته‌ترین سیستم‌های آمریکایی رقابت می‌کند."
-    },
-    {
-      "title": "همکاری اپل با علی‌بابا در چین؛ هوش مصنوعی Qwen به مک می‌آید",
-      "url": "https://www.zoomit.ir/ai-articles/464815-apple-mac-alibaba-qwen-china/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-08-08T14:20:00.000Z",
-      "summary": "اپل با انتشار یک راهنمای رسمی، امکان اتصال دستیار صوتی سیری و ابزارهای نگارشی مک را به هوش مصنوعی چینی Qwen فراهم کرد."
     },
     {
       "title": "OpenAI says it slowed Astra model development over security concerns",
