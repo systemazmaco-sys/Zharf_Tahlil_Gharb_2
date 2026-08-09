@@ -1,6 +1,30 @@
 {
-  "updated_at": "2026-08-08T18:20:47.489Z",
+  "updated_at": "2026-08-09T00:51:39.461Z",
   "items": [
+    {
+      "title": "هوش مصنوعی به‌طور ناخواسته به دیتاسنترهای خودش آسیب می‌زند",
+      "url": "https://www.zoomit.ir/ai-articles/464655-ai-data-centers-power-fluctuations/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-08-08T22:10:00.000Z",
+      "summary": "نوسان‌های شدید و ناگهانی مصرف برق در دیتاسنترهای هوش مصنوعی، موجب خرابی زودهنگام و استهلاک شدید تجهیزات حیاتی مانند باتری‌ها و ژنراتورها شده است."
+    },
+    {
+      "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
+      "url": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-08-08T21:24:02.000Z",
+      "summary": "As part of a planned Texas data center, Amazon is investing in an on-site power plant that could reportedly become the largest source of climate pollution in the United States."
+    },
+    {
+      "title": "OpenAI acquires presentation startup NextSlide",
+      "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-08-08T19:41:13.000Z",
+      "summary": "NextSlide says its team members are now working on ChatGPT."
+    },
     {
       "title": "بایت‌دنس یک هوش مصنوعی عظیم برای رقابت با میتوس می‌سازد؛ ادعای منابع آگاه",
       "url": "https://www.zoomit.ir/ai-articles/464729-bytedance-ten-trillion-parameter-ai/",
@@ -18,36 +42,12 @@
       "summary": "اپل با انتشار یک راهنمای رسمی، امکان اتصال دستیار صوتی سیری و ابزارهای نگارشی مک را به هوش مصنوعی چینی Qwen فراهم کرد."
     },
     {
-      "title": "بینوباکس و تجربه یکپارچه هوش مصنوعی",
-      "url": "https://www.zoomit.ir/pr/464804-binobox-integrated-ai-platform-iran/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-08-08T10:21:50.000Z",
-      "summary": "پلتفرم ایرانی بینوباکس با تجمیع ابزارهای تولید متن، تصویر، صدا و ویدیو در یک محیط یکپارچه، چالش تحریم‌ها و دسترسی کاربران به هوش مصنوعی را حل کرده است"
-    },
-    {
       "title": "OpenAI says it slowed Astra model development over security concerns",
       "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
       "source": "TechCrunch AI",
       "lang": "en",
       "published": "2026-08-07T22:48:24.000Z",
       "summary": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against traditionally well-protected real-world sy"
-    },
-    {
-      "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
-      "url": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-08-07T21:30:11.000Z",
-      "summary": "After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending."
-    },
-    {
-      "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
-      "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-08-07T16:16:09.000Z",
-      "summary": "Kitesurf is a cloud-hosted browser designed for AI agents instead of people. It uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents more efficiently."
     },
     {
       "title": "Responding to the next frontier of critical cyber capabilities",
