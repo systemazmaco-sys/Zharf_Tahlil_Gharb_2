@@ -1,6 +1,38 @@
 {
-  "updated_at": "2026-08-13T01:00:45.917Z",
+  "updated_at": "2026-08-13T12:42:23.842Z",
   "items": [
+    {
+      "title": "گوگل در اشتباهی مهلک، مدیرعامل OpenAI را فوت‌شده اعلام کرد",
+      "url": "https://www.zoomit.ir/internet-network/465143-google-sam-altman-dead-error/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-08-13T10:33:52.000Z",
+      "summary": "موتور جست‌وجوی گوگل به دلیل ویرایش خرابکارانه در ویکی‌پدیا، برای مدتی کوتاه سم آلتمن، مدیرعامل OpenAI را به اشتباه فوت‌شده نشان داد."
+    },
+    {
+      "title": "هکرها با آلوده‌کردن یک ابزار هوش مصنوعی، چندین ترابایت داده از شرکت‌های بزرگ دزدیدند",
+      "url": "https://digiato.com/security/litellm-ai-supply-chain-attack-credentials-leak",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-08-13T10:09:11.000Z",
+      "summary": "در یکی از بزرگ‌ترین حملات سایبری، چندین ترابایت داده حساس متعلق به بیش از ۲,۵۰۰ سازمان برجسته جهان لو رفته است. The post هکرها با آلوده‌کردن یک ابزار هوش مصنوعی، چندین ترابایت داده از شرکت‌های بزرگ دزدیدند appeared first"
+    },
+    {
+      "title": "آمازون حالا از محتوای توییچ برای آموزش مدل‌های هوش مصنوعی استفاده می‌کند",
+      "url": "https://digiato.com/artificial-intelligence/twitch-faces-backlash-over-default-ai-data-use",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-08-13T09:30:00.000Z",
+      "summary": "آمازون به‌طور پیش‌فرض از استریم‌های توییچ برای آموزش هوش مصنوعی استفاده می‌کند، اما کاربران می‌توانند به‌صورت دستی از این برنامه خارج شوند. The post آمازون حالا از محتوای توییچ برای آموزش مدل‌های هوش مصنوعی استفاده می‌کن"
+    },
+    {
+      "title": "How kids feel about AI, in their own words",
+      "url": "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/",
+      "source": "MIT Technology Review",
+      "lang": "en",
+      "published": "2026-08-13T09:00:00.000Z",
+      "summary": "When we set out to talk to kids about artificial intelligence, we thought we knew what we’d hear. We expected some to tell us they were using it to cheat a little, the way Millennials and Gen Xers opened up CliffsNotes o"
+    },
     {
       "title": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
       "url": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
@@ -26,22 +58,6 @@
       "summary": "\"If this was opt-in, nobody would opt in,\" Twitch CPO Mike Minton said on a livestream responding to user feedback. \"That's honestly the answer.\""
     },
     {
-      "title": "برد پیت: هوش مصنوعی می‌تواند برای جبران بودجه کم برخی فیلم‌ها مفید باشد",
-      "url": "https://digiato.com/artificial-intelligence/brad-pitt-ai-hollywood-esquire-interview",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-08-12T19:30:00.000Z",
-      "summary": "برد پیت معتقد است هوش مصنوعی در صورت استفاده به عنوان یک ابزار، می‌تواند ناجی اصلی فیلم‌هایی با بودجه متوسط باشد. The post برد پیت: هوش مصنوعی می‌تواند برای جبران بودجه کم برخی فیلم‌ها مفید باشد appeared first on دیجیاتو"
-    },
-    {
-      "title": "مرد استرالیایی ایده تولید واکسن سرطان سگش با هوش مصنوعی را به استارتاپ تبدیل کرد",
-      "url": "https://digiato.com/artificial-intelligence/chatgpt-dog-cancer-vaccine-startup-gamgee",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-08-12T18:30:00.000Z",
-      "summary": "این کارآفرین می‌خواهد واکسن‌های شخصی‌سازی‌شده سرطان مبتنی‌بر mRNA برای سگ‌ها تولید کند. The post مرد استرالیایی ایده تولید واکسن سرطان سگش با هوش مصنوعی را به استارتاپ تبدیل کرد appeared first on دیجیاتو."
-    },
-    {
       "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
       "url": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
       "source": "TechCrunch AI",
@@ -64,22 +80,6 @@
       "lang": "fa",
       "published": "2026-08-12T16:33:24.000Z",
       "summary": "گراک ۴٫۶ با تمرکز بر اتوماسیون کارها ازطریق عامل‌های هوشمند، یکی از پیشرفته‌ترین مدل‌های هوش مصنوعی جهان است."
-    },
-    {
-      "title": "گراک 4.6 معرفی شد؛ رقیبی برای GPT-5.6 Sol و Claude Fable 5",
-      "url": "https://digiato.com/artificial-intelligence/spacexai-releases-grok-4-6",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-08-12T16:17:36.000Z",
-      "summary": "استارتاپ هوش مصنوعی ایلان ماسک ادعا می‌کند هوش مدل جدید گراک 4.6 در سطح GPT-5.6 Sol و Claude Fable 5 است. The post گراک 4.6 معرفی شد؛ رقیبی برای GPT-5.6 Sol و Claude Fable 5 appeared first on دیجیاتو."
-    },
-    {
-      "title": "سامسونگ برای افزایش سرعت توسعه تراشه‌هایش، از هوش مصنوعی کلاد استفاده می‌کند",
-      "url": "https://www.zoomit.ir/business/465086-samsung-uses-claude-ai-chips/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-08-12T14:10:00.000Z",
-      "summary": "بخش طراحی تراشه‌ی سامسونگ برای افزایش سرعت توسعه و شبیه‌سازی محصولاتش، ابزار هوش مصنوعی کلاد کد را به خدمت گرفته است."
     },
     {
       "title": "Putting sign language AI into users’ hands",
