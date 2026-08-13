@@ -1,6 +1,38 @@
 {
-  "updated_at": "2026-08-12T18:45:30.598Z",
+  "updated_at": "2026-08-13T01:00:45.917Z",
   "items": [
+    {
+      "title": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
+      "url": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-08-12T22:26:37.000Z",
+      "summary": "Is Anthropic's new watermarking system a travesty? Some have taken to social media to complain that it is."
+    },
+    {
+      "title": "اسپاتیفای طرحی برای افشای هویت خوانندگان هوش مصنوعی راه‌اندازی کرد",
+      "url": "https://www.zoomit.ir/ai-articles/465073-spotify-ai-persona-label-system/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-08-12T21:30:00.000Z",
+      "summary": "پلتفرم اسپاتیفای برای افزایش شفافیت، حساب‌های کاربری هنرمندانی را که با هوش مصنوعی ایجاد شده‌اند، با برچسب ویژه‌ای مشخص می‌کند."
+    },
+    {
+      "title": "Amazon will train on Twitch streamers’ content by default, unless they opt out",
+      "url": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-08-12T20:10:40.000Z",
+      "summary": "\"If this was opt-in, nobody would opt in,\" Twitch CPO Mike Minton said on a livestream responding to user feedback. \"That's honestly the answer.\""
+    },
+    {
+      "title": "برد پیت: هوش مصنوعی می‌تواند برای جبران بودجه کم برخی فیلم‌ها مفید باشد",
+      "url": "https://digiato.com/artificial-intelligence/brad-pitt-ai-hollywood-esquire-interview",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-08-12T19:30:00.000Z",
+      "summary": "برد پیت معتقد است هوش مصنوعی در صورت استفاده به عنوان یک ابزار، می‌تواند ناجی اصلی فیلم‌هایی با بودجه متوسط باشد. The post برد پیت: هوش مصنوعی می‌تواند برای جبران بودجه کم برخی فیلم‌ها مفید باشد appeared first on دیجیاتو"
+    },
     {
       "title": "مرد استرالیایی ایده تولید واکسن سرطان سگش با هوش مصنوعی را به استارتاپ تبدیل کرد",
       "url": "https://digiato.com/artificial-intelligence/chatgpt-dog-cancer-vaccine-startup-gamgee",
@@ -16,22 +48,6 @@
       "lang": "en",
       "published": "2026-08-12T18:19:12.000Z",
       "summary": "Cognition may be looking to raise another mega round just a few months after raising $1 billion at a $26 billion valuation."
-    },
-    {
-      "title": "As AI safety concerns mount, three pioneers make the case for staying open",
-      "url": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-08-12T17:51:00.000Z",
-      "summary": "At Ai4, three of the world's most respected AI experts—Geoffrey Hinton, Fei-Fei Li, and Andrew Ng—debated regulation, open-source access, and how America can compete as China advances in Asia."
-    },
-    {
-      "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
-      "url": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-08-12T17:41:29.000Z",
-      "summary": "Thrive Holdings has raised $2 billion in new funding at a $12 billion valuation from investors like SoftBank, D1 Capital Partners, and Alitmeter Capital."
     },
     {
       "title": "Scaling AI agents with trustworthy data",
@@ -72,22 +88,6 @@
       "lang": "en",
       "published": "2026-08-12T14:01:59.000Z",
       "summary": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users."
-    },
-    {
-      "title": "ایلان ماسک: هوش مصنوعی گراک با اطلاعات کارمندان اسپیس‌ایکس آموزش داده می‌شود",
-      "url": "https://digiato.com/artificial-intelligence/elo-musk-grok-will-be-trained-on-spacex-employees",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-08-12T13:51:00.000Z",
-      "summary": "ایلان ماسک، مدیرعامل اسپیس‌ایکس، در گفتگو با کارمندان خود گفت برای آموزش هوش مصنوعی از تمام اطلاعات شرکت استفاده می‌شود. The post ایلان ماسک: هوش مصنوعی گراک با اطلاعات کارمندان اسپیس‌ایکس آموزش داده می‌شود appeared firs"
-    },
-    {
-      "title": "گوشی رباتیک آنر معرفی شد؛ یکی از متفاوت‌ترین گوشی‌های سال با دوربین ۲۰۰ مگاپیکسلی",
-      "url": "https://www.zoomit.ir/mobile/465091-honor-launches-robot-phone-specs-price/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-08-12T13:16:11.000Z",
-      "summary": "آنر یکی از متفاوت‌ترین گوشی‌های سال را با دوربین گیمبال ۲۰۰ مگاپیکسلی، تراشه‌ی قدرتمند و طراحی متمایز رونمایی کرد."
     },
     {
       "title": "From assistance to execution: How enterprises put AI to work",
