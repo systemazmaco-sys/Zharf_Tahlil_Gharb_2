@@ -1,101 +1,101 @@
 {
-  "updated_at": "2026-08-13T12:42:23.842Z",
+  "updated_at": "2026-08-13T18:46:19.026Z",
   "items": [
     {
-      "title": "گوگل در اشتباهی مهلک، مدیرعامل OpenAI را فوت‌شده اعلام کرد",
-      "url": "https://www.zoomit.ir/internet-network/465143-google-sam-altman-dead-error/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-08-13T10:33:52.000Z",
-      "summary": "موتور جست‌وجوی گوگل به دلیل ویرایش خرابکارانه در ویکی‌پدیا، برای مدتی کوتاه سم آلتمن، مدیرعامل OpenAI را به اشتباه فوت‌شده نشان داد."
-    },
-    {
-      "title": "هکرها با آلوده‌کردن یک ابزار هوش مصنوعی، چندین ترابایت داده از شرکت‌های بزرگ دزدیدند",
-      "url": "https://digiato.com/security/litellm-ai-supply-chain-attack-credentials-leak",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-08-13T10:09:11.000Z",
-      "summary": "در یکی از بزرگ‌ترین حملات سایبری، چندین ترابایت داده حساس متعلق به بیش از ۲,۵۰۰ سازمان برجسته جهان لو رفته است. The post هکرها با آلوده‌کردن یک ابزار هوش مصنوعی، چندین ترابایت داده از شرکت‌های بزرگ دزدیدند appeared first"
-    },
-    {
-      "title": "آمازون حالا از محتوای توییچ برای آموزش مدل‌های هوش مصنوعی استفاده می‌کند",
-      "url": "https://digiato.com/artificial-intelligence/twitch-faces-backlash-over-default-ai-data-use",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-08-13T09:30:00.000Z",
-      "summary": "آمازون به‌طور پیش‌فرض از استریم‌های توییچ برای آموزش هوش مصنوعی استفاده می‌کند، اما کاربران می‌توانند به‌صورت دستی از این برنامه خارج شوند. The post آمازون حالا از محتوای توییچ برای آموزش مدل‌های هوش مصنوعی استفاده می‌کن"
-    },
-    {
-      "title": "How kids feel about AI, in their own words",
-      "url": "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/",
-      "source": "MIT Technology Review",
-      "lang": "en",
-      "published": "2026-08-13T09:00:00.000Z",
-      "summary": "When we set out to talk to kids about artificial intelligence, we thought we knew what we’d hear. We expected some to tell us they were using it to cheat a little, the way Millennials and Gen Xers opened up CliffsNotes o"
-    },
-    {
-      "title": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
-      "url": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
+      "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
+      "url": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
       "source": "TechCrunch AI",
       "lang": "en",
-      "published": "2026-08-12T22:26:37.000Z",
-      "summary": "Is Anthropic's new watermarking system a travesty? Some have taken to social media to complain that it is."
+      "published": "2026-08-13T18:28:14.000Z",
+      "summary": "Anthropic researchers found AI agents can clash, collude and coordinate in unexpected ways, raising new questions about whether today’s safety tests capture the risks of multi-agent systems."
     },
     {
-      "title": "اسپاتیفای طرحی برای افشای هویت خوانندگان هوش مصنوعی راه‌اندازی کرد",
-      "url": "https://www.zoomit.ir/ai-articles/465073-spotify-ai-persona-label-system/",
+      "title": "هوش مصنوعی «جمنای ۳٫۷ فلش» گوگل با جهش استثنایی در کدنویسی رونمایی شد",
+      "url": "https://www.zoomit.ir/ai-articles/465163-gemini-3-7-flash-launch/",
       "source": "زومیت",
       "lang": "fa",
-      "published": "2026-08-12T21:30:00.000Z",
-      "summary": "پلتفرم اسپاتیفای برای افزایش شفافیت، حساب‌های کاربری هنرمندانی را که با هوش مصنوعی ایجاد شده‌اند، با برچسب ویژه‌ای مشخص می‌کند."
+      "published": "2026-08-13T17:19:09.000Z",
+      "summary": "گوگل هوش مصنوعی جمنای ۳٫۷ فلش را با جهش در کدنویسی و توسعه‌ی وب معرفی کرد و قیمت آغازین آن را کاهش داد."
     },
     {
-      "title": "Amazon will train on Twitch streamers’ content by default, unless they opt out",
-      "url": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
+      "title": "OpenAI hires new CRO as executive shake-up continues",
+      "url": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
       "source": "TechCrunch AI",
       "lang": "en",
-      "published": "2026-08-12T20:10:40.000Z",
-      "summary": "\"If this was opt-in, nobody would opt in,\" Twitch CPO Mike Minton said on a livestream responding to user feedback. \"That's honestly the answer.\""
+      "published": "2026-08-13T17:07:13.000Z",
+      "summary": "Dali Rajic will take over as OpenAI's top salesperson."
     },
     {
-      "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
-      "url": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-08-12T18:19:12.000Z",
-      "summary": "Cognition may be looking to raise another mega round just a few months after raising $1 billion at a $26 billion valuation."
-    },
-    {
-      "title": "Scaling AI agents with trustworthy data",
-      "url": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
-      "source": "MIT Technology Review",
-      "lang": "en",
-      "published": "2026-08-12T16:51:57.000Z",
-      "summary": "Business and technology leaders need no convincing that the time of agentic AI is here. Organizations are rapidly adopting agents, and few executives doubt the technology’s potential to transform work. But many organizat"
-    },
-    {
-      "title": "هوش مصنوعی پرچمدار گراک ۴٫۶ با تمرکز روی اتوماسیون رونمایی شد",
-      "url": "https://www.zoomit.ir/ai-articles/465106-grok-4-6-official-benchmarks-release/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-08-12T16:33:24.000Z",
-      "summary": "گراک ۴٫۶ با تمرکز بر اتوماسیون کارها ازطریق عامل‌های هوشمند، یکی از پیشرفته‌ترین مدل‌های هوش مصنوعی جهان است."
-    },
-    {
-      "title": "Putting sign language AI into users’ hands",
-      "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
+      "title": "Introducing Gemini 3.7 Flash",
+      "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
       "source": "Google DeepMind",
       "lang": "en",
-      "published": "2026-08-12T14:01:59.000Z",
-      "summary": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users."
+      "published": "2026-08-13T17:04:18.000Z",
+      "summary": ""
     },
     {
-      "title": "From assistance to execution: How enterprises put AI to work",
-      "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
+      "title": "واتساپ با هوش مصنوعی به جنگ کلاهبرداران می‌رود",
+      "url": "https://www.zoomit.ir/security/465159-whatsapp-ai-scam-detection-beta/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-08-13T16:31:48.000Z",
+      "summary": "واتساپ آزمایش قابلیت جدیدی را آغاز کرده است که با استفاده از هوش مصنوعی، پیام‌های مربوط‌به کلاهبرداری را شناسایی می‌کند."
+    },
+    {
+      "title": "مادرخوانده هوش مصنوعی: بزرگ‌ترین خطر AI ازدست‌رفتن انگیزه یادگیری در دانش‌آموزان است",
+      "url": "https://digiato.com/tech/the-biggest-ai-risk-in-schools-may-not-be-cheating",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-08-13T16:30:00.000Z",
+      "summary": "پروفسور لی هشدار می‌دهد خطر اصلی هوش مصنوعی در مدارس، تقلب نیست؛ بلکه وابستگی به آن و از بین رفتن انگیزه یادگیری است. The post مادرخوانده هوش مصنوعی: بزرگ‌ترین خطر AI ازدست‌رفتن انگیزه یادگیری در دانش‌آموزان است appeared"
+    },
+    {
+      "title": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
+      "url": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-08-13T15:30:52.000Z",
+      "summary": "Microsoft is simplifying Copilot by combining its consumer and business apps, and dropping AI-generated podcasts, Group Chats, Deep Research, and its Mico character."
+    },
+    {
+      "title": "میسترال ای‌آی: چگونه یک استارتاپ فرانسوی رقیب جدی OpenAI شد؟",
+      "url": "https://www.zoomit.ir/ai-articles/462548-mistral-ai-openai-competitor-featured/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-08-13T15:00:00.000Z",
+      "summary": "استارتاپ فرانسوی میسترال با تمرکز بر مدل‌های بهینه، انحصار غول‌های فناوری را به چالش کشیده و می‌خواهد استقلال دیجیتال اروپا را تضمین کند."
+    },
+    {
+      "title": "Flock is tightening its rules in response to a growing surveillance backlash",
+      "url": "https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/",
+      "source": "MIT Technology Review",
+      "lang": "en",
+      "published": "2026-08-13T13:41:10.000Z",
+      "summary": "The police-tech giant Flock is announcing today that it will change officers’ access to its nationwide network of license plate readers, in an apparent effort to quell a growing backlash and win back contracts lost amid "
+    },
+    {
+      "title": "دیپ‌سیک مدل هوش مصنوعی V4 Pro را منتشر کرد؛ افزایش قیمت API اعلام شد",
+      "url": "https://digiato.com/artificial-intelligence/deepseek-releases-v4-pro-model-amid-api-price-hike",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-08-13T13:38:01.000Z",
+      "summary": "استارتاپ هوش مصنوعی دیپ‌سیک از انتشار مدل جدید V4 Pro خبر داد و گفت هزینه استفاده از API مدل‌ها افزایش می‌یابد. The post دیپ‌سیک مدل هوش مصنوعی V4 Pro را منتشر کرد؛ افزایش قیمت API اعلام شد appeared first on دیجیاتو."
+    },
+    {
+      "title": "The builder’s guide to GPT‑5.6",
+      "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
       "source": "OpenAI",
       "lang": "en",
-      "published": "2026-08-12T06:00:00.000Z",
-      "summary": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption."
+      "published": "2026-08-13T11:00:00.000Z",
+      "summary": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities."
+    },
+    {
+      "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+      "url": "https://openai.com/index/previewing-ultrafast",
+      "source": "OpenAI",
+      "lang": "en",
+      "published": "2026-08-13T10:00:00.000Z",
+      "summary": "Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster. Powered by Cerebras, it delivers up to 750 output tokens per second."
     }
   ]
 }
