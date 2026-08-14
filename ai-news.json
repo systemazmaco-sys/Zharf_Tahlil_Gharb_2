@@ -1,29 +1,45 @@
 {
-  "updated_at": "2026-08-14T07:06:46.942Z",
+  "updated_at": "2026-08-14T12:38:39.403Z",
   "items": [
     {
-      "title": "هوش مصنوعی آمازون مدت‌ها است که از داده‌های توییچ استفاده می‌کند",
-      "url": "https://www.zoomit.ir/security/465130-twitch-opt-out-amazon-ai/",
-      "source": "زومیت",
+      "title": "اولین حمله تمام‌خودکار هوش مصنوعی به نهادهای دولتی در تایوان ثبت شد",
+      "url": "https://digiato.com/artificial-intelligence/taiwan-autonomous-ai-agents-cyberattack",
+      "source": "دیجیاتو",
       "lang": "fa",
-      "published": "2026-08-14T04:50:00.000Z",
-      "summary": "کاربران توییچ از امروز می‌توانند مانع استفاده‌ی آمازون از محتوای کانال‌های خود برای آموزش هوش مصنوعی شوند."
+      "published": "2026-08-14T11:18:55.000Z",
+      "summary": "به‌نظر می‌رسد این حمله توسط هکرهای وابسته به چین هدایت شده است. The post اولین حمله تمام‌خودکار هوش مصنوعی به نهادهای دولتی در تایوان ثبت شد appeared first on دیجیاتو."
     },
     {
-      "title": "ایلان ماسک: هوش مصنوعی گراک ۴٫۷ با داده‌های فضایی تغذیه می‌شود",
-      "url": "https://www.zoomit.ir/ai-articles/465127-elon-musk-grok-spacex-data/",
+      "title": "ابرخوشه پردازشی هوش مصنوعی چین با ۱۰۰ هزار پردازنده بومی فعال شد",
+      "url": "https://www.zoomit.ir/ai-articles/465196-china-homegrown-ai-super-cluster/",
       "source": "زومیت",
       "lang": "fa",
-      "published": "2026-08-14T04:00:00.000Z",
-      "summary": "ایلان ماسک از توسعه‌ی نسخه‌ی جدید هوش مصنوعی گراک با بهره‌گیری از داده‌های مهندسی فضایی خبر داد."
+      "published": "2026-08-14T10:40:00.000Z",
+      "summary": "چین نخستین ابرخوشه محاسباتی هوش مصنوعی خود را با بهره‌گیری از ۱۰۰ هزار پردازنده‌ی ساخت داخل به‌طور رسمی راه‌اندازی کرد."
     },
     {
-      "title": "پژوهشگران امنیتی، افکار پنهان مدل‌های هوش مصنوعی را رمزگشایی کردند",
-      "url": "https://www.zoomit.ir/security/465121-ai-reasoning-tokens-security-exploit/",
+      "title": "ابزار کدنویسی متن‌باز DeepSeek Harness برای رقابت با Claude Code معرفی شد",
+      "url": "https://digiato.com/artificial-intelligence/deepseek-launches-open-source-agent-harness",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-08-14T08:00:30.000Z",
+      "summary": "این پروژه به صورت پیش‌نمایش اولیه توسعه‌دهندگان و با هدف ایجاد ساختاری کاملاً ماژولار تحت مجوز MIT در گیت‌هاب قرار گرفته است. The post ابزار کدنویسی متن‌باز DeepSeek Harness برای رقابت با Claude Code معرفی شد appeared fi"
+    },
+    {
+      "title": "قابلیت جدید ChatGPT، تمام فعالیت‌های کاربر را در مک رصد می‌کند",
+      "url": "https://www.zoomit.ir/ai-articles/465173-openai-chatgpt-computer-history-macos/",
       "source": "زومیت",
       "lang": "fa",
-      "published": "2026-08-14T03:15:00.000Z",
-      "summary": "محققان امنیتی حفره‌ای بزرگ در مدل‌های هوش مصنوعی کشف کردند که امکان رمزگشایی از فرآیند تفکر پنهان آن‌ها را فراهم می‌کند."
+      "published": "2026-08-14T07:55:00.000Z",
+      "summary": "اوپن‌ای‌آی قابلیت اختیاری جدیدی به نام Computer History را برای کاربران مک معرفی کرد تا فعالیت‌های روزمره را ثبت کند."
+    },
+    {
+      "title": "۱۴ برابر سرعت پاسخ‌گویی بیشتر؛ قابلیت جدید برای هوش مصنوعی پیشرفته GPT 5.6 Sol",
+      "url": "https://www.zoomit.ir/ai-articles/465172-openai-launches-ultrafast-gpt-5-6-sol/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-08-14T07:42:21.000Z",
+      "summary": "اوپن‌ای‌آی از حالت Ultrafast برای افزایش ۱۴ برابری سرعت پردازش هوش مصنوعی GPT-5.6 Sol رونمایی کرد."
     },
     {
       "title": "Writer introduces new AI model and upgraded harness to contain token costs",
@@ -58,28 +74,12 @@
       "summary": ""
     },
     {
-      "title": "مادرخوانده هوش مصنوعی: بزرگ‌ترین خطر AI ازدست‌رفتن انگیزه یادگیری در دانش‌آموزان است",
-      "url": "https://digiato.com/tech/the-biggest-ai-risk-in-schools-may-not-be-cheating",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-08-13T16:30:00.000Z",
-      "summary": "پروفسور لی هشدار می‌دهد خطر اصلی هوش مصنوعی در مدارس، تقلب نیست؛ بلکه وابستگی به آن و از بین رفتن انگیزه یادگیری است. The post مادرخوانده هوش مصنوعی: بزرگ‌ترین خطر AI ازدست‌رفتن انگیزه یادگیری در دانش‌آموزان است appeared"
-    },
-    {
       "title": "Flock is tightening its rules in response to a growing surveillance backlash",
       "url": "https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/",
       "source": "MIT Technology Review",
       "lang": "en",
       "published": "2026-08-13T13:41:10.000Z",
       "summary": "The police-tech giant Flock is announcing today that it will change officers’ access to its nationwide network of license plate readers, in an apparent effort to quell a growing backlash and win back contracts lost amid "
-    },
-    {
-      "title": "دیپ‌سیک مدل هوش مصنوعی V4 Pro را منتشر کرد؛ افزایش قیمت API اعلام شد",
-      "url": "https://digiato.com/artificial-intelligence/deepseek-releases-v4-pro-model-amid-api-price-hike",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-08-13T13:38:01.000Z",
-      "summary": "استارتاپ هوش مصنوعی دیپ‌سیک از انتشار مدل جدید V4 Pro خبر داد و گفت هزینه استفاده از API مدل‌ها افزایش می‌یابد. The post دیپ‌سیک مدل هوش مصنوعی V4 Pro را منتشر کرد؛ افزایش قیمت API اعلام شد appeared first on دیجیاتو."
     },
     {
       "title": "The builder’s guide to GPT‑5.6",
