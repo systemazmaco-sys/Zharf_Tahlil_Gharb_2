@@ -1,6 +1,30 @@
 {
-  "updated_at": "2026-08-14T01:00:26.462Z",
+  "updated_at": "2026-08-14T07:06:46.942Z",
   "items": [
+    {
+      "title": "هوش مصنوعی آمازون مدت‌ها است که از داده‌های توییچ استفاده می‌کند",
+      "url": "https://www.zoomit.ir/security/465130-twitch-opt-out-amazon-ai/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-08-14T04:50:00.000Z",
+      "summary": "کاربران توییچ از امروز می‌توانند مانع استفاده‌ی آمازون از محتوای کانال‌های خود برای آموزش هوش مصنوعی شوند."
+    },
+    {
+      "title": "ایلان ماسک: هوش مصنوعی گراک ۴٫۷ با داده‌های فضایی تغذیه می‌شود",
+      "url": "https://www.zoomit.ir/ai-articles/465127-elon-musk-grok-spacex-data/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-08-14T04:00:00.000Z",
+      "summary": "ایلان ماسک از توسعه‌ی نسخه‌ی جدید هوش مصنوعی گراک با بهره‌گیری از داده‌های مهندسی فضایی خبر داد."
+    },
+    {
+      "title": "پژوهشگران امنیتی، افکار پنهان مدل‌های هوش مصنوعی را رمزگشایی کردند",
+      "url": "https://www.zoomit.ir/security/465121-ai-reasoning-tokens-security-exploit/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-08-14T03:15:00.000Z",
+      "summary": "محققان امنیتی حفره‌ای بزرگ در مدل‌های هوش مصنوعی کشف کردند که امکان رمزگشایی از فرآیند تفکر پنهان آن‌ها را فراهم می‌کند."
+    },
     {
       "title": "Writer introduces new AI model and upgraded harness to contain token costs",
       "url": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
@@ -26,14 +50,6 @@
       "summary": "OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users."
     },
     {
-      "title": "هوش مصنوعی «جمنای ۳٫۷ فلش» گوگل با جهش استثنایی در کدنویسی رونمایی شد",
-      "url": "https://www.zoomit.ir/ai-articles/465163-gemini-3-7-flash-launch/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-08-13T17:19:09.000Z",
-      "summary": "گوگل هوش مصنوعی جمنای ۳٫۷ فلش را با جهش در کدنویسی و توسعه‌ی وب معرفی کرد و قیمت آغازین آن را کاهش داد."
-    },
-    {
       "title": "Introducing Gemini 3.7 Flash",
       "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
       "source": "Google DeepMind",
@@ -42,28 +58,12 @@
       "summary": ""
     },
     {
-      "title": "واتساپ با هوش مصنوعی به جنگ کلاهبرداران می‌رود",
-      "url": "https://www.zoomit.ir/security/465159-whatsapp-ai-scam-detection-beta/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-08-13T16:31:48.000Z",
-      "summary": "واتساپ آزمایش قابلیت جدیدی را آغاز کرده است که با استفاده از هوش مصنوعی، پیام‌های مربوط‌به کلاهبرداری را شناسایی می‌کند."
-    },
-    {
       "title": "مادرخوانده هوش مصنوعی: بزرگ‌ترین خطر AI ازدست‌رفتن انگیزه یادگیری در دانش‌آموزان است",
       "url": "https://digiato.com/tech/the-biggest-ai-risk-in-schools-may-not-be-cheating",
       "source": "دیجیاتو",
       "lang": "fa",
       "published": "2026-08-13T16:30:00.000Z",
       "summary": "پروفسور لی هشدار می‌دهد خطر اصلی هوش مصنوعی در مدارس، تقلب نیست؛ بلکه وابستگی به آن و از بین رفتن انگیزه یادگیری است. The post مادرخوانده هوش مصنوعی: بزرگ‌ترین خطر AI ازدست‌رفتن انگیزه یادگیری در دانش‌آموزان است appeared"
-    },
-    {
-      "title": "میسترال ای‌آی: چگونه یک استارتاپ فرانسوی رقیب جدی OpenAI شد؟",
-      "url": "https://www.zoomit.ir/ai-articles/462548-mistral-ai-openai-competitor-featured/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-08-13T15:00:00.000Z",
-      "summary": "استارتاپ فرانسوی میسترال با تمرکز بر مدل‌های بهینه، انحصار غول‌های فناوری را به چالش کشیده و می‌خواهد استقلال دیجیتال اروپا را تضمین کند."
     },
     {
       "title": "Flock is tightening its rules in response to a growing surveillance backlash",
