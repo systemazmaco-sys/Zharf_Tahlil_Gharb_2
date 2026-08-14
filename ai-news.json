@@ -1,13 +1,29 @@
 {
-  "updated_at": "2026-08-13T18:46:19.026Z",
+  "updated_at": "2026-08-14T01:00:26.462Z",
   "items": [
     {
-      "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
-      "url": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
+      "title": "Writer introduces new AI model and upgraded harness to contain token costs",
+      "url": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
       "source": "TechCrunch AI",
       "lang": "en",
-      "published": "2026-08-13T18:28:14.000Z",
-      "summary": "Anthropic researchers found AI agents can clash, collude and coordinate in unexpected ways, raising new questions about whether today’s safety tests capture the risks of multi-agent systems."
+      "published": "2026-08-13T21:13:24.000Z",
+      "summary": "Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a much lower price."
+    },
+    {
+      "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
+      "url": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-08-13T20:14:39.000Z",
+      "summary": "AI is expensive, Ali Ghodsi tells TechCrunch. With so many investors wanting into his latest round, he said yes to more than planned."
+    },
+    {
+      "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
+      "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-08-13T19:22:40.000Z",
+      "summary": "OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users."
     },
     {
       "title": "هوش مصنوعی «جمنای ۳٫۷ فلش» گوگل با جهش استثنایی در کدنویسی رونمایی شد",
@@ -16,14 +32,6 @@
       "lang": "fa",
       "published": "2026-08-13T17:19:09.000Z",
       "summary": "گوگل هوش مصنوعی جمنای ۳٫۷ فلش را با جهش در کدنویسی و توسعه‌ی وب معرفی کرد و قیمت آغازین آن را کاهش داد."
-    },
-    {
-      "title": "OpenAI hires new CRO as executive shake-up continues",
-      "url": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-08-13T17:07:13.000Z",
-      "summary": "Dali Rajic will take over as OpenAI's top salesperson."
     },
     {
       "title": "Introducing Gemini 3.7 Flash",
@@ -48,14 +56,6 @@
       "lang": "fa",
       "published": "2026-08-13T16:30:00.000Z",
       "summary": "پروفسور لی هشدار می‌دهد خطر اصلی هوش مصنوعی در مدارس، تقلب نیست؛ بلکه وابستگی به آن و از بین رفتن انگیزه یادگیری است. The post مادرخوانده هوش مصنوعی: بزرگ‌ترین خطر AI ازدست‌رفتن انگیزه یادگیری در دانش‌آموزان است appeared"
-    },
-    {
-      "title": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
-      "url": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-08-13T15:30:52.000Z",
-      "summary": "Microsoft is simplifying Copilot by combining its consumer and business apps, and dropping AI-generated podcasts, Group Chats, Deep Research, and its Mico character."
     },
     {
       "title": "میسترال ای‌آی: چگونه یک استارتاپ فرانسوی رقیب جدی OpenAI شد؟",
