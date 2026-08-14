@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-08-14T12:38:39.403Z",
+  "updated_at": "2026-08-14T18:39:07.659Z",
   "items": [
+    {
+      "title": "تغییر بزرگ در هوش مصنوعی گوگل؛ حذف اختیاری واترمارک‌های مرئی",
+      "url": "https://www.zoomit.ir/ai-articles/465213-gemini-toggle-visible-watermarks/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-08-14T17:01:19.000Z",
+      "summary": "گوگل امکان فعال یا غیرفعال‌کردن واترمارک‌های مرئی را در ابزارهای هوش مصنوعی خود فراهم کرد."
+    },
+    {
+      "title": "قابلیت یادداشت‌برداری با هوش مصنوعی به گوگل میت اضافه شد",
+      "url": "https://www.zoomit.ir/software-news/465194-google-meet-person-notes/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-08-14T16:55:00.000Z",
+      "summary": "گوگل میت قابلیت یادداشت‌برداری هوشمند با هوش مصنوعی را برای جلسات حضوری در اندروید، وب و آی‌اواس عرضه کرد."
+    },
+    {
+      "title": "همکاری بی‌سروصدا با علی‌بابا؛ اپل هوش مصنوعی اختصاصی برای بازار چین توسعه می‌دهد",
+      "url": "https://www.zoomit.ir/ai-articles/465182-apple-trains-china-ai-model/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-08-14T16:35:00.000Z",
+      "summary": "رویترز در گزارشی ادعا می‌کند که اپل با همراهی علی‌بابا یک هوش مصنوعی اختصاصی برای کاربران چینی آموزش داده است."
+    },
+    {
+      "title": "Google will now allow users to remove visible watermark from its AI generations",
+      "url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-08-14T16:13:40.000Z",
+      "summary": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file."
+    },
+    {
+      "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
+      "url": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-08-14T15:43:28.000Z",
+      "summary": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the company’s more powerful model that stays locked behind its own APIs. The release "
+    },
+    {
+      "title": "Kog is going deeper to squeeze more inference out of GPUs",
+      "url": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-08-14T14:50:11.000Z",
+      "summary": "The idea that GPUs are poorly suited for agentic workflows may be a misconception, according to French startup Kog."
+    },
     {
       "title": "اولین حمله تمام‌خودکار هوش مصنوعی به نهادهای دولتی در تایوان ثبت شد",
       "url": "https://digiato.com/artificial-intelligence/taiwan-autonomous-ai-agents-cyberattack",
@@ -8,62 +56,6 @@
       "lang": "fa",
       "published": "2026-08-14T11:18:55.000Z",
       "summary": "به‌نظر می‌رسد این حمله توسط هکرهای وابسته به چین هدایت شده است. The post اولین حمله تمام‌خودکار هوش مصنوعی به نهادهای دولتی در تایوان ثبت شد appeared first on دیجیاتو."
-    },
-    {
-      "title": "ابرخوشه پردازشی هوش مصنوعی چین با ۱۰۰ هزار پردازنده بومی فعال شد",
-      "url": "https://www.zoomit.ir/ai-articles/465196-china-homegrown-ai-super-cluster/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-08-14T10:40:00.000Z",
-      "summary": "چین نخستین ابرخوشه محاسباتی هوش مصنوعی خود را با بهره‌گیری از ۱۰۰ هزار پردازنده‌ی ساخت داخل به‌طور رسمی راه‌اندازی کرد."
-    },
-    {
-      "title": "ابزار کدنویسی متن‌باز DeepSeek Harness برای رقابت با Claude Code معرفی شد",
-      "url": "https://digiato.com/artificial-intelligence/deepseek-launches-open-source-agent-harness",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-08-14T08:00:30.000Z",
-      "summary": "این پروژه به صورت پیش‌نمایش اولیه توسعه‌دهندگان و با هدف ایجاد ساختاری کاملاً ماژولار تحت مجوز MIT در گیت‌هاب قرار گرفته است. The post ابزار کدنویسی متن‌باز DeepSeek Harness برای رقابت با Claude Code معرفی شد appeared fi"
-    },
-    {
-      "title": "قابلیت جدید ChatGPT، تمام فعالیت‌های کاربر را در مک رصد می‌کند",
-      "url": "https://www.zoomit.ir/ai-articles/465173-openai-chatgpt-computer-history-macos/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-08-14T07:55:00.000Z",
-      "summary": "اوپن‌ای‌آی قابلیت اختیاری جدیدی به نام Computer History را برای کاربران مک معرفی کرد تا فعالیت‌های روزمره را ثبت کند."
-    },
-    {
-      "title": "۱۴ برابر سرعت پاسخ‌گویی بیشتر؛ قابلیت جدید برای هوش مصنوعی پیشرفته GPT 5.6 Sol",
-      "url": "https://www.zoomit.ir/ai-articles/465172-openai-launches-ultrafast-gpt-5-6-sol/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-08-14T07:42:21.000Z",
-      "summary": "اوپن‌ای‌آی از حالت Ultrafast برای افزایش ۱۴ برابری سرعت پردازش هوش مصنوعی GPT-5.6 Sol رونمایی کرد."
-    },
-    {
-      "title": "Writer introduces new AI model and upgraded harness to contain token costs",
-      "url": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-08-13T21:13:24.000Z",
-      "summary": "Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a much lower price."
-    },
-    {
-      "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
-      "url": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-08-13T20:14:39.000Z",
-      "summary": "AI is expensive, Ali Ghodsi tells TechCrunch. With so many investors wanting into his latest round, he said yes to more than planned."
-    },
-    {
-      "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
-      "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-08-13T19:22:40.000Z",
-      "summary": "OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users."
     },
     {
       "title": "Introducing Gemini 3.7 Flash",
@@ -96,6 +88,14 @@
       "lang": "en",
       "published": "2026-08-13T10:00:00.000Z",
       "summary": "Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster. Powered by Cerebras, it delivers up to 750 output tokens per second."
+    },
+    {
+      "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
+      "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
+      "source": "OpenAI",
+      "lang": "en",
+      "published": "2026-08-13T09:00:00.000Z",
+      "summary": "OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI."
     }
   ]
 }
