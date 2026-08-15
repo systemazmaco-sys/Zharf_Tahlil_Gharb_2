@@ -1,21 +1,13 @@
 {
-  "updated_at": "2026-08-15T06:18:58.369Z",
+  "updated_at": "2026-08-15T12:15:52.629Z",
   "items": [
     {
-      "title": "هوش مصنوعی GLM-5.3 به‌عنوان رقیب Kimi K3 معرفی شد",
-      "url": "https://digiato.com/artificial-intelligence/z-ai-launches-glm-5-3-open-weight-coding-model",
-      "source": "دیجیاتو",
+      "title": "هشدار سازمان غذا و دارو: هوش مصنوعی جایگزین پزشک نیست",
+      "url": "https://www.zoomit.ir/iran-news/465237-digital-self-medication-warning-food-drug-organization/",
+      "source": "زومیت",
       "lang": "fa",
-      "published": "2026-08-15T05:46:19.000Z",
-      "summary": "در بنچمارک‌های تخصصی برنامه‌نویسی، مدل GLM-5.3 عملکرد قدرتمندی ثبت کرد. The post هوش مصنوعی GLM-5.3 به‌عنوان رقیب Kimi K3 معرفی شد appeared first on دیجیاتو."
-    },
-    {
-      "title": "پژوهش آنتروپیک: تقابل ایجنت‌های هوش مصنوعی به جنگ بر سر قلمرو منجر می‌شود",
-      "url": "https://digiato.com/artificial-intelligence/anthropic-ai-agents-turf-war-collusion",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-08-14T19:30:00.000Z",
-      "summary": "ایجنت‌ها با وجود حل مقطعی برخی اختلافات، در برخی سناریوها به جنگ بدافزاری، تفکر گله‌ای و رفتارهای تبانی‌آمیز دست می‌زنند. The post پژوهش آنتروپیک: تقابل ایجنت‌های هوش مصنوعی به جنگ بر سر قلمرو منجر می‌شود appeared first "
+      "published": "2026-08-15T06:10:58.000Z",
+      "summary": "سخنگوی سازمان غذا و دارو نسبت به گسترش خوددرمانی دیجیتال هشدار داد و گفت هوش مصنوعی نمی‌تواند جای پزشک و داروساز را بگیرد."
     },
     {
       "title": "Gemini posts $108M Q2 net loss despite 37% revenue growth|Cointelegraph",
@@ -40,14 +32,6 @@
       "lang": "fa",
       "published": "2026-08-14T16:55:00.000Z",
       "summary": "گوگل میت قابلیت یادداشت‌برداری هوشمند با هوش مصنوعی را برای جلسات حضوری در اندروید، وب و آی‌اواس عرضه کرد."
-    },
-    {
-      "title": "همکاری بی‌سروصدا با علی‌بابا؛ اپل هوش مصنوعی اختصاصی برای بازار چین توسعه می‌دهد",
-      "url": "https://www.zoomit.ir/ai-articles/465182-apple-trains-china-ai-model/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-08-14T16:35:00.000Z",
-      "summary": "رویترز در گزارشی ادعا می‌کند که اپل با همراهی علی‌بابا یک هوش مصنوعی اختصاصی برای کاربران چینی آموزش داده است."
     },
     {
       "title": "Google will now allow users to remove visible watermark from its AI generations",
@@ -96,6 +80,22 @@
       "lang": "en",
       "published": "2026-08-13T13:41:10.000Z",
       "summary": "The police-tech giant Flock is announcing today that it will change officers’ access to its nationwide network of license plate readers, in an apparent effort to quell a growing backlash and win back contracts lost amid "
+    },
+    {
+      "title": "The builder’s guide to GPT‑5.6",
+      "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
+      "source": "OpenAI",
+      "lang": "en",
+      "published": "2026-08-13T11:00:00.000Z",
+      "summary": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities."
+    },
+    {
+      "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+      "url": "https://openai.com/index/previewing-ultrafast",
+      "source": "OpenAI",
+      "lang": "en",
+      "published": "2026-08-13T10:00:00.000Z",
+      "summary": "Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster. Powered by Cerebras, it delivers up to 750 output tokens per second."
     }
   ]
 }
