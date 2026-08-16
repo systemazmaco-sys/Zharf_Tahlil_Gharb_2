@@ -1,53 +1,61 @@
 {
-  "updated_at": "2026-08-16T12:16:43.502Z",
+  "updated_at": "2026-08-16T18:13:03.415Z",
   "items": [
     {
-      "title": "هوش مصنوعی حالا اکثر کارهای کارکنان کنگره آمریکا را برای نگارش قوانین انجام می‌دهد",
-      "url": "https://digiato.com/artificial-intelligence/us-congress-staffers-ai-lawmaking-report",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-08-16T12:15:00.000Z",
-      "summary": "استفاده از چت‌بات‌های هوش مصنوعی توسط کارکنان کنگره آمریکا برای خلاصه‌کردن اسناد و حتی تنظیم پیش‌نویس لایحه‌ها بسیار رواج یافته است. The post هوش مصنوعی حالا اکثر کارهای کارکنان کنگره آمریکا را برای نگارش قوانین انجام می"
-    },
-    {
-      "title": "بحران پنهان انرژی؛ آیا هوش مصنوعی جهان را تشنه راکتورهای هسته‌ای می‌کند؟",
-      "url": "https://www.zoomit.ir/energy-environment/465234-nuclear-reactors-powering-us-data-centers/",
+      "title": "واترمارک اختصاصی آنتروپیک به متن‌های تولیدی هوش مصنوعی کلاد تزریق می‌شود",
+      "url": "https://www.zoomit.ir/ai-articles/465292-anthropic-claude-text-watermarking-system/",
       "source": "زومیت",
       "lang": "fa",
-      "published": "2026-08-16T11:45:00.000Z",
-      "summary": "تأمین انرژی سالانه‌ی دیتاسنترهای آمریکا به حدود ۸۰ راکتور هسته‌ای کوچک با ظرفیت ۳۰۰ مگاوات نیاز دارد."
+      "published": "2026-08-16T17:10:00.000Z",
+      "summary": "آنتروپیک از سیستم نشانه‌گذاری پنهان و نامرئی خود برای ردیابی متون تولیدشده با هوش مصنوعی کلاد رونمایی کرد."
     },
     {
-      "title": "سامسونگ روند طراحی تراشه را با Claude Code از یک ماه به چند روز رساند",
-      "url": "https://digiato.com/artificial-intelligence/samsung-claude-code-chip-design-speedup",
+      "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
+      "url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-08-16T16:53:51.000Z",
+      "summary": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI."
+    },
+    {
+      "title": "گوگل برای طراحی نسل دهم تراشه‌های هوش مصنوعی خود به سراغ AMD می‌رود",
+      "url": "https://digiato.com/artificial-intelligence/google-amd-tpu-v10-hybrid-chip-development",
       "source": "دیجیاتو",
       "lang": "fa",
-      "published": "2026-08-16T11:43:00.000Z",
-      "summary": "با وجود پیشرفت‌ها، سامسونگ به خطاهای مهمی نیز اشاره کرده که هوش مصنوعی Claude Code آنها را مرتکب شده است. The post سامسونگ روند طراحی تراشه را با Claude Code از یک ماه به چند روز رساند appeared first on دیجیاتو."
+      "published": "2026-08-16T15:30:00.000Z",
+      "summary": "گزارشی تازه حاکی از حضور AMD در یکی از پروژه‌های TPU v10 گوگل است. The post گوگل برای طراحی نسل دهم تراشه‌های هوش مصنوعی خود به سراغ AMD می‌رود appeared first on دیجیاتو."
     },
     {
-      "title": "پایان عصر مدرک دانشگاهی؟ هوش مصنوعی ارزش تحصیلات سنتی را زیر سؤال می‌برد",
-      "url": "https://www.zoomit.ir/ai-articles/465276-college-degree-value-drop-ai/",
+      "title": "کاخ سفید به ۳۵ کشور جهان در رقابت هوش مصنوعی اولتیماتوم می‌دهد",
+      "url": "https://www.zoomit.ir/ai-articles/465240-us-china-ai-coalition-ultimatum/",
       "source": "زومیت",
       "lang": "fa",
-      "published": "2026-08-16T11:10:00.000Z",
-      "summary": "اعتماد به مدرک دانشگاهی به عنوان کلید موفقیت شغلی در میان آمریکایی‌ها به شکل بی‌سابقه‌ای کاهش یافته است."
+      "published": "2026-08-16T15:10:00.000Z",
+      "summary": "ایالات متحده به ده‌ها کشور هشدار داد که باید میان ائتلاف هوش مصنوعی واشنگتن و پکن یکی را برگزینند."
     },
     {
-      "title": "IRAN AI 2026| دومین دوره رویداد بزرگ کاربردهای هوش مصنوعی در صنایع و کسب و کارها",
-      "url": "https://digiato.com/promoted/second-event-on-ai-applications-in-industries-and-businesses",
+      "title": "خبرگزاری اکسیوس، هوش مصنوعی را وارد چرخه تولید مقاله‌های محلی می‌کند",
+      "url": "https://www.zoomit.ir/ai-articles/465340-axios-openai-local-journalism-automation/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-08-16T14:50:23.000Z",
+      "summary": "خبرگزاری معتبر اکسیوس برای «خودکارسازی» روند تولید اخبار محلی، قرارداد همکاری سه‌ ساله‌ با اوپن‌ای‌آی امضا کرد."
+    },
+    {
+      "title": "این ۸ دوره رایگان دانشگاه‌های برتر جهان در زمینه علوم کامپیوتر و AI را از دست ندهید",
+      "url": "https://digiato.com/artificial-intelligence/top-free-ai-computer-science-courses-harvard-stanford-mit",
       "source": "دیجیاتو",
       "lang": "fa",
-      "published": "2026-08-16T09:45:00.000Z",
-      "summary": "این رویداد در روزهای ۳۰ و ۳۱ شهریورماه ۱۴۰۵ در محل دانشگاه صنعتی شریف برگزار می شود. The post IRAN AI 2026| دومین دوره رویداد بزرگ کاربردهای هوش مصنوعی در صنایع و کسب و کارها appeared first on دیجیاتو."
+      "published": "2026-08-16T13:43:00.000Z",
+      "summary": "این دوره‌ها مباحث پایه‌ای علوم کامپیوتر، برنامه‌نویسی پایتون، هوش مصنوعی، یادگیری عمیق، بینایی ماشین و بازارهای مالی را پوشش می‌دهند. The post این ۸ دوره رایگان دانشگاه‌های برتر جهان در زمینه علوم کامپیوتر و AI را از دست"
     },
     {
-      "title": "یک هوش مصنوعی چینی در حوزه هک‌کردن، هم‌سطح مدل‌های آمریکایی شد",
-      "url": "https://www.zoomit.ir/ai-articles/465236-china-zai-glm-model-security/",
-      "source": "زومیت",
+      "title": "از اپل تی‌وی 4K تا هوم‌پاد رباتیک؛ برنامه آینده اپل برای محصولات خانه هوشمند فاش شد",
+      "url": "https://digiato.com/smart-home-appliances/apple-smart-home-product-roadmap-details",
+      "source": "دیجیاتو",
       "lang": "fa",
-      "published": "2026-08-16T06:40:00.000Z",
-      "summary": "شرکت چینی Z.ai به دلیل قدرت بالای هوش مصنوعی GLM-5.3 در شناسایی و بهره‌برداری از رخنه‌های امنیتی، انتشار عمومی آن را به تعویق انداخت."
+      "published": "2026-08-16T13:30:25.000Z",
+      "summary": "تراشه‌های به‌روزشده در محصولات جدید اپل امکان اجرای مستقیم و محلی قابلیت‌های هوش مصنوعی را برای کاربران محصولات خانگی فراهم می‌کنند. The post از اپل تی‌وی 4K تا هوم‌پاد رباتیک؛ برنامه آینده اپل برای محصولات خانه هوشمند ف"
     },
     {
       "title": "Bybit adds Unitree, Moonshot AI to pre IPO perpetuals lineup|Cointelegraph",
@@ -72,14 +80,6 @@
       "lang": "en",
       "published": "2026-08-15T18:58:39.000Z",
       "summary": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?"
-    },
-    {
-      "title": "SpaceX officially closes its Cursor acquisition",
-      "url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-08-15T16:30:00.000Z",
-      "summary": "AI coding startup Cursor is now officially a part of SpaceX."
     },
     {
       "title": "Iran joins founding members of global AI organization",
