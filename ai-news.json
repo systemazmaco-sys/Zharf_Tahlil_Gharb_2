@@ -1,21 +1,53 @@
 {
-  "updated_at": "2026-08-16T06:20:56.421Z",
+  "updated_at": "2026-08-16T12:16:43.502Z",
   "items": [
     {
-      "title": "آنتروپیک جزئیات بیشتری درباره نحوه ثبت واترمارک روی متون Claude منتشر کرد",
-      "url": "https://digiato.com/artificial-intelligence/anthropic-claude-ai-text-watermark-details",
+      "title": "هوش مصنوعی حالا اکثر کارهای کارکنان کنگره آمریکا را برای نگارش قوانین انجام می‌دهد",
+      "url": "https://digiato.com/artificial-intelligence/us-congress-staffers-ai-lawmaking-report",
       "source": "دیجیاتو",
       "lang": "fa",
-      "published": "2026-08-16T05:30:24.000Z",
-      "summary": "پایبندی به قانون شفافیت هوش مصنوعی اتحادیه اروپا دلیل اصلی الزام شرکت‌ها به استفاده از سیستم‌های ردیابی متون است. The post آنتروپیک جزئیات بیشتری درباره نحوه ثبت واترمارک روی متون Claude منتشر کرد appeared first on دیجیا"
+      "published": "2026-08-16T12:15:00.000Z",
+      "summary": "استفاده از چت‌بات‌های هوش مصنوعی توسط کارکنان کنگره آمریکا برای خلاصه‌کردن اسناد و حتی تنظیم پیش‌نویس لایحه‌ها بسیار رواج یافته است. The post هوش مصنوعی حالا اکثر کارهای کارکنان کنگره آمریکا را برای نگارش قوانین انجام می"
     },
     {
-      "title": "تشویق هوش مصنوعی، قفل معمای ریاضی ۱۶۷ ساله را باز کرد",
-      "url": "https://www.zoomit.ir/ai-articles/465225-ai-math-breakthrough-riemann-hypothesis/",
+      "title": "بحران پنهان انرژی؛ آیا هوش مصنوعی جهان را تشنه راکتورهای هسته‌ای می‌کند؟",
+      "url": "https://www.zoomit.ir/energy-environment/465234-nuclear-reactors-powering-us-data-centers/",
       "source": "زومیت",
       "lang": "fa",
-      "published": "2026-08-16T02:30:00.000Z",
-      "summary": "مدل هوش مصنوعی کلاد با پشتیبانی و پیام‌های روحیه‌بخش یک برنامه‌نویس، پیشرفت چشمگیری در حل فرضیه‌ی ۱۶۷ ساله‌ی ریاضی ثبت کرد."
+      "published": "2026-08-16T11:45:00.000Z",
+      "summary": "تأمین انرژی سالانه‌ی دیتاسنترهای آمریکا به حدود ۸۰ راکتور هسته‌ای کوچک با ظرفیت ۳۰۰ مگاوات نیاز دارد."
+    },
+    {
+      "title": "سامسونگ روند طراحی تراشه را با Claude Code از یک ماه به چند روز رساند",
+      "url": "https://digiato.com/artificial-intelligence/samsung-claude-code-chip-design-speedup",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-08-16T11:43:00.000Z",
+      "summary": "با وجود پیشرفت‌ها، سامسونگ به خطاهای مهمی نیز اشاره کرده که هوش مصنوعی Claude Code آنها را مرتکب شده است. The post سامسونگ روند طراحی تراشه را با Claude Code از یک ماه به چند روز رساند appeared first on دیجیاتو."
+    },
+    {
+      "title": "پایان عصر مدرک دانشگاهی؟ هوش مصنوعی ارزش تحصیلات سنتی را زیر سؤال می‌برد",
+      "url": "https://www.zoomit.ir/ai-articles/465276-college-degree-value-drop-ai/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-08-16T11:10:00.000Z",
+      "summary": "اعتماد به مدرک دانشگاهی به عنوان کلید موفقیت شغلی در میان آمریکایی‌ها به شکل بی‌سابقه‌ای کاهش یافته است."
+    },
+    {
+      "title": "IRAN AI 2026| دومین دوره رویداد بزرگ کاربردهای هوش مصنوعی در صنایع و کسب و کارها",
+      "url": "https://digiato.com/promoted/second-event-on-ai-applications-in-industries-and-businesses",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-08-16T09:45:00.000Z",
+      "summary": "این رویداد در روزهای ۳۰ و ۳۱ شهریورماه ۱۴۰۵ در محل دانشگاه صنعتی شریف برگزار می شود. The post IRAN AI 2026| دومین دوره رویداد بزرگ کاربردهای هوش مصنوعی در صنایع و کسب و کارها appeared first on دیجیاتو."
+    },
+    {
+      "title": "یک هوش مصنوعی چینی در حوزه هک‌کردن، هم‌سطح مدل‌های آمریکایی شد",
+      "url": "https://www.zoomit.ir/ai-articles/465236-china-zai-glm-model-security/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-08-16T06:40:00.000Z",
+      "summary": "شرکت چینی Z.ai به دلیل قدرت بالای هوش مصنوعی GLM-5.3 در شناسایی و بهره‌برداری از رخنه‌های امنیتی، انتشار عمومی آن را به تعویق انداخت."
     },
     {
       "title": "Bybit adds Unitree, Moonshot AI to pre IPO perpetuals lineup|Cointelegraph",
@@ -26,28 +58,12 @@
       "summary": "Bybit adds Unitree, Moonshot AI to pre IPO perpetuals lineup|Cointelegraph خبرپو"
     },
     {
-      "title": "هوش مصنوعی رده‌بالای گراک ۴٫۶ وارد گیت‌هاب کوپایلت شد",
-      "url": "https://www.zoomit.ir/ai-articles/465243-github-copilot-adds-grok-46/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-08-15T22:15:00.000Z",
-      "summary": "گیت‌هاب مدل هوش مصنوعی Grok 4.6 را به گیت‌هاب کوپایلت افزود تا برنامه‌نویسان در محیط‌های مختلف و ترمینال از قابلیت‌های آن برای کدنویسی استفاده کنند."
-    },
-    {
       "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
       "url": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
       "source": "TechCrunch AI",
       "lang": "en",
       "published": "2026-08-15T21:29:19.000Z",
       "summary": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\""
-    },
-    {
-      "title": "اولین تصاویر واقعی از گوشی رباتیک آنر",
-      "url": "https://www.zoomit.ir/mobile/465246-honor-robot-phone-gimbal-camera-launch/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-08-15T20:55:00.000Z",
-      "summary": "اولین تصاویر واقعی گوشی رباتیک آنر منتشر شد؛ موبایلی با دوربین ۲۰۰ مگاپیکسلی، باتری ۷۰۶۰ میلی‌آمپرساعتی و پردازنده‌ی اسنپدراگون."
     },
     {
       "title": "Anthropic shares more details about how Claude’s new watermarks will work",
@@ -66,14 +82,6 @@
       "summary": "AI coding startup Cursor is now officially a part of SpaceX."
     },
     {
-      "title": "ماجرای هولناک قتل خانوادگی با ChatGPT؛ قاتل نوجوان سناریوی خود را با کمک هوش مصنوعی نوشت",
-      "url": "https://digiato.com/artificial-intelligence/teen-accused-killing-family-used-chatgpt",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-08-15T15:30:00.000Z",
-      "summary": "قاتل از چت‌بات هوش مصنوعی ChatGPT برای جستجوی جایده‌های تئوری و خلق داستان‌های فانتزی درباره کشتن اعضای خانواده‌اش کمک گرفته است. The post ماجرای هولناک قتل خانوادگی با ChatGPT؛ قاتل نوجوان سناریوی خود را با کمک هوش مصنو"
-    },
-    {
       "title": "Iran joins founding members of global AI organization",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORnFVYURoMXozUWwzNGJJSWswWkViX05qem5icDhqSWRKLWRQbDRVSHBrN051Q0FoN1BxbUxjY0RONjhjenZXYTcwOHBVYjdGU3VVMzR2X190QldER2FoWUl6eTk0Y3BFMlFsdkpZRWxoZkJXb0N4TU1yemJfVzdPRGpkMm0yZGJDY1E?oc=5",
       "source": "خبرگزاری آنا",
@@ -88,14 +96,6 @@
       "lang": "fa",
       "published": "2026-08-14T18:07:34.000Z",
       "summary": "Gemini posts $108M Q2 net loss despite 37% revenue growth|Cointelegraph خبرپو"
-    },
-    {
-      "title": "Introducing Gemini 3.7 Flash",
-      "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
-      "source": "Google DeepMind",
-      "lang": "en",
-      "published": "2026-08-13T17:04:18.000Z",
-      "summary": ""
     }
   ]
 }
