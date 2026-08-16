@@ -1,13 +1,69 @@
 {
-  "updated_at": "2026-08-15T12:15:52.629Z",
+  "updated_at": "2026-08-16T00:37:04.201Z",
   "items": [
     {
-      "title": "هشدار سازمان غذا و دارو: هوش مصنوعی جایگزین پزشک نیست",
-      "url": "https://www.zoomit.ir/iran-news/465237-digital-self-medication-warning-food-drug-organization/",
+      "title": "هوش مصنوعی رده‌بالای گراک ۴٫۶ وارد گیت‌هاب کوپایلت شد",
+      "url": "https://www.zoomit.ir/ai-articles/465243-github-copilot-adds-grok-46/",
       "source": "زومیت",
       "lang": "fa",
-      "published": "2026-08-15T06:10:58.000Z",
-      "summary": "سخنگوی سازمان غذا و دارو نسبت به گسترش خوددرمانی دیجیتال هشدار داد و گفت هوش مصنوعی نمی‌تواند جای پزشک و داروساز را بگیرد."
+      "published": "2026-08-15T22:15:00.000Z",
+      "summary": "گیت‌هاب مدل هوش مصنوعی Grok 4.6 را به گیت‌هاب کوپایلت افزود تا برنامه‌نویسان در محیط‌های مختلف و ترمینال از قابلیت‌های آن برای کدنویسی استفاده کنند."
+    },
+    {
+      "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
+      "url": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-08-15T21:29:19.000Z",
+      "summary": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\""
+    },
+    {
+      "title": "اولین تصاویر واقعی از گوشی رباتیک آنر",
+      "url": "https://www.zoomit.ir/mobile/465246-honor-robot-phone-gimbal-camera-launch/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-08-15T20:55:00.000Z",
+      "summary": "اولین تصاویر واقعی گوشی رباتیک آنر منتشر شد؛ موبایلی با دوربین ۲۰۰ مگاپیکسلی، باتری ۷۰۶۰ میلی‌آمپرساعتی و پردازنده‌ی اسنپدراگون."
+    },
+    {
+      "title": "Anthropic shares more details about how Claude’s new watermarks will work",
+      "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-08-15T18:58:39.000Z",
+      "summary": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?"
+    },
+    {
+      "title": "SpaceX officially closes its Cursor acquisition",
+      "url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-08-15T16:30:00.000Z",
+      "summary": "AI coding startup Cursor is now officially a part of SpaceX."
+    },
+    {
+      "title": "ماجرای هولناک قتل خانوادگی با ChatGPT؛ قاتل نوجوان سناریوی خود را با کمک هوش مصنوعی نوشت",
+      "url": "https://digiato.com/artificial-intelligence/teen-accused-killing-family-used-chatgpt",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-08-15T15:30:00.000Z",
+      "summary": "قاتل از چت‌بات هوش مصنوعی ChatGPT برای جستجوی جایده‌های تئوری و خلق داستان‌های فانتزی درباره کشتن اعضای خانواده‌اش کمک گرفته است. The post ماجرای هولناک قتل خانوادگی با ChatGPT؛ قاتل نوجوان سناریوی خود را با کمک هوش مصنو"
+    },
+    {
+      "title": "هندزفری حرفه‌ای جدید تکنو به‌لطف هوش مصنوعی ۷۸ زبان را ترجمه می‌کند",
+      "url": "https://www.zoomit.ir/headset/465208-tecno-pova-ai-buds-pro/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-08-15T15:20:00.000Z",
+      "summary": "تکنو از ایرباد جدیدش با قابلیت‌های پیشرفته‌ی هوش مصنوعی رونمایی کرد."
+    },
+    {
+      "title": "Iran joins founding members of global AI organization",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORnFVYURoMXozUWwzNGJJSWswWkViX05qem5icDhqSWRKLWRQbDRVSHBrN051Q0FoN1BxbUxjY0RONjhjenZXYTcwOHBVYjdGU3VVMzR2X190QldER2FoWUl6eTk0Y3BFMlFsdkpZRWxoZkJXb0N4TU1yemJfVzdPRGpkMm0yZGJDY1E?oc=5",
+      "source": "خبرگزاری آنا",
+      "lang": "fa",
+      "published": "2026-08-15T11:38:35.000Z",
+      "summary": "Iran joins founding members of global AI organization خبرگزاری آنا"
     },
     {
       "title": "Gemini posts $108M Q2 net loss despite 37% revenue growth|Cointelegraph",
@@ -16,46 +72,6 @@
       "lang": "fa",
       "published": "2026-08-14T18:07:34.000Z",
       "summary": "Gemini posts $108M Q2 net loss despite 37% revenue growth|Cointelegraph خبرپو"
-    },
-    {
-      "title": "تغییر بزرگ در هوش مصنوعی گوگل؛ حذف اختیاری واترمارک‌های مرئی",
-      "url": "https://www.zoomit.ir/ai-articles/465213-gemini-toggle-visible-watermarks/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-08-14T17:01:19.000Z",
-      "summary": "گوگل امکان فعال یا غیرفعال‌کردن واترمارک‌های مرئی را در ابزارهای هوش مصنوعی خود فراهم کرد."
-    },
-    {
-      "title": "قابلیت یادداشت‌برداری با هوش مصنوعی به گوگل میت اضافه شد",
-      "url": "https://www.zoomit.ir/software-news/465194-google-meet-person-notes/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-08-14T16:55:00.000Z",
-      "summary": "گوگل میت قابلیت یادداشت‌برداری هوشمند با هوش مصنوعی را برای جلسات حضوری در اندروید، وب و آی‌اواس عرضه کرد."
-    },
-    {
-      "title": "Google will now allow users to remove visible watermark from its AI generations",
-      "url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-08-14T16:13:40.000Z",
-      "summary": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file."
-    },
-    {
-      "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
-      "url": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-08-14T15:43:28.000Z",
-      "summary": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the company’s more powerful model that stays locked behind its own APIs. The release "
-    },
-    {
-      "title": "Kog is going deeper to squeeze more inference out of GPUs",
-      "url": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-08-14T14:50:11.000Z",
-      "summary": "The idea that GPUs are poorly suited for agentic workflows may be a misconception, according to French startup Kog."
     },
     {
       "title": "Introducing Gemini 3.7 Flash",
@@ -80,22 +96,6 @@
       "lang": "en",
       "published": "2026-08-13T13:41:10.000Z",
       "summary": "The police-tech giant Flock is announcing today that it will change officers’ access to its nationwide network of license plate readers, in an apparent effort to quell a growing backlash and win back contracts lost amid "
-    },
-    {
-      "title": "The builder’s guide to GPT‑5.6",
-      "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
-      "source": "OpenAI",
-      "lang": "en",
-      "published": "2026-08-13T11:00:00.000Z",
-      "summary": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities."
-    },
-    {
-      "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
-      "url": "https://openai.com/index/previewing-ultrafast",
-      "source": "OpenAI",
-      "lang": "en",
-      "published": "2026-08-13T10:00:00.000Z",
-      "summary": "Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster. Powered by Cerebras, it delivers up to 750 output tokens per second."
     }
   ]
 }
