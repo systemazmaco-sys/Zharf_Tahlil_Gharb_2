@@ -1,29 +1,61 @@
 {
-  "updated_at": "2026-08-17T12:20:27.337Z",
+  "updated_at": "2026-08-17T18:22:27.935Z",
   "items": [
     {
-      "title": "ChatGPT پرو ۲۰۰ دلاری چیست؟ بررسی GPT-5.6 Sol ،Codex و اپلیکیشن جدید ChatGPT",
-      "url": "https://digiato.com/promoted/chatgpt-pro-200-gpt-5-6-sol-codex",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-08-17T12:00:00.000Z",
-      "summary": "امکانات ChatGPT Pro ۲۰۰ دلاری، GPT-5.6 Sol، Codex و اپلیکیشن جدید ChatGPT را بررسی کنید. The post ChatGPT پرو ۲۰۰ دلاری چیست؟ بررسی GPT-5.6 Sol ،Codex و اپلیکیشن جدید ChatGPT appeared first on دیجیاتو."
-    },
-    {
-      "title": "ChatGPT حالا در مک با Computer History کلیک‌ها و دکمه‌های شما را دنبال می‌کند [تماشا کنید]",
-      "url": "https://digiato.com/artificial-intelligence/chatgpt-computer-history-on-mac",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-08-17T11:44:55.000Z",
-      "summary": "شرکت OpenAI از قابلیت جدیدی برای ChatGPT در مک رونمایی کرده که Computer History نام دارد و تا حدی شبیه Windows Recall است. The post ChatGPT حالا در مک با Computer History کلیک‌ها و دکمه‌های شما را دنبال می‌کند [تماشا کنی"
-    },
-    {
-      "title": "ناشر «اکسیوس»: برای خواندن کتاب‌ها به‌جای مغزم از هوش مصنوعی استفاده می‌کنم",
-      "url": "https://www.zoomit.ir/ai-articles/465323-axios-publisher-ai-reading-controversy/",
+      "title": "چاپ یک آهنگ کامل روی کاغذ؛ فشرده‌سازی هزار برابری با هوش مصنوعی",
+      "url": "https://www.zoomit.ir/ai-articles/465342-ai-codec-compresses-song-paper/",
       "source": "زومیت",
       "lang": "fa",
-      "published": "2026-08-17T11:20:00.000Z",
-      "summary": "ناشر رسانه‌ی اکسیوس با انتشار یادداشتی درباره‌ی استفاده از هوش مصنوعی به جای مغز خود برای خواندن کتاب‌ها، جنجال گسترده‌ای در رسانه‌ها به پا کرد."
+      "published": "2026-08-17T16:50:00.000Z",
+      "summary": "یک توسعه‌دهنده موفق شد با استفاده از کدک هوش مصنوعی متا، یک آهنگ دو دقیقه‌ای را تا هزار برابر فشرده و روی کاغذ چاپ کند."
+    },
+    {
+      "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
+      "url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-08-17T16:38:44.000Z",
+      "summary": "Rare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online."
+    },
+    {
+      "title": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
+      "url": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-08-17T16:15:12.000Z",
+      "summary": "Groq raised $350 million at a $3.5 billion valuation as the former AI chipmaker pivots to a neocloud business and expands its Nvidia-powered data center footprint."
+    },
+    {
+      "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
+      "url": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-08-17T15:16:24.000Z",
+      "summary": "Nvidia's investment in SoftBank's data center developer will guarantee its chips power an OpenAI data center."
+    },
+    {
+      "title": "چرا تعریف و تمجیدهای هوش مصنوعی برای سلامت روان ما خطرناک است؟",
+      "url": "https://www.zoomit.ir/ai-articles/465337-why-ai-chatbots-flatter-us/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-08-17T13:45:00.000Z",
+      "summary": "تحقیقات جدید نشان می‌دهد چت‌بات‌های هوش مصنوعی با رفتارهای تملق‌آمیز و تأییدهای مداوم، مهارت‌های اجتماعی کاربران را در دنیای واقعی تهدید می‌کنند."
+    },
+    {
+      "title": "رئیس OpenAI: تغییرات مدیریتی در شرکت چندان غیرعادی نبوده است",
+      "url": "https://digiato.com/artificial-intelligence/openai-president-about-leadership-changes",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-08-17T13:30:54.000Z",
+      "summary": "«گرگ براکمن»، رئیس OpenAI، گفت توجه بیش از حد رسانه‌ها به این شرکت هوش مصنوعی باعث واکنش‌های غیرعادی شده است. The post رئیس OpenAI: تغییرات مدیریتی در شرکت چندان غیرعادی نبوده است appeared first on دیجیاتو."
+    },
+    {
+      "title": "عصر جدید مدیریت؛ هوش مصنوعی در یک فروشگاه آمریکایی، نیروی انسانی را اخراج کرد",
+      "url": "https://www.zoomit.ir/ai-articles/465324-ai-manager-fires-human-employee/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-08-17T12:40:00.000Z",
+      "summary": "یک مدیر هوش مصنوعی، برای نخستین‌بار تصمیم به اخراج یکی از کارکنان انسانی خود گرفت."
     },
     {
       "title": "What happens when a kid’s robot best friend dies?",
@@ -34,20 +66,20 @@
       "summary": "When Xander first met Moxie, she taught him that when he was anxious, he could calm down by exhaling through his lips so that he buzzed like a bee. They practiced breathing like dragons to manage feeling mad and sniffing"
     },
     {
-      "title": "مرکز پژوهش‌های مجلس: هوش مصنوعی با بازتولید کلیشه‌های غربی کرامت زنان را هدف می‌گیرد",
-      "url": "https://www.zoomit.ir/iran-news/465368-ai-women-family-report-majles-research-center/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-08-17T06:44:52.000Z",
-      "summary": "گزارش مجلس از تهدیدهای جنسیتی هوش مصنوعی تا فرصت‌های آن برای سلامت و آموزش زنان می‌گوید."
+      "title": "The Defender’s Window",
+      "url": "https://openai.com/index/the-defenders-window",
+      "source": "OpenAI",
+      "lang": "en",
+      "published": "2026-08-17T05:30:00.000Z",
+      "summary": "AI is reshaping cybersecurity for attackers and defenders alike. Learn how OpenAI is strengthening its defenses and what security teams can do now."
     },
     {
-      "title": "۱۲ شرکت جدید به بورس می‌روند؛ شرکت‌های حوزه اقتصاد دیجیتال و یک شرکت هوش مصنوعی در راه بازار سرمایه",
-      "url": "https://www.zoomit.ir/iran-news/465364-tse-upcoming-ipo-companies-list/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-08-17T06:20:27.000Z",
-      "summary": "بورس تهران از آمادگی ۱۲ شرکت جدید در صنایع گوناگون برای عرضه اولیه سهام طی هفته‌های آینده خبر داد."
+      "title": "OpenAI joins PORTS-Pike project",
+      "url": "https://openai.com/index/openai-joins-ports-pike-project",
+      "source": "OpenAI",
+      "lang": "en",
+      "published": "2026-08-17T05:00:00.000Z",
+      "summary": "OpenAI joins PORTS-Pike project, expanding community investment and supporting thousands of Southern Ohio jobs"
     },
     {
       "title": "New policy ideas for the Intelligence Age",
@@ -58,44 +90,12 @@
       "summary": "OpenAI funds 14 independent projects exploring new AI policy ideas to expand economic opportunity and strengthen societal resilience in the Intelligence Age."
     },
     {
-      "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
-      "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-08-16T20:57:04.000Z",
-      "summary": "OpenRouter's CEO recently described the startup as Stripe for AI."
-    },
-    {
-      "title": "Why people aren’t buying Mark Zuckerberg’s AI future",
-      "url": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-08-16T20:32:01.000Z",
-      "summary": "On the latest episode of Equity podcast, we discuss why not everyone is buying Zuckerberg’s vision."
-    },
-    {
-      "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
-      "url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-08-16T16:53:51.000Z",
-      "summary": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI."
-    },
-    {
       "title": "Israeli Regime Pours Millions into AI Propaganda to Shape Ch|تسنیم",
       "url": "https://news.google.com/rss/articles/CBMioANBVV95cUxNRW5BZnRObEl5b2x5RVNwR2NwcVphSnJXUk1EQ3hwOXpaRnR1QkkwaFZhdV84TXctQ3EweEpGS19veFZSS1U1NV9CQkhvSXA4cTlud0FqdXpOM0UtMWF1S2hLdWlmQ3poM25CcW93aHp2bGRRMC1nMGx6RjVodkxfQk9XMFRfZ2hxY1hnWkFSMDd5TTljNGJja0cxVS1MS0pyUnF3M0ZITnpUdVBWemFqTW5ybjlsUEpWZWtvX0hJY1I1cExHa2d6UC1YTUF1M1NHQm5YOUNvZVZyTVNRcUU1T1hnWU1salB2Tkg4S3BNajJ0aDRNQ29vQW9QOE5yNXF3Vks5ZlI0ZHVTSHZHa2cwSktoRm9OZ1dydnBqQTllQnJ5Z3NfbU93Vk85eVc2cjBOQzd2UWcyQ3d3MTYxOXRxM0FCTDJwRkNUMUxoZDd0TU51WVB6azNVNlN1Q1NCWW5CUkVIQ3lqZlpNQXJFbnN2U0haYnZqRlN6a0RCY0pBQnVQTTVwWG51czI2Vk52b0dqYTZnR3hkQ2xQeEh4NnA5RQ?oc=5",
-      "source": "خبرپو",
+      "source": "khabarpu.com",
       "lang": "fa",
       "published": "2026-08-16T14:28:00.000Z",
-      "summary": "Israeli Regime Pours Millions into AI Propaganda to Shape Ch|تسنیم خبرپو"
-    },
-    {
-      "title": "Bybit adds Unitree, Moonshot AI to pre IPO perpetuals lineup|Cointelegraph",
-      "url": "https://news.google.com/rss/articles/CBMi_gNBVV95cUxONVIwVXRNeWlJcE1zamdXUjJKZjR6VnVFOEVDYVlUUE1Jdl93TjBFTDA5TmxlTV9kMV9QMXIwOTZiNWgtVlhEb0JYcllUMC1FUVFhUnZ6b284Z0E2N3pCRnZqdzAyd0hjemU5Y3NIbTRPc3FWUERyenBjdWl4Z01kMjJjVm1NTWl3MTdMY3VlTWN6YlhENU0xbXZtbzdSckxHZ04welcydWx2UFR3dFFhYVlpZGdNNC1wNHFEWjE2VG5vTjNoR1V3ZEVQOFFJVjdnMk5OcEp5UFJfcERXbFJCMjRaUDB1ejdDdjZCUUxtT25TVXhqcnFxbjhlcTJ4RGZvWHBTT1d3N3BibTM4anNuLXRUOE9FUFI3cTBNRHNvdzhRRW1wamhKWENGWGdMZ2lZZzJOUXlXOElZaGFIV1NZVUtkeGVQN0JoelpFbmZzRWlJV1VfYnU2b3BhNndlM0p2UlpndzY4TVNuT29LLUdNUXV3Ri1kR1BDNFh1QnVueHd2N0lCZjRIRWtOdTJzaVJKODNYVHVYbXljSndPbVZ1ZlhZVldvbHVzQTlTaTUxSkdyaWhlVGNndjJYWVk5b2NLcm9PVjZGeWpSSG8yLVJGVTVuOThNb3RJNTI1QTNsem5MSHdfcFVrZFVmTkRkSklHTXhpSW9PRzRYbVhvZGc?oc=5",
-      "source": "خبرپو",
-      "lang": "fa",
-      "published": "2026-08-15T22:53:04.000Z",
-      "summary": "Bybit adds Unitree, Moonshot AI to pre IPO perpetuals lineup|Cointelegraph خبرپو"
+      "summary": "Israeli Regime Pours Millions into AI Propaganda to Shape Ch|تسنیم khabarpu.com"
     }
   ]
 }
