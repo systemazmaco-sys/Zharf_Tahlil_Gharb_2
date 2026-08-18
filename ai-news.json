@@ -1,6 +1,30 @@
 {
-  "updated_at": "2026-08-17T18:22:27.935Z",
+  "updated_at": "2026-08-18T00:35:39.332Z",
   "items": [
+    {
+      "title": "Anthropic’s annualized revenue surges to $65B",
+      "url": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-08-17T23:56:26.000Z",
+      "summary": "The model maker added $18 billion in annualized revenue in two months."
+    },
+    {
+      "title": "AI automation startup Relay shuts down, staff joins Google’s Chrome team",
+      "url": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-08-17T21:27:05.000Z",
+      "summary": "\"We have some really ambitious plans to help you work with AI in Chrome to get things done, and I’ll have more to share soon,\" Jacob Bank, Relay founder and CEO, said."
+    },
+    {
+      "title": "What Flock’s defenders are missing",
+      "url": "https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/",
+      "source": "MIT Technology Review",
+      "lang": "en",
+      "published": "2026-08-17T19:16:09.000Z",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Flock, the police-tech giant known for its network of some 120,000 automatic licen"
+    },
     {
       "title": "چاپ یک آهنگ کامل روی کاغذ؛ فشرده‌سازی هزار برابری با هوش مصنوعی",
       "url": "https://www.zoomit.ir/ai-articles/465342-ai-codec-compresses-song-paper/",
@@ -16,22 +40,6 @@
       "lang": "en",
       "published": "2026-08-17T16:38:44.000Z",
       "summary": "Rare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online."
-    },
-    {
-      "title": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
-      "url": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-08-17T16:15:12.000Z",
-      "summary": "Groq raised $350 million at a $3.5 billion valuation as the former AI chipmaker pivots to a neocloud business and expands its Nvidia-powered data center footprint."
-    },
-    {
-      "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
-      "url": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-08-17T15:16:24.000Z",
-      "summary": "Nvidia's investment in SoftBank's data center developer will guarantee its chips power an OpenAI data center."
     },
     {
       "title": "چرا تعریف و تمجیدهای هوش مصنوعی برای سلامت روان ما خطرناک است؟",
@@ -88,14 +96,6 @@
       "lang": "en",
       "published": "2026-08-17T03:15:00.000Z",
       "summary": "OpenAI funds 14 independent projects exploring new AI policy ideas to expand economic opportunity and strengthen societal resilience in the Intelligence Age."
-    },
-    {
-      "title": "Israeli Regime Pours Millions into AI Propaganda to Shape Ch|تسنیم",
-      "url": "https://news.google.com/rss/articles/CBMioANBVV95cUxNRW5BZnRObEl5b2x5RVNwR2NwcVphSnJXUk1EQ3hwOXpaRnR1QkkwaFZhdV84TXctQ3EweEpGS19veFZSS1U1NV9CQkhvSXA4cTlud0FqdXpOM0UtMWF1S2hLdWlmQ3poM25CcW93aHp2bGRRMC1nMGx6RjVodkxfQk9XMFRfZ2hxY1hnWkFSMDd5TTljNGJja0cxVS1MS0pyUnF3M0ZITnpUdVBWemFqTW5ybjlsUEpWZWtvX0hJY1I1cExHa2d6UC1YTUF1M1NHQm5YOUNvZVZyTVNRcUU1T1hnWU1salB2Tkg4S3BNajJ0aDRNQ29vQW9QOE5yNXF3Vks5ZlI0ZHVTSHZHa2cwSktoRm9OZ1dydnBqQTllQnJ5Z3NfbU93Vk85eVc2cjBOQzd2UWcyQ3d3MTYxOXRxM0FCTDJwRkNUMUxoZDd0TU51WVB6azNVNlN1Q1NCWW5CUkVIQ3lqZlpNQXJFbnN2U0haYnZqRlN6a0RCY0pBQnVQTTVwWG51czI2Vk52b0dqYTZnR3hkQ2xQeEh4NnA5RQ?oc=5",
-      "source": "khabarpu.com",
-      "lang": "fa",
-      "published": "2026-08-16T14:28:00.000Z",
-      "summary": "Israeli Regime Pours Millions into AI Propaganda to Shape Ch|تسنیم khabarpu.com"
     }
   ]
 }
