@@ -1,29 +1,61 @@
 {
-  "updated_at": "2026-08-19T12:22:00.152Z",
+  "updated_at": "2026-08-19T18:17:48.476Z",
   "items": [
     {
-      "title": "هوش مصنوعی می‌گوید چه تغییری بیشتر به چهره شما می‌آید؟",
-      "url": "https://digiato.com/promoted/can-ai-say-what-color-is-better-for-your-eyes",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-08-19T13:27:11.000Z",
-      "summary": "با ابزارهای هوش مصنوعی قبل از تغییر ظاهر، مدل مو، رنگ مو، آرایش، فرم ابرو و حتی رنگ چشم را روی چهره خود امتحان کنید. The post هوش مصنوعی می‌گوید چه تغییری بیشتر به چهره شما می‌آید؟ appeared first on دیجیاتو."
+      "title": "Offering Zero Data Retention for frontier models",
+      "url": "https://openai.com/index/our-commitment-to-zero-data-retention",
+      "source": "OpenAI",
+      "lang": "en",
+      "published": "2026-08-19T19:00:00.000Z",
+      "summary": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy."
     },
     {
-      "title": "ربات انسان‌نمای شیائومی رسماً در کنفرانس جهانی رباتیک پکن معرفی می‌شود",
-      "url": "https://digiato.com/robotics/xiaomi-humanoid-robot-debut-world-robot-conference-2026",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-08-19T11:43:26.000Z",
-      "summary": "این ربات ۱.۷ متری بیشتر در کارخانه‌ها کاربرد خواهد داشت. The post ربات انسان‌نمای شیائومی رسماً در کنفرانس جهانی رباتیک پکن معرفی می‌شود appeared first on دیجیاتو."
-    },
-    {
-      "title": "Relativity Networks raises $22 million to bring a faster kind of fiber to data centers",
-      "url": "https://techcrunch.com/2026/08/19/relativity-networks-raises-22-million-to-bring-a-faster-kind-of-fiber-to-data-centers/",
+      "title": "Meet the startup helping Wall Street put a price on AI compute",
+      "url": "https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute/",
       "source": "TechCrunch AI",
       "lang": "en",
-      "published": "2026-08-19T10:00:00.000Z",
-      "summary": "Relativity Networks deals in hollow-core fiber, a rarely deployed technology that allows data to be transmitted 30% faster than conventional fiber."
+      "published": "2026-08-19T17:26:48.000Z",
+      "summary": "The AI buildout shows no signs of slowing. And with hundreds of billions of dollars a year going into data centers and GPUs, compute has become the single biggest cost for anyone building AI products. But for all that sp"
+    },
+    {
+      "title": "صدها شرکت چینی برای ورود به بازارهای بزرگ‌تر به نمایشگاه جهانی رباتیک پکن رفتند",
+      "url": "https://digiato.com/robotics/china-robotics-mass-adoption",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-08-19T16:40:33.000Z",
+      "summary": "۳۰۰ شرکت در نمایشگاه جهانی رباتیک پکن تازه‌ترین محصولات خود را به نمایش گذاشتند. The post صدها شرکت چینی برای ورود به بازارهای بزرگ‌تر به نمایشگاه جهانی رباتیک پکن رفتند appeared first on دیجیاتو."
+    },
+    {
+      "title": "مدیرعامل گرین‌وب در گفتگو با دیجیاتو: برای IPO و توسعه زیرساخت AI آماده می‌شویم",
+      "url": "https://digiato.com/iran-technology-news/digiato-video-interview-with-greenweb-ceo",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-08-19T16:35:00.000Z",
+      "summary": "محمدی معتقد است درباره میزان استفاده واقعی از هوش مصنوعی در کسب‌وکارها بزرگنمایی می‌شود،‌ اما نباید هوشمندسازی را هم نادیده گرفت. The post مدیرعامل گرین‌وب در گفتگو با دیجیاتو: برای IPO و توسعه زیرساخت AI آماده می‌شویم a"
+    },
+    {
+      "title": "TerraPower’s nuclear reactor has a secret weapon for powering AI data centers",
+      "url": "https://techcrunch.com/2026/08/19/terrapowers-nuclear-reactor-has-a-secret-weapon-for-powering-ai-data-centers/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-08-19T15:44:53.000Z",
+      "summary": "TerraPower's nuclear power plant possesses a strategic advantage over competitors, especially when chasing after data center deals."
+    },
+    {
+      "title": "Amazon makes its AI-powered Alexa+ free on Fire TV, no Prime required",
+      "url": "https://techcrunch.com/2026/08/19/amazon-makes-its-ai-powered-alexa-free-on-fire-tv-no-prime-required/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-08-19T15:00:00.000Z",
+      "summary": "Amazon is making its AI-powered Alexa+ assistant free on all compatible Fire TV devices in the U.S., automatically upgrading users whether or not they subscribe to Prime."
+    },
+    {
+      "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
+      "url": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
+      "source": "VentureBeat AI",
+      "lang": "en",
+      "published": "2026-08-19T14:18:12.000Z",
+      "summary": "Rob Strechay, until recently managing director and principal analyst at theCUBE Research, has joined VentureBeat as our first Lead Analyst and a founding analyst of VentureBeat Research. His arrival is the next step in a"
     },
     {
       "title": "جمنای ۳٫۷ فلش گوگل؛ مدلی سریع‌تر برای کدنویسی و ایجنت‌های هوش مصنوعی؟",
@@ -50,12 +82,12 @@
       "summary": "استارتاپ تولید ویدیوی هوش مصنوعی هیگزفیلد با جذب ۴۰۰ میلیون دلار سرمایه‌ی جدید، ارزش خود را به ۵٫۴ میلیارد دلار رساند."
     },
     {
-      "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
-      "url": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
-      "source": "TechCrunch AI",
+      "title": "Replit expands access to software creation with GPT-5.6 Luna",
+      "url": "https://openai.com/index/replit",
+      "source": "OpenAI",
       "lang": "en",
-      "published": "2026-08-18T22:14:25.000Z",
-      "summary": "Cursor, known for its AI Code Editor, is launching a new code-hosting platform to rival developers' long preferred favorite, GitHub."
+      "published": "2026-08-19T07:00:00.000Z",
+      "summary": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs."
     },
     {
       "title": "ChatGPT Ads expands across Europe",
@@ -64,38 +96,6 @@
       "lang": "en",
       "published": "2026-08-18T22:00:00.000Z",
       "summary": "ChatGPT Ads is expanding to 31 European markets. Learn how advertisers can reach people as they explore, compare options, and make decisions."
-    },
-    {
-      "title": "Strengthening democratic oversight in national security",
-      "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
-      "source": "OpenAI",
-      "lang": "en",
-      "published": "2026-08-18T19:00:00.000Z",
-      "summary": "OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise."
-    },
-    {
-      "title": "OpenAI institutes new safeguards after Hugging Face breach",
-      "url": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-08-18T18:00:00.000Z",
-      "summary": "The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasis on alignment and security during the post-training process."
-    },
-    {
-      "title": "Partnering with CodeAI to prepare the first AI generation",
-      "url": "https://openai.com/index/partnering-with-codeai",
-      "source": "OpenAI",
-      "lang": "en",
-      "published": "2026-08-18T11:00:00.000Z",
-      "summary": "OpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly."
-    },
-    {
-      "title": "We still don’t know how people are really using AI",
-      "url": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/",
-      "source": "MIT Technology Review",
-      "lang": "en",
-      "published": "2026-08-18T10:06:43.000Z",
-      "summary": "AI companies like Anthropic and OpenAI regularly publish reports on how people are using products like Claude and ChatGPT, but they only release the data they want us to see, AI researchers say. “There is no independent "
     }
   ]
 }
