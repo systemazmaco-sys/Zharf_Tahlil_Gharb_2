@@ -1,101 +1,101 @@
 {
-  "updated_at": "2026-08-18T06:23:01.992Z",
+  "updated_at": "2026-08-19T00:35:30.133Z",
   "items": [
     {
-      "title": "جهش درآمد آنتروپیک به ۶۵ میلیارد دلار؛ غول هوش مصنوعی به‌سرعت مراحل پیشرفت را طی می‌کند",
-      "url": "https://www.zoomit.ir/ai-articles/465440-anthropic-annualized-revenue-surges-65b/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-08-18T05:26:25.000Z",
-      "summary": "نرخ درآمد سالانه‌ی آنتروپیک با رشدی کم‌سابقه از مرز ۶۵ میلیارد دلار عبور کرد. این استارتاپ نوپا، یکی از غول‌های هوش مصنوعی جهان است."
-    },
-    {
-      "title": "تغییر استراتژی علی‌بابا؛ فروش بخش گیمینگ برای تمرکز بر هوش مصنوعی",
-      "url": "https://www.zoomit.ir/business/465371-alibaba-sells-gaming-arm-trustar/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-08-18T04:10:00.000Z",
-      "summary": "علی‌بابا برای تمرکز بر هوش مصنوعی و رایانش ابری، بخش بازی‌سازی خود را در قراردادی ۱٫۵ میلیارد دلاری واگذار می‌کند."
-    },
-    {
-      "title": "Anthropic’s annualized revenue surges to $65B",
-      "url": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
+      "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
+      "url": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
       "source": "TechCrunch AI",
       "lang": "en",
-      "published": "2026-08-17T23:56:26.000Z",
-      "summary": "The model maker added $18 billion in annualized revenue in two months."
+      "published": "2026-08-18T22:14:25.000Z",
+      "summary": "Cursor, known for its AI Code Editor, is launching a new code-hosting platform to rival developers' long preferred favorite, GitHub."
     },
     {
-      "title": "AI automation startup Relay shuts down, staff joins Google’s Chrome team",
-      "url": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-08-17T21:27:05.000Z",
-      "summary": "\"We have some really ambitious plans to help you work with AI in Chrome to get things done, and I’ll have more to share soon,\" Jacob Bank, Relay founder and CEO, said."
-    },
-    {
-      "title": "What Flock’s defenders are missing",
-      "url": "https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/",
-      "source": "MIT Technology Review",
-      "lang": "en",
-      "published": "2026-08-17T19:16:09.000Z",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Flock, the police-tech giant known for its network of some 120,000 automatic licen"
-    },
-    {
-      "title": "چاپ یک آهنگ کامل روی کاغذ؛ فشرده‌سازی هزار برابری با هوش مصنوعی",
-      "url": "https://www.zoomit.ir/ai-articles/465342-ai-codec-compresses-song-paper/",
+      "title": "هزینه‌های سنگین هوش مصنوعی؛ شرکت‌های چینی در بن‌بست اقتصادی قرار گرفته‌اند",
+      "url": "https://www.zoomit.ir/business/465375-china-tech-ai-cost-pressure/",
       "source": "زومیت",
       "lang": "fa",
-      "published": "2026-08-17T16:50:00.000Z",
-      "summary": "یک توسعه‌دهنده موفق شد با استفاده از کدک هوش مصنوعی متا، یک آهنگ دو دقیقه‌ای را تا هزار برابر فشرده و روی کاغذ چاپ کند."
+      "published": "2026-08-18T20:05:00.000Z",
+      "summary": "غول‌های فناوری چین با فشار فزاینده ناشی از هزینه‌های سنگین توسعه‌ی هوش مصنوعی مواجه شده‌اند که سودآوری آن‌ها را به‌شدت تهدید می‌کند."
     },
     {
-      "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
-      "url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
+      "title": "Strengthening democratic oversight in national security",
+      "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
+      "source": "OpenAI",
+      "lang": "en",
+      "published": "2026-08-18T19:00:00.000Z",
+      "summary": "OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise."
+    },
+    {
+      "title": "OpenAI institutes new safeguards after Hugging Face breach",
+      "url": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
       "source": "TechCrunch AI",
       "lang": "en",
-      "published": "2026-08-17T16:38:44.000Z",
-      "summary": "Rare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online."
+      "published": "2026-08-18T18:00:00.000Z",
+      "summary": "The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasis on alignment and security during the post-training process."
     },
     {
-      "title": "What happens when a kid’s robot best friend dies?",
-      "url": "https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/",
-      "source": "MIT Technology Review",
+      "title": "Etched’s valuation doubles to $21B in a month",
+      "url": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
+      "source": "TechCrunch AI",
       "lang": "en",
-      "published": "2026-08-17T09:00:00.000Z",
-      "summary": "When Xander first met Moxie, she taught him that when he was anxious, he could calm down by exhaling through his lips so that he buzzed like a bee. They practiced breathing like dragons to manage feeling mad and sniffing"
+      "published": "2026-08-18T17:21:58.000Z",
+      "summary": "Jane Street has installed Etched's first shipped AI cluster system, and was so impressed, it led another massive round, the startup says."
     },
     {
-      "title": "The Defender’s Window",
-      "url": "https://openai.com/index/the-defenders-window",
-      "source": "OpenAI",
-      "lang": "en",
-      "published": "2026-08-17T05:30:00.000Z",
-      "summary": "AI is reshaping cybersecurity for attackers and defenders alike. Learn how OpenAI is strengthening its defenses and what security teams can do now."
-    },
-    {
-      "title": "OpenAI joins PORTS-Pike project",
-      "url": "https://openai.com/index/openai-joins-ports-pike-project",
-      "source": "OpenAI",
-      "lang": "en",
-      "published": "2026-08-17T05:00:00.000Z",
-      "summary": "OpenAI joins PORTS-Pike project, expanding community investment and supporting thousands of Southern Ohio jobs"
-    },
-    {
-      "title": "New policy ideas for the Intelligence Age",
-      "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
-      "source": "OpenAI",
-      "lang": "en",
-      "published": "2026-08-17T03:15:00.000Z",
-      "summary": "OpenAI funds 14 independent projects exploring new AI policy ideas to expand economic opportunity and strengthen societal resilience in the Intelligence Age."
-    },
-    {
-      "title": "Israeli Regime Pours Millions into AI Propaganda to Shape Ch|تسنیم",
-      "url": "https://news.google.com/rss/articles/CBMioANBVV95cUxNRW5BZnRObEl5b2x5RVNwR2NwcVphSnJXUk1EQ3hwOXpaRnR1QkkwaFZhdV84TXctQ3EweEpGS19veFZSS1U1NV9CQkhvSXA4cTlud0FqdXpOM0UtMWF1S2hLdWlmQ3poM25CcW93aHp2bGRRMC1nMGx6RjVodkxfQk9XMFRfZ2hxY1hnWkFSMDd5TTljNGJja0cxVS1MS0pyUnF3M0ZITnpUdVBWemFqTW5ybjlsUEpWZWtvX0hJY1I1cExHa2d6UC1YTUF1M1NHQm5YOUNvZVZyTVNRcUU1T1hnWU1salB2Tkg4S3BNajJ0aDRNQ29vQW9QOE5yNXF3Vks5ZlI0ZHVTSHZHa2cwSktoRm9OZ1dydnBqQTllQnJ5Z3NfbU93Vk85eVc2cjBOQzd2UWcyQ3d3MTYxOXRxM0FCTDJwRkNUMUxoZDd0TU51WVB6azNVNlN1Q1NCWW5CUkVIQ3lqZlpNQXJFbnN2U0haYnZqRlN6a0RCY0pBQnVQTTVwWG51czI2Vk52b0dqYTZnR3hkQ2xQeEh4NnA5RQ?oc=5",
-      "source": "khabarpu.com",
+      "title": "رئیس OpenAI: راه مقابله با مشکلات سایبری هوش مصنوعی، استفاده بیشتر از هوش مصنوعی است",
+      "url": "https://digiato.com/artificial-intelligence/greg-brockman-openai-ai-cybersecurity-warning",
+      "source": "دیجیاتو",
       "lang": "fa",
-      "published": "2026-08-16T14:28:00.000Z",
-      "summary": "Israeli Regime Pours Millions into AI Propaganda to Shape Ch|تسنیم khabarpu.com"
+      "published": "2026-08-18T16:09:49.000Z",
+      "summary": "گرگ براکمن هشدار داد ارتقای سریع ابزارهای دفاعی خودکار ضروری شده است. The post رئیس OpenAI: راه مقابله با مشکلات سایبری هوش مصنوعی، استفاده بیشتر از هوش مصنوعی است appeared first on دیجیاتو."
+    },
+    {
+      "title": "گوگل با ۱۰ میلیون دلار داده‌های شرکت هواپیمایی ورشکسته را برای آموزش هوش مصنوعی خرید",
+      "url": "https://digiato.com/artificial-intelligence/google-buys-spirit-airlines-data-ai-training",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-08-18T15:56:02.000Z",
+      "summary": "این داد‌ها برای بهبود محصولات و آموزش مدل‌های هوش مصنوعی (AI) گوگل استفاده خواهند شد. The post گوگل با ۱۰ میلیون دلار داده‌های شرکت هواپیمایی ورشکسته را برای آموزش هوش مصنوعی خرید appeared first on دیجیاتو."
+    },
+    {
+      "title": "محتوای بی‌کیفیت هوش مصنوعی می‌تواند به افت شناختی و خشونت در کودکان منتهی شود",
+      "url": "https://digiato.com/articles/ai-slop-content-kids-cognitive-decline-violence-study",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-08-18T15:30:00.000Z",
+      "summary": "این پژوهش با تمرکز بر AI Slop و به‌ویژه ویدیوهای انیمیشنی از میوه‌ها انجام شده است که سناریوهای خشونت‌آمیز روایت می‌کنند. The post محتوای بی‌کیفیت هوش مصنوعی می‌تواند به افت شناختی و خشونت در کودکان منتهی شود appeared fi"
+    },
+    {
+      "title": "شکاف نسل‌ها در عصر هوش مصنوعی؛ چرا جوانان از مدیران شرکت‌های هوش مصنوعی بیزارند؟",
+      "url": "https://www.zoomit.ir/tech/465383-young-people-distrust-ai-ceos/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-08-18T12:55:00.000Z",
+      "summary": "نتایج یک نظرسنجی جدید نشان می‌دهد که اکثریت قاطع جوانان هیچ اعتمادی به مدیران ارشد شرکت‌های فعال در حوزه‌ی هوش مصنوعی ندارند."
+    },
+    {
+      "title": "دیجی‌کالا «پرو مجازی» را راه‌اندازی کرد؛ امتحان لباس با AI و آرایش با AR",
+      "url": "https://www.zoomit.ir/iran-news/465474-digikala-virtual-try-on-ai-ar/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-08-18T11:21:36.000Z",
+      "summary": "دیجی‌کالا دو ابزار پرو و تست آرایش مجازی را با تکیه بر هوش مصنوعی و واقعیت افزوده برای بیش از ۹۰ درصد کاربران فعال کرد تا مرجوعی کالا کاهش یابد."
+    },
+    {
+      "title": "Partnering with CodeAI to prepare the first AI generation",
+      "url": "https://openai.com/index/partnering-with-codeai",
+      "source": "OpenAI",
+      "lang": "en",
+      "published": "2026-08-18T11:00:00.000Z",
+      "summary": "OpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly."
+    },
+    {
+      "title": "Pacing model development in an era of cyber-critical capabilities",
+      "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
+      "source": "OpenAI",
+      "lang": "en",
+      "published": "2026-08-18T11:00:00.000Z",
+      "summary": "OpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development."
     }
   ]
 }
