@@ -1,6 +1,30 @@
 {
-  "updated_at": "2026-08-20T00:35:23.133Z",
+  "updated_at": "2026-08-20T06:24:50.551Z",
   "items": [
+    {
+      "title": "گوگل ابزارهای هوش مصنوعی جدیدی برای دانش‌آموزان به موتور جستجو و جمینای اضافه کرد [تماشا کنید]",
+      "url": "https://digiato.com/artificial-intelligence/google-search-gemini-ai-study-tools-student-hub",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-08-20T09:10:14.000Z",
+      "summary": "دانش‌آموزان واجد شرایط در آمریکا به مدت یک سال به اشتراک رایگان سرویس هوش مصنوعی گوگل دسترسی خواهند داشت. The post گوگل ابزارهای هوش مصنوعی جدیدی برای دانش‌آموزان به موتور جستجو و جمینای اضافه کرد [تماشا کنید] appeared f"
+    },
+    {
+      "title": "درخواست اپل از دادگاه: تقاضای OpenAI برای رد شکایت نباید پذیرفته شود",
+      "url": "https://digiato.com/business/apple-responds-to-openai-request-for-lawsuit-dismissal",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-08-20T08:40:57.000Z",
+      "summary": "اپل به درخواست OpenAI برای رد رسیدگی به پرونده در دادگاه پاسخ داد و خواستار آن شد که تقاضای این شرکت پذیرفته نشود. The post درخواست اپل از دادگاه: تقاضای OpenAI برای رد شکایت نباید پذیرفته شود appeared first on دیجیاتو."
+    },
+    {
+      "title": "هدیه ویژه به دانشجوها: اشتراک یک‌ساله هوش مصنوعی گوگل رایگان شد",
+      "url": "https://www.zoomit.ir/ai-articles/465581-google-free-gemini-students/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-08-20T06:00:00.000Z",
+      "summary": "گوگل اشتراک یک‌ساله‌ی هوش مصنوعی جمنای را برای دانشجویان واجد شرایط سراسر جهان رایگان کرد."
+    },
     {
       "title": "Stripe didn’t really buy OpenRouter because of the ‘singularity’",
       "url": "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/",
@@ -50,22 +74,6 @@
       "summary": "شیائومی از هود هوشمند جدیدش با سیستم مکش دوگانه و موتور اینورتر رونمایی کرد."
     },
     {
-      "title": "صدها شرکت چینی برای ورود به بازارهای بزرگ‌تر به نمایشگاه جهانی رباتیک پکن رفتند",
-      "url": "https://digiato.com/robotics/china-robotics-mass-adoption",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-08-19T16:40:33.000Z",
-      "summary": "۳۰۰ شرکت در نمایشگاه جهانی رباتیک پکن تازه‌ترین محصولات خود را به نمایش گذاشتند. The post صدها شرکت چینی برای ورود به بازارهای بزرگ‌تر به نمایشگاه جهانی رباتیک پکن رفتند appeared first on دیجیاتو."
-    },
-    {
-      "title": "مدیرعامل گرین‌وب در گفتگو با دیجیاتو: برای IPO و توسعه زیرساخت AI آماده می‌شویم",
-      "url": "https://digiato.com/iran-technology-news/digiato-video-interview-with-greenweb-ceo",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-08-19T16:35:00.000Z",
-      "summary": "محمدی معتقد است درباره میزان استفاده واقعی از هوش مصنوعی در کسب‌وکارها بزرگنمایی می‌شود،‌ اما نباید هوشمندسازی را هم نادیده گرفت. The post مدیرعامل گرین‌وب در گفتگو با دیجیاتو: برای IPO و توسعه زیرساخت AI آماده می‌شویم a"
-    },
-    {
       "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
       "url": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
       "source": "VentureBeat AI",
@@ -80,14 +88,6 @@
       "lang": "fa",
       "published": "2026-08-19T09:40:00.000Z",
       "summary": "گوگل چند روز پیش جمنای ۳٫۷ فلش را با تمرکز بر کدنویسی و عامل‌های هوش مصنوعی معرفی کرد؛ مدلی که در چند آزمون کلیدی از نسل قبل جلوتر است."
-    },
-    {
-      "title": "هوش مصنوعی، چاپگر ناسازگار ویندوز را به مک متصل کرد",
-      "url": "https://www.zoomit.ir/ai-articles/465523-claude-ai-macos-hp-driver/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-08-19T09:00:00.000Z",
-      "summary": "یک توسعه‌دهنده با استفاده از هوش مصنوعی کلاد موفق شد درایور اختصاصی سیستم‌عامل مک را برای پرینتر انحصاری ویندوز اچ‌پی طراحی کند."
     },
     {
       "title": "Replit expands access to software creation with GPT-5.6 Luna",
