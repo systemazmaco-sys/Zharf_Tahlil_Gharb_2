@@ -1,21 +1,53 @@
 {
-  "updated_at": "2026-08-19T18:17:48.476Z",
+  "updated_at": "2026-08-20T00:35:23.133Z",
   "items": [
     {
+      "title": "Stripe didn’t really buy OpenRouter because of the ‘singularity’",
+      "url": "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-08-19T23:32:00.000Z",
+      "summary": "What does a payments giant want with a startup that routes prompts between different AI models? Stripe says it's because of \"the singularity\" but it's really for a far more real and powerful reason."
+    },
+    {
+      "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
+      "url": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-08-19T22:10:46.000Z",
+      "summary": "A competition is developing between OpenAI and Anthropic over who can provide the best privacy protections for enterprise customer data."
+    },
+    {
+      "title": "Cognition CEO denies report that SpaceX tried to acquire the startup",
+      "url": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-08-19T21:51:23.000Z",
+      "summary": "SpaceX was reportedly in talks to buy AI coding startup Cognition. SpaceX has already acquired Cursor as it races to catch up to rivals like OpenAI and Anthropic in enterprise AI."
+    },
+    {
+      "title": "گوگل قابل‌اعتمادترین شرکت هوش مصنوعی جهان لقب گرفت؛ جایگاه دور از انتظار OpenAI و آنتروپیک",
+      "url": "https://digiato.com/artificial-intelligence/google-ranked-most-trustworthy-ai-company-openai-anthropic",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-08-19T19:30:00.000Z",
+      "summary": "در این رتبه‌بندی چهار شاخص اصلی حریم خصوصی داده‌ها، شفافیت، امنیت و تصور و دیدگاه عمومی در نظر گرفته شده است. The post گوگل قابل‌اعتمادترین شرکت هوش مصنوعی جهان لقب گرفت؛ جایگاه دور از انتظار OpenAI و آنتروپیک appeared f"
+    },
+    {
       "title": "Offering Zero Data Retention for frontier models",
-      "url": "https://openai.com/index/our-commitment-to-zero-data-retention",
+      "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
       "source": "OpenAI",
       "lang": "en",
       "published": "2026-08-19T19:00:00.000Z",
       "summary": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy."
     },
     {
-      "title": "Meet the startup helping Wall Street put a price on AI compute",
-      "url": "https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-08-19T17:26:48.000Z",
-      "summary": "The AI buildout shows no signs of slowing. And with hundreds of billions of dollars a year going into data centers and GPUs, compute has become the single biggest cost for anyone building AI products. But for all that sp"
+      "title": "هود هوشمند شیائومی با قابلیت مکش هوا از طرفین و هوش مصنوعی رونمایی شد",
+      "url": "https://www.zoomit.ir/appliances/465533-xiaomi-mijia-smart-range-hood-3-launched/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-08-19T18:50:00.000Z",
+      "summary": "شیائومی از هود هوشمند جدیدش با سیستم مکش دوگانه و موتور اینورتر رونمایی کرد."
     },
     {
       "title": "صدها شرکت چینی برای ورود به بازارهای بزرگ‌تر به نمایشگاه جهانی رباتیک پکن رفتند",
@@ -32,22 +64,6 @@
       "lang": "fa",
       "published": "2026-08-19T16:35:00.000Z",
       "summary": "محمدی معتقد است درباره میزان استفاده واقعی از هوش مصنوعی در کسب‌وکارها بزرگنمایی می‌شود،‌ اما نباید هوشمندسازی را هم نادیده گرفت. The post مدیرعامل گرین‌وب در گفتگو با دیجیاتو: برای IPO و توسعه زیرساخت AI آماده می‌شویم a"
-    },
-    {
-      "title": "TerraPower’s nuclear reactor has a secret weapon for powering AI data centers",
-      "url": "https://techcrunch.com/2026/08/19/terrapowers-nuclear-reactor-has-a-secret-weapon-for-powering-ai-data-centers/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-08-19T15:44:53.000Z",
-      "summary": "TerraPower's nuclear power plant possesses a strategic advantage over competitors, especially when chasing after data center deals."
-    },
-    {
-      "title": "Amazon makes its AI-powered Alexa+ free on Fire TV, no Prime required",
-      "url": "https://techcrunch.com/2026/08/19/amazon-makes-its-ai-powered-alexa-free-on-fire-tv-no-prime-required/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-08-19T15:00:00.000Z",
-      "summary": "Amazon is making its AI-powered Alexa+ assistant free on all compatible Fire TV devices in the U.S., automatically upgrading users whether or not they subscribe to Prime."
     },
     {
       "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
@@ -74,28 +90,12 @@
       "summary": "یک توسعه‌دهنده با استفاده از هوش مصنوعی کلاد موفق شد درایور اختصاصی سیستم‌عامل مک را برای پرینتر انحصاری ویندوز اچ‌پی طراحی کند."
     },
     {
-      "title": "به‌لطف هوش مصنوعی، ارزش استارتاپ Higgsfield در ۸ ماه ۴ برابر شد",
-      "url": "https://www.zoomit.ir/business/465449-higgsfield-raises-400-million-series-b/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-08-19T08:30:00.000Z",
-      "summary": "استارتاپ تولید ویدیوی هوش مصنوعی هیگزفیلد با جذب ۴۰۰ میلیون دلار سرمایه‌ی جدید، ارزش خود را به ۵٫۴ میلیارد دلار رساند."
-    },
-    {
       "title": "Replit expands access to software creation with GPT-5.6 Luna",
       "url": "https://openai.com/index/replit",
       "source": "OpenAI",
       "lang": "en",
       "published": "2026-08-19T07:00:00.000Z",
       "summary": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs."
-    },
-    {
-      "title": "ChatGPT Ads expands across Europe",
-      "url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
-      "source": "OpenAI",
-      "lang": "en",
-      "published": "2026-08-18T22:00:00.000Z",
-      "summary": "ChatGPT Ads is expanding to 31 European markets. Learn how advertisers can reach people as they explore, compare options, and make decisions."
     }
   ]
 }
