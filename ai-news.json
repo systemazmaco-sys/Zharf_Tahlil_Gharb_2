@@ -1,6 +1,46 @@
 {
-  "updated_at": "2026-08-21T00:37:48.575Z",
+  "updated_at": "2026-08-21T12:23:25.447Z",
   "items": [
+    {
+      "title": "آسیب‌پذیری عجیب کوپایلوت؛ چت‌بات اطلاعات لازم برای هک خود را افشا می‌کرد",
+      "url": "https://digiato.com/security/copilot-revealed-clues-that-led-to-its-own-hack",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-08-21T13:55:31.000Z",
+      "summary": "پژوهشگران یک آسیب‌پذیری در کوپایلوت مایکروسافت کشف کردند که باعث می‌شد چت‌بات اطلاعات لازم برای هک خود را افشا کند. The post آسیب‌پذیری عجیب کوپایلوت؛ چت‌بات اطلاعات لازم برای هک خود را افشا می‌کرد appeared first on دیجی"
+    },
+    {
+      "title": "یک‌سوم صفحات اینترنت حالا دارای نشانه‌های استفاده از هوش مصنوعی در متون خود هستند",
+      "url": "https://digiato.com/artificial-intelligence/one-third-of-the-web-is-showing-signs-of-ai-authorship",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-08-21T12:13:54.000Z",
+      "summary": "ابزارهای هوش مصنوعی مثل ChatGPT حالا نقش گسترده‌تری در تولید محتوا برای وب‌سایت‌ها دارند. The post یک‌سوم صفحات اینترنت حالا دارای نشانه‌های استفاده از هوش مصنوعی در متون خود هستند appeared first on دیجیاتو."
+    },
+    {
+      "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
+      "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
+      "source": "Google DeepMind",
+      "lang": "en",
+      "published": "2026-08-21T11:59:48.000Z",
+      "summary": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay."
+    },
+    {
+      "title": "اسلک از سرویس جدید Slack Code برای برنامه ‎نویسی با هوش مصنوعی رونمایی کرد",
+      "url": "https://digiato.com/artificial-intelligence/slack-launches-slack-code",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-08-21T11:56:22.000Z",
+      "summary": "با استفاده از Slack Code، ایجنت‌های هوش مصنوعی می‌توانند به‌صورت شفاف و در معرض دید اعضای تیم، نرم‌افزار بنویسند. The post اسلک از سرویس جدید Slack Code برای برنامه ‎نویسی با هوش مصنوعی رونمایی کرد appeared first on دیجی"
+    },
+    {
+      "title": "گوگل دیسکاور آپدیت شد؛ دسترسی به پست‌های موردعلاقه به کمک هوش مصنوعی",
+      "url": "https://www.zoomit.ir/internet-network/465650-google-discover-ai-chatbot-feed/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-08-21T05:21:56.000Z",
+      "summary": "گوگل به‌زودی امکان شخصی‌سازی فید دیسکاور را از طریق گفت‌و‌گو با چت‌بات هوش مصنوعی برای کاربران فراهم می‌کند."
+    },
     {
       "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
       "url": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
@@ -24,14 +64,6 @@
       "lang": "en",
       "published": "2026-08-20T22:09:51.000Z",
       "summary": "Ever wanted someone else to do your texting for you? ChatGPT is being offered up as an automated text scribe via a new Apple Messages integration."
-    },
-    {
-      "title": "هوش مصنوعی جدید گوگل چربی بدن و مقاومت به انسولین را با عکس تخمین می‌زند",
-      "url": "https://digiato.com/health/google-photoscan-camera-body-fat-insulin-resistance",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-08-20T15:55:02.000Z",
-      "summary": "محققان گوگل ابزاری آزمایشی مبتنی‌بر هوش مصنوعی طراحی کرده‌اند که ترکیب بدنی و چربی را دقیق‌تر از ساعت‌های هوشمند و با دوربین گوشی می‌سنجد. The post هوش مصنوعی جدید گوگل چربی بدن و مقاومت به انسولین را با عکس تخمین می‌زند"
     },
     {
       "title": "Debates over AI consciousness are a trap",
@@ -58,44 +90,12 @@
       "summary": "توسعه‌دهندگان اکنون می‌توانند سطح دسترسی و اشتراک‌گذاری اپلیکیشن‌های ساخته‌شده با هوش مصنوعی Grok را به‌طور کامل مدیریت کنند."
     },
     {
-      "title": "پذیرش دانشجو در رشته بازی‌سازی از مهرماه آغاز می‌شود/ افتتاح دانشکده هوش مصنوعی تا دو هفته دیگر",
-      "url": "https://www.zoomit.ir/iran-news/465626-game-development-university-major-iran/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-08-20T11:03:20.000Z",
-      "summary": "پذیرش دانشجو در رشته کارشناسی بازی‌سازی از مهرماه سال جاری آغاز می‌شود و دانشگاه اصفهان نخستین مجری این دوره خواهد بود."
-    },
-    {
       "title": "Unlocking hidden revenue streams with market models",
       "url": "https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models/",
       "source": "MIT Technology Review",
       "lang": "en",
       "published": "2026-08-20T09:47:22.000Z",
       "summary": "Each day, an airline transports tens of thousands of passengers on hundreds of flights. Often these are not straightforward point-to-point routes, with passengers requiring multiple connections. The airline can consider "
-    },
-    {
-      "title": "Introducing AI Futures",
-      "url": "https://openai.com/index/introducing-ai-futures",
-      "source": "OpenAI",
-      "lang": "en",
-      "published": "2026-08-20T07:00:00.000Z",
-      "summary": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom."
-    },
-    {
-      "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
-      "url": "https://openai.com/index/stampli",
-      "source": "OpenAI",
-      "lang": "en",
-      "published": "2026-08-20T00:00:00.000Z",
-      "summary": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days."
-    },
-    {
-      "title": "Offering Zero Data Retention for frontier models",
-      "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
-      "source": "OpenAI",
-      "lang": "en",
-      "published": "2026-08-19T19:00:00.000Z",
-      "summary": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy."
     }
   ]
 }
