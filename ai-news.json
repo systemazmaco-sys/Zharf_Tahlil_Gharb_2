@@ -1,6 +1,30 @@
 {
-  "updated_at": "2026-08-21T12:23:25.447Z",
+  "updated_at": "2026-08-21T18:20:50.523Z",
   "items": [
+    {
+      "title": "بحث درباره خودآگاهی هوش مصنوعی می‌تواند یک تله باشد",
+      "url": "https://digiato.com/artificial-intelligence/ai-being-consciousness-could-be-a-trap",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-08-21T17:30:00.000Z",
+      "summary": "بحث درباره این مسئله که شاید هوش مصنوعی خودآگاه شده باشد، می‌تواند مسئولیت شرکت‌ها را در قبال آسیب‌های ناشی از مدل‌ها کاهش دهد. The post بحث درباره خودآگاهی هوش مصنوعی می‌تواند یک تله باشد appeared first on دیجیاتو."
+    },
+    {
+      "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
+      "url": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-08-21T14:00:00.000Z",
+      "summary": "Andreessen Horowitz has two partners sitting on the boards of companies that now compete with each other: Ben Horowitz at Databricks and Martin Casado at Fivetran. Nothing too scandalous on the surface, except the Depart"
+    },
+    {
+      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
+      "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-08-21T14:00:00.000Z",
+      "summary": "There's about to be a big fight to secure access to space."
+    },
     {
       "title": "آسیب‌پذیری عجیب کوپایلوت؛ چت‌بات اطلاعات لازم برای هک خود را افشا می‌کرد",
       "url": "https://digiato.com/security/copilot-revealed-clues-that-led-to-its-own-hack",
@@ -10,28 +34,12 @@
       "summary": "پژوهشگران یک آسیب‌پذیری در کوپایلوت مایکروسافت کشف کردند که باعث می‌شد چت‌بات اطلاعات لازم برای هک خود را افشا کند. The post آسیب‌پذیری عجیب کوپایلوت؛ چت‌بات اطلاعات لازم برای هک خود را افشا می‌کرد appeared first on دیجی"
     },
     {
-      "title": "یک‌سوم صفحات اینترنت حالا دارای نشانه‌های استفاده از هوش مصنوعی در متون خود هستند",
-      "url": "https://digiato.com/artificial-intelligence/one-third-of-the-web-is-showing-signs-of-ai-authorship",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-08-21T12:13:54.000Z",
-      "summary": "ابزارهای هوش مصنوعی مثل ChatGPT حالا نقش گسترده‌تری در تولید محتوا برای وب‌سایت‌ها دارند. The post یک‌سوم صفحات اینترنت حالا دارای نشانه‌های استفاده از هوش مصنوعی در متون خود هستند appeared first on دیجیاتو."
-    },
-    {
       "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
       "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
       "source": "Google DeepMind",
       "lang": "en",
       "published": "2026-08-21T11:59:48.000Z",
       "summary": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay."
-    },
-    {
-      "title": "اسلک از سرویس جدید Slack Code برای برنامه ‎نویسی با هوش مصنوعی رونمایی کرد",
-      "url": "https://digiato.com/artificial-intelligence/slack-launches-slack-code",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-08-21T11:56:22.000Z",
-      "summary": "با استفاده از Slack Code، ایجنت‌های هوش مصنوعی می‌توانند به‌صورت شفاف و در معرض دید اعضای تیم، نرم‌افزار بنویسند. The post اسلک از سرویس جدید Slack Code برای برنامه ‎نویسی با هوش مصنوعی رونمایی کرد appeared first on دیجی"
     },
     {
       "title": "گوگل دیسکاور آپدیت شد؛ دسترسی به پست‌های موردعلاقه به کمک هوش مصنوعی",
@@ -48,22 +56,6 @@
       "lang": "en",
       "published": "2026-08-21T00:13:44.000Z",
       "summary": "Surging demand for AI training data is driving rapid growth for the startup and its rivals."
-    },
-    {
-      "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
-      "url": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-08-20T22:36:37.000Z",
-      "summary": "Businesses are willing to flop back and forth as each lab releases new models, volatility that should give both companies' investors pause about how \"sticky\" enterprise AI spending really is."
-    },
-    {
-      "title": "ChatGPT can now send texts for you with new Apple Messages plug-in",
-      "url": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-08-20T22:09:51.000Z",
-      "summary": "Ever wanted someone else to do your texting for you? ChatGPT is being offered up as an automated text scribe via a new Apple Messages integration."
     },
     {
       "title": "Debates over AI consciousness are a trap",
@@ -96,6 +88,14 @@
       "lang": "en",
       "published": "2026-08-20T09:47:22.000Z",
       "summary": "Each day, an airline transports tens of thousands of passengers on hundreds of flights. Often these are not straightforward point-to-point routes, with passengers requiring multiple connections. The airline can consider "
+    },
+    {
+      "title": "Introducing AI Futures",
+      "url": "https://openai.com/index/introducing-ai-futures",
+      "source": "OpenAI",
+      "lang": "en",
+      "published": "2026-08-20T07:00:00.000Z",
+      "summary": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom."
     }
   ]
 }
