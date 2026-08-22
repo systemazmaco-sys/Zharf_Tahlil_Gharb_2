@@ -1,6 +1,30 @@
 {
-  "updated_at": "2026-08-21T18:20:50.523Z",
+  "updated_at": "2026-08-22T00:34:59.025Z",
   "items": [
+    {
+      "title": "Anthropic’s Opus 4.6 is a smut-machine",
+      "url": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-08-21T23:07:25.000Z",
+      "summary": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction."
+    },
+    {
+      "title": "Nvidia partners with data center developer Cloverleaf",
+      "url": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-08-21T22:37:38.000Z",
+      "summary": "Nvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia."
+    },
+    {
+      "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
+      "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-08-21T19:43:39.000Z",
+      "summary": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task."
+    },
     {
       "title": "بحث درباره خودآگاهی هوش مصنوعی می‌تواند یک تله باشد",
       "url": "https://digiato.com/artificial-intelligence/ai-being-consciousness-could-be-a-trap",
@@ -8,22 +32,6 @@
       "lang": "fa",
       "published": "2026-08-21T17:30:00.000Z",
       "summary": "بحث درباره این مسئله که شاید هوش مصنوعی خودآگاه شده باشد، می‌تواند مسئولیت شرکت‌ها را در قبال آسیب‌های ناشی از مدل‌ها کاهش دهد. The post بحث درباره خودآگاهی هوش مصنوعی می‌تواند یک تله باشد appeared first on دیجیاتو."
-    },
-    {
-      "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
-      "url": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-08-21T14:00:00.000Z",
-      "summary": "Andreessen Horowitz has two partners sitting on the boards of companies that now compete with each other: Ben Horowitz at Databricks and Martin Casado at Fivetran. Nothing too scandalous on the surface, except the Depart"
-    },
-    {
-      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
-      "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-08-21T14:00:00.000Z",
-      "summary": "There's about to be a big fight to secure access to space."
     },
     {
       "title": "آسیب‌پذیری عجیب کوپایلوت؛ چت‌بات اطلاعات لازم برای هک خود را افشا می‌کرد",
@@ -48,14 +56,6 @@
       "lang": "fa",
       "published": "2026-08-21T05:21:56.000Z",
       "summary": "گوگل به‌زودی امکان شخصی‌سازی فید دیسکاور را از طریق گفت‌و‌گو با چت‌بات هوش مصنوعی برای کاربران فراهم می‌کند."
-    },
-    {
-      "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
-      "url": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-08-21T00:13:44.000Z",
-      "summary": "Surging demand for AI training data is driving rapid growth for the startup and its rivals."
     },
     {
       "title": "Debates over AI consciousness are a trap",
