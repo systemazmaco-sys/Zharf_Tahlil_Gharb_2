@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-08-22T00:34:59.025Z",
+  "updated_at": "2026-08-22T06:20:19.640Z",
   "items": [
+    {
+      "title": "هوش مصنوعی در نقش پیش‌گو؛ آیا ابزارهای هوشمند می‌توانند آینده علم را پیش‌بینی کنند؟",
+      "url": "https://www.zoomit.ir/ai-articles/465622-ai-predicts-patent-potential-papers/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-08-22T04:50:00.000Z",
+      "summary": "پژوهشگران ابزار هوش مصنوعی جدیدی توسعه داده‌اند که می‌تواند پتانسیل تجاری و احتمال ثبت اختراع مقالات علمی را سال‌ها قبل از اقدام رسمی پیش‌بینی کند."
+    },
+    {
+      "title": "رقابت جدید در دنیای هوش مصنوعی؛ تنسنت تست مدل پرچمدار Hunyuan Hy4 را آغاز کرد",
+      "url": "https://www.zoomit.ir/ai-articles/465632-tencent-hy4-ai-flagship-model/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-08-22T03:55:00.000Z",
+      "summary": "برخی کاربران گزارش داده‌اند که تنسنت تست هوش مصنوعی پیشرفته‌ی Hunyuan Hy4 را آغاز کرده است."
+    },
     {
       "title": "Anthropic’s Opus 4.6 is a smut-machine",
       "url": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
@@ -34,14 +50,6 @@
       "summary": "بحث درباره این مسئله که شاید هوش مصنوعی خودآگاه شده باشد، می‌تواند مسئولیت شرکت‌ها را در قبال آسیب‌های ناشی از مدل‌ها کاهش دهد. The post بحث درباره خودآگاهی هوش مصنوعی می‌تواند یک تله باشد appeared first on دیجیاتو."
     },
     {
-      "title": "آسیب‌پذیری عجیب کوپایلوت؛ چت‌بات اطلاعات لازم برای هک خود را افشا می‌کرد",
-      "url": "https://digiato.com/security/copilot-revealed-clues-that-led-to-its-own-hack",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-08-21T13:55:31.000Z",
-      "summary": "پژوهشگران یک آسیب‌پذیری در کوپایلوت مایکروسافت کشف کردند که باعث می‌شد چت‌بات اطلاعات لازم برای هک خود را افشا کند. The post آسیب‌پذیری عجیب کوپایلوت؛ چت‌بات اطلاعات لازم برای هک خود را افشا می‌کرد appeared first on دیجی"
-    },
-    {
       "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
       "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
       "source": "Google DeepMind",
@@ -66,22 +74,6 @@
       "summary": "“Runaway” AI, “rogue” agents, and “autonomous” actors—the current rhetoric would have you believe that AI agents are not only awake and aware, but angry at their creators. Prominent tech leaders such as Demis Hassabis, D"
     },
     {
-      "title": "هوش مصنوعی به درمان سرطان حتی نزدیک هم نیست؛ اما این استارتاپ می‌خواهد راه چاره را پیدا کند",
-      "url": "https://www.zoomit.ir/ai-articles/465563-ai-cancer-cure-data-problem/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-08-20T14:10:00.000Z",
-      "summary": "یک استارتاپ زیست‌فناوری با به چالش کشیدن ادعاهای بزرگ درباره درمان سرطان با هوش مصنوعی، از راهکار خود برای حل بحران کمبود داده‌های انسانی پرده برداشت."
-    },
-    {
-      "title": "هوش مصنوعی ایلان ماسک آپدیت شد؛ قابلیت اشتراک‌گذاری اپلیکیشن‌های ساخته‌شده با گراک",
-      "url": "https://www.zoomit.ir/ai-articles/465635-grok-apps-sharing-access-control/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-08-20T13:09:24.000Z",
-      "summary": "توسعه‌دهندگان اکنون می‌توانند سطح دسترسی و اشتراک‌گذاری اپلیکیشن‌های ساخته‌شده با هوش مصنوعی Grok را به‌طور کامل مدیریت کنند."
-    },
-    {
       "title": "Unlocking hidden revenue streams with market models",
       "url": "https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models/",
       "source": "MIT Technology Review",
@@ -96,6 +88,14 @@
       "lang": "en",
       "published": "2026-08-20T07:00:00.000Z",
       "summary": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom."
+    },
+    {
+      "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
+      "url": "https://openai.com/index/stampli",
+      "source": "OpenAI",
+      "lang": "en",
+      "published": "2026-08-20T00:00:00.000Z",
+      "summary": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days."
     }
   ]
 }
