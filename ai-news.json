@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-08-23T00:38:35.445Z",
+  "updated_at": "2026-08-23T06:21:49.742Z",
   "items": [
+    {
+      "title": "OpenAI هزینه مدل GPT-5.6 Sol را برای توسعه‌دهندگان بیش از ۲۰ درصد کاهش داد",
+      "url": "https://digiato.com/artificial-intelligence/openai-cuts-gpt-5-6-sol-developer-pricing",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-08-23T08:58:19.000Z",
+      "summary": "این تخفیف شامل اشتراک‌های عادی پلاس، پرو و سازمانی ChatGPT نمی‌شود. The post OpenAI هزینه مدل GPT-5.6 Sol را برای توسعه‌دهندگان بیش از ۲۰ درصد کاهش داد appeared first on دیجیاتو."
+    },
+    {
+      "title": "قیمت سرورهای هوش مصنوعی انویدیا بیش از ۱۵ درصد گران‌تر می‌شود",
+      "url": "https://digiato.com/artificial-intelligence/nvidia-ai-servers-price-hike-memory-costs",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-08-23T05:47:00.000Z",
+      "summary": "جهش چشمگیر هزینه‌های مربوط به تراشه‌های حافظه، عامل اصلی این تصمیم از سوی تأمین‌کنندگان عنوان شده است. The post قیمت سرورهای هوش مصنوعی انویدیا بیش از ۱۵ درصد گران‌تر می‌شود appeared first on دیجیاتو."
+    },
     {
       "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
       "url": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
@@ -50,14 +66,6 @@
       "summary": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed."
     },
     {
-      "title": "اپل واچ سری ۱۲ و اولترا ۴ به تراشه‌های قدرتمندتری برای هوش مصنوعی مجهز خواهند شد",
-      "url": "https://digiato.com/gadgets/apple-watch-series-12-and-ultra-4-to-get-new-chips",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-08-22T14:28:25.000Z",
-      "summary": "سری جدید ساعت‌های هوشمند اپل ماه آینده در کنار سری آیفون ۱۸ پرو معرفی می‌شود. The post اپل واچ سری ۱۲ و اولترا ۴ به تراشه‌های قدرتمندتری برای هوش مصنوعی مجهز خواهند شد appeared first on دیجیاتو."
-    },
-    {
       "title": "اثرات هک‌ سازمان مالیات؛ دولت فرانسه به استقبال هوش مصنوعی برای امنیت سایبری می‌رود",
       "url": "https://www.zoomit.ir/ai-articles/465630-france-bans-openai-cybersecurity-shift/",
       "source": "زومیت",
@@ -88,14 +96,6 @@
       "lang": "en",
       "published": "2026-08-20T09:47:22.000Z",
       "summary": "Each day, an airline transports tens of thousands of passengers on hundreds of flights. Often these are not straightforward point-to-point routes, with passengers requiring multiple connections. The airline can consider "
-    },
-    {
-      "title": "Introducing AI Futures",
-      "url": "https://openai.com/index/introducing-ai-futures",
-      "source": "OpenAI",
-      "lang": "en",
-      "published": "2026-08-20T07:00:00.000Z",
-      "summary": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom."
     }
   ]
 }
