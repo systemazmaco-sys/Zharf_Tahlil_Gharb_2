@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-08-23T12:17:07.247Z",
+  "updated_at": "2026-08-23T18:13:36.553Z",
   "items": [
+    {
+      "title": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
+      "url": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-08-23T15:30:00.000Z",
+      "summary": "Flock Safety faces a growing public outcry over concerns that its surveillance technology could be misused."
+    },
+    {
+      "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
+      "url": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-08-23T15:00:00.000Z",
+      "summary": "Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their livelihoods. That seems illegal, right?"
+    },
     {
       "title": "آنتروپیک با جذب مهندس ایرانی گوگل تراشه هوش مصنوعی اختصاصی توسعه می‌دهد",
       "url": "https://digiato.com/business/anthropic-hires-iranian-engineer-google-custom-chips",
@@ -10,12 +26,20 @@
       "summary": "او پیش‌تر هفت نسل تراشه‌های TPU گوگل را توسعه داده و سابقه همکاری با غول‌های فناوری مانند انویدیا را نیز در کارنامه دارد. The post آنتروپیک با جذب مهندس ایرانی گوگل تراشه هوش مصنوعی اختصاصی توسعه می‌دهد appeared first on"
     },
     {
-      "title": "حدود ۴۰ درصد از کل آهنگ‌های منتشرشده در ماه ژوئیه با هوش مصنوعی ساخته شده‌اند",
-      "url": "https://digiato.com/artificial-intelligence/submithub-ai-music-study-july-2026",
+      "title": "تحقیق جدید: استفاده از هوش مصنوعی نمرات کلی دانش‌آموزان را کاهش می‌دهد",
+      "url": "https://digiato.com/artificial-intelligence/ai-students-homework-exam-scores-study",
       "source": "دیجیاتو",
       "lang": "fa",
-      "published": "2026-08-23T12:27:28.000Z",
-      "summary": "یافته‌های تحقیق جدید با بررسی یک میلیون آهنگ در جهان به‌دست آمده است. The post حدود ۴۰ درصد از کل آهنگ‌های منتشرشده در ماه ژوئیه با هوش مصنوعی ساخته شده‌اند appeared first on دیجیاتو."
+      "published": "2026-08-23T13:30:00.000Z",
+      "summary": "محققان دریافتند استفاده از هوش مصنوعی اگرچه نمرات تکالیف را افزایش می‌دهد، اما عملکرد امتحانات حضوری را ۲۰ درصد پایین می‌آورد. The post تحقیق جدید: استفاده از هوش مصنوعی نمرات کلی دانش‌آموزان را کاهش می‌دهد appeared firs"
+    },
+    {
+      "title": "سهم باورنکردنی هوش مصنوعی در بازار موسیقی؛ حدود ۴۰ درصد در یک ماه",
+      "url": "https://www.zoomit.ir/ai-articles/465801-ai-generated-music-july-study/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-08-23T12:52:23.000Z",
+      "summary": "بررسی‌های جدید نشان می‌دهد نزدیک‌به ۴۰ درصد از آثار موسیقی منتشرشده در جولای سال جاری میلادی با استفاده از هوش مصنوعی تولید شده‌اند."
     },
     {
       "title": "معاون وزیر ارتباطات خبر داد: اپراتورهای هوش مصنوعی در راهند",
@@ -34,44 +58,12 @@
       "summary": "با استفاده از ابزارهای هوش مصنوعی رایگان، می‌توان بدون کدنویسی فایل‌های شلوغ اکسل را به اپلیکیشن کاربردی و آفلاین تبدیل کرد."
     },
     {
-      "title": "استارتاپ چینی از اسب رباتیک با تحمل وزن ۳۰۰ کیلوگرم رونمایی کرد [تماشا کنید]",
-      "url": "https://digiato.com/robotics/daxai-cyber-horse-qiji-x1-world-robot-conference-2026",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-08-23T09:45:14.000Z",
-      "summary": "این اسب کانسپت نیست و مراحل پایانی تولید را می‌گذراند. The post استارتاپ چینی از اسب رباتیک با تحمل وزن ۳۰۰ کیلوگرم رونمایی کرد [تماشا کنید] appeared first on دیجیاتو."
-    },
-    {
-      "title": "لغو قیمت‌گذاری ویژه در ساعات اوج مصرف؛ حرکت استراتژیک دیپ‌سیک برای تسخیر بازار هوش مصنوعی",
-      "url": "https://www.zoomit.ir/ai-articles/465774-deepseek-api-weekend-pricing-update/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-08-23T06:45:33.000Z",
-      "summary": "دیپ‌سیک ساختار قیمت‌گذاری در ساعت‌های اوج مصرف API را برای روزهای شنبه و یک‌شنبه لغو کرد."
-    },
-    {
       "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
       "url": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
       "source": "TechCrunch AI",
       "lang": "en",
       "published": "2026-08-22T21:46:56.000Z",
       "summary": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings."
-    },
-    {
-      "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
-      "url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-08-22T19:00:00.000Z",
-      "summary": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation."
-    },
-    {
-      "title": "OpenAI says California should strengthen its AI safety bill",
-      "url": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-08-22T16:30:34.000Z",
-      "summary": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed."
     },
     {
       "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
@@ -96,6 +88,14 @@
       "lang": "en",
       "published": "2026-08-20T09:47:22.000Z",
       "summary": "Each day, an airline transports tens of thousands of passengers on hundreds of flights. Often these are not straightforward point-to-point routes, with passengers requiring multiple connections. The airline can consider "
+    },
+    {
+      "title": "Introducing AI Futures",
+      "url": "https://openai.com/index/introducing-ai-futures",
+      "source": "OpenAI",
+      "lang": "en",
+      "published": "2026-08-20T07:00:00.000Z",
+      "summary": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom."
     }
   ]
 }
