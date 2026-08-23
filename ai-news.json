@@ -1,6 +1,30 @@
 {
-  "updated_at": "2026-08-22T18:13:21.082Z",
+  "updated_at": "2026-08-23T00:38:35.445Z",
   "items": [
+    {
+      "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
+      "url": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-08-22T21:46:56.000Z",
+      "summary": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings."
+    },
+    {
+      "title": "اپل موزیک، موسیقی‌های ساخته‌شده با هوش مصنوعی را برچسب‌گذاری می‌کند",
+      "url": "https://www.zoomit.ir/ai-articles/465659-apple-music-ai-labels-announced/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-08-22T19:45:00.000Z",
+      "summary": "اپل موزیک با افزودن برچسب‌های ویژه، آهنگ‌های ساخته‌شده با هوش مصنوعی را برای تمام کاربران مشخص می‌کند."
+    },
+    {
+      "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
+      "url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-08-22T19:00:00.000Z",
+      "summary": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation."
+    },
     {
       "title": "یک هوش مصنوعی مرموز و ناشناس، کلاد فیبل ۵ را در کدنویسی شکست داد",
       "url": "https://www.zoomit.ir/ai-articles/465752-mysterious-ox-alpha-ai-model/",
@@ -26,14 +50,6 @@
       "summary": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed."
     },
     {
-      "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
-      "url": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-08-22T16:00:00.000Z",
-      "summary": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially dangerous behavior."
-    },
-    {
       "title": "اپل واچ سری ۱۲ و اولترا ۴ به تراشه‌های قدرتمندتری برای هوش مصنوعی مجهز خواهند شد",
       "url": "https://digiato.com/gadgets/apple-watch-series-12-and-ultra-4-to-get-new-chips",
       "source": "دیجیاتو",
@@ -48,22 +64,6 @@
       "lang": "fa",
       "published": "2026-08-22T14:20:00.000Z",
       "summary": "دولت فرانسه در پی وقوع حملات سایبری گسترده و سرقت اطلاعات صدها هزار شهروند، به استقبال هوش مصنوعی بومی می‌رود."
-    },
-    {
-      "title": "یکی از جذاب‌ترین ویژگی‌های One UI 9.5 لو رفت: تولید ویجت سفارشی با هوش مصنوعی",
-      "url": "https://www.zoomit.ir/software-news/465661-samsung-one-ui-custom-widget/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-08-22T09:50:00.000Z",
-      "summary": "سامسونگ در حال آماده‌سازی قابلیت هوش مصنوعی ساخت ویجت سفارشی برای رابط کاربری One UI 9.5 است."
-    },
-    {
-      "title": "Anthropic’s Opus 4.6 is a smut-machine",
-      "url": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-08-21T23:07:25.000Z",
-      "summary": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction."
     },
     {
       "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
