@@ -1,21 +1,53 @@
 {
-  "updated_at": "2026-08-23T06:21:49.742Z",
+  "updated_at": "2026-08-23T12:17:07.247Z",
   "items": [
     {
-      "title": "OpenAI هزینه مدل GPT-5.6 Sol را برای توسعه‌دهندگان بیش از ۲۰ درصد کاهش داد",
-      "url": "https://digiato.com/artificial-intelligence/openai-cuts-gpt-5-6-sol-developer-pricing",
+      "title": "آنتروپیک با جذب مهندس ایرانی گوگل تراشه هوش مصنوعی اختصاصی توسعه می‌دهد",
+      "url": "https://digiato.com/business/anthropic-hires-iranian-engineer-google-custom-chips",
       "source": "دیجیاتو",
       "lang": "fa",
-      "published": "2026-08-23T08:58:19.000Z",
-      "summary": "این تخفیف شامل اشتراک‌های عادی پلاس، پرو و سازمانی ChatGPT نمی‌شود. The post OpenAI هزینه مدل GPT-5.6 Sol را برای توسعه‌دهندگان بیش از ۲۰ درصد کاهش داد appeared first on دیجیاتو."
+      "published": "2026-08-23T13:46:15.000Z",
+      "summary": "او پیش‌تر هفت نسل تراشه‌های TPU گوگل را توسعه داده و سابقه همکاری با غول‌های فناوری مانند انویدیا را نیز در کارنامه دارد. The post آنتروپیک با جذب مهندس ایرانی گوگل تراشه هوش مصنوعی اختصاصی توسعه می‌دهد appeared first on"
     },
     {
-      "title": "قیمت سرورهای هوش مصنوعی انویدیا بیش از ۱۵ درصد گران‌تر می‌شود",
-      "url": "https://digiato.com/artificial-intelligence/nvidia-ai-servers-price-hike-memory-costs",
+      "title": "حدود ۴۰ درصد از کل آهنگ‌های منتشرشده در ماه ژوئیه با هوش مصنوعی ساخته شده‌اند",
+      "url": "https://digiato.com/artificial-intelligence/submithub-ai-music-study-july-2026",
       "source": "دیجیاتو",
       "lang": "fa",
-      "published": "2026-08-23T05:47:00.000Z",
-      "summary": "جهش چشمگیر هزینه‌های مربوط به تراشه‌های حافظه، عامل اصلی این تصمیم از سوی تأمین‌کنندگان عنوان شده است. The post قیمت سرورهای هوش مصنوعی انویدیا بیش از ۱۵ درصد گران‌تر می‌شود appeared first on دیجیاتو."
+      "published": "2026-08-23T12:27:28.000Z",
+      "summary": "یافته‌های تحقیق جدید با بررسی یک میلیون آهنگ در جهان به‌دست آمده است. The post حدود ۴۰ درصد از کل آهنگ‌های منتشرشده در ماه ژوئیه با هوش مصنوعی ساخته شده‌اند appeared first on دیجیاتو."
+    },
+    {
+      "title": "معاون وزیر ارتباطات خبر داد: اپراتورهای هوش مصنوعی در راهند",
+      "url": "https://www.zoomit.ir/tech-iran/465787-iran-ai-operators-approved/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-08-23T10:18:53.000Z",
+      "summary": "احسان چیت‌ساز خبر داد: «شکل‌گیری اپراتورهای هوش مصنوعی در هیات دولت تصویب و ابلاغ شد تا این زیرساخت تا ۱۸ ماه آینده در اختیار محققان قرار گیرد.»"
+    },
+    {
+      "title": "تبدیل اکسل به اپلیکیشن با هوش مصنوعی؛ چطور بدون کدنویسی یک اپ آفلاین بسازیم؟",
+      "url": "https://www.zoomit.ir/excel-tutorial/465748-microsoft-excel-turned-offline-app/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-08-23T10:00:00.000Z",
+      "summary": "با استفاده از ابزارهای هوش مصنوعی رایگان، می‌توان بدون کدنویسی فایل‌های شلوغ اکسل را به اپلیکیشن کاربردی و آفلاین تبدیل کرد."
+    },
+    {
+      "title": "استارتاپ چینی از اسب رباتیک با تحمل وزن ۳۰۰ کیلوگرم رونمایی کرد [تماشا کنید]",
+      "url": "https://digiato.com/robotics/daxai-cyber-horse-qiji-x1-world-robot-conference-2026",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-08-23T09:45:14.000Z",
+      "summary": "این اسب کانسپت نیست و مراحل پایانی تولید را می‌گذراند. The post استارتاپ چینی از اسب رباتیک با تحمل وزن ۳۰۰ کیلوگرم رونمایی کرد [تماشا کنید] appeared first on دیجیاتو."
+    },
+    {
+      "title": "لغو قیمت‌گذاری ویژه در ساعات اوج مصرف؛ حرکت استراتژیک دیپ‌سیک برای تسخیر بازار هوش مصنوعی",
+      "url": "https://www.zoomit.ir/ai-articles/465774-deepseek-api-weekend-pricing-update/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-08-23T06:45:33.000Z",
+      "summary": "دیپ‌سیک ساختار قیمت‌گذاری در ساعت‌های اوج مصرف API را برای روزهای شنبه و یک‌شنبه لغو کرد."
     },
     {
       "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
@@ -26,14 +58,6 @@
       "summary": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings."
     },
     {
-      "title": "اپل موزیک، موسیقی‌های ساخته‌شده با هوش مصنوعی را برچسب‌گذاری می‌کند",
-      "url": "https://www.zoomit.ir/ai-articles/465659-apple-music-ai-labels-announced/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-08-22T19:45:00.000Z",
-      "summary": "اپل موزیک با افزودن برچسب‌های ویژه، آهنگ‌های ساخته‌شده با هوش مصنوعی را برای تمام کاربران مشخص می‌کند."
-    },
-    {
       "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
       "url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
       "source": "TechCrunch AI",
@@ -42,36 +66,12 @@
       "summary": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation."
     },
     {
-      "title": "یک هوش مصنوعی مرموز و ناشناس، کلاد فیبل ۵ را در کدنویسی شکست داد",
-      "url": "https://www.zoomit.ir/ai-articles/465752-mysterious-ox-alpha-ai-model/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-08-22T17:43:35.000Z",
-      "summary": "مدل هوش مصنوعی ناشناس Ox Alpha با ثبت عملکرد برتر نسبت به رقبا در حوزه‌ی کدنویسی، نگاه‌ها را به خود خیره کرد."
-    },
-    {
-      "title": "متا سالانه صدها میلیون دلار برای اجاره مدل‌های هوش مصنوعی به مایکروسافت می‌پردازد",
-      "url": "https://digiato.com/finance-investment/meta-pays-microsoft-hundreds-of-millions-rent-ai-models",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-08-22T17:00:00.000Z",
-      "summary": "بایت‌دنس و متا اکنون بزرگ‌ترین خریداران مدل‌های هوش مصنوعی در پلتفرم Azure مایکروسافت هستند. The post متا سالانه صدها میلیون دلار برای اجاره مدل‌های هوش مصنوعی به مایکروسافت می‌پردازد appeared first on دیجیاتو."
-    },
-    {
       "title": "OpenAI says California should strengthen its AI safety bill",
       "url": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
       "source": "TechCrunch AI",
       "lang": "en",
       "published": "2026-08-22T16:30:34.000Z",
       "summary": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed."
-    },
-    {
-      "title": "اثرات هک‌ سازمان مالیات؛ دولت فرانسه به استقبال هوش مصنوعی برای امنیت سایبری می‌رود",
-      "url": "https://www.zoomit.ir/ai-articles/465630-france-bans-openai-cybersecurity-shift/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-08-22T14:20:00.000Z",
-      "summary": "دولت فرانسه در پی وقوع حملات سایبری گسترده و سرقت اطلاعات صدها هزار شهروند، به استقبال هوش مصنوعی بومی می‌رود."
     },
     {
       "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
