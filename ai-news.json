@@ -1,6 +1,46 @@
 {
-  "updated_at": "2026-08-23T18:13:36.553Z",
+  "updated_at": "2026-08-24T00:37:24.402Z",
   "items": [
+    {
+      "title": "ادعای جنجالی استریمرهای توییچ درباره سرقت محتوا برای آموزش هوش مصنوعی",
+      "url": "https://www.zoomit.ir/ai-articles/465768-amazon-twitch-ai-lawsuit/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-08-23T23:25:00.000Z",
+      "summary": "آمازون و توییچ به دلیل استفاده‌ی غیرقانونی از محتوای استریمرها برای توسعه‌ی مدل‌های هوش مصنوعی، با شکایتی گروهی روبه‌رو شدند."
+    },
+    {
+      "title": "ادامه بحران سخت‌افزار؛ انویدیا افزایش قیمت محصولات هوش مصنوعی را اعلام کرد",
+      "url": "https://www.zoomit.ir/hardware/465772-nvidia-ai-servers-price-hike/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-08-23T22:20:00.000Z",
+      "summary": "انویدیا به مشتریان بزرگ خود اطلاع داد که قیمت سرورهای مجهز به تراشه‌های هوش مصنوعی بیش از ۱۵ درصد افزایش می‌یابد."
+    },
+    {
+      "title": "شبیخون ۶ میلیارد دلاری انویدیا به هوش مصنوعی چینی؛ قدرتمندترین مدل وزن‌باز جهان تولید می‌شود",
+      "url": "https://www.zoomit.ir/ai-articles/465767-nvidia-six-billion-poolside-ai/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-08-23T20:05:00.000Z",
+      "summary": "انویدیا با امضای قراردادی ۶ میلیارد دلاری با استارتاپ پول‌ساید، ساخت قدرتمندترین مدل‌های هوش مصنوعی وزن‌باز جهان را کلید زد."
+    },
+    {
+      "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
+      "url": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-08-23T20:01:36.000Z",
+      "summary": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation."
+    },
+    {
+      "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
+      "url": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-08-23T19:14:08.000Z",
+      "summary": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool."
+    },
     {
       "title": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
       "url": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/",
@@ -8,14 +48,6 @@
       "lang": "en",
       "published": "2026-08-23T15:30:00.000Z",
       "summary": "Flock Safety faces a growing public outcry over concerns that its surveillance technology could be misused."
-    },
-    {
-      "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
-      "url": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-08-23T15:00:00.000Z",
-      "summary": "Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their livelihoods. That seems illegal, right?"
     },
     {
       "title": "آنتروپیک با جذب مهندس ایرانی گوگل تراشه هوش مصنوعی اختصاصی توسعه می‌دهد",
@@ -32,38 +64,6 @@
       "lang": "fa",
       "published": "2026-08-23T13:30:00.000Z",
       "summary": "محققان دریافتند استفاده از هوش مصنوعی اگرچه نمرات تکالیف را افزایش می‌دهد، اما عملکرد امتحانات حضوری را ۲۰ درصد پایین می‌آورد. The post تحقیق جدید: استفاده از هوش مصنوعی نمرات کلی دانش‌آموزان را کاهش می‌دهد appeared firs"
-    },
-    {
-      "title": "سهم باورنکردنی هوش مصنوعی در بازار موسیقی؛ حدود ۴۰ درصد در یک ماه",
-      "url": "https://www.zoomit.ir/ai-articles/465801-ai-generated-music-july-study/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-08-23T12:52:23.000Z",
-      "summary": "بررسی‌های جدید نشان می‌دهد نزدیک‌به ۴۰ درصد از آثار موسیقی منتشرشده در جولای سال جاری میلادی با استفاده از هوش مصنوعی تولید شده‌اند."
-    },
-    {
-      "title": "معاون وزیر ارتباطات خبر داد: اپراتورهای هوش مصنوعی در راهند",
-      "url": "https://www.zoomit.ir/tech-iran/465787-iran-ai-operators-approved/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-08-23T10:18:53.000Z",
-      "summary": "احسان چیت‌ساز خبر داد: «شکل‌گیری اپراتورهای هوش مصنوعی در هیات دولت تصویب و ابلاغ شد تا این زیرساخت تا ۱۸ ماه آینده در اختیار محققان قرار گیرد.»"
-    },
-    {
-      "title": "تبدیل اکسل به اپلیکیشن با هوش مصنوعی؛ چطور بدون کدنویسی یک اپ آفلاین بسازیم؟",
-      "url": "https://www.zoomit.ir/excel-tutorial/465748-microsoft-excel-turned-offline-app/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-08-23T10:00:00.000Z",
-      "summary": "با استفاده از ابزارهای هوش مصنوعی رایگان، می‌توان بدون کدنویسی فایل‌های شلوغ اکسل را به اپلیکیشن کاربردی و آفلاین تبدیل کرد."
-    },
-    {
-      "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
-      "url": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-08-22T21:46:56.000Z",
-      "summary": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings."
     },
     {
       "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
