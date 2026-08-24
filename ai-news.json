@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-08-24T12:24:28.484Z",
+  "updated_at": "2026-08-24T18:23:06.013Z",
   "items": [
+    {
+      "title": "Instinct’s powerful AI assistant is raising privacy and security concerns",
+      "url": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-08-24T18:03:55.000Z",
+      "summary": "Early testers are raving about what Instinct can do, but some say the AI assistant’s sweeping access, broad terms and ability to act on users’ behalf come with uncomfortable trade-offs"
+    },
+    {
+      "title": "پورشه در معامله‌ای تاریخی با یک غول هندی، به استقبال هوش مصنوعی رفت",
+      "url": "https://www.zoomit.ir/ai-articles/465868-porsche-tcs-ai-deal/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-08-24T17:24:49.000Z",
+      "summary": "پورشه در قراردادی به ارزش ۱٫۲۵ میلیارد یورو، واحد مشاوره‌ی خود را به یک شرکت هندی واگذار کرد تا هوش مصنوعی را توسعه دهد."
+    },
+    {
+      "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
+      "url": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-08-24T15:24:18.000Z",
+      "summary": "General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new investors including Valor"
+    },
+    {
+      "title": "مانع بزرگ یک «منشی هوش مصنوعی» برای بیماران در بریتانیا",
+      "url": "https://www.zoomit.ir/ai-articles/465799-ai-receptionist-accent-problem-uk-clinics/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-08-24T15:05:00.000Z",
+      "summary": "ناتوانی منشی هوش مصنوعی در فهم لهجه‌ی محلی در بریتانیا باعث سردرگمی بیماران و انصراف برخی از آن‌ها از دریافت نوبت پزشکی شده است."
+    },
+    {
+      "title": "OpenAI is building AI agents for everything. Will everyone use them?",
+      "url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-08-24T15:00:00.000Z",
+      "summary": "Inside the frontier lab’s push to bring AI agents from software engineers to the masses."
+    },
+    {
+      "title": "هوش مصنوعی ۱٫۷ تریلیون پارامتری «دیپ‌سیک V4 پرو» از حالت پیش‌نمایش خارج شد",
+      "url": "https://www.zoomit.ir/ai-articles/465798-deepseek-v4-pro-official-release/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-08-24T14:40:00.000Z",
+      "summary": "دیپ‌سیک نسخه‌ی نهایی و تجاری مدل هوش مصنوعی V4 Pro را با ۱٫۷ تریلیون پارامتر و مجوز متن‌باز ام‌آی‌تی منتشر کرد."
+    },
     {
       "title": "مینی پی‌سی شیائومی AI Cube با سه تراشه جدید XRING معرفی شد",
       "url": "https://digiato.com/gadgets/xiaomi-ai-cube-mini-pc-xring-chips-announced",
@@ -10,44 +58,12 @@
       "summary": "این دستگاه به‌طور خاص برای اجرای محلی و آفلاین مدل‌های هوش مصنوعی شیائومی نمایش داده شده است. The post مینی پی‌سی شیائومی AI Cube با سه تراشه جدید XRING معرفی شد appeared first on دیجیاتو."
     },
     {
-      "title": "کسب درآمد از تولید محتوای ویدیویی با هوش مصنوعی",
-      "url": "https://digiato.com/promoted/ai-video-content-monetization",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-08-24T12:13:46.000Z",
-      "summary": "مهمترین ابزارها و روش‌های جدید در سال 2026 برای تولید محتوای ویدئویی با هوش مصنوعی و روش‌های کسب درآمد را اینجا می‌خوانید. The post کسب درآمد از تولید محتوای ویدیویی با هوش مصنوعی appeared first on دیجیاتو."
-    },
-    {
-      "title": "علی‌بابا هوش مصنوعی قدرتمند Wan 3.0 را برای تولید ویدیوهای ۳۰ ثانیه‌ای عرضه کرد [تماشا کنید]",
-      "url": "https://digiato.com/artificial-intelligence/alibaba-video-ai-model-wan-3-launched",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-08-24T12:05:57.000Z",
-      "summary": "این مدل می‌تواند با دریافت عکس، ویدیو یا صدا به‌عنوان فایل مرجع، کلیپ‌های ۳۰ ثانیه‌ای واقع‌گرایانه بسازد. The post علی‌بابا هوش مصنوعی قدرتمند Wan 3.0 را برای تولید ویدیوهای ۳۰ ثانیه‌ای عرضه کرد [تماشا کنید] appeared fir"
-    },
-    {
-      "title": "جاروبرقی رباتیک جدید شیائومی با قدرت مکش چشمگیر معرفی شد",
-      "url": "https://www.zoomit.ir/appliances/465788-xiaomi-mijia-robot-vacuum-7c/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-08-24T12:00:00.000Z",
-      "summary": "شیائومی پیش‌فروش جاروبرقی رباتیک دوکاره‌ی جدیدش را با قدرت مکش بالا آغاز کرد."
-    },
-    {
-      "title": "مینی کامپیوتر قدرتمند شیائومی برای اجرای مدل‌های بزرگ هوش مصنوعی رونمایی شد",
-      "url": "https://www.zoomit.ir/desktop/465842-xiaomi-ai-cube-mini-pc/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-08-24T11:11:49.000Z",
-      "summary": "شیائومی از مینی‌کامپیوتر مفهومی AI Cube رونمایی کرد که با سه تراشه‌ی اختصاصی، توانایی اجرای محلی مدل‌های زبانی بزرگ را دارد."
-    },
-    {
-      "title": "بامزه‌ترین ویدئوی مرگ ربات؛ دوندگان رباتیک سرعت بالا دارند، اما هنوز ترمز بلد نیستند",
-      "url": "https://www.zoomit.ir/robotics-smart-machines/465834-china-humanoid-robot-crash-race/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-08-24T10:50:00.000Z",
-      "summary": "ربات‌های انسا‌ن‌نما در مسابقات جهانی ربات‌های چین با سرعت بالای خود خیره‌کننده ظاهر شده‌اند؛ اما ظاهراً هنوز در کاهش سرعت و حفظ تعادل مشکل دارند."
+      "title": "How to encourage smarter AI use in the classroom",
+      "url": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
+      "source": "MIT Technology Review",
+      "lang": "en",
+      "published": "2026-08-24T14:20:19.000Z",
+      "summary": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox, sign up here. Chatbots took many schools by surprise upon th"
     },
     {
       "title": "Kids outlearn AI—and we still don’t know why",
@@ -56,30 +72,6 @@
       "lang": "en",
       "published": "2026-08-24T09:00:00.000Z",
       "summary": "People have been talking to each other for at least 100,000 years, as best we can tell. And in all that time, there has been only one thing in the world that could learn a human language to perfect fluency: a human child"
-    },
-    {
-      "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
-      "url": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-08-23T20:01:36.000Z",
-      "summary": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation."
-    },
-    {
-      "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
-      "url": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-08-23T19:14:08.000Z",
-      "summary": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool."
-    },
-    {
-      "title": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
-      "url": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-08-23T15:30:00.000Z",
-      "summary": "Flock Safety faces a growing public outcry over concerns that its surveillance technology could be misused."
     },
     {
       "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
@@ -96,6 +88,14 @@
       "lang": "en",
       "published": "2026-08-20T15:42:39.000Z",
       "summary": "“Runaway” AI, “rogue” agents, and “autonomous” actors—the current rhetoric would have you believe that AI agents are not only awake and aware, but angry at their creators. Prominent tech leaders such as Demis Hassabis, D"
+    },
+    {
+      "title": "Introducing AI Futures",
+      "url": "https://openai.com/index/introducing-ai-futures",
+      "source": "OpenAI",
+      "lang": "en",
+      "published": "2026-08-20T07:00:00.000Z",
+      "summary": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom."
     }
   ]
 }
