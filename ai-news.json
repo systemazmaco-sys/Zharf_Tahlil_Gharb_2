@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-08-25T00:36:25.440Z",
+  "updated_at": "2026-08-25T06:25:32.794Z",
   "items": [
+    {
+      "title": "جدال بر سر مغزها؛ متا دانشمند سرشناس OpenAI را استخدام کرد",
+      "url": "https://www.zoomit.ir/business/465833-luke-metz-joins-meta/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-08-25T05:20:00.000Z",
+      "summary": "لوک متز، پژوهشگر برجسته‌ی هوش مصنوعی، پس از ترک مجدد اوپن‌ای‌آی به آزمایشگاه ابرهوش مصنوعی متا پیوست."
+    },
+    {
+      "title": "هوش مصنوعی در چشم‌های شما؛ آیا عینک‌های هوشمند به ابزار جاسوسی تبدیل می‌شوند؟",
+      "url": "https://www.zoomit.ir/security/465829-smart-glasses-privacy-backlash-growth/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-08-25T02:30:00.000Z",
+      "summary": "رشد سریع فروش عینک‌های هوشمند مجهز به هوش مصنوعی، موجی از نگرانی‌های شدید امنیتی و اعتراض فعالان حریم خصوصی را در سراسر جهان برانگیخته است."
+    },
     {
       "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
       "url": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
@@ -26,14 +42,6 @@
       "summary": "سرمایه‌گذاری تجاری آمریکا با سرعت بیش از سه برابر اروپا در حال رشد است و بخش قابل توجهی این مبالغ جدید به هوش مصنوعی ارتباط دارد."
     },
     {
-      "title": "تایوان ۹ نفر را به قاچاق سرورهای هوش مصنوعی متهم کرد؛ مقصد احتمالا چین بوده است",
-      "url": "https://www.zoomit.ir/business/465825-taiwan-indicts-nvidia-supermicro-employees/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-08-24T22:20:00.000Z",
-      "summary": "دادستانی تایوان ۹ نفر از جمله کارمندان انویدیا و سوپرمایکرو را به اتهام صادرات غیرقانونی سرورهای هوش مصنوعی به چین متهم کرد."
-    },
-    {
       "title": "Trump bought SpaceX shares two weeks after blockbuster IPO",
       "url": "https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/",
       "source": "TechCrunch AI",
@@ -48,22 +56,6 @@
       "lang": "en",
       "published": "2026-08-24T19:54:19.000Z",
       "summary": "At TechCrunch Disrupt 2026, Replit CEO Amjad Masad will share his perspective on the future of programming and Replit's role in developing it."
-    },
-    {
-      "title": "پورشه در معامله‌ای تاریخی با یک غول هندی، به استقبال هوش مصنوعی رفت",
-      "url": "https://www.zoomit.ir/ai-articles/465868-porsche-tcs-ai-deal/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-08-24T17:24:49.000Z",
-      "summary": "پورشه در قراردادی به ارزش ۱٫۲۵ میلیارد یورو، واحد مشاوره‌ی خود را به یک شرکت هندی واگذار کرد تا هوش مصنوعی را توسعه دهد."
-    },
-    {
-      "title": "مینی پی‌سی شیائومی AI Cube با سه تراشه جدید XRING معرفی شد",
-      "url": "https://digiato.com/gadgets/xiaomi-ai-cube-mini-pc-xring-chips-announced",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-08-24T14:20:19.000Z",
-      "summary": "این دستگاه به‌طور خاص برای اجرای محلی و آفلاین مدل‌های هوش مصنوعی شیائومی نمایش داده شده است. The post مینی پی‌سی شیائومی AI Cube با سه تراشه جدید XRING معرفی شد appeared first on دیجیاتو."
     },
     {
       "title": "How to encourage smarter AI use in the classroom",
@@ -96,6 +88,14 @@
       "lang": "en",
       "published": "2026-08-21T11:59:48.000Z",
       "summary": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay."
+    },
+    {
+      "title": "Debates over AI consciousness are a trap",
+      "url": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
+      "source": "MIT Technology Review",
+      "lang": "en",
+      "published": "2026-08-20T15:42:39.000Z",
+      "summary": "“Runaway” AI, “rogue” agents, and “autonomous” actors—the current rhetoric would have you believe that AI agents are not only awake and aware, but angry at their creators. Prominent tech leaders such as Demis Hassabis, D"
     }
   ]
 }
