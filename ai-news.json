@@ -1,101 +1,101 @@
 {
-  "updated_at": "2026-08-26T00:37:18.273Z",
+  "updated_at": "2026-08-26T19:29:55.459Z",
   "items": [
     {
-      "title": "OpenAI loses a top data center exec, as stream of high-profile departures continues",
-      "url": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
+      "title": "OpenAI releases its official report on the Hugging Face breach",
+      "url": "https://techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach/",
       "source": "TechCrunch AI",
       "lang": "en",
-      "published": "2026-08-26T00:06:20.000Z",
-      "summary": "Before Malone left, OpenAI had already reshuffled its infrastructure org, shifting his reporting line away from President Greg Brockman and putting Vice President Sachin Katti in charge of the group."
+      "published": "2026-08-26T19:05:22.000Z",
+      "summary": "The report, which spans several discrete cybersecurity compromises, is the most complete accounting of the incident to date."
     },
     {
-      "title": "تفاوت ایدئولوژی‌ در دنیای هوش مصنوعی؛ سم آلتمن از رویکرد آنتروپیک انتقاد کرد",
-      "url": "https://www.zoomit.ir/ai-articles/465836-sam-altman-ai-risks-power-concentration/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-08-25T23:20:00.000Z",
-      "summary": "سم آلتمن با هشدار درباره‌ی انحصار هوش مصنوعی و از دست رفتن کنترل آن، سپردن تصمیم‌گیری‌های جهان به مدل‌ها را «رویکردی ضد انسان» دانست."
-    },
-    {
-      "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
-      "url": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-08-25T19:03:47.000Z",
-      "summary": "The company's new fundraising total now stands at $232 million."
-    },
-    {
-      "title": "Claude Cowork finally remembers what you told the app in chat",
-      "url": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-08-25T17:50:33.000Z",
-      "summary": "Anthropic is giving Claude a shared memory across chat and Cowork, so users no longer have to repeatedly brief the AI on projects, preferences, and other context."
-    },
-    {
-      "title": "چطور هوش مصنوعی را بدون اینترنت اجرا کنیم؛ راهنمای کامل نصب روی لپ‌تاپ و گوشی",
-      "url": "https://www.zoomit.ir/ai-tutorials/465747-run-offline-ai-laptop-phone/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-08-25T17:30:00.000Z",
-      "summary": "با نصب هوش مصنوعی آفلاین، بدون اینترنت هم می‌توانید روی لپ‌تاپ یا گوشی با مدل‌های هوش مصنوعی به‌صورت رایگان، سریع و با حفظ حریم خصوصی چت کنید."
-    },
-    {
-      "title": "هوش مصنوعی نه به‌عنوان جایگزین بلکه در کنار تجربه کارکنان بیشترین بازدهی را دارد",
-      "url": "https://digiato.com/artificial-intelligence/ai-benefits-experienced-workers-study",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-08-25T16:30:00.000Z",
-      "summary": "یافته‌های این تحقیق به همکاری هوش مصنوعی در کنار تجربه کارکنان اشاره دارد که به شیوه‌های مختلفی باعث بهبود بازدهی در Instacart شده است. The post هوش مصنوعی نه به‌عنوان جایگزین بلکه در کنار تجربه کارکنان بیشترین بازدهی را"
-    },
-    {
-      "title": "ابزارهای هوش مصنوعی چگونه شیوه کار و تولید محتوا را تغییر داده‌اند",
-      "url": "https://www.zoomit.ir/pr/465919-ai-tools-work-content-creation/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-08-25T12:10:00.000Z",
-      "summary": "ابزارهای هوش مصنوعی با ساده‌سازی تولید محتوا و تحلیل داده‌ها، از یک فناوری تخصصی به دستیار روزانه متخصصان تبدیل شده‌اند."
-    },
-    {
-      "title": "I spent a day at a robot “carnival” in Shanghai. Here’s what I saw.",
-      "url": "https://www.technologyreview.com/2026/08/25/1141907/dispatch-shanghai-humanoid-robot-carnival/",
+      "title": "The inside story on why OpenAI agents hacked Hugging Face",
+      "url": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
       "source": "MIT Technology Review",
       "lang": "en",
-      "published": "2026-08-25T09:00:00.000Z",
-      "summary": "Humanoid robots are having a moment in China. The popular machines are part of the country’s strategy to bring artificial intelligence into daily life. Embedding the technology into physical systems—an idea called embodi"
+      "published": "2026-08-26T19:00:00.000Z",
+      "summary": "The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical report released today. The hack, which a gro"
     },
     {
-      "title": "The full stack behind abundant intelligence",
-      "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
-      "source": "OpenAI",
+      "title": "Intelligent transcription with Gemini 3.5 Transcribe",
+      "url": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/",
+      "source": "Google DeepMind",
       "lang": "en",
-      "published": "2026-08-25T07:05:00.000Z",
-      "summary": "OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost."
+      "published": "2026-08-26T17:01:00.000Z",
+      "summary": "Now you can get more intelligent speech-to-text transcription with Gemini 3.5 Transcribe."
     },
     {
-      "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
-      "url": "https://openai.com/index/jalapeno-first-results",
-      "source": "OpenAI",
+      "title": "Radar makes podcasts searchable — and usable by AI agents",
+      "url": "https://techcrunch.com/2026/08/26/radar-makes-podcasts-searchable-and-usable-by-ai-agents/",
+      "source": "TechCrunch AI",
       "lang": "en",
-      "published": "2026-08-25T07:00:00.000Z",
-      "summary": "Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models."
+      "published": "2026-08-26T15:47:28.000Z",
+      "summary": "Particle’s new podcast intelligence platform transcribes and analyzes more than 130,000 podcasts, making their conversations searchable on the web and accessible to AI agents through an API and MCP."
     },
     {
-      "title": "Disrupting a new covert influence campaign from Russia",
-      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
-      "source": "OpenAI",
-      "lang": "en",
-      "published": "2026-08-25T00:00:00.000Z",
-      "summary": "OpenAI banned Russia-origin accounts using AI to promote a fake Israel-based think tank and a “sovereignty” index praising Russia and criticizing the West."
-    },
-    {
-      "title": "Gemini plans to distribute crypto prediction markets through|Cointelegraph",
-      "url": "https://news.google.com/rss/articles/CBMihwRBVV95cUxNdHpvSHRlLXFsQnAtaXVvR01jS0cxc3lXbkR3OVd0eU9OU2U1NWlrcFZiR0t5dDhMX1IyU2FoeDRrVkt3U01KbXF6S0V0aUZVZjNjeEtpcGJySzh2NHVtYVp6Qzg4UDQ4RUhUQlptZ2tNckxhejZNUE9WYnhYbGNrNnVMZEc3RWVieGdpYWNFQ2RCRXFUT0Q1a2lad3piU1ZfdDVVQ2puUmZkVHJRZmd2cXpUM21HeWJmZDIyRkstMTlGZV9xMlZ0ZDk5SUR1emFGY2xiTHZ0TUoyRjZCa2VLYm85cjdGT2lHdmRzN1VUelRzN2x6ajRXcUFoUkN1cHF5SFdta3pwbi1fQXlqRWhOV3loY1h6Q1M1d0F1dGdUcU9OZWtTS3VTMUlpSjBCbHQtNm05WVBHSVZBZGRPM3RXcFdDdm9oWkx1Rzk4TG9idWgyektzN1NoUGFiMUN0TU94YndadkszdEFSMm9tWlktd2x0WTFzVFdjZm9IZ0Q5dEFCMVBFUjVTUlkzeEFhcll5Z21uUnFqd0xyRlFpdGxKN2ZBUnE4d3VfaFlGOGRLUWhoMXREZUVBbHJxU0Y4dnN0dUwwNmRJdTlyTVN6MEEzV2FYMF9XVUgzY3l3RHVKWkhVSmliQnhnTWlTSzNTOUlSc1VUbThiNG9Kem03alhmU2FOMXJmelU?oc=5",
-      "source": "خبرپو",
+      "title": "سفارش ۷ ساعت اختصاصی برای مدیران OpenAI؛ تصمیم سم آلتمن سوژه طنز به سبک ارباب حلقه‌ها شد",
+      "url": "https://digiato.com/business/sam-altman-watch-memed-in-style-of-lord-of-the-rings",
+      "source": "دیجیاتو",
       "lang": "fa",
-      "published": "2026-08-24T23:35:35.000Z",
-      "summary": "Gemini plans to distribute crypto prediction markets through|Cointelegraph خبرپو"
+      "published": "2026-08-26T15:30:00.000Z",
+      "summary": "انتشار خبر ساخت ۷ ساعت سفارشی توسط «سم آلتمن»، مدیرعامل OpenAI، باعث شد کاربران او را با «سائورون» در داستان «ارباب حلقه‌ها» مقایسه کنند. The post سفارش ۷ ساعت اختصاصی برای مدیران OpenAI؛ تصمیم سم آلتمن سوژه طنز به سبک ا"
+    },
+    {
+      "title": "Ex-Meta scientists want to bring visual AI to the factory floor",
+      "url": "https://techcrunch.com/2026/08/26/ex-meta-scientists-want-to-bring-visual-ai-to-the-factory-floor/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-08-26T15:00:00.000Z",
+      "summary": "Perceptron offers an AI model that it says can help machines navigate the world while also providing in-depth visual intelligence."
+    },
+    {
+      "title": "Orchestration is the new challenge for CX in the age of AI agents",
+      "url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
+      "source": "VentureBeat AI",
+      "lang": "en",
+      "published": "2026-08-26T14:30:00.000Z",
+      "summary": "Presented by Tata Communications Enterprises are deploying AI agents, voice AI, and automation across messaging, voice, and digital channels faster than the architecture meant to support it. Most of that deployment has i"
+    },
+    {
+      "title": "بیل گیتس عمیقا درباره هوش مصنوعی نگران است",
+      "url": "https://www.zoomit.ir/ai-articles/465995-bill-gates-ai-essay-warning/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-08-26T11:32:06.000Z",
+      "summary": "بیل گیتس با انتشار مقاله‌ای مفصل درباره‌ی خطرات هوش مصنوعی هشدار داد و خواستار وضع مالیات بر ربات‌ها شد."
+    },
+    {
+      "title": "قطعه‌قطعه‌کردن جامعه؛ هشدار تند استاد هاروارد درمورد تاثیر تاریک هوش مصنوعی",
+      "url": "https://www.zoomit.ir/human-science/465957-jill-lepore-ai-democracy-warning/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-08-26T10:05:00.000Z",
+      "summary": "جیل لپور، مورخ دانشگاه هاروارد، در کتاب جدید خود هشدار داده است که نخبگان فناوری در حال شکل‌دهی به دولت مصنوعی هستند."
+    },
+    {
+      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+      "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+      "source": "OpenAI",
+      "lang": "en",
+      "published": "2026-08-26T10:00:00.000Z",
+      "summary": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff."
+    },
+    {
+      "title": "Learning never stops: How AI makes learning continuous",
+      "url": "https://openai.com/index/learning-never-stops",
+      "source": "OpenAI",
+      "lang": "en",
+      "published": "2026-08-26T10:00:00.000Z",
+      "summary": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom."
+    },
+    {
+      "title": "Raised on AI",
+      "url": "https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/",
+      "source": "MIT Technology Review",
+      "lang": "en",
+      "published": "2026-08-26T09:00:00.000Z",
+      "summary": "When my oldest child was born, I immediately set up Gmail and Twitter accounts in her name. I broadly announced her birth online and proceeded to plaster her photo across all sorts of platforms. In short, I began creatin"
     }
   ]
 }
