@@ -1,13 +1,45 @@
 {
-  "updated_at": "2026-08-26T19:29:55.459Z",
+  "updated_at": "2026-08-27T05:35:15.261Z",
   "items": [
     {
-      "title": "OpenAI releases its official report on the Hugging Face breach",
-      "url": "https://techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach/",
+      "title": "علی‌بابا برای نمایش قدرت هوش مصنوعی Qwen 3.8-Flash-Next آماده می‌شود",
+      "url": "https://www.zoomit.ir/ai-articles/465979-alibaba-qwen-preview-next-architecture/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-08-27T04:15:00.000Z",
+      "summary": "علی‌بابا با هوش مصنوعی Qwen 3.8-Flash-Next، پیش‌نمایشی از معماری نسل بعدی مدل‌های هوش مصنوعی خود را به‌نمایش خواهد گذاشت."
+    },
+    {
+      "title": "Viral AI startup Instinct has raised $350 million at a $2.5 billion valuation",
+      "url": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/",
       "source": "TechCrunch AI",
       "lang": "en",
-      "published": "2026-08-26T19:05:22.000Z",
-      "summary": "The report, which spans several discrete cybersecurity compromises, is the most complete accounting of the incident to date."
+      "published": "2026-08-27T00:24:57.000Z",
+      "summary": "The startup is only a year old but it has already generated a massive amount of hype (and money) while also spurring privacy concerns."
+    },
+    {
+      "title": "Amazon just tripled its order of Nvidia chips over ‘surging demand’",
+      "url": "https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-08-26T23:47:18.000Z",
+      "summary": "Amazon is adding another 2 million Nvidia GPU chips to its data centers over the next two years. But this extended partnerships stretches beyond buying more chips."
+    },
+    {
+      "title": "Anthropic continues compute-gobbling streak in $45B deal with Nscale",
+      "url": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-08-26T21:37:39.000Z",
+      "summary": "The new deal with the infrastructure provider is the latest example of Anthropic's white-hot compute-gobbling streak."
+    },
+    {
+      "title": "کولرگازی ایستاده جدید شیائومی از هوش مصنوعی برای کاهش مصرف انرژی استفاده می‌کند",
+      "url": "https://www.zoomit.ir/appliances/465974-xiaomi-mijia-5hp-floor-air-conditioner/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-08-26T20:00:00.000Z",
+      "summary": "شیائومی کولر گازی ایستاده ۵ اسب‌بخاری میجیا را با توان خنک‌سازی سریع ۳۰ ثانیه‌ای برای فضاهای بزرگ روانه‌ی بازار چین کرد."
     },
     {
       "title": "The inside story on why OpenAI agents hacked Hugging Face",
@@ -26,30 +58,6 @@
       "summary": "Now you can get more intelligent speech-to-text transcription with Gemini 3.5 Transcribe."
     },
     {
-      "title": "Radar makes podcasts searchable — and usable by AI agents",
-      "url": "https://techcrunch.com/2026/08/26/radar-makes-podcasts-searchable-and-usable-by-ai-agents/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-08-26T15:47:28.000Z",
-      "summary": "Particle’s new podcast intelligence platform transcribes and analyzes more than 130,000 podcasts, making their conversations searchable on the web and accessible to AI agents through an API and MCP."
-    },
-    {
-      "title": "سفارش ۷ ساعت اختصاصی برای مدیران OpenAI؛ تصمیم سم آلتمن سوژه طنز به سبک ارباب حلقه‌ها شد",
-      "url": "https://digiato.com/business/sam-altman-watch-memed-in-style-of-lord-of-the-rings",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-08-26T15:30:00.000Z",
-      "summary": "انتشار خبر ساخت ۷ ساعت سفارشی توسط «سم آلتمن»، مدیرعامل OpenAI، باعث شد کاربران او را با «سائورون» در داستان «ارباب حلقه‌ها» مقایسه کنند. The post سفارش ۷ ساعت اختصاصی برای مدیران OpenAI؛ تصمیم سم آلتمن سوژه طنز به سبک ا"
-    },
-    {
-      "title": "Ex-Meta scientists want to bring visual AI to the factory floor",
-      "url": "https://techcrunch.com/2026/08/26/ex-meta-scientists-want-to-bring-visual-ai-to-the-factory-floor/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-08-26T15:00:00.000Z",
-      "summary": "Perceptron offers an AI model that it says can help machines navigate the world while also providing in-depth visual intelligence."
-    },
-    {
       "title": "Orchestration is the new challenge for CX in the age of AI agents",
       "url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
       "source": "VentureBeat AI",
@@ -64,14 +72,6 @@
       "lang": "fa",
       "published": "2026-08-26T11:32:06.000Z",
       "summary": "بیل گیتس با انتشار مقاله‌ای مفصل درباره‌ی خطرات هوش مصنوعی هشدار داد و خواستار وضع مالیات بر ربات‌ها شد."
-    },
-    {
-      "title": "قطعه‌قطعه‌کردن جامعه؛ هشدار تند استاد هاروارد درمورد تاثیر تاریک هوش مصنوعی",
-      "url": "https://www.zoomit.ir/human-science/465957-jill-lepore-ai-democracy-warning/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-08-26T10:05:00.000Z",
-      "summary": "جیل لپور، مورخ دانشگاه هاروارد، در کتاب جدید خود هشدار داده است که نخبگان فناوری در حال شکل‌دهی به دولت مصنوعی هستند."
     },
     {
       "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
