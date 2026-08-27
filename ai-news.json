@@ -1,101 +1,101 @@
 {
-  "updated_at": "2026-08-27T05:35:15.261Z",
+  "updated_at": "2026-08-27T17:01:40.170Z",
   "items": [
     {
-      "title": "علی‌بابا برای نمایش قدرت هوش مصنوعی Qwen 3.8-Flash-Next آماده می‌شود",
-      "url": "https://www.zoomit.ir/ai-articles/465979-alibaba-qwen-preview-next-architecture/",
+      "title": "انویدیا: هوش مصنوعی انسان‌گونه را خلق کردیم؛‌ اما این دستاورد برای‌مان بی‌معنی است",
+      "url": "https://www.zoomit.ir/ai-articles/466084-jensen-huang-nvidia-achieved-agi/",
       "source": "زومیت",
       "lang": "fa",
-      "published": "2026-08-27T04:15:00.000Z",
-      "summary": "علی‌بابا با هوش مصنوعی Qwen 3.8-Flash-Next، پیش‌نمایشی از معماری نسل بعدی مدل‌های هوش مصنوعی خود را به‌نمایش خواهد گذاشت."
+      "published": "2026-08-27T16:32:43.000Z",
+      "summary": "مدیرعامل انویدیا اعلام کرد شرکتش در بسیاری از حوزه‌ها به هوش مصنوعی انسان‌گونه دست یافته است؛ اما چنین دستاوردهایی را بی‌معنی خواند."
     },
     {
-      "title": "Viral AI startup Instinct has raised $350 million at a $2.5 billion valuation",
-      "url": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-08-27T00:24:57.000Z",
-      "summary": "The startup is only a year old but it has already generated a massive amount of hype (and money) while also spurring privacy concerns."
-    },
-    {
-      "title": "Amazon just tripled its order of Nvidia chips over ‘surging demand’",
-      "url": "https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-08-26T23:47:18.000Z",
-      "summary": "Amazon is adding another 2 million Nvidia GPU chips to its data centers over the next two years. But this extended partnerships stretches beyond buying more chips."
-    },
-    {
-      "title": "Anthropic continues compute-gobbling streak in $45B deal with Nscale",
-      "url": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-08-26T21:37:39.000Z",
-      "summary": "The new deal with the infrastructure provider is the latest example of Anthropic's white-hot compute-gobbling streak."
-    },
-    {
-      "title": "کولرگازی ایستاده جدید شیائومی از هوش مصنوعی برای کاهش مصرف انرژی استفاده می‌کند",
-      "url": "https://www.zoomit.ir/appliances/465974-xiaomi-mijia-5hp-floor-air-conditioner/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-08-26T20:00:00.000Z",
-      "summary": "شیائومی کولر گازی ایستاده ۵ اسب‌بخاری میجیا را با توان خنک‌سازی سریع ۳۰ ثانیه‌ای برای فضاهای بزرگ روانه‌ی بازار چین کرد."
-    },
-    {
-      "title": "The inside story on why OpenAI agents hacked Hugging Face",
-      "url": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
-      "source": "MIT Technology Review",
-      "lang": "en",
-      "published": "2026-08-26T19:00:00.000Z",
-      "summary": "The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical report released today. The hack, which a gro"
-    },
-    {
-      "title": "Intelligent transcription with Gemini 3.5 Transcribe",
-      "url": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/",
+      "title": "Gemini Omni 1.1 Flash lets you build with more control",
+      "url": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
       "source": "Google DeepMind",
       "lang": "en",
-      "published": "2026-08-26T17:01:00.000Z",
-      "summary": "Now you can get more intelligent speech-to-text transcription with Gemini 3.5 Transcribe."
+      "published": "2026-08-27T16:11:32.000Z",
+      "summary": ""
+    },
+    {
+      "title": "Google’s AI Mode can now track flight prices, help book hotels, and more",
+      "url": "https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-08-27T16:00:00.000Z",
+      "summary": "The updates indicate that Google is looking position to AI Mode as an AI travel agent of sorts, as it's moving beyond simply helping users find information to actually handling parts of the trip-planning and booking proc"
+    },
+    {
+      "title": "Hugging Face is selling a cute $399 open source duck robot, Microduck",
+      "url": "https://techcrunch.com/2026/08/27/hugging-face-is-selling-a-cute-399-open-source-duck-robot-microduck/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-08-27T14:56:52.000Z",
+      "summary": "Hugging Face is taking orders for the Microduck, a $399 tiny open source duck robot that developers can train at home out of the box."
     },
     {
       "title": "Orchestration is the new challenge for CX in the age of AI agents",
       "url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
       "source": "VentureBeat AI",
       "lang": "en",
-      "published": "2026-08-26T14:30:00.000Z",
+      "published": "2026-08-27T14:30:00.000Z",
       "summary": "Presented by Tata Communications Enterprises are deploying AI agents, voice AI, and automation across messaging, voice, and digital channels faster than the architecture meant to support it. Most of that deployment has i"
     },
     {
-      "title": "بیل گیتس عمیقا درباره هوش مصنوعی نگران است",
-      "url": "https://www.zoomit.ir/ai-articles/465995-bill-gates-ai-essay-warning/",
+      "title": "AI’s memory crunch is coming for Android apps",
+      "url": "https://techcrunch.com/2026/08/27/ais-memory-crunch-is-coming-for-android-apps/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-08-27T14:27:04.000Z",
+      "summary": "Google is setting new memory-use limits for Android apps as AI data centers contribute to hardware shortages that could leave lower-cost phones with less memory."
+    },
+    {
+      "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
+      "url": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
+      "source": "VentureBeat AI",
+      "lang": "en",
+      "published": "2026-08-27T14:01:00.000Z",
+      "summary": "Presented by Gravitee Agent complexity is the insidious shadow lurking inside enterprises right now that needs a light shone on it. That’s because enterprises don't deploy a single agent and watch it run, they deploy fle"
+    },
+    {
+      "title": "ایلان ماسک: اگر هوش مصنوعی ما به حساب بانکی‌تان آسیب زد، خسارت‌تان را پرداخت می‌کنیم",
+      "url": "https://www.zoomit.ir/ai-articles/466080-musk-guarantees-grok-banking-losses/",
       "source": "زومیت",
       "lang": "fa",
-      "published": "2026-08-26T11:32:06.000Z",
-      "summary": "بیل گیتس با انتشار مقاله‌ای مفصل درباره‌ی خطرات هوش مصنوعی هشدار داد و خواستار وضع مالیات بر ربات‌ها شد."
+      "published": "2026-08-27T13:36:49.000Z",
+      "summary": "ایلان ماسک وعده داد خسارت مالی ناشی از خطای بات هوش مصنوعی گراک در مدیریت حساب بانکی کاربران را جبران کند."
     },
     {
-      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
-      "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
-      "source": "OpenAI",
-      "lang": "en",
-      "published": "2026-08-26T10:00:00.000Z",
-      "summary": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff."
+      "title": "هکرهای روس با فریب هوش مصنوعی «کرسر» به هفت شرکت حمله کردند",
+      "url": "https://www.zoomit.ir/ai-articles/466076-hackers-use-cursor-ai-tool/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-08-27T13:07:33.000Z",
+      "summary": "هکرهای روس‌زبان با دور زدن محدودیت‌های دستیار هوش مصنوعی Cursor، به شبکه‌ی داخلی هفت شرکت نفوذ کردند."
     },
     {
-      "title": "Learning never stops: How AI makes learning continuous",
-      "url": "https://openai.com/index/learning-never-stops",
-      "source": "OpenAI",
+      "title": "Piloting the world's first double-blind AI evaluations",
+      "url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/",
+      "source": "Google DeepMind",
       "lang": "en",
-      "published": "2026-08-26T10:00:00.000Z",
-      "summary": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom."
+      "published": "2026-08-27T12:59:16.000Z",
+      "summary": "Piloting the world's first double-blind AI evaluations"
     },
     {
-      "title": "Raised on AI",
-      "url": "https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/",
-      "source": "MIT Technology Review",
+      "title": "نخستین جراحی مغز با کمک دستیار هوش مصنوعی با موفقیت انجام شد",
+      "url": "https://digiato.com/artificial-intelligence/first-brain-tumor-surgery-with-real-time-ai-assistance-saves-patients-vision",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-08-27T12:30:13.000Z",
+      "summary": "برای نخستین‌بار، جراحان بریتانیایی با کمک هوش مصنوعی تومور مغزی یک بیمار را برداشتند و توانستند بینایی او را حفظ کنند. The post نخستین جراحی مغز با کمک دستیار هوش مصنوعی با موفقیت انجام شد appeared first on دیجیاتو."
+    },
+    {
+      "title": "When agents act on their own, governance has to live in the data layer",
+      "url": "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer",
+      "source": "VentureBeat AI",
       "lang": "en",
-      "published": "2026-08-26T09:00:00.000Z",
-      "summary": "When my oldest child was born, I immediately set up Gmail and Twitter accounts in her name. I broadly announced her birth online and proceeded to plaster her photo across all sorts of platforms. In short, I began creatin"
+      "published": "2026-08-27T12:01:00.000Z",
+      "summary": "Presented by EDB As enterprises give AI agents more autonomy — the ability to plan, decide, and act across systems without a human approving each step — a hard question moves to the center of every architecture review: W"
     }
   ]
 }
