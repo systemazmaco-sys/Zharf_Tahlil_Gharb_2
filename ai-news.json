@@ -1,13 +1,53 @@
 {
-  "updated_at": "2026-08-27T17:01:40.170Z",
+  "updated_at": "2026-08-28T01:52:09.831Z",
   "items": [
     {
-      "title": "انویدیا: هوش مصنوعی انسان‌گونه را خلق کردیم؛‌ اما این دستاورد برای‌مان بی‌معنی است",
-      "url": "https://www.zoomit.ir/ai-articles/466084-jensen-huang-nvidia-achieved-agi/",
+      "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-08-27T23:16:45.000Z",
+      "summary": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups."
+    },
+    {
+      "title": "کشف آسیب‌پذیری امنیتی در سامانه فرمان‌دهی فضاپیماهای ناسا با کمک هوش مصنوعی",
+      "url": "https://www.zoomit.ir/space/466081-nasa-spacecraft-ai-security-flaw/",
       "source": "زومیت",
       "lang": "fa",
-      "published": "2026-08-27T16:32:43.000Z",
-      "summary": "مدیرعامل انویدیا اعلام کرد شرکتش در بسیاری از حوزه‌ها به هوش مصنوعی انسان‌گونه دست یافته است؛ اما چنین دستاوردهایی را بی‌معنی خواند."
+      "published": "2026-08-27T20:29:00.000Z",
+      "summary": "پژوهشگران با کمک هوش مصنوعی، نقصی در رابط فرمان‌دهی ناسا پیدا کردند که می‌توانست برای صدور فرمان به فضاپیماها مورد سوءاستفاده‌ی هکرها قرار بگیرد."
+    },
+    {
+      "title": "Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google",
+      "url": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-08-27T19:52:52.000Z",
+      "summary": "Zoph, who co-founded Thinking Machines Lab alongside Mira Murati and also served as the startup's CTO, led a brief stint at OpenAI and is now at Google."
+    },
+    {
+      "title": "پایان جست‌وجوی سنتی؛ کتاب‌ها به هوش مصنوعی گوگل می‌آیند",
+      "url": "https://www.zoomit.ir/ai-articles/466090-google-gemini-notebook-books/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-08-27T19:47:58.000Z",
+      "summary": "گوگل قابلیت تازه‌ای به اپ یادداشت‌برداری هوش مصنوعی خود افزود که امکان تعامل مستقیم با کتاب‌های خریداری‌شده را فراهم می‌کند."
+    },
+    {
+      "title": "گوگل از هوش مصنوعی «آمنی ۱٫۱ فلش» برای تولید ویدیوهای حرفه‌ای رونمایی کرد",
+      "url": "https://www.zoomit.ir/ai-articles/466088-google-gemini-omni-1-1-flash-video-controls/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-08-27T19:16:55.000Z",
+      "summary": "گوگل رسما از هوش مصنوعی Gemini Omni 1.1 Flash با مجموعه‌ای از ابزارهای حرفه‌ای پرده‌برداری کرد."
+    },
+    {
+      "title": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
+      "url": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-08-27T17:43:24.000Z",
+      "summary": "Some of the world's largest tech companies and AI startups have come together to decry the current state of cybersecurity and to advertise a new solution that they say can ward off a new generation of cyber threats."
     },
     {
       "title": "Gemini Omni 1.1 Flash lets you build with more control",
@@ -18,60 +58,12 @@
       "summary": ""
     },
     {
-      "title": "Google’s AI Mode can now track flight prices, help book hotels, and more",
-      "url": "https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-08-27T16:00:00.000Z",
-      "summary": "The updates indicate that Google is looking position to AI Mode as an AI travel agent of sorts, as it's moving beyond simply helping users find information to actually handling parts of the trip-planning and booking proc"
-    },
-    {
-      "title": "Hugging Face is selling a cute $399 open source duck robot, Microduck",
-      "url": "https://techcrunch.com/2026/08/27/hugging-face-is-selling-a-cute-399-open-source-duck-robot-microduck/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-08-27T14:56:52.000Z",
-      "summary": "Hugging Face is taking orders for the Microduck, a $399 tiny open source duck robot that developers can train at home out of the box."
-    },
-    {
-      "title": "Orchestration is the new challenge for CX in the age of AI agents",
-      "url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
-      "source": "VentureBeat AI",
-      "lang": "en",
-      "published": "2026-08-27T14:30:00.000Z",
-      "summary": "Presented by Tata Communications Enterprises are deploying AI agents, voice AI, and automation across messaging, voice, and digital channels faster than the architecture meant to support it. Most of that deployment has i"
-    },
-    {
-      "title": "AI’s memory crunch is coming for Android apps",
-      "url": "https://techcrunch.com/2026/08/27/ais-memory-crunch-is-coming-for-android-apps/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-08-27T14:27:04.000Z",
-      "summary": "Google is setting new memory-use limits for Android apps as AI data centers contribute to hardware shortages that could leave lower-cost phones with less memory."
-    },
-    {
       "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
       "url": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
       "source": "VentureBeat AI",
       "lang": "en",
       "published": "2026-08-27T14:01:00.000Z",
       "summary": "Presented by Gravitee Agent complexity is the insidious shadow lurking inside enterprises right now that needs a light shone on it. That’s because enterprises don't deploy a single agent and watch it run, they deploy fle"
-    },
-    {
-      "title": "ایلان ماسک: اگر هوش مصنوعی ما به حساب بانکی‌تان آسیب زد، خسارت‌تان را پرداخت می‌کنیم",
-      "url": "https://www.zoomit.ir/ai-articles/466080-musk-guarantees-grok-banking-losses/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-08-27T13:36:49.000Z",
-      "summary": "ایلان ماسک وعده داد خسارت مالی ناشی از خطای بات هوش مصنوعی گراک در مدیریت حساب بانکی کاربران را جبران کند."
-    },
-    {
-      "title": "هکرهای روس با فریب هوش مصنوعی «کرسر» به هفت شرکت حمله کردند",
-      "url": "https://www.zoomit.ir/ai-articles/466076-hackers-use-cursor-ai-tool/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-08-27T13:07:33.000Z",
-      "summary": "هکرهای روس‌زبان با دور زدن محدودیت‌های دستیار هوش مصنوعی Cursor، به شبکه‌ی داخلی هفت شرکت نفوذ کردند."
     },
     {
       "title": "Piloting the world's first double-blind AI evaluations",
@@ -82,20 +74,28 @@
       "summary": "Piloting the world's first double-blind AI evaluations"
     },
     {
-      "title": "نخستین جراحی مغز با کمک دستیار هوش مصنوعی با موفقیت انجام شد",
-      "url": "https://digiato.com/artificial-intelligence/first-brain-tumor-surgery-with-real-time-ai-assistance-saves-patients-vision",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-08-27T12:30:13.000Z",
-      "summary": "برای نخستین‌بار، جراحان بریتانیایی با کمک هوش مصنوعی تومور مغزی یک بیمار را برداشتند و توانستند بینایی او را حفظ کنند. The post نخستین جراحی مغز با کمک دستیار هوش مصنوعی با موفقیت انجام شد appeared first on دیجیاتو."
-    },
-    {
       "title": "When agents act on their own, governance has to live in the data layer",
       "url": "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer",
       "source": "VentureBeat AI",
       "lang": "en",
       "published": "2026-08-27T12:01:00.000Z",
       "summary": "Presented by EDB As enterprises give AI agents more autonomy — the ability to plan, decide, and act across systems without a human approving each step — a hard question moves to the center of every architecture review: W"
+    },
+    {
+      "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
+      "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
+      "source": "OpenAI",
+      "lang": "en",
+      "published": "2026-08-27T09:00:00.000Z",
+      "summary": "A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment."
+    },
+    {
+      "title": "Expanding OpenAI’s presence in Brazil",
+      "url": "https://openai.com/index/expanding-our-presence-in-brazil",
+      "source": "OpenAI",
+      "lang": "en",
+      "published": "2026-08-27T03:00:00.000Z",
+      "summary": "OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country."
     }
   ]
 }
