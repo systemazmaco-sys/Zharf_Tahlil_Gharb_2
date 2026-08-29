@@ -1,53 +1,77 @@
 {
-  "updated_at": "2026-08-29T11:55:06.729Z",
+  "updated_at": "2026-08-29T20:07:03.764Z",
   "items": [
     {
-      "title": "حالت هوش مصنوعی گوگل حالا پروازها را رهگیری می‌کند",
-      "url": "https://www.zoomit.ir/ai-articles/466117-google-ai-flight-hotel-booking/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-08-29T11:00:00.000Z",
-      "summary": "گوگل قابلیت رهگیری قیمت پرواز و رزرو کامل هتل را به‌طور مستقیم به حالت هوش مصنوعی موتور جست‌وجوی خود اضافه کرد."
-    },
-    {
-      "title": "گوشی جدید آنر یک دکمه اختصاصی برای هوش مصنوعی دارد",
-      "url": "https://www.zoomit.ir/mobile/466112-honor-600s-5g-launched-specs/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-08-29T09:40:00.000Z",
-      "summary": "آنر گوشی هوشمند 600S 5G را با باتری غول‌پیکر ۸۱۰۰ میلی‌آمپرساعتی و بدنه‌ی فوق مقاوم به‌طور رسمی معرفی کرد."
-    },
-    {
-      "title": "موتور جست‌وجو گوگل؛ حالت هوش مصنوعی بیش‌از‌پیش جای پیوندهای سنتی را می‌گیرد",
-      "url": "https://www.zoomit.ir/ai-articles/466139-google-search-ai-priority-shift/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-08-29T08:30:00.000Z",
-      "summary": "گوگل با بازطراحی ساختار موتور جست‌وجوی خود، بخش هوش مصنوعی (AI Mode) را در کانون توجه کاربران قرار می‌دهد."
-    },
-    {
-      "title": "Neocloud Lambda secures $1B in debt to buy more chips",
-      "url": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
+      "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
+      "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
       "source": "TechCrunch AI",
       "lang": "en",
-      "published": "2026-08-28T20:24:11.000Z",
-      "summary": "Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high cost of the AI boom."
+      "published": "2026-08-29T18:41:59.000Z",
+      "summary": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy."
     },
     {
-      "title": "An Anthropic researcher just gave us a peek at self-improving AI",
-      "url": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-08-28T19:30:38.000Z",
-      "summary": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance."
+      "title": "نخستین جراحی مغز با پشتیبانی آنی هوش مصنوعی با موفقیت انجام شد",
+      "url": "https://www.zoomit.ir/health-medical/465952-first-live-ai-brain-surgery-vision/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-08-29T17:40:00.000Z",
+      "summary": "مرد ۴۸ ساله‌ی بریتانیایی، نخستین بیمار در جهان است که جراحان هنگام جراحی مغز با کمک هوش مصنوعی به‌صورت زنده، توانستند بینایی او را حفظ کنند."
     },
     {
-      "title": "Open-weight AI companies are the Valley’s hottest acquisition targets",
-      "url": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
+      "title": "“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
+      "url": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
       "source": "TechCrunch AI",
       "lang": "en",
-      "published": "2026-08-28T18:19:40.000Z",
-      "summary": "There's a lot of capital pouring into the business of giving models away."
+      "published": "2026-08-29T17:36:47.000Z",
+      "summary": "Vijay Pande — who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC — talks about why biology is finally shifting from a \"discovery\" science to an \"engineering\" one, why "
+    },
+    {
+      "title": "غول کره‌ای صنعت سخت‌افزار، خط تولید تراشه‌های هوش مصنوعی را به آمریکا می‌برد",
+      "url": "https://www.zoomit.ir/business/466119-sk-hynix-hbm4e-production-indiana/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-08-29T15:50:00.000Z",
+      "summary": "اس‌کی هاینیکس تولید انبوه نسل بعدی حافظه‌های هوش مصنوعی HBM4E را در کارخانه ۴ میلیارد دلاری خود در آمریکا کلید می‌زند."
+    },
+    {
+      "title": "شبکه اجتماعی ایکس: بات‌های چینی درحال تشدید هراس از دیتاسنترهای هوش مصنوعی در آمریکا هستند",
+      "url": "https://digiato.com/artificial-intelligence/chinese-bot-accounts-tried-to-fuel-us-opposition-to-ai-data-centers",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-08-29T15:32:07.000Z",
+      "summary": "ایکس یک شبکه بات چینی را شناسایی کرده که با انتشار محتوای ضد مراکز داده هوش مصنوعی، تلاش می‌کرد افکار عمومی را تحت‌تأثیر قرار دهد. The post شبکه اجتماعی ایکس: بات‌های چینی درحال تشدید هراس از دیتاسنترهای هوش مصنوعی در آم"
+    },
+    {
+      "title": "مقاله آنتروپیک نشان داد: به هوش مصنوعی خودآموز نزدیک شده‌ایم",
+      "url": "https://digiato.com/artificial-intelligence/anthropic-researcher-about-recursive-self-improvement-ai",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-08-29T15:30:00.000Z",
+      "summary": "پژوهش آنتروپیک گامی به‌سوی «خودبهبوددهی بازگشتی» است؛ مفهومی که بسیاری آن را گام مهم بعدی در پیشرفت هوش مصنوعی می‌دانند. The post مقاله آنتروپیک نشان داد: به هوش مصنوعی خودآموز نزدیک شده‌ایم appeared first on دیجیاتو."
+    },
+    {
+      "title": "بچه‌ها چه حسی نسبت به هوش مصنوعی دارند؟ حرف‌های غیرمنتظره ۷ نوجوان",
+      "url": "https://www.zoomit.ir/ai-articles/465992-kids-feel-ai-own-words-featured/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-08-29T14:00:00.000Z",
+      "summary": "آینده‌ای همراه با هوش مصنوعی برای نوجوانان امروز نویدبخش است یا ترسناک؟ محققان برای رسیدن به جواب مستقیماً به سراغ خود بچه‌ها رفتند."
+    },
+    {
+      "title": "Openai Escalates Feud With Musk, Plans to Cut AI Models From Spacex-Owned Cursor",
+      "url": "https://news.google.com/rss/articles/CBMipANBVV95cUxQRHJiV0doNTRhUW93VmNidEN5eDJlVy1BU2FVZ1V0dUF3NGkzZ25zeF9UVmRnZmdxbjZfc0hxdHh3NjR3V2RTRm9SYlRqMUV5ZlhPZ2h1dGdMUG1lR1VfZFctZHpJLXJxTFN3Tk90Y2ZpU2tpZ1dGV3ZxakpXTzhqSVVhel9VX3paUXNOZ1ZqMjFxak1FV25GbTYwS1VyQXc4UVBhRGJBNXZSd2pvaXBOWDVZTy1vNHZVVjJScWZLT0Q1SXVQcE1OOVRaRjdvN1Iya2w5eXlvbWQ5VDJZRHBNaXhzTmdIT2ZtZ1RleG9VQU42bWhhNUJQdksyc2w0dDN0b2VxSkc4RjZYNE9iUTFQcXdnZFFLSjB1OHQxbFhnSlp5MXRtblIzYmp0aVkzN3FjcV9CZkxSNXVJdEIyUjZQbzJxblhLQjVZR0pMRHAtR3JtSnRYSktNdHlZRjZneXRFLXYyQUs3V3NhVHFWREpYcVpDclJnYy1vZDVlM1lGSnhYNnJXOTlMamkxWGZ1Y1NiNm9nczlTMWcyMlNDY25IUnZ0WW4?oc=5",
+      "source": "خبرپو",
+      "lang": "fa",
+      "published": "2026-08-29T13:11:00.000Z",
+      "summary": "Openai Escalates Feud With Musk, Plans to Cut AI Models From Spacex-Owned Cursor خبرپو"
+    },
+    {
+      "title": "Nvidia’s AI advantage is moving beyond the GPU",
+      "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-08-29T13:00:00.000Z",
+      "summary": "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles."
     },
     {
       "title": "Our decision on Cursor following its acquisition by SpaceX",
@@ -72,30 +96,6 @@
       "lang": "en",
       "published": "2026-08-27T16:11:32.000Z",
       "summary": ""
-    },
-    {
-      "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
-      "url": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
-      "source": "VentureBeat AI",
-      "lang": "en",
-      "published": "2026-08-27T14:01:00.000Z",
-      "summary": "Presented by Gravitee Agent complexity is the insidious shadow lurking inside enterprises right now that needs a light shone on it. That’s because enterprises don't deploy a single agent and watch it run, they deploy fle"
-    },
-    {
-      "title": "Piloting the world's first double-blind AI evaluations",
-      "url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/",
-      "source": "Google DeepMind",
-      "lang": "en",
-      "published": "2026-08-27T12:59:16.000Z",
-      "summary": "Piloting the world's first double-blind AI evaluations"
-    },
-    {
-      "title": "When agents act on their own, governance has to live in the data layer",
-      "url": "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer",
-      "source": "VentureBeat AI",
-      "lang": "en",
-      "published": "2026-08-27T12:01:00.000Z",
-      "summary": "Presented by EDB As enterprises give AI agents more autonomy — the ability to plan, decide, and act across systems without a human approving each step — a hard question moves to the center of every architecture review: W"
     }
   ]
 }
