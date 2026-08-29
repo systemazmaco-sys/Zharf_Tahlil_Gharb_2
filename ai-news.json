@@ -1,13 +1,29 @@
 {
-  "updated_at": "2026-08-29T01:16:30.842Z",
+  "updated_at": "2026-08-29T11:55:06.729Z",
   "items": [
     {
-      "title": "فراخوان بیل گیتس برای حفاظت از مشاغل انسانی در برابر هوش مصنوعی",
-      "url": "https://www.zoomit.ir/ai-articles/466087-bill-gates-human-sanctuary-ai-featured/",
+      "title": "حالت هوش مصنوعی گوگل حالا پروازها را رهگیری می‌کند",
+      "url": "https://www.zoomit.ir/ai-articles/466117-google-ai-flight-hotel-booking/",
       "source": "زومیت",
       "lang": "fa",
-      "published": "2026-08-28T20:30:00.000Z",
-      "summary": "بیل گیتس با پیشنهاد ایجاد مناطق حفاظت‌شده انسانی و دریافت مالیات از هوش مصنوعی، خواستار توقف واگذاری کامل مشاغل به ربات‌ها شد."
+      "published": "2026-08-29T11:00:00.000Z",
+      "summary": "گوگل قابلیت رهگیری قیمت پرواز و رزرو کامل هتل را به‌طور مستقیم به حالت هوش مصنوعی موتور جست‌وجوی خود اضافه کرد."
+    },
+    {
+      "title": "گوشی جدید آنر یک دکمه اختصاصی برای هوش مصنوعی دارد",
+      "url": "https://www.zoomit.ir/mobile/466112-honor-600s-5g-launched-specs/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-08-29T09:40:00.000Z",
+      "summary": "آنر گوشی هوشمند 600S 5G را با باتری غول‌پیکر ۸۱۰۰ میلی‌آمپرساعتی و بدنه‌ی فوق مقاوم به‌طور رسمی معرفی کرد."
+    },
+    {
+      "title": "موتور جست‌وجو گوگل؛ حالت هوش مصنوعی بیش‌از‌پیش جای پیوندهای سنتی را می‌گیرد",
+      "url": "https://www.zoomit.ir/ai-articles/466139-google-search-ai-priority-shift/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-08-29T08:30:00.000Z",
+      "summary": "گوگل با بازطراحی ساختار موتور جست‌وجوی خود، بخش هوش مصنوعی (AI Mode) را در کانون توجه کاربران قرار می‌دهد."
     },
     {
       "title": "Neocloud Lambda secures $1B in debt to buy more chips",
@@ -34,28 +50,12 @@
       "summary": "There's a lot of capital pouring into the business of giving models away."
     },
     {
-      "title": "جایگزینی اینفلوئنسرها با هوش مصنوعی؛ ابزاری برای تغییر سرنوشت انتخابات برزیل؟",
-      "url": "https://www.zoomit.ir/ai-articles/466063-ai-influencers-brazil-election-impact/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-08-28T18:05:00.000Z",
-      "summary": "اینفلوئنسرهای سیاسی ساخته‌شده با هوش مصنوعی در آستانه انتخابات ریاست‌جمهوری برزیل، میلیون‌ها مخاطب جذب کرده‌اند و چالش‌های حقوقی تازه‌ای پدید آورده‌اند."
-    },
-    {
-      "title": "بحران سخت‌افزار در قلب اروپا؛ آلمان با کمبود شدید توان پردازشی هوش مصنوعی روبه‌رو است",
-      "url": "https://www.zoomit.ir/ai-articles/466065-germany-data-center-ai-expansion/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-08-28T17:05:00.000Z",
-      "summary": "آلمان برای پاسخ به تقاضای فزاینده‌ی هوش مصنوعی، ظرفیت پردازشی خود را تا پایان دهه چهار برابر می‌کند."
-    },
-    {
-      "title": "آنتروپیک از فناوری جدیدی برای تعامل هوش مصنوعی با تجهیزات فیزیکی رونمایی کرد",
-      "url": "https://digiato.com/artificial-intelligence/anthropic-unveils-model-hardware-standard",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-08-28T11:20:26.000Z",
-      "summary": "چارچوب Model Hardware Standard برای تعامل بین ایجنت‌های هوش مصنوعی و سخت‌افزارهای آزمایشگاهی ساخته شده است. The post آنتروپیک از فناوری جدیدی برای تعامل هوش مصنوعی با تجهیزات فیزیکی رونمایی کرد appeared first on دیجیاتو."
+      "title": "Our decision on Cursor following its acquisition by SpaceX",
+      "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+      "source": "OpenAI",
+      "lang": "en",
+      "published": "2026-08-28T06:00:00.000Z",
+      "summary": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX."
     },
     {
       "title": "Supporting Thailand’s next generation of AI startups",
