@@ -1,6 +1,46 @@
 {
-  "updated_at": "2026-08-30T02:14:05.806Z",
+  "updated_at": "2026-08-30T10:52:19.243Z",
   "items": [
+    {
+      "title": "هوش مصنوعی با تحلیل نقاشی می‌تواند پارکینسون را با دقت ۹۹ درصد تشخیص دهد",
+      "url": "https://digiato.com/interdisciplinary/ai-smart-pen-drawing-detects-parkinsons",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-08-30T12:19:03.000Z",
+      "summary": "در این پژوهش شرکت‌کنندگان شامل بیماران و افراد سالم با استفاده از قلم بیومتریک الگوهای مارپیچ و خطوط پیوسته رسم کردند. The post هوش مصنوعی با تحلیل نقاشی می‌تواند پارکینسون را با دقت ۹۹ درصد تشخیص دهد appeared first on د"
+    },
+    {
+      "title": "کلاد چقدر شما را می‌شناسد؟ ۵ پرامپت برای آزمایش حافظه جدید Claude",
+      "url": "https://www.zoomit.ir/ai-tutorials/466192-claude-memory-feature-prompts/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-08-30T09:30:00.000Z",
+      "summary": "Claude حالا می‌تواند حین گفت‌وگو از شما یاد بگیرد و اطلاعات مفید را برای دفعات بعد به خاطر بسپارد. این ۵ پرامپت حافظه‌ی کلاد را محک می‌زنند."
+    },
+    {
+      "title": "سونی و وارنر از آنتروپیک به اتهام نقض کپی‌رایت برای آموزش Claude شکایت کردند",
+      "url": "https://digiato.com/finance-investment/sony-warner-sue-anthropic-copyright-theft",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-08-30T09:12:52.000Z",
+      "summary": "پرونده‌های قبلی آنتروپیک نشان می‌دهد دریافت غیرقانونی محتوا، مرز باریک استفاده قانونی برای آموزش هوش مصنوعی است. The post سونی و وارنر از آنتروپیک به اتهام نقض کپی‌رایت برای آموزش Claude شکایت کردند appeared first on دیج"
+    },
+    {
+      "title": "چت موقت ChatGPT اکنون می‌تواند به حافظه و دستورالعمل‌های شما دسترسی پیدا کند",
+      "url": "https://digiato.com/artificial-intelligence/chatgpt-temporary-chat-personalized-memories",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-08-30T08:44:00.000Z",
+      "summary": "این ویژگی را به‌طور دلخواه با گزینه جدیدی می‌توان فعال کرد. The post چت موقت ChatGPT اکنون می‌تواند به حافظه و دستورالعمل‌های شما دسترسی پیدا کند appeared first on دیجیاتو."
+    },
+    {
+      "title": "گوگل با سرعت سرسام‌آور در حال آماده‌سازی Gemini 3.8 است",
+      "url": "https://www.zoomit.ir/ai-articles/466157-google-tests-gemini-flash-preview/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-08-30T05:15:00.000Z",
+      "summary": "گوگل ظاهرا آزمایش داخلی هوش مصنوعی جدید Gemini 3.8 Flash را کلید زده است."
+    },
     {
       "title": "شکایت میلیارد دلاری ناشران موسیقی از آنتروپیک؛ پای تورنت به هوش مصنوعی باز شد؟",
       "url": "https://www.zoomit.ir/ai-articles/466199-sony-warner-sue-anthropic/",
@@ -18,14 +58,6 @@
       "summary": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy."
     },
     {
-      "title": "نخستین جراحی مغز با پشتیبانی آنی هوش مصنوعی با موفقیت انجام شد",
-      "url": "https://www.zoomit.ir/health-medical/465952-first-live-ai-brain-surgery-vision/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-08-29T17:40:00.000Z",
-      "summary": "مرد ۴۸ ساله‌ی بریتانیایی، نخستین بیمار در جهان است که جراحان هنگام جراحی مغز با کمک هوش مصنوعی به‌صورت زنده، توانستند بینایی او را حفظ کنند."
-    },
-    {
       "title": "“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
       "url": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
       "source": "TechCrunch AI",
@@ -34,28 +66,12 @@
       "summary": "Vijay Pande — who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC — talks about why biology is finally shifting from a \"discovery\" science to an \"engineering\" one, why "
     },
     {
-      "title": "غول کره‌ای صنعت سخت‌افزار، خط تولید تراشه‌های هوش مصنوعی را به آمریکا می‌برد",
-      "url": "https://www.zoomit.ir/business/466119-sk-hynix-hbm4e-production-indiana/",
-      "source": "زومیت",
+      "title": "Openai Escalates Feud With Musk, Plans to Cut AI Models From Spacex-Owned Cursor",
+      "url": "https://news.google.com/rss/articles/CBMipANBVV95cUxQRHJiV0doNTRhUW93VmNidEN5eDJlVy1BU2FVZ1V0dUF3NGkzZ25zeF9UVmRnZmdxbjZfc0hxdHh3NjR3V2RTRm9SYlRqMUV5ZlhPZ2h1dGdMUG1lR1VfZFctZHpJLXJxTFN3Tk90Y2ZpU2tpZ1dGV3ZxakpXTzhqSVVhel9VX3paUXNOZ1ZqMjFxak1FV25GbTYwS1VyQXc4UVBhRGJBNXZSd2pvaXBOWDVZTy1vNHZVVjJScWZLT0Q1SXVQcE1OOVRaRjdvN1Iya2w5eXlvbWQ5VDJZRHBNaXhzTmdIT2ZtZ1RleG9VQU42bWhhNUJQdksyc2w0dDN0b2VxSkc4RjZYNE9iUTFQcXdnZFFLSjB1OHQxbFhnSlp5MXRtblIzYmp0aVkzN3FjcV9CZkxSNXVJdEIyUjZQbzJxblhLQjVZR0pMRHAtR3JtSnRYSktNdHlZRjZneXRFLXYyQUs3V3NhVHFWREpYcVpDclJnYy1vZDVlM1lGSnhYNnJXOTlMamkxWGZ1Y1NiNm9nczlTMWcyMlNDY25IUnZ0WW4?oc=5",
+      "source": "خبرپو",
       "lang": "fa",
-      "published": "2026-08-29T15:50:00.000Z",
-      "summary": "اس‌کی هاینیکس تولید انبوه نسل بعدی حافظه‌های هوش مصنوعی HBM4E را در کارخانه ۴ میلیارد دلاری خود در آمریکا کلید می‌زند."
-    },
-    {
-      "title": "شبکه اجتماعی ایکس: بات‌های چینی درحال تشدید هراس از دیتاسنترهای هوش مصنوعی در آمریکا هستند",
-      "url": "https://digiato.com/artificial-intelligence/chinese-bot-accounts-tried-to-fuel-us-opposition-to-ai-data-centers",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-08-29T15:32:07.000Z",
-      "summary": "ایکس یک شبکه بات چینی را شناسایی کرده که با انتشار محتوای ضد مراکز داده هوش مصنوعی، تلاش می‌کرد افکار عمومی را تحت‌تأثیر قرار دهد. The post شبکه اجتماعی ایکس: بات‌های چینی درحال تشدید هراس از دیتاسنترهای هوش مصنوعی در آم"
-    },
-    {
-      "title": "مقاله آنتروپیک نشان داد: به هوش مصنوعی خودآموز نزدیک شده‌ایم",
-      "url": "https://digiato.com/artificial-intelligence/anthropic-researcher-about-recursive-self-improvement-ai",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-08-29T15:30:00.000Z",
-      "summary": "پژوهش آنتروپیک گامی به‌سوی «خودبهبوددهی بازگشتی» است؛ مفهومی که بسیاری آن را گام مهم بعدی در پیشرفت هوش مصنوعی می‌دانند. The post مقاله آنتروپیک نشان داد: به هوش مصنوعی خودآموز نزدیک شده‌ایم appeared first on دیجیاتو."
+      "published": "2026-08-29T13:11:00.000Z",
+      "summary": "Openai Escalates Feud With Musk, Plans to Cut AI Models From Spacex-Owned Cursor خبرپو"
     },
     {
       "title": "Nvidia’s AI advantage is moving beyond the GPU",
@@ -80,22 +96,6 @@
       "lang": "en",
       "published": "2026-08-28T02:00:00.000Z",
       "summary": "OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products."
-    },
-    {
-      "title": "Gemini Omni 1.1 Flash lets you build with more control",
-      "url": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
-      "source": "Google DeepMind",
-      "lang": "en",
-      "published": "2026-08-27T16:11:32.000Z",
-      "summary": ""
-    },
-    {
-      "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
-      "url": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
-      "source": "VentureBeat AI",
-      "lang": "en",
-      "published": "2026-08-27T14:01:00.000Z",
-      "summary": "Presented by Gravitee Agent complexity is the insidious shadow lurking inside enterprises right now that needs a light shone on it. That’s because enterprises don't deploy a single agent and watch it run, they deploy fle"
     }
   ]
 }
