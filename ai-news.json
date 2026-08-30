@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-08-29T20:07:03.764Z",
+  "updated_at": "2026-08-30T02:14:05.806Z",
   "items": [
+    {
+      "title": "شکایت میلیارد دلاری ناشران موسیقی از آنتروپیک؛ پای تورنت به هوش مصنوعی باز شد؟",
+      "url": "https://www.zoomit.ir/ai-articles/466199-sony-warner-sue-anthropic/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-08-29T20:37:26.000Z",
+      "summary": "«سونی موزیک» و «وارنر چپل» با طرح شکایتی چند میلیارد دلاری علیه آنتروپیک، این شرکت را به نقض گسترده‌ی حق نشر متهم کردند."
+    },
     {
       "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
       "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
@@ -50,22 +58,6 @@
       "summary": "پژوهش آنتروپیک گامی به‌سوی «خودبهبوددهی بازگشتی» است؛ مفهومی که بسیاری آن را گام مهم بعدی در پیشرفت هوش مصنوعی می‌دانند. The post مقاله آنتروپیک نشان داد: به هوش مصنوعی خودآموز نزدیک شده‌ایم appeared first on دیجیاتو."
     },
     {
-      "title": "بچه‌ها چه حسی نسبت به هوش مصنوعی دارند؟ حرف‌های غیرمنتظره ۷ نوجوان",
-      "url": "https://www.zoomit.ir/ai-articles/465992-kids-feel-ai-own-words-featured/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-08-29T14:00:00.000Z",
-      "summary": "آینده‌ای همراه با هوش مصنوعی برای نوجوانان امروز نویدبخش است یا ترسناک؟ محققان برای رسیدن به جواب مستقیماً به سراغ خود بچه‌ها رفتند."
-    },
-    {
-      "title": "Openai Escalates Feud With Musk, Plans to Cut AI Models From Spacex-Owned Cursor",
-      "url": "https://news.google.com/rss/articles/CBMipANBVV95cUxQRHJiV0doNTRhUW93VmNidEN5eDJlVy1BU2FVZ1V0dUF3NGkzZ25zeF9UVmRnZmdxbjZfc0hxdHh3NjR3V2RTRm9SYlRqMUV5ZlhPZ2h1dGdMUG1lR1VfZFctZHpJLXJxTFN3Tk90Y2ZpU2tpZ1dGV3ZxakpXTzhqSVVhel9VX3paUXNOZ1ZqMjFxak1FV25GbTYwS1VyQXc4UVBhRGJBNXZSd2pvaXBOWDVZTy1vNHZVVjJScWZLT0Q1SXVQcE1OOVRaRjdvN1Iya2w5eXlvbWQ5VDJZRHBNaXhzTmdIT2ZtZ1RleG9VQU42bWhhNUJQdksyc2w0dDN0b2VxSkc4RjZYNE9iUTFQcXdnZFFLSjB1OHQxbFhnSlp5MXRtblIzYmp0aVkzN3FjcV9CZkxSNXVJdEIyUjZQbzJxblhLQjVZR0pMRHAtR3JtSnRYSktNdHlZRjZneXRFLXYyQUs3V3NhVHFWREpYcVpDclJnYy1vZDVlM1lGSnhYNnJXOTlMamkxWGZ1Y1NiNm9nczlTMWcyMlNDY25IUnZ0WW4?oc=5",
-      "source": "خبرپو",
-      "lang": "fa",
-      "published": "2026-08-29T13:11:00.000Z",
-      "summary": "Openai Escalates Feud With Musk, Plans to Cut AI Models From Spacex-Owned Cursor خبرپو"
-    },
-    {
       "title": "Nvidia’s AI advantage is moving beyond the GPU",
       "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
       "source": "TechCrunch AI",
@@ -96,6 +88,14 @@
       "lang": "en",
       "published": "2026-08-27T16:11:32.000Z",
       "summary": ""
+    },
+    {
+      "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
+      "url": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
+      "source": "VentureBeat AI",
+      "lang": "en",
+      "published": "2026-08-27T14:01:00.000Z",
+      "summary": "Presented by Gravitee Agent complexity is the insidious shadow lurking inside enterprises right now that needs a light shone on it. That’s because enterprises don't deploy a single agent and watch it run, they deploy fle"
     }
   ]
 }
