@@ -1,53 +1,85 @@
 {
-  "updated_at": "2026-09-01T15:42:37.377Z",
+  "updated_at": "2026-09-01T20:16:05.084Z",
   "items": [
     {
-      "title": "Fambot introduces an ‘AI chief of staff’ for families",
-      "url": "https://techcrunch.com/2026/09/01/fambot-introduces-an-ai-chief-of-staff-for-families/",
+      "title": "Anthropic’s new Fable release is cheaper, less restrictive",
+      "url": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/",
       "source": "TechCrunch AI",
       "lang": "en",
-      "published": "2026-09-01T15:10:58.000Z",
-      "summary": "Fambot is building an AI “chief of staff” to help families manage the emails, calendars, school updates, sports schedules, and other logistics of raising kids."
+      "published": "2026-09-01T19:39:22.000Z",
+      "summary": "Fable 5.1 includes changes meant to reduce token cost and false-positive restrictions from the model's safeguards."
     },
     {
-      "title": "شکست هوش مصنوعی سنتی؛ مدل جدید Pathway با هزینه‌ای ۱۱ برابر کمتر از اوپن‌ای‌آی کار می‌کند",
-      "url": "https://www.zoomit.ir/ai-articles/466261-pathway-bdh-cq-ai-reasoning/",
+      "title": "هشدار سازمان‌های نظارتی: هوش مصنوعی، بزرگ‌ترین تهدید برای ثبات مالی جهان است",
+      "url": "https://www.zoomit.ir/ai-articles/466274-fsb-ai-cyber-risk-warning/",
       "source": "زومیت",
       "lang": "fa",
-      "published": "2026-09-01T12:15:00.000Z",
-      "summary": "پژوهشگران مدلی با ۱۵۰ میلیون پارامتر توسعه دادند که هزینه‌ی حل معماهای منطقی را نسبت‌به رقبا به‌شدت کاهش می‌دهد."
+      "published": "2026-09-01T18:40:00.000Z",
+      "summary": "هیئت ثبات مالی درباره خطرات فوری هوش مصنوعی بر امنیت سایبری و ساختار بازارهای جهانی هشدار داد."
     },
     {
-      "title": "وزارت جنگ آمریکا حالا به نسخه سفارشی هوش مصنوعی چت‌جی‌پی‌تی و گراک دسترسی دارد",
-      "url": "https://www.zoomit.ir/ai-articles/466338-pentagon-launches-chatgpt-grok-versions/",
+      "title": "ثبت ۳۰ میلیارد تصویر؛ نقش مخفی گیمرهای «پوکمون» در انقلاب رباتیک",
+      "url": "https://www.zoomit.ir/ai-articles/466250-pokemon-go-data-trains-delivery-robots/",
       "source": "زومیت",
       "lang": "fa",
-      "published": "2026-09-01T11:09:00.000Z",
-      "summary": "پنتاگون با راه‌اندازی نسخه‌های اختصاصی چت‌جی‌پی‌تی و گراک، دسترسی ۳ میلیون پرسنل نظامی و غیرنظامی خود را به هوش مصنوعی فراهم کرد."
+      "published": "2026-09-01T17:50:00.000Z",
+      "summary": "داده‌های حاصل از ۳۰ میلیارد تصویر ثبت‌شده توسط گیمرهای بازی Pokémon Go، اکنون برای هدایت ربات‌های خودمختار به کار گرفته می‌شوند."
     },
     {
-      "title": "سازنده هوش مصنوعی Devin در یک سال ۹۰۰ میلیون دلار درآمد به جیب زد؛ اما ۸۰۰ میلیون دلار آن را خرج می‌کند",
-      "url": "https://www.zoomit.ir/economics/466258-cognition-ai-arr-surges-900m/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-09-01T11:00:00.000Z",
-      "summary": "استارتاپ کاگنیشن با دستیابی به درآمد سالانه‌ی ۹۰۰ میلیون دلاری، در آستانه‌ی جذب سرمایه با ارزش‌گذاری ۴۵ میلیارد دلاری قرار گرفت."
-    },
-    {
-      "title": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
-      "url": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
+      "title": "Google’s answer to Canva is an AI tool where you prompt instead of design",
+      "url": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/",
       "source": "TechCrunch AI",
       "lang": "en",
-      "published": "2026-09-01T00:13:00.000Z",
-      "summary": "Apple says it has evidence that a former employee destroyed evidence of data theft after learning he was under investigation."
+      "published": "2026-09-01T17:35:37.000Z",
+      "summary": "With Google Pics, Google is pushing deeper into the creative software market dominated by Canva and Adobe, but with a distinctly AI-first approach."
     },
     {
-      "title": "The Pentagon now has its own version of ChatGPT and Grok",
-      "url": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
+      "title": "Introducing agentic video understanding with Gemini",
+      "url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
+      "source": "Google DeepMind",
+      "lang": "en",
+      "published": "2026-09-01T17:08:51.000Z",
+      "summary": ""
+    },
+    {
+      "title": "این هوش مصنوعی پیشرفته برای کشاورزان ساخته شده است",
+      "url": "https://www.zoomit.ir/ai-articles/466362-john-deere-ai-chatbot-farmers/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-09-01T17:07:22.000Z",
+      "summary": "شرکت جان‌دیر با چت‌بات JD سراغ داده‌های کشاورزی رفته است تا به کشاورزان برای تنظیم تجهیزات، سوخت و زمان برداشت کمک کند."
+    },
+    {
+      "title": "How AI-native companies turn workflows into operating capability",
+      "url": "https://openai.com/index/ai-native-company-workflows",
+      "source": "OpenAI",
+      "lang": "en",
+      "published": "2026-09-01T17:00:00.000Z",
+      "summary": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply."
+    },
+    {
+      "title": "ChatGPT Health adds Epic integration for clinicians to import patient data",
+      "url": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/",
       "source": "TechCrunch AI",
       "lang": "en",
-      "published": "2026-08-31T20:13:45.000Z",
-      "summary": "Versions of OpenAI's ChatGPT and SpaceXAI's Grok will join Google's Gemini on the Pentagon's central portal for AI tools."
+      "published": "2026-09-01T17:00:00.000Z",
+      "summary": "OpenAI said that the integration provides read-only access to health records for clinicians."
+    },
+    {
+      "title": "Path to Astra: critical capabilities and frontier safeguards",
+      "url": "https://openai.com/index/path-to-astra",
+      "source": "OpenAI",
+      "lang": "en",
+      "published": "2026-09-01T13:00:00.000Z",
+      "summary": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release."
+    },
+    {
+      "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
+      "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
+      "source": "OpenAI",
+      "lang": "en",
+      "published": "2026-09-01T12:00:00.000Z",
+      "summary": "ChatGPT can now connect to trusted healthcare data, helping clinicians securely access patient context, medical research, and more."
     },
     {
       "title": "The Hugging Face hack could indicate cultural issues at OpenAI",
@@ -58,44 +90,12 @@
       "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. By now you’ve probably heard about last month’s major AI security incident, in whi"
     },
     {
-      "title": "OpenAI supports California’s bill to advance youth AI safety",
-      "url": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
-      "source": "OpenAI",
-      "lang": "en",
-      "published": "2026-08-31T07:00:00.000Z",
-      "summary": "OpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore."
-    },
-    {
-      "title": "Polimill builds Japan's next-generation public AI infrastructure",
-      "url": "https://openai.com/index/polimill",
-      "source": "OpenAI",
-      "lang": "en",
-      "published": "2026-08-31T07:00:00.000Z",
-      "summary": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development."
-    },
-    {
-      "title": "A milestone in expanding access to AI",
-      "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
-      "source": "OpenAI",
-      "lang": "en",
-      "published": "2026-08-31T04:00:00.000Z",
-      "summary": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options."
-    },
-    {
       "title": "ادیت عکس با هوش مصنوعی؛ بهترین پرامپت بالا بردن کیفیت عکس و انواع تغییرات",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9xRnF2eHBHTVIyR1hwU1pLU3BNaXlkSF9nOE9pdzFHY2doa1J5QkR6ZTRRUzY2UldLUVRQZjU1QXhIY1pYaHlRWEh4RHhFQ2ZjYmE3cHpvbEk?oc=5",
       "source": "namnak.com",
       "lang": "fa",
       "published": "2026-08-30T06:29:00.000Z",
       "summary": "ادیت عکس با هوش مصنوعی؛ بهترین پرامپت بالا بردن کیفیت عکس و انواع تغییرات namnak.com"
-    },
-    {
-      "title": "Gemini Omni 1.1 Flash lets you build with more control",
-      "url": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
-      "source": "Google DeepMind",
-      "lang": "en",
-      "published": "2026-08-27T16:11:32.000Z",
-      "summary": ""
     }
   ]
 }
