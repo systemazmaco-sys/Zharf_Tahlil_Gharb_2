@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-08-31T22:09:04.883Z",
+  "updated_at": "2026-09-01T02:28:59.573Z",
   "items": [
+    {
+      "title": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
+      "url": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-09-01T00:13:00.000Z",
+      "summary": "Apple says it has evidence that a former employee destroyed evidence of data theft after learning he was under investigation."
+    },
     {
       "title": "The Pentagon now has its own version of ChatGPT and Grok",
       "url": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
@@ -18,15 +26,7 @@
       "summary": "As frustration over AI influencers has been growing, Instagram is limiting the reach of undisclosed AI profiles."
     },
     {
-      "title": "Harvard Law dropout raises $6M for Blue Voice to build a ‘Harvey for police officers’",
-      "url": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-08-31T18:35:11.000Z",
-      "summary": "Blue Voice is trained on department-specific laws, local ordinances, protocols, and guidelines that general-purpose AI tools can't access on the public internet."
-    },
-    {
-      "title": "Hugging Face hack could indicate cultural issues at OpenAI",
+      "title": "The Hugging Face hack could indicate cultural issues at OpenAI",
       "url": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
       "source": "MIT Technology Review",
       "lang": "en",
@@ -82,20 +82,20 @@
       "summary": "اسپیس‌ایکس قطعات پیچیده‌ی توربین‌های گازی را تولید می‌کند تا تامین برق دیتاسنترهای هوش مصنوعی تا ۱۸ ماه سریع‌تر شود."
     },
     {
+      "title": "Polimill builds Japan's next-generation public AI infrastructure",
+      "url": "https://openai.com/index/polimill",
+      "source": "OpenAI",
+      "lang": "en",
+      "published": "2026-08-31T07:00:00.000Z",
+      "summary": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development."
+    },
+    {
       "title": "A milestone in expanding access to AI",
       "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
       "source": "OpenAI",
       "lang": "en",
       "published": "2026-08-31T04:00:00.000Z",
       "summary": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options."
-    },
-    {
-      "title": "ادیت عکس با هوش مصنوعی؛ بهترین پرامپت بالا بردن کیفیت عکس و انواع تغییرات",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9xRnF2eHBHTVIyR1hwU1pLU3BNaXlkSF9nOE9pdzFHY2doa1J5QkR6ZTRRUzY2UldLUVRQZjU1QXhIY1pYaHlRWEh4RHhFQ2ZjYmE3cHpvbEk?oc=5",
-      "source": "namnak.com",
-      "lang": "fa",
-      "published": "2026-08-30T06:29:00.000Z",
-      "summary": "ادیت عکس با هوش مصنوعی؛ بهترین پرامپت بالا بردن کیفیت عکس و انواع تغییرات namnak.com"
     }
   ]
 }
