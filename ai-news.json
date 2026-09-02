@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-02T01:50:05.501Z",
+  "updated_at": "2026-09-02T10:07:30.820Z",
   "items": [
+    {
+      "title": "OpenAI اطلاعات بیشتری درباره توانمندی‌های شگفت‌انگیز مدل Astra منتشر کرد",
+      "url": "https://digiato.com/artificial-intelligence/openai-astra-cybersecurity-zero-day",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-09-02T11:00:25.000Z",
+      "summary": "OpenAI می‌گوید Astra توانسته دو آسیب‌پذیری روزصفر را کشف و بدون نیاز به دخالت انسان‌ها از آنها سوءاستفاده کند. The post OpenAI اطلاعات بیشتری درباره توانمندی‌های شگفت‌انگیز مدل Astra منتشر کرد appeared first on دیجیاتو."
+    },
+    {
+      "title": "در پی هک هاگینگ فیس، اوپن‌ای‌آی انتشار هوش مصنوعی پیشرفته‌اش را به تعویق انداخت",
+      "url": "https://www.zoomit.ir/ai-articles/466378-openai-delays-astra-model-development/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-09-02T04:56:13.000Z",
+      "summary": "اوپن‌ای‌آی در پی هک پلتفرم هاگینگ فیس، روند توسعه و انتشار مدل هوش مصنوعی جدید استرا را به تعویق انداخت."
+    },
     {
       "title": "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",
       "url": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
@@ -42,14 +58,6 @@
       "summary": "هیئت ثبات مالی درباره خطرات فوری هوش مصنوعی بر امنیت سایبری و ساختار بازارهای جهانی هشدار داد."
     },
     {
-      "title": "ثبت ۳۰ میلیارد تصویر؛ نقش مخفی گیمرهای «پوکمون» در انقلاب رباتیک",
-      "url": "https://www.zoomit.ir/ai-articles/466250-pokemon-go-data-trains-delivery-robots/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-09-01T17:50:00.000Z",
-      "summary": "داده‌های حاصل از ۳۰ میلیارد تصویر ثبت‌شده توسط گیمرهای بازی Pokémon Go، اکنون برای هدایت ربات‌های خودمختار به کار گرفته می‌شوند."
-    },
-    {
       "title": "Introducing agentic video understanding with Gemini",
       "url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
       "source": "Google DeepMind",
@@ -88,14 +96,6 @@
       "lang": "en",
       "published": "2026-08-31T18:00:00.000Z",
       "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. By now you’ve probably heard about last month’s major AI security incident, in whi"
-    },
-    {
-      "title": "Gemini Omni 1.1 Flash lets you build with more control",
-      "url": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
-      "source": "Google DeepMind",
-      "lang": "en",
-      "published": "2026-08-27T16:11:32.000Z",
-      "summary": ""
     }
   ]
 }
