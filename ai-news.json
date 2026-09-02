@@ -1,61 +1,77 @@
 {
-  "updated_at": "2026-09-02T10:07:30.820Z",
+  "updated_at": "2026-09-02T15:32:16.109Z",
   "items": [
     {
-      "title": "OpenAI اطلاعات بیشتری درباره توانمندی‌های شگفت‌انگیز مدل Astra منتشر کرد",
-      "url": "https://digiato.com/artificial-intelligence/openai-astra-cybersecurity-zero-day",
+      "title": "مدارس جهان در حال ممنوع کردن تکنولوژی و هوش مصنوعی هستند",
+      "url": "https://www.zoomit.ir/ai-articles/466342-school-screen-ban-backlash/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-09-02T15:25:00.000Z",
+      "summary": "موج گسترده‌ای از محدودیت‌های قانونی علیه استفاده از نمایشگرها و هوش مصنوعی در مدارس آمریکا در حال اجرا است."
+    },
+    {
+      "title": "HiddenLayer nabs $100M as enterprises rush to secure their AI deployments",
+      "url": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-09-02T15:01:23.000Z",
+      "summary": "HiddenLayer has raised a $100M Series B from Delta-v Capital, Ten Eleven Ventures, Morgan Stanley, Microsoft's M12, Booz Allen Hamilton, and others."
+    },
+    {
+      "title": "PSA: Amazon’s shopping AI can now tell you if that message is a scam",
+      "url": "https://techcrunch.com/2026/09/02/psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-09-02T14:56:34.000Z",
+      "summary": "Amazon is adding a scam-detection feature to Alexa for Shopping that can verify whether suspicious emails, texts, and other messages actually came from the retailer."
+    },
+    {
+      "title": "از کارگاه ۷۰۰ متری تا کارخانه هوش مصنوعی؛ روایتی تازه از یک قرن ساختن در ایران",
+      "url": "https://digiato.com/iran-technology-news/from-a-700-square-meter-workshop-to-an-ai-factory",
       "source": "دیجیاتو",
       "lang": "fa",
-      "published": "2026-09-02T11:00:25.000Z",
-      "summary": "OpenAI می‌گوید Astra توانسته دو آسیب‌پذیری روزصفر را کشف و بدون نیاز به دخالت انسان‌ها از آنها سوءاستفاده کند. The post OpenAI اطلاعات بیشتری درباره توانمندی‌های شگفت‌انگیز مدل Astra منتشر کرد appeared first on دیجیاتو."
+      "published": "2026-09-02T14:27:51.000Z",
+      "summary": "«هشت روایت از ایران»؛ نخستین نشست از مجموعه «یک سده کارآفرینی در ایران» با یاد زنده‌یاد اکبر علیزاده‌راد The post از کارگاه ۷۰۰ متری تا کارخانه هوش مصنوعی؛ روایتی تازه از یک قرن ساختن در ایران appeared first on دیجیاتو."
     },
     {
-      "title": "در پی هک هاگینگ فیس، اوپن‌ای‌آی انتشار هوش مصنوعی پیشرفته‌اش را به تعویق انداخت",
-      "url": "https://www.zoomit.ir/ai-articles/466378-openai-delays-astra-model-development/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-09-02T04:56:13.000Z",
-      "summary": "اوپن‌ای‌آی در پی هک پلتفرم هاگینگ فیس، روند توسعه و انتشار مدل هوش مصنوعی جدید استرا را به تعویق انداخت."
-    },
-    {
-      "title": "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",
-      "url": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
+      "title": "Adobe acquires Indian market intelligence startup Rilo",
+      "url": "https://techcrunch.com/2026/09/02/adobe-acquires-indian-market-intelligence-startup-rilo/",
       "source": "TechCrunch AI",
       "lang": "en",
-      "published": "2026-09-01T22:08:24.000Z",
-      "summary": "AI model-training startup AfterQuery has reportedly raised a round that valued it at $3.2 billion, just five months after announcing its $30 million Series A at a $300 million valuation in April."
+      "published": "2026-09-02T14:03:57.000Z",
+      "summary": "This is Adobe's second acquisition out of India after Rephrase.ai in 2023"
     },
     {
-      "title": "OpenAI’s Astra model is on the way — and very good at breaking into computer systems",
-      "url": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
-      "source": "TechCrunch AI",
+      "title": "Facilitating AI integration with simplicity at scale",
+      "url": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/",
+      "source": "MIT Technology Review",
       "lang": "en",
-      "published": "2026-09-01T21:06:24.000Z",
-      "summary": "OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM."
+      "published": "2026-09-02T14:00:00.000Z",
+      "summary": "As companies scale, the technology supporting operations can become a liability just as quickly as it becomes an asset. Disconnected systems, site-specific tools, spreadsheets, and manual workarounds can create data silo"
     },
     {
-      "title": "پایان توان متخصصان امنیت سایبری در برابر هوش مصنوعی؛ بحرانی تازه که کسی از آن حرف نمی‌زند",
-      "url": "https://www.zoomit.ir/ai-articles/466277-ai-drives-cybersecurity-burnout-crisis/",
+      "title": "هدف‌گذاری جسورانه مینی‌مکس؛ آیا هوش مصنوعی انسان‌گونه یک درصد از تولید ناخالص جهانی را تسخیر می‌کند؟",
+      "url": "https://www.zoomit.ir/ai-articles/466340-minimax-agi-milestone-global-gdp/",
       "source": "زومیت",
       "lang": "fa",
-      "published": "2026-09-01T21:00:00.000Z",
-      "summary": "گسترش ابزارهای هوش مصنوعی و افزایش هشدارهای امنیتی، موج شدیدی از فرسودگی شغلی و استعفای متخصصان امنیت سایبری را رقم زده است."
+      "published": "2026-09-02T13:50:00.000Z",
+      "summary": "هم‌بنیان‌گذار استارتاپ مینی‌مکس دستیابی هوش مصنوعی به یک درصد از تولید ناخالص داخلی جهان را معیار تحقق هوش جامع مصنوعی دانست."
     },
     {
-      "title": "Google’s Android update tackles motion sickness, accessibility, and more",
-      "url": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-09-01T20:53:05.000Z",
-      "summary": "While some of the features see Google playing catch-up to Apple, which already offers similar features for iPhone users, others specifically leverage Gemini to provide various improvements."
+      "title": "دایسون از مسواک برقی مجهز به دوربین و هوش مصنوعی با قابلیت پاشش آب رونمایی کرد [تماشا کنید]",
+      "url": "https://digiato.com/gadgets/dyson-camerajet-ai-toothbrush-camera",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-09-02T12:55:00.000Z",
+      "summary": "دوربین این مسواک می‌تواند ذرات غذا را بین دندان‌ها ببیند و به سمت آن‌ها آب بپاشد. The post دایسون از مسواک برقی مجهز به دوربین و هوش مصنوعی با قابلیت پاشش آب رونمایی کرد [تماشا کنید] appeared first on دیجیاتو."
     },
     {
-      "title": "هشدار سازمان‌های نظارتی: هوش مصنوعی، بزرگ‌ترین تهدید برای ثبات مالی جهان است",
-      "url": "https://www.zoomit.ir/ai-articles/466274-fsb-ai-cyber-risk-warning/",
+      "title": "میراث تیم کوک در گرو هوش مصنوعی؛ آیا اپل در رقابت با غول‌ها بازنده خواهد بود؟",
+      "url": "https://www.zoomit.ir/business/466339-tim-cook-apple-ai-legacy/",
       "source": "زومیت",
       "lang": "fa",
-      "published": "2026-09-01T18:40:00.000Z",
-      "summary": "هیئت ثبات مالی درباره خطرات فوری هوش مصنوعی بر امنیت سایبری و ساختار بازارهای جهانی هشدار داد."
+      "published": "2026-09-02T12:40:00.000Z",
+      "summary": "میراث مدیریتی تیم کوک پس از کناره‌گیری از مدیرعاملی اپل، به موفقیت راهبرد هوش مصنوعی و اتکای آن به مدل‌های شرکت‌های دیگر وابسته است."
     },
     {
       "title": "Introducing agentic video understanding with Gemini",
@@ -80,22 +96,6 @@
       "lang": "en",
       "published": "2026-09-01T13:00:00.000Z",
       "summary": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release."
-    },
-    {
-      "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
-      "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
-      "source": "OpenAI",
-      "lang": "en",
-      "published": "2026-09-01T12:00:00.000Z",
-      "summary": "ChatGPT can now connect to trusted healthcare data, helping clinicians securely access patient context, medical research, and more."
-    },
-    {
-      "title": "The Hugging Face hack could indicate cultural issues at OpenAI",
-      "url": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
-      "source": "MIT Technology Review",
-      "lang": "en",
-      "published": "2026-08-31T18:00:00.000Z",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. By now you’ve probably heard about last month’s major AI security incident, in whi"
     }
   ]
 }
