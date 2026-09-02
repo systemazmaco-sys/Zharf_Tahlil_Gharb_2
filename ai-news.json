@@ -1,13 +1,37 @@
 {
-  "updated_at": "2026-09-01T20:16:05.084Z",
+  "updated_at": "2026-09-02T01:50:05.501Z",
   "items": [
     {
-      "title": "Anthropic’s new Fable release is cheaper, less restrictive",
-      "url": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/",
+      "title": "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",
+      "url": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
       "source": "TechCrunch AI",
       "lang": "en",
-      "published": "2026-09-01T19:39:22.000Z",
-      "summary": "Fable 5.1 includes changes meant to reduce token cost and false-positive restrictions from the model's safeguards."
+      "published": "2026-09-01T22:08:24.000Z",
+      "summary": "AI model-training startup AfterQuery has reportedly raised a round that valued it at $3.2 billion, just five months after announcing its $30 million Series A at a $300 million valuation in April."
+    },
+    {
+      "title": "OpenAI’s Astra model is on the way — and very good at breaking into computer systems",
+      "url": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-09-01T21:06:24.000Z",
+      "summary": "OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM."
+    },
+    {
+      "title": "پایان توان متخصصان امنیت سایبری در برابر هوش مصنوعی؛ بحرانی تازه که کسی از آن حرف نمی‌زند",
+      "url": "https://www.zoomit.ir/ai-articles/466277-ai-drives-cybersecurity-burnout-crisis/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-09-01T21:00:00.000Z",
+      "summary": "گسترش ابزارهای هوش مصنوعی و افزایش هشدارهای امنیتی، موج شدیدی از فرسودگی شغلی و استعفای متخصصان امنیت سایبری را رقم زده است."
+    },
+    {
+      "title": "Google’s Android update tackles motion sickness, accessibility, and more",
+      "url": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-09-01T20:53:05.000Z",
+      "summary": "While some of the features see Google playing catch-up to Apple, which already offers similar features for iPhone users, others specifically leverage Gemini to provide various improvements."
     },
     {
       "title": "هشدار سازمان‌های نظارتی: هوش مصنوعی، بزرگ‌ترین تهدید برای ثبات مالی جهان است",
@@ -26,14 +50,6 @@
       "summary": "داده‌های حاصل از ۳۰ میلیارد تصویر ثبت‌شده توسط گیمرهای بازی Pokémon Go، اکنون برای هدایت ربات‌های خودمختار به کار گرفته می‌شوند."
     },
     {
-      "title": "Google’s answer to Canva is an AI tool where you prompt instead of design",
-      "url": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-09-01T17:35:37.000Z",
-      "summary": "With Google Pics, Google is pushing deeper into the creative software market dominated by Canva and Adobe, but with a distinctly AI-first approach."
-    },
-    {
       "title": "Introducing agentic video understanding with Gemini",
       "url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
       "source": "Google DeepMind",
@@ -42,28 +58,12 @@
       "summary": ""
     },
     {
-      "title": "این هوش مصنوعی پیشرفته برای کشاورزان ساخته شده است",
-      "url": "https://www.zoomit.ir/ai-articles/466362-john-deere-ai-chatbot-farmers/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-09-01T17:07:22.000Z",
-      "summary": "شرکت جان‌دیر با چت‌بات JD سراغ داده‌های کشاورزی رفته است تا به کشاورزان برای تنظیم تجهیزات، سوخت و زمان برداشت کمک کند."
-    },
-    {
       "title": "How AI-native companies turn workflows into operating capability",
       "url": "https://openai.com/index/ai-native-company-workflows",
       "source": "OpenAI",
       "lang": "en",
       "published": "2026-09-01T17:00:00.000Z",
       "summary": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply."
-    },
-    {
-      "title": "ChatGPT Health adds Epic integration for clinicians to import patient data",
-      "url": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-09-01T17:00:00.000Z",
-      "summary": "OpenAI said that the integration provides read-only access to health records for clinicians."
     },
     {
       "title": "Path to Astra: critical capabilities and frontier safeguards",
@@ -90,12 +90,12 @@
       "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. By now you’ve probably heard about last month’s major AI security incident, in whi"
     },
     {
-      "title": "ادیت عکس با هوش مصنوعی؛ بهترین پرامپت بالا بردن کیفیت عکس و انواع تغییرات",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9xRnF2eHBHTVIyR1hwU1pLU3BNaXlkSF9nOE9pdzFHY2doa1J5QkR6ZTRRUzY2UldLUVRQZjU1QXhIY1pYaHlRWEh4RHhFQ2ZjYmE3cHpvbEk?oc=5",
-      "source": "namnak.com",
-      "lang": "fa",
-      "published": "2026-08-30T06:29:00.000Z",
-      "summary": "ادیت عکس با هوش مصنوعی؛ بهترین پرامپت بالا بردن کیفیت عکس و انواع تغییرات namnak.com"
+      "title": "Gemini Omni 1.1 Flash lets you build with more control",
+      "url": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
+      "source": "Google DeepMind",
+      "lang": "en",
+      "published": "2026-08-27T16:11:32.000Z",
+      "summary": ""
     }
   ]
 }
