@@ -1,6 +1,62 @@
 {
-  "updated_at": "2026-09-02T15:32:16.109Z",
+  "updated_at": "2026-09-02T20:14:45.363Z",
   "items": [
+    {
+      "title": "تاکسی‌های رباتیک در‌حال ازبین‌بردن درآمد راننده‌های اوبر هستند",
+      "url": "https://www.zoomit.ir/car/466255-uber-drivers-protest-waymo-robotaxis/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-09-02T19:30:00.000Z",
+      "summary": "رانندگان تاکسی‌های اینترنتی در شهر آتلانتا به دلیل کاهش درآمد و کم‌شدن مسافران در پی گسترش تاکسی‌های خودران ویمو اعتراض کردند."
+    },
+    {
+      "title": "ترس از فاجعه امنیتی؛ هوش مصنوعی جدید OpenAI نیامده پژوهشگران را نگران کرد",
+      "url": "https://www.zoomit.ir/ai-articles/466439-openai-astra-ai-safety-monitoring-concerns/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-09-02T17:19:08.000Z",
+      "summary": "هوش مصنوعی معرفی‌نشده‌ی Astra در آستانه‌ی ورود به بازار، نگرانی‌های امنیتی گسترده‌ای را ایجاد کرده است."
+    },
+    {
+      "title": "Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’",
+      "url": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-09-02T17:18:13.000Z",
+      "summary": "The internet has a trust problem, and it’s not just because social media feeds are filling up with AI slop. AI-generated text and images are now making their way into job applications, product reviews, and even insurance"
+    },
+    {
+      "title": "We’re ‘dangerously close’ to dead internet theory, says Pangram’s CEO",
+      "url": "https://techcrunch.com/podcast/were-dangerously-close-to-dead-internet-theory-says-pangrams-ceo/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-09-02T17:09:57.000Z",
+      "summary": "The internet has a trust problem, and it’s not just because social media feeds are filling up with AI slop. AI-generated text and images are now making their way into job applications, product reviews, and even insurance"
+    },
+    {
+      "title": "US government sides with OpenAI on issue of training LLMs on copyrighted material",
+      "url": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-09-02T17:09:06.000Z",
+      "summary": "\"The United States has a strong interest in continuing to develop a robust and competitive artificial intelligence industry that sets the standard for the practice and procedure of AI use globally,\" the brief reads."
+    },
+    {
+      "title": "Proactive cyber defense for governments and enterprises",
+      "url": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
+      "source": "Google DeepMind",
+      "lang": "en",
+      "published": "2026-09-02T16:24:24.000Z",
+      "summary": ""
+    },
+    {
+      "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
+      "url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
+      "source": "Google DeepMind",
+      "lang": "en",
+      "published": "2026-09-02T16:18:31.000Z",
+      "summary": ""
+    },
     {
       "title": "مدارس جهان در حال ممنوع کردن تکنولوژی و هوش مصنوعی هستند",
       "url": "https://www.zoomit.ir/ai-articles/466342-school-screen-ban-backlash/",
@@ -10,68 +66,12 @@
       "summary": "موج گسترده‌ای از محدودیت‌های قانونی علیه استفاده از نمایشگرها و هوش مصنوعی در مدارس آمریکا در حال اجرا است."
     },
     {
-      "title": "HiddenLayer nabs $100M as enterprises rush to secure their AI deployments",
-      "url": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-09-02T15:01:23.000Z",
-      "summary": "HiddenLayer has raised a $100M Series B from Delta-v Capital, Ten Eleven Ventures, Morgan Stanley, Microsoft's M12, Booz Allen Hamilton, and others."
-    },
-    {
-      "title": "PSA: Amazon’s shopping AI can now tell you if that message is a scam",
-      "url": "https://techcrunch.com/2026/09/02/psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-09-02T14:56:34.000Z",
-      "summary": "Amazon is adding a scam-detection feature to Alexa for Shopping that can verify whether suspicious emails, texts, and other messages actually came from the retailer."
-    },
-    {
-      "title": "از کارگاه ۷۰۰ متری تا کارخانه هوش مصنوعی؛ روایتی تازه از یک قرن ساختن در ایران",
-      "url": "https://digiato.com/iran-technology-news/from-a-700-square-meter-workshop-to-an-ai-factory",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-09-02T14:27:51.000Z",
-      "summary": "«هشت روایت از ایران»؛ نخستین نشست از مجموعه «یک سده کارآفرینی در ایران» با یاد زنده‌یاد اکبر علیزاده‌راد The post از کارگاه ۷۰۰ متری تا کارخانه هوش مصنوعی؛ روایتی تازه از یک قرن ساختن در ایران appeared first on دیجیاتو."
-    },
-    {
-      "title": "Adobe acquires Indian market intelligence startup Rilo",
-      "url": "https://techcrunch.com/2026/09/02/adobe-acquires-indian-market-intelligence-startup-rilo/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-09-02T14:03:57.000Z",
-      "summary": "This is Adobe's second acquisition out of India after Rephrase.ai in 2023"
-    },
-    {
       "title": "Facilitating AI integration with simplicity at scale",
       "url": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/",
       "source": "MIT Technology Review",
       "lang": "en",
       "published": "2026-09-02T14:00:00.000Z",
       "summary": "As companies scale, the technology supporting operations can become a liability just as quickly as it becomes an asset. Disconnected systems, site-specific tools, spreadsheets, and manual workarounds can create data silo"
-    },
-    {
-      "title": "هدف‌گذاری جسورانه مینی‌مکس؛ آیا هوش مصنوعی انسان‌گونه یک درصد از تولید ناخالص جهانی را تسخیر می‌کند؟",
-      "url": "https://www.zoomit.ir/ai-articles/466340-minimax-agi-milestone-global-gdp/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-09-02T13:50:00.000Z",
-      "summary": "هم‌بنیان‌گذار استارتاپ مینی‌مکس دستیابی هوش مصنوعی به یک درصد از تولید ناخالص داخلی جهان را معیار تحقق هوش جامع مصنوعی دانست."
-    },
-    {
-      "title": "دایسون از مسواک برقی مجهز به دوربین و هوش مصنوعی با قابلیت پاشش آب رونمایی کرد [تماشا کنید]",
-      "url": "https://digiato.com/gadgets/dyson-camerajet-ai-toothbrush-camera",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-09-02T12:55:00.000Z",
-      "summary": "دوربین این مسواک می‌تواند ذرات غذا را بین دندان‌ها ببیند و به سمت آن‌ها آب بپاشد. The post دایسون از مسواک برقی مجهز به دوربین و هوش مصنوعی با قابلیت پاشش آب رونمایی کرد [تماشا کنید] appeared first on دیجیاتو."
-    },
-    {
-      "title": "میراث تیم کوک در گرو هوش مصنوعی؛ آیا اپل در رقابت با غول‌ها بازنده خواهد بود؟",
-      "url": "https://www.zoomit.ir/business/466339-tim-cook-apple-ai-legacy/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-09-02T12:40:00.000Z",
-      "summary": "میراث مدیریتی تیم کوک پس از کناره‌گیری از مدیرعاملی اپل، به موفقیت راهبرد هوش مصنوعی و اتکای آن به مدل‌های شرکت‌های دیگر وابسته است."
     },
     {
       "title": "Introducing agentic video understanding with Gemini",
