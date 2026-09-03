@@ -1,6 +1,38 @@
 {
-  "updated_at": "2026-09-02T20:14:45.363Z",
+  "updated_at": "2026-09-03T01:56:01.845Z",
   "items": [
+    {
+      "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-09-02T23:01:00.000Z",
+      "summary": "The Builders Stage is returning to TechCrunch Disrupt, bringing together founders, startup operators, and investors for practical conversations on what it takes to build and scale."
+    },
+    {
+      "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
+      "url": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-09-02T22:44:56.000Z",
+      "summary": "The acquisition also leaves Sequoia-backed Serval as the de facto startup leader in AI IT service automation, industry watchers believe."
+    },
+    {
+      "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
+      "url": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-09-02T22:24:09.000Z",
+      "summary": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two."
+    },
+    {
+      "title": "هشدار تکان‌دهنده MIT: هوش مصنوعی می‌تواند تمام تکالیف دانشگاهی را انجام دهد",
+      "url": "https://www.zoomit.ir/ai-articles/466256-mit-warns-ai-undergrad-assignments/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-09-02T20:45:00.000Z",
+      "summary": "دانشگاه MIT اعلام کرد هوش مصنوعی توانایی انجام تمام تکالیف دوره‌ی کارشناسی را دارد و مدل آموزشی باید تغییر کند."
+    },
     {
       "title": "تاکسی‌های رباتیک در‌حال ازبین‌بردن درآمد راننده‌های اوبر هستند",
       "url": "https://www.zoomit.ir/car/466255-uber-drivers-protest-waymo-robotaxis/",
@@ -8,6 +40,14 @@
       "lang": "fa",
       "published": "2026-09-02T19:30:00.000Z",
       "summary": "رانندگان تاکسی‌های اینترنتی در شهر آتلانتا به دلیل کاهش درآمد و کم‌شدن مسافران در پی گسترش تاکسی‌های خودران ویمو اعتراض کردند."
+    },
+    {
+      "title": "دستیار هوش مصنوعی Fambot می‌خواهد مدیریت امور روزمره خانواده‌ها را آسان کند",
+      "url": "https://digiato.com/artificial-intelligence/fambot-ai-family-assistant",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-09-02T17:30:00.000Z",
+      "summary": "Fambot دستیار هوش مصنوعی خانواده‌هاست که با اتصال به ایمیل، تقویم و واتس‌اپ، کارها و برنامه‌های مربوط به فرزندان را مدیریت می‌کند. The post دستیار هوش مصنوعی Fambot می‌خواهد مدیریت امور روزمره خانواده‌ها را آسان کند appe"
     },
     {
       "title": "ترس از فاجعه امنیتی؛ هوش مصنوعی جدید OpenAI نیامده پژوهشگران را نگران کرد",
@@ -18,28 +58,12 @@
       "summary": "هوش مصنوعی معرفی‌نشده‌ی Astra در آستانه‌ی ورود به بازار، نگرانی‌های امنیتی گسترده‌ای را ایجاد کرده است."
     },
     {
-      "title": "Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’",
-      "url": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-09-02T17:18:13.000Z",
-      "summary": "The internet has a trust problem, and it’s not just because social media feeds are filling up with AI slop. AI-generated text and images are now making their way into job applications, product reviews, and even insurance"
-    },
-    {
-      "title": "We’re ‘dangerously close’ to dead internet theory, says Pangram’s CEO",
-      "url": "https://techcrunch.com/podcast/were-dangerously-close-to-dead-internet-theory-says-pangrams-ceo/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-09-02T17:09:57.000Z",
-      "summary": "The internet has a trust problem, and it’s not just because social media feeds are filling up with AI slop. AI-generated text and images are now making their way into job applications, product reviews, and even insurance"
-    },
-    {
-      "title": "US government sides with OpenAI on issue of training LLMs on copyrighted material",
-      "url": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-09-02T17:09:06.000Z",
-      "summary": "\"The United States has a strong interest in continuing to develop a robust and competitive artificial intelligence industry that sets the standard for the practice and procedure of AI use globally,\" the brief reads."
+      "title": "هوش مصنوعی اطلس برای درک و شبیه‌سازی جهان سه‌بعدی معرفی شد [تماشا کنید]",
+      "url": "https://digiato.com/artificial-intelligence/world-labs-atlas-spatial-intelligence",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-09-02T16:30:00.000Z",
+      "summary": "مدل هوش مصنوعی Atlas در تولید و بازسازی جهان‌های سه‌بعدی، شبیه‌سازی فضا و زمان و آموزش ربات‌ها کاربرد دارد. The post هوش مصنوعی اطلس برای درک و شبیه‌سازی جهان سه‌بعدی معرفی شد [تماشا کنید] appeared first on دیجیاتو."
     },
     {
       "title": "Proactive cyber defense for governments and enterprises",
@@ -58,14 +82,6 @@
       "summary": ""
     },
     {
-      "title": "مدارس جهان در حال ممنوع کردن تکنولوژی و هوش مصنوعی هستند",
-      "url": "https://www.zoomit.ir/ai-articles/466342-school-screen-ban-backlash/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-09-02T15:25:00.000Z",
-      "summary": "موج گسترده‌ای از محدودیت‌های قانونی علیه استفاده از نمایشگرها و هوش مصنوعی در مدارس آمریکا در حال اجرا است."
-    },
-    {
       "title": "Facilitating AI integration with simplicity at scale",
       "url": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/",
       "source": "MIT Technology Review",
@@ -74,28 +90,12 @@
       "summary": "As companies scale, the technology supporting operations can become a liability just as quickly as it becomes an asset. Disconnected systems, site-specific tools, spreadsheets, and manual workarounds can create data silo"
     },
     {
-      "title": "Introducing agentic video understanding with Gemini",
-      "url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
-      "source": "Google DeepMind",
-      "lang": "en",
-      "published": "2026-09-01T17:08:51.000Z",
-      "summary": ""
-    },
-    {
-      "title": "How AI-native companies turn workflows into operating capability",
-      "url": "https://openai.com/index/ai-native-company-workflows",
+      "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
+      "url": "https://openai.com/index/atv-big-air-tour",
       "source": "OpenAI",
       "lang": "en",
-      "published": "2026-09-01T17:00:00.000Z",
-      "summary": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply."
-    },
-    {
-      "title": "Path to Astra: critical capabilities and frontier safeguards",
-      "url": "https://openai.com/index/path-to-astra",
-      "source": "OpenAI",
-      "lang": "en",
-      "published": "2026-09-01T13:00:00.000Z",
-      "summary": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release."
+      "published": "2026-09-02T12:00:00.000Z",
+      "summary": "ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes."
     }
   ]
 }
