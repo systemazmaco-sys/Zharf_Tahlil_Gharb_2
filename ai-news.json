@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-09-04T01:53:21.075Z",
+  "updated_at": "2026-09-04T10:07:02.100Z",
   "items": [
+    {
+      "title": "پرده آخر ترومن‌شوی آروان‌کلاد با رونمایی AI Canvas در الکامپ ۱۴۰۵",
+      "url": "https://digiato.com/iran-technology-news/arvancloud-ai-canvas-elecomp-1405",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-09-04T09:43:55.000Z",
+      "summary": "آروان‌کلاد در نمایشگاه الکامپ ۱۴۰۵ از AI Canvas، ابزار جدید خود برای طراحی و اجرای معماری زیرساخت ابری با کمک هوش مصنوعی، رونمایی کرد. The post پرده آخر ترومن‌شوی آروان‌کلاد با رونمایی AI Canvas در الکامپ ۱۴۰۵ appeared f"
+    },
+    {
+      "title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
+      "url": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/",
+      "source": "MIT Technology Review",
+      "lang": "en",
+      "published": "2026-09-04T09:25:19.000Z",
+      "summary": "Battlefields in Ukraine are littered with the remnants of drones, which are now firmly established as a critical weapon of modern warfare. But behind all that wreckage, there’s a new gold mine for the defense sector. The"
+    },
+    {
+      "title": "اوپن‌ای‌آی سیستم «خاموشی خودکار» هوش مصنوعی را پیاده‌سازی می‌کند",
+      "url": "https://www.zoomit.ir/ai-articles/466462-openai-automated-ai-kill-switch/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-09-04T09:10:00.000Z",
+      "summary": "اوپن‌ای‌آی در پی خروج مهارنشده‌ی یکی از ابزارهای هوش مصنوعی خود در خلال آزمایشی امنیتی، سامانه‌ی خاموشی خودکار طراحی می‌کند."
+    },
+    {
+      "title": "مدل GPT-6 Astra معرفی شد؛ قدرتمندترین هوش مصنوعی OpenAI [تماشا کنید]",
+      "url": "https://digiato.com/artificial-intelligence/openai-gpt-6-astra-launch",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-09-04T07:45:25.000Z",
+      "summary": "OpenAI مدل GPT-6 Astra را با قابلیت‌های پیشرفته در استفاده از کامپیوتر، برنامه‌نویسی و امنیت سایبری عرضه کرد. The post مدل GPT-6 Astra معرفی شد؛ قدرتمندترین هوش مصنوعی OpenAI [تماشا کنید] appeared first on دیجیاتو."
+    },
+    {
+      "title": "یک عضو سازمان نصر: هوش مصنوعی جای ارزش را در صنعت عوض می‌کند",
+      "url": "https://www.zoomit.ir/tech-iran/466480-artificial-intelligence-ict-value-shift/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-09-04T07:30:00.000Z",
+      "summary": "عضو هیأت‌مدیره نصر می‌گوید AI با ارزان و سریع کردن کدنویسی و خدمات، مزیت رقابتی را تغییر می‌دهد و ارزش را به فهم مسئله و داده می‌برد."
+    },
+    {
+      "title": "The sameness problem behind those unappetizing AI-generated menus",
+      "url": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-09-04T04:21:03.000Z",
+      "summary": "While restaurant owners might look to generative AI as a shortcut to sprucing up their menu, customers can viscerally sense that something is wrong with the food."
+    },
     {
       "title": "Crusoe reportedly raises $3B at a $30B valuation",
       "url": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
@@ -26,38 +74,6 @@
       "summary": "اوپن‌ای‌آی با هیاهوی فراوان از مدل هوش مصنوعی پرچمدار GPT-6 Astra رونمایی کرد و گفت که وارد عصر AGI (هوش مصنوعی انسان‌گونه) شده‌ایم."
     },
     {
-      "title": "Abliteration.ai is making a business out of removing AI guardrails",
-      "url": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-09-03T18:37:57.000Z",
-      "summary": "Abliteration.AI is making powerful AI models without guardrails easier to access, arguing that giving defenders the same tools as bad actors could ultimately improve cybersecurity."
-    },
-    {
-      "title": "نظر مدیرعامل OpenAI درباره عینک‌های هوشمند: من را ناراحت و معذب می‌کنند",
-      "url": "https://digiato.com/gadgets/sam-altman-smart-glasses-criticism-jony-ive-hardware",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-09-03T17:30:00.000Z",
-      "summary": "سم آلتمن همچنین درباره محصولات سخت‌افزاری آینده و فرم‌های متفاوت آنها صحبت کرده است. The post نظر مدیرعامل OpenAI درباره عینک‌های هوشمند: من را ناراحت و معذب می‌کنند appeared first on دیجیاتو."
-    },
-    {
-      "title": "گوگل به جیمیل یک صدای هوش مصنوعی داد",
-      "url": "https://www.zoomit.ir/ai-articles/466501-google-gmail-docs-keep-live-voice-modes-gemini/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-09-03T16:32:40.000Z",
-      "summary": "گوگل سه حالت صوتی تازه را برای جیمیل، داکس و کیپ فعال کرد تا جست‌وجو، خلاصه‌سازی و یادداشت‌برداری بدون لمس صفحه انجام شود."
-    },
-    {
-      "title": "خاموشی هم‌زمان چت‌بات‌های معروف؛ چت‌جی‌پی‌تی، گراک و کلاد از دسترس خارج شدند",
-      "url": "https://www.zoomit.ir/ai-articles/466497-chatgpt-grok-claude-simultaneous-outage/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-09-03T16:09:40.000Z",
-      "summary": "سه چت‌بات بزرگ هوش مصنوعی چت‌جی‌پی‌تی، گراک و کلاد به‌طور هم‌زمان دچار قطعی گسترده شدند."
-    },
-    {
       "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
       "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
       "source": "Google DeepMind",
@@ -80,22 +96,6 @@
       "lang": "en",
       "published": "2026-09-03T12:00:00.000Z",
       "summary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow."
-    },
-    {
-      "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
-      "url": "https://openai.com/index/playco-game-prototyping-with-astra",
-      "source": "OpenAI",
-      "lang": "en",
-      "published": "2026-09-03T12:00:00.000Z",
-      "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model."
-    },
-    {
-      "title": "Proactive cyber defense for governments and enterprises",
-      "url": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
-      "source": "Google DeepMind",
-      "lang": "en",
-      "published": "2026-09-02T16:24:24.000Z",
-      "summary": ""
     }
   ]
 }
