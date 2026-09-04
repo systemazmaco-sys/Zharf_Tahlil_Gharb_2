@@ -1,13 +1,61 @@
 {
-  "updated_at": "2026-09-04T10:07:02.100Z",
+  "updated_at": "2026-09-04T20:00:01.986Z",
   "items": [
     {
-      "title": "پرده آخر ترومن‌شوی آروان‌کلاد با رونمایی AI Canvas در الکامپ ۱۴۰۵",
-      "url": "https://digiato.com/iran-technology-news/arvancloud-ai-canvas-elecomp-1405",
+      "title": "Architecting memory and storage in the AI era",
+      "url": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
+      "source": "MIT Technology Review",
+      "lang": "en",
+      "published": "2026-09-04T18:39:19.000Z",
+      "summary": "The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assistant instantly resolving thousands of com"
+    },
+    {
+      "title": "چرا همه ناخودآگاه شبیه ChatGPT حرف می‌زنند؟",
+      "url": "https://www.zoomit.ir/ai-articles/466482-robotoid-humanness-ai-humans-featured/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-09-04T18:00:00.000Z",
+      "summary": "هوش مصنوعی سال‌ها زبان ما را تقلید کرد؛ حالا تحقیقات نشان می‌دهد انسان‌ها در حال کپی‌برداری از واژه‌ها و الگوهای رفتاری ماشین‌ها هستند."
+    },
+    {
+      "title": "What will Apple’s John Ternus era look like?",
+      "url": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-09-04T17:18:00.000Z",
+      "summary": "It’s officially the Ternus era at Apple. Tim Cook stepped down as CEO this week, handing the company to former hardware chief John Ternus, whose first memo promised a “huge launch next week” — timing that puts Apple’s ne"
+    },
+    {
+      "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
+      "url": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-09-04T16:21:11.000Z",
+      "summary": "It's the latest failure of OpenAI's internal monitoring and security systems."
+    },
+    {
+      "title": "Apple’s Ternus era begins as Nvidia bets on the whole AI stack",
+      "url": "https://techcrunch.com/podcast/apples-ternus-era-begins-as-nvidia-bets-on-the-whole-ai-stack/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-09-04T16:04:08.000Z",
+      "summary": "It’s officially the Ternus era at Apple. Tim Cook stepped down as CEO this week, handing the company to former hardware chief John Ternus, whose first memo promised a “huge launch next week” — timing that puts Apple’s ne"
+    },
+    {
+      "title": "آنتروپیک ابزار جدیدی برای تشخیص محتوای ساخته‌شده با Claude ارائه داد",
+      "url": "https://digiato.com/artificial-intelligence/anthropics-content-checker-tool",
       "source": "دیجیاتو",
       "lang": "fa",
-      "published": "2026-09-04T09:43:55.000Z",
-      "summary": "آروان‌کلاد در نمایشگاه الکامپ ۱۴۰۵ از AI Canvas، ابزار جدید خود برای طراحی و اجرای معماری زیرساخت ابری با کمک هوش مصنوعی، رونمایی کرد. The post پرده آخر ترومن‌شوی آروان‌کلاد با رونمایی AI Canvas در الکامپ ۱۴۰۵ appeared f"
+      "published": "2026-09-04T15:48:40.000Z",
+      "summary": "این ابزار فعلا از فرمت‌‎های متنی پشتیبانی نمی‌کند. The post آنتروپیک ابزار جدیدی برای تشخیص محتوای ساخته‌شده با Claude ارائه داد appeared first on دیجیاتو."
+    },
+    {
+      "title": "هوش مصنوعی سرکش اوپن‌ای‌آی یک سایت آلمانی را تصرف کرد؛ گزارش جنجالی رویترز",
+      "url": "https://www.zoomit.ir/ai-articles/466542-openai-agents-german-site-breakout-reuters-report/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-09-04T15:46:53.000Z",
+      "summary": "عامل‌های هوش مصنوعی اوپن‌ای‌آی یک سایت آلمانی را تصرف کردند و الگوهای پنهان‌کاری و دورزدن محدودیت را به نمایش گذاشتند."
     },
     {
       "title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
@@ -26,54 +74,6 @@
       "summary": "اوپن‌ای‌آی در پی خروج مهارنشده‌ی یکی از ابزارهای هوش مصنوعی خود در خلال آزمایشی امنیتی، سامانه‌ی خاموشی خودکار طراحی می‌کند."
     },
     {
-      "title": "مدل GPT-6 Astra معرفی شد؛ قدرتمندترین هوش مصنوعی OpenAI [تماشا کنید]",
-      "url": "https://digiato.com/artificial-intelligence/openai-gpt-6-astra-launch",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-09-04T07:45:25.000Z",
-      "summary": "OpenAI مدل GPT-6 Astra را با قابلیت‌های پیشرفته در استفاده از کامپیوتر، برنامه‌نویسی و امنیت سایبری عرضه کرد. The post مدل GPT-6 Astra معرفی شد؛ قدرتمندترین هوش مصنوعی OpenAI [تماشا کنید] appeared first on دیجیاتو."
-    },
-    {
-      "title": "یک عضو سازمان نصر: هوش مصنوعی جای ارزش را در صنعت عوض می‌کند",
-      "url": "https://www.zoomit.ir/tech-iran/466480-artificial-intelligence-ict-value-shift/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-09-04T07:30:00.000Z",
-      "summary": "عضو هیأت‌مدیره نصر می‌گوید AI با ارزان و سریع کردن کدنویسی و خدمات، مزیت رقابتی را تغییر می‌دهد و ارزش را به فهم مسئله و داده می‌برد."
-    },
-    {
-      "title": "The sameness problem behind those unappetizing AI-generated menus",
-      "url": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-09-04T04:21:03.000Z",
-      "summary": "While restaurant owners might look to generative AI as a shortcut to sprucing up their menu, customers can viscerally sense that something is wrong with the food."
-    },
-    {
-      "title": "Crusoe reportedly raises $3B at a $30B valuation",
-      "url": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-09-04T00:48:42.000Z",
-      "summary": "The round came together after the data center developer reportedly secured a $13 billion contract with Jane Street."
-    },
-    {
-      "title": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
-      "url": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-09-03T19:36:29.000Z",
-      "summary": "The high-profile startup's annual revenue run rate stands at over $100 million."
-    },
-    {
-      "title": "به عصر AGI خوش آمدید؛ هوش مصنوعی پرچمدار GPT-6 Astra با وعده‌های شگفت‌انگیز رونمایی شد",
-      "url": "https://www.zoomit.ir/ai-articles/466505-openai-gpt-6-astra-entered-agi-era/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-09-03T18:48:09.000Z",
-      "summary": "اوپن‌ای‌آی با هیاهوی فراوان از مدل هوش مصنوعی پرچمدار GPT-6 Astra رونمایی کرد و گفت که وارد عصر AGI (هوش مصنوعی انسان‌گونه) شده‌ایم."
-    },
-    {
       "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
       "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
       "source": "Google DeepMind",
@@ -90,12 +90,12 @@
       "summary": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services."
     },
     {
-      "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-      "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
+      "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+      "url": "https://openai.com/index/playco-game-prototyping-with-astra",
       "source": "OpenAI",
       "lang": "en",
       "published": "2026-09-03T12:00:00.000Z",
-      "summary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow."
+      "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model."
     }
   ]
 }
