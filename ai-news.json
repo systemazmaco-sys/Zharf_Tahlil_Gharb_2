@@ -1,6 +1,62 @@
 {
-  "updated_at": "2026-09-03T15:25:15.172Z",
+  "updated_at": "2026-09-04T01:53:21.075Z",
   "items": [
+    {
+      "title": "Crusoe reportedly raises $3B at a $30B valuation",
+      "url": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-09-04T00:48:42.000Z",
+      "summary": "The round came together after the data center developer reportedly secured a $13 billion contract with Jane Street."
+    },
+    {
+      "title": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
+      "url": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-09-03T19:36:29.000Z",
+      "summary": "The high-profile startup's annual revenue run rate stands at over $100 million."
+    },
+    {
+      "title": "به عصر AGI خوش آمدید؛ هوش مصنوعی پرچمدار GPT-6 Astra با وعده‌های شگفت‌انگیز رونمایی شد",
+      "url": "https://www.zoomit.ir/ai-articles/466505-openai-gpt-6-astra-entered-agi-era/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-09-03T18:48:09.000Z",
+      "summary": "اوپن‌ای‌آی با هیاهوی فراوان از مدل هوش مصنوعی پرچمدار GPT-6 Astra رونمایی کرد و گفت که وارد عصر AGI (هوش مصنوعی انسان‌گونه) شده‌ایم."
+    },
+    {
+      "title": "Abliteration.ai is making a business out of removing AI guardrails",
+      "url": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-09-03T18:37:57.000Z",
+      "summary": "Abliteration.AI is making powerful AI models without guardrails easier to access, arguing that giving defenders the same tools as bad actors could ultimately improve cybersecurity."
+    },
+    {
+      "title": "نظر مدیرعامل OpenAI درباره عینک‌های هوشمند: من را ناراحت و معذب می‌کنند",
+      "url": "https://digiato.com/gadgets/sam-altman-smart-glasses-criticism-jony-ive-hardware",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-09-03T17:30:00.000Z",
+      "summary": "سم آلتمن همچنین درباره محصولات سخت‌افزاری آینده و فرم‌های متفاوت آنها صحبت کرده است. The post نظر مدیرعامل OpenAI درباره عینک‌های هوشمند: من را ناراحت و معذب می‌کنند appeared first on دیجیاتو."
+    },
+    {
+      "title": "گوگل به جیمیل یک صدای هوش مصنوعی داد",
+      "url": "https://www.zoomit.ir/ai-articles/466501-google-gmail-docs-keep-live-voice-modes-gemini/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-09-03T16:32:40.000Z",
+      "summary": "گوگل سه حالت صوتی تازه را برای جیمیل، داکس و کیپ فعال کرد تا جست‌وجو، خلاصه‌سازی و یادداشت‌برداری بدون لمس صفحه انجام شود."
+    },
+    {
+      "title": "خاموشی هم‌زمان چت‌بات‌های معروف؛ چت‌جی‌پی‌تی، گراک و کلاد از دسترس خارج شدند",
+      "url": "https://www.zoomit.ir/ai-articles/466497-chatgpt-grok-claude-simultaneous-outage/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-09-03T16:09:40.000Z",
+      "summary": "سه چت‌بات بزرگ هوش مصنوعی چت‌جی‌پی‌تی، گراک و کلاد به‌طور هم‌زمان دچار قطعی گسترده شدند."
+    },
     {
       "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
       "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
@@ -10,60 +66,28 @@
       "summary": ""
     },
     {
-      "title": "Google’s latest AI weather model gives you no excuse to forget your umbrella",
-      "url": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/",
-      "source": "TechCrunch AI",
+      "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
+      "url": "https://openai.com/index/daybreak-for-frontline-defenders",
+      "source": "OpenAI",
       "lang": "en",
-      "published": "2026-09-03T15:00:00.000Z",
-      "summary": "Scientists at Google Deepmind and Google Research released a new artificial intelligence model for weather forecasting today that sees our changing atmosphere more clearly and predicts its behavior more often. WeatherNex"
+      "published": "2026-09-03T13:15:00.000Z",
+      "summary": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services."
     },
     {
-      "title": "دولت ترامپ در پرونده کپی‌رایت نیویورک‌تایمز طرف OpenAI را گرفت",
-      "url": "https://digiato.com/finance-investment/trump-administration-backs-openai-in-copyright-dispute-with-the-new-york-times",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-09-03T12:55:13.000Z",
-      "summary": "دولت آمریکا از مواضع OpenAI دفاع کرد و درباره آسیب محدودیت‌های کپی‌رایت هشدار داد. The post دولت ترامپ در پرونده کپی‌رایت نیویورک‌تایمز طرف OpenAI را گرفت appeared first on دیجیاتو."
-    },
-    {
-      "title": "انویدیا با قرارداد ۱۳ میلیارد دلاری، پلتفرم هوش مصنوعی هاگینگ فیس را تصاحب کرد",
-      "url": "https://www.zoomit.ir/business/466487-nvidia-hugging-face-acquisition/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-09-03T12:55:00.000Z",
-      "summary": "انویدیا با قراردادی به ارزش ۱۲٫۹۳ میلیارد دلار، پلتفرم متن‌باز هاستینگ مدل‌های هوش مصنوعی هاگینگ فیس را خریداری می‌کند."
-    },
-    {
-      "title": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
-      "url": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
-      "source": "TechCrunch AI",
+      "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+      "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
+      "source": "OpenAI",
       "lang": "en",
-      "published": "2026-09-03T12:42:45.000Z",
-      "summary": "Nvidia said Hugging Face hosts over 3 million models and is used by over 18 million developers."
+      "published": "2026-09-03T12:00:00.000Z",
+      "summary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow."
     },
     {
-      "title": "«تعارف» به «آن‌باکس» تغییر نام داد؛ لجستیک هوشمند با سورت رباتیک و پوشش ۳۰۰ شهر",
-      "url": "https://www.zoomit.ir/report/466428-unbox-rebranding-smart-logistics-elecomp/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-09-03T08:47:30.000Z",
-      "summary": "شرکت لجستیکی تعارف با تغییر نام به آن‌باکس و بهره‌گیری از رباتیک و هوش مصنوعی، خدمات ارسال برنامه‌ریزی‌شده را به ۳۰۰ شهر گسترش داد."
-    },
-    {
-      "title": "نوبیا یک گوشی متمرکز بر هوش مصنوعی می‌سازد: نوی‌ایکس اولترا",
-      "url": "https://www.zoomit.ir/mobile/466390-nubia-navix-ultra-specs-leaked/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-09-03T03:55:00.000Z",
-      "summary": "گوشی هوشمند نوبیا NaviX Ultra با باتری غول‌پیکر ۷۱۰۰ میلی‌آمپرساعتی و هوش مصنوعی اختصاصی به‌زودی معرفی می‌شود."
-    },
-    {
-      "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/",
-      "source": "TechCrunch AI",
+      "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+      "url": "https://openai.com/index/playco-game-prototyping-with-astra",
+      "source": "OpenAI",
       "lang": "en",
-      "published": "2026-09-02T23:01:00.000Z",
-      "summary": "The Builders Stage is returning to TechCrunch Disrupt, bringing together founders, startup operators, and investors for practical conversations on what it takes to build and scale."
+      "published": "2026-09-03T12:00:00.000Z",
+      "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model."
     },
     {
       "title": "Proactive cyber defense for governments and enterprises",
@@ -72,30 +96,6 @@
       "lang": "en",
       "published": "2026-09-02T16:24:24.000Z",
       "summary": ""
-    },
-    {
-      "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
-      "url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
-      "source": "Google DeepMind",
-      "lang": "en",
-      "published": "2026-09-02T16:18:31.000Z",
-      "summary": ""
-    },
-    {
-      "title": "Facilitating AI integration with simplicity at scale",
-      "url": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/",
-      "source": "MIT Technology Review",
-      "lang": "en",
-      "published": "2026-09-02T14:00:00.000Z",
-      "summary": "As companies scale, the technology supporting operations can become a liability just as quickly as it becomes an asset. Disconnected systems, site-specific tools, spreadsheets, and manual workarounds can create data silo"
-    },
-    {
-      "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
-      "url": "https://openai.com/index/atv-big-air-tour",
-      "source": "OpenAI",
-      "lang": "en",
-      "published": "2026-09-02T12:00:00.000Z",
-      "summary": "ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes."
     }
   ]
 }
