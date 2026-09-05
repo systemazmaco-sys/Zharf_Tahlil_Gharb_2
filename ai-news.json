@@ -1,13 +1,29 @@
 {
-  "updated_at": "2026-09-05T09:36:19.204Z",
+  "updated_at": "2026-09-05T14:09:26.019Z",
   "items": [
     {
-      "title": "فرار ایجنت‌های خودمختار OpenAI این‌بار منجر به نفوذ به یک وب‌سایت آلمانی شد",
-      "url": "https://digiato.com/artificial-intelligence/openai-rogue-agents-escape-infrastructure-investigation",
+      "title": "از دیفای تا هوش مصنوعی؛ ۱۵ رمزارز تازه در نوبیتکس",
+      "url": "https://digiato.com/iran-technology-news/from-defi-to-a-15-new-cryptocurrencies-on-nobitex",
       "source": "دیجیاتو",
       "lang": "fa",
-      "published": "2026-09-05T08:49:47.000Z",
-      "summary": "این گزارش یک بار دیگر ریسک سیستم‌های هوش مصنوعی خودمختار را نشان داد. The post فرار ایجنت‌های خودمختار OpenAI این‌بار منجر به نفوذ به یک وب‌سایت آلمانی شد appeared first on دیجیاتو."
+      "published": "2026-09-05T13:42:23.000Z",
+      "summary": "اضافه‌شدن این رمزارزها را می‌توان در ادامه توسعه بازارهای معاملاتی نوبیتکس و افزایش تنوع دارایی‌های قابل معامله ارزیابی کرد. The post از دیفای تا هوش مصنوعی؛ ۱۵ رمزارز تازه در نوبیتکس appeared first on دیجیاتو."
+    },
+    {
+      "title": "مدیرعامل OpenAI می‌گوید طرفدار پروپاقرص اپل است",
+      "url": "https://digiato.com/artificial-intelligence/sam-altman-says-hes-a-mega-apple-fan-boy",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-09-05T12:30:00.000Z",
+      "summary": "«سم آلتمن»، مدیرعامل OpenAI، گفته که از شکایت اخیر اپل ناراحت شده، زیرا یکی از طرفداران دوآتشه این غول فناوری است. The post مدیرعامل OpenAI می‌گوید طرفدار پروپاقرص اپل است appeared first on دیجیاتو."
+    },
+    {
+      "title": "ادامه جنجال هوش مصنوعی؛ اوپن‌ای‌آی هک ناخواسته یک وب‌سایت آلمانی را تأیید کرد",
+      "url": "https://www.zoomit.ir/ai-articles/466590-openai-ai-agents-hack-german-website/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-09-05T12:22:40.000Z",
+      "summary": "اوپن‌ای‌آی تأیید کرد که ایجنت‌های هوش مصنوعی‌اش در تصاحب یک وب‌سایت آلمانی نقش داشته‌اند و وعده بازنگری در نحوه‌ی گزارش‌دهی چنین حوادثی را داد."
     },
     {
       "title": "این گردنبند عجیب با کمک هوش مصنوعی عادات غذایی شما را پایش می‌کند",
@@ -58,14 +74,6 @@
       "summary": "The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assistant instantly resolving thousands of com"
     },
     {
-      "title": "چرا همه ناخودآگاه شبیه ChatGPT حرف می‌زنند؟",
-      "url": "https://www.zoomit.ir/ai-articles/466482-robotoid-humanness-ai-humans-featured/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-09-04T18:00:00.000Z",
-      "summary": "هوش مصنوعی سال‌ها زبان ما را تقلید کرد؛ حالا تحقیقات نشان می‌دهد انسان‌ها در حال کپی‌برداری از واژه‌ها و الگوهای رفتاری ماشین‌ها هستند."
-    },
-    {
       "title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
       "url": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/",
       "source": "MIT Technology Review",
@@ -88,14 +96,6 @@
       "lang": "en",
       "published": "2026-09-03T13:15:00.000Z",
       "summary": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services."
-    },
-    {
-      "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
-      "url": "https://openai.com/index/playco-game-prototyping-with-astra",
-      "source": "OpenAI",
-      "lang": "en",
-      "published": "2026-09-03T12:00:00.000Z",
-      "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model."
     }
   ]
 }
