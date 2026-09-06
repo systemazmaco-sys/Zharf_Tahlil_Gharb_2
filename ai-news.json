@@ -1,6 +1,30 @@
 {
-  "updated_at": "2026-09-06T01:46:04.280Z",
+  "updated_at": "2026-09-06T14:33:38.223Z",
   "items": [
+    {
+      "title": "تجارت با خطر: استارتاپی که ابزار دور زدن محدودیت‌های هوش مصنوعی را می‌فروشد",
+      "url": "https://www.zoomit.ir/ai-articles/466607-abliteration-ai-removing-guardrails-featured/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-09-06T13:30:00.000Z",
+      "summary": "استارتاپی تازه‌نفس با حذف گاردریل‌های امنیتی، مدل‌های هوش مصنوعی بدون سانسور را مستقیما به کاربران می‌فروشد؛ تجارتی جنجالی که خط قرمزها را می‌شکند."
+    },
+    {
+      "title": "وقتی هوش مصنوعی جایگزین گزارش‌های پلیس می‌شود؛ پرونده‌ی جنجالی نظارت در تگزاس",
+      "url": "https://www.zoomit.ir/ai-articles/466575-texas-police-ai-abortion-report/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-09-06T12:50:00.000Z",
+      "summary": "نوشتن یک گزارش پلیسی با ابزارهای هوش مصنوعی خبرساز شد."
+    },
+    {
+      "title": "هشدار مدیرعامل نت‌اسکوپ: عامل‌های هوش مصنوعی اخلاق و وجدان ندارند",
+      "url": "https://www.zoomit.ir/ai-articles/466574-ai-agents-ethics-security-warning/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-09-06T11:20:00.000Z",
+      "summary": "سنجای بری، مدیرعامل نت‌اسکوپ، هشدار داد عامل‌های هوش مصنوعی اخلاق و وجدان ندارند و بدون محدودیت و نظارت ممکن است برای رسیدن به هدف هرکاری بکنند."
+    },
     {
       "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
       "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
@@ -24,38 +48,6 @@
       "lang": "en",
       "published": "2026-09-05T18:05:27.000Z",
       "summary": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum."
-    },
-    {
-      "title": "چرا GPT‑6 Astra یکی از مهم‌ترین مدل‌های هوش مصنوعی تا به امروز است؟",
-      "url": "https://digiato.com/artificial-intelligence/gpt-6-astra-worlds-most-intelligent-and-aligned-model",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-09-05T17:30:00.000Z",
-      "summary": "مدل GPT‑6 Astra توانایی بالایی در کار با کامپیوتر و اتوماسیون دارد. The post چرا GPT‑6 Astra یکی از مهم‌ترین مدل‌های هوش مصنوعی تا به امروز است؟ appeared first on دیجیاتو."
-    },
-    {
-      "title": "ادامه جنجال هوش مصنوعی؛ اوپن‌ای‌آی هک ناخواسته یک وب‌سایت آلمانی را تأیید کرد",
-      "url": "https://www.zoomit.ir/ai-articles/466590-openai-ai-agents-hack-german-website/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-09-05T12:22:40.000Z",
-      "summary": "اوپن‌ای‌آی تأیید کرد که ایجنت‌های هوش مصنوعی‌اش در تصاحب یک وب‌سایت آلمانی نقش داشته‌اند و وعده بازنگری در نحوه‌ی گزارش‌دهی چنین حوادثی را داد."
-    },
-    {
-      "title": "این گردنبند عجیب با کمک هوش مصنوعی عادات غذایی شما را پایش می‌کند",
-      "url": "https://www.zoomit.ir/wearables/466573-odyss-n1-ai-dietary-necklace/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-09-05T07:45:46.000Z",
-      "summary": "شرکت ODYSS از گردنبند هوشمند N1 رونمایی کرد؛ دستگاهی مجهز به هوش مصنوعی که مصرف غذا را بدون نیاز به ثبت دستی تشخیص می‌دهد."
-    },
-    {
-      "title": "طحان‌ نظیف: طرح ملی توسعه هوش مصنوعی به تایید شورای نگهبان رسید",
-      "url": "https://www.zoomit.ir/iran-news/466566-ai-development-law-approved/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-09-05T07:13:54.000Z",
-      "summary": "سخنگوی شورای نگهبان از تایید نهایی طرح ملی توسعه هوش مصنوعی و تبدیل آن به قانون خبر داد."
     },
     {
       "title": "Architecting memory and storage in the AI era",
@@ -96,6 +88,14 @@
       "lang": "en",
       "published": "2026-09-03T12:00:00.000Z",
       "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model."
+    },
+    {
+      "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+      "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
+      "source": "OpenAI",
+      "lang": "en",
+      "published": "2026-09-03T12:00:00.000Z",
+      "summary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow."
     }
   ]
 }
