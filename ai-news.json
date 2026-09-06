@@ -1,6 +1,38 @@
 {
-  "updated_at": "2026-09-06T14:33:38.223Z",
+  "updated_at": "2026-09-06T19:43:06.674Z",
   "items": [
+    {
+      "title": "چگونه به GPT-6 Astra دسترسی پیدا کنیم؟ راهنمای استفاده از هوش مصنوعی جدید OpenAI",
+      "url": "https://digiato.com/artificial-intelligence/gpt-6-astra-access-guide",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-09-06T18:00:00.000Z",
+      "summary": "کاربران طرح‌های اشتراکی و سازمان‌ها می‌توانند قابلیت‌های جدید را در بسترهای ابری و محیط‌های برنامه‌نویسی فعال کنند. The post چگونه به GPT-6 Astra دسترسی پیدا کنیم؟ راهنمای استفاده از هوش مصنوعی جدید OpenAI appeared first"
+    },
+    {
+      "title": "با GPT-6 Astra آشنا شوید؛ کنترل کامل کامپیوتر با هوش مصنوعی",
+      "url": "https://digiato.com/tech_talk_extra/gpt-6-astra-openai-ai-model",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-09-06T17:30:00.000Z",
+      "summary": "GPT-6 Astra جدیدترین مدل OpenAI با قابلیت انجام وظایف پیچیده است. در این ویدیو ویژگی‌ها و تفاوت‌های آن را بررسی می‌کنیم. The post با GPT-6 Astra آشنا شوید؛ کنترل کامل کامپیوتر با هوش مصنوعی appeared first on دیجیاتو."
+    },
+    {
+      "title": "نجات سه کوهنورد تازه‌کار پس از برنامه‌ریزی فاجعه‌بار با هوش مصنوعی گوگل",
+      "url": "https://www.zoomit.ir/human-science/466658-google-gemini-hikers-rescue-california/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-09-06T16:20:00.000Z",
+      "summary": "استفاده از چت‌بات‌های هوش مصنوعی برای برنامه‌ریزی سفرهای طبیعت‌گردی، این بار به عملیات نجات در کالیفرنیا انجامید."
+    },
+    {
+      "title": "آزمایش جسورانه یک خبرنگار؛ آیا هوش مصنوعی می‌تواند جای رئیس شما را بگیرد؟",
+      "url": "https://www.zoomit.ir/ai-articles/466580-ai-replacing-editor-platformer/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-09-06T15:15:00.000Z",
+      "summary": "یک خبرنگار حوزه‌ی فناوری با ساخت نسخه‌ی هوش مصنوعی از سردبیر خود، مرز توانایی مدل‌های زبانی در انجام وظایف مدیریتی و ویراستاری را محک زد."
+    },
     {
       "title": "تجارت با خطر: استارتاپی که ابزار دور زدن محدودیت‌های هوش مصنوعی را می‌فروشد",
       "url": "https://www.zoomit.ir/ai-articles/466607-abliteration-ai-removing-guardrails-featured/",
@@ -10,20 +42,20 @@
       "summary": "استارتاپی تازه‌نفس با حذف گاردریل‌های امنیتی، مدل‌های هوش مصنوعی بدون سانسور را مستقیما به کاربران می‌فروشد؛ تجارتی جنجالی که خط قرمزها را می‌شکند."
     },
     {
-      "title": "وقتی هوش مصنوعی جایگزین گزارش‌های پلیس می‌شود؛ پرونده‌ی جنجالی نظارت در تگزاس",
-      "url": "https://www.zoomit.ir/ai-articles/466575-texas-police-ai-abortion-report/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-09-06T12:50:00.000Z",
-      "summary": "نوشتن یک گزارش پلیسی با ابزارهای هوش مصنوعی خبرساز شد."
+      "title": "An Alien Mind",
+      "url": "https://openai.com/index/an-alien-mind",
+      "source": "OpenAI",
+      "lang": "en",
+      "published": "2026-09-06T09:00:00.000Z",
+      "summary": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination."
     },
     {
-      "title": "هشدار مدیرعامل نت‌اسکوپ: عامل‌های هوش مصنوعی اخلاق و وجدان ندارند",
-      "url": "https://www.zoomit.ir/ai-articles/466574-ai-agents-ethics-security-warning/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-09-06T11:20:00.000Z",
-      "summary": "سنجای بری، مدیرعامل نت‌اسکوپ، هشدار داد عامل‌های هوش مصنوعی اخلاق و وجدان ندارند و بدون محدودیت و نظارت ممکن است برای رسیدن به هدف هرکاری بکنند."
+      "title": "Research acceleration: The view inside OpenAI",
+      "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+      "source": "OpenAI",
+      "lang": "en",
+      "published": "2026-09-06T08:00:00.000Z",
+      "summary": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration."
     },
     {
       "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
@@ -64,38 +96,6 @@
       "lang": "en",
       "published": "2026-09-04T09:25:19.000Z",
       "summary": "Battlefields in Ukraine are littered with the remnants of drones, which are now firmly established as a critical weapon of modern warfare. But behind all that wreckage, there’s a new gold mine for the defense sector. The"
-    },
-    {
-      "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
-      "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
-      "source": "Google DeepMind",
-      "lang": "en",
-      "published": "2026-09-03T15:02:08.000Z",
-      "summary": ""
-    },
-    {
-      "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
-      "url": "https://openai.com/index/daybreak-for-frontline-defenders",
-      "source": "OpenAI",
-      "lang": "en",
-      "published": "2026-09-03T13:15:00.000Z",
-      "summary": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services."
-    },
-    {
-      "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
-      "url": "https://openai.com/index/playco-game-prototyping-with-astra",
-      "source": "OpenAI",
-      "lang": "en",
-      "published": "2026-09-03T12:00:00.000Z",
-      "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model."
-    },
-    {
-      "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-      "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
-      "source": "OpenAI",
-      "lang": "en",
-      "published": "2026-09-03T12:00:00.000Z",
-      "summary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow."
     }
   ]
 }
