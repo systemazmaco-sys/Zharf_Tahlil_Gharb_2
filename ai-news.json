@@ -1,6 +1,70 @@
 {
-  "updated_at": "2026-09-08T15:35:32.639Z",
+  "updated_at": "2026-09-08T20:26:10.889Z",
   "items": [
+    {
+      "title": "اوپن‌ای‌آی از ChatGPT Images 2.5 رونمایی کرد؛ تولید و ویرایش تصویر با دقت کم‌نظیر",
+      "url": "https://www.zoomit.ir/ai-articles/466817-openai-chatgpt-images-2-5-launch/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-09-08T19:19:00.000Z",
+      "summary": "اوپن‌ای‌آی از مدل هوش مصنوعی Images 2.5 با جزئیات بیشتر، ویرایش دقیق‌تر و تا ۵۰ درصد تأخیر کمتر رونمایی کرد."
+    },
+    {
+      "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
+      "url": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-09-08T19:00:00.000Z",
+      "summary": "Meta's new personal AI agent Muse wants access to users' email, calendars, payments, health services, and more — making the company's biggest consumer AI bet yet a major test of whether people still trust Meta with their"
+    },
+    {
+      "title": "مسئله‌ ریاضی با پاداش یک میلیون دلار؛ هوش مصنوعی اوپن‌ای‌آی معمای ۹۰ ساله را حل کرد",
+      "url": "https://www.zoomit.ir/ai-articles/466816-openai-navier-stokes-millennium-prize-problem/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-09-08T18:29:18.000Z",
+      "summary": "اوپن‌ای‌آی می‌گوید هوش مصنوعی آزمایشی‌اش موفق شد معمای ۹۰ ساله‌ی ناویر-استوکس را حل کند."
+    },
+    {
+      "title": "کره جنوبی هوش مصنوعی رایگان و نامحدود را در دسترس همه مردم قرار می‌دهد",
+      "url": "https://www.zoomit.ir/ai-articles/466815-south-korea-free-ai-for-all/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-09-08T17:42:31.000Z",
+      "summary": "کره‌‌ی جنوبی می‌خواهد هوش مصنوعی مولد را به یکی از خدمات عمومی تبدیل کند؛ رایگان، نامحدود و با تکیه بر مدل‌های بومی."
+    },
+    {
+      "title": "OpenAI fought dirty on career-making math problem, says NYU mathematician",
+      "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-09-08T17:32:15.000Z",
+      "summary": "There is a $1 million bounty for the first person providing a solution to the Navier-Stokes existence and smoothness problem."
+    },
+    {
+      "title": "دستاورد محققان: داروی طراحی‌شده با هوش مصنوعی علائم پیری بیولوژیکی را کاهش داد",
+      "url": "https://digiato.com/health/ai-generated-drug-slow-aging-study",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-09-08T17:30:00.000Z",
+      "summary": "داروی Rentosertib با هدف درمان بیماری مزمن ریوی در کنار افزایش طول عمر انسان‌ها طراحی شده است. The post دستاورد محققان: داروی طراحی‌شده با هوش مصنوعی علائم پیری بیولوژیکی را کاهش داد appeared first on دیجیاتو."
+    },
+    {
+      "title": "How GPT-5.6 Sol helps run quantum computing experiments",
+      "url": "https://openai.com/index/codex-quantum-computing-experiments",
+      "source": "OpenAI",
+      "lang": "en",
+      "published": "2026-09-08T17:00:00.000Z",
+      "summary": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits."
+    },
+    {
+      "title": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
+      "url": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-09-08T16:20:31.000Z",
+      "summary": "Google Cloud expands its enterprise AI push with Accenture, betting on forward-deployed engineers to drive adoption and overcome deployment bottlenecks."
+    },
     {
       "title": "ادوبی ابزارهای هوش مصنوعی پریمیر را مستقیماً به بخش تایم‌لاین می‌آورد",
       "url": "https://digiato.com/artificial-intelligence/adobe-premiere-generative-media-ai-tools",
@@ -8,14 +72,6 @@
       "lang": "fa",
       "published": "2026-09-08T15:10:55.000Z",
       "summary": "تغییرات جدید پریمیر دسترسی به ابزارهای شخص ثالث را برای تدوین‌گران بسیار ساده‌تر می‌کند. The post ادوبی ابزارهای هوش مصنوعی پریمیر را مستقیماً به بخش تایم‌لاین می‌آورد appeared first on دیجیاتو."
-    },
-    {
-      "title": "Mistral raises €3B as sovereign AI becomes big business",
-      "url": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-09-08T14:17:48.000Z",
-      "summary": "The French AI lab has raised €3 billion at a €21 billion valuation in a Series D round led by Samsung, Scaleup Europe and PSG Equity."
     },
     {
       "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
@@ -34,68 +90,12 @@
       "summary": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical."
     },
     {
-      "title": "This AI entrepreneur is developing agents that can plan ahead for the unexpected",
-      "url": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/",
-      "source": "MIT Technology Review",
-      "lang": "en",
-      "published": "2026-09-08T10:34:00.000Z",
-      "summary": "Danijar Hafner’s office in San Francisco’s SoMa district sits mostly empty. His brand-new startup is still in stealth mode and doesn’t even have its name on the door. On the day I visit, there’s only one other person the"
-    },
-    {
-      "title": "هوش مصنوعی ساختارهای ناشناخته مرموز را در دل زمین شناسایی کرد",
-      "url": "https://www.zoomit.ir/fundamental-science/466743-unknown-structures-earth-core-mantle-boundary/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-09-08T09:40:00.000Z",
-      "summary": "پژوهشگران با تحلیل امواج لرزه‌ای، شواهدی از شش ساختار پنهان در نزدیکی مرز میان گوشته و هسته پیدا کرده‌اند."
-    },
-    {
-      "title": "هشدار تکان‌دهنده دانشمند ارشد OpenAI: هیچ‌کس برای پیامدهای هوش مصنوعی آماده نیست",
-      "url": "https://www.zoomit.ir/ai-articles/466747-openai-chief-scientist-warns-featured/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-09-08T05:00:00.000Z",
-      "summary": "سازندگان مدل‌های جدید هوش مصنوعی اعتراف می‌کنند که رفتار ذهن‌های بیگانه مدل‌ها را کامل درک نمی‌کنند و نظارت بر افکارشان ناممکن شده است."
-    },
-    {
-      "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
-      "url": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
+      "title": "Introducing ChatGPT Images 2.5",
+      "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
       "source": "OpenAI",
       "lang": "en",
-      "published": "2026-09-08T00:00:00.000Z",
-      "summary": "OpenAI is expanding support for journalism with tools, training, and partnerships for students, educators, journalists, and news organizations."
-    },
-    {
-      "title": "Opaque recurrence, and other AI terms that you should probably know",
-      "url": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-09-07T19:24:00.000Z",
-      "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter."
-    },
-    {
-      "title": "هوش مصنوعی رازدار خوبی نیست؛ شخصی‌ترین افکارتان ممکن است به دست هرکس برسد",
-      "url": "https://www.zoomit.ir/ai-articles/466669-ai-chatbot-privacy-secrets-public/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-09-07T16:50:00.000Z",
-      "summary": "قبل از درد دل با هوش مصنوعی، بهتر است بدانید که گفت‌وگو با چت‌بات‌ها شاید خصوصی به نظر برسد، اما دیگران هم می‌توانند به متن چت‌ها دسترسی پیدا کنند."
-    },
-    {
-      "title": "Supporting independent journalism in Ukraine",
-      "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
-      "source": "OpenAI",
-      "lang": "en",
-      "published": "2026-09-07T00:00:00.000Z",
-      "summary": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism."
-    },
-    {
-      "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
-      "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-09-06T20:47:37.000Z",
-      "summary": "Authors say publishers seem to be claiming more than their fair share of settlement payments."
+      "published": "2026-09-08T11:30:00.000Z",
+      "summary": "ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas."
     }
   ]
 }
