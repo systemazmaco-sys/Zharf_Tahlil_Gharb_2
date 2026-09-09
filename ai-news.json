@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-08T20:26:10.889Z",
+  "updated_at": "2026-09-09T01:59:54.484Z",
   "items": [
+    {
+      "title": "Hackers are stealing Claude tokens from subscribers",
+      "url": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-09-08T21:10:27.000Z",
+      "summary": "Last month, a Claude user noticed his account was consuming tokens even though he wasn't working. Anthropic has since warned users about hackers."
+    },
+    {
+      "title": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
+      "url": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-09-08T21:04:06.000Z",
+      "summary": "Cognition's valuation multiple is higher than Cursor's was before selling to SpaceX."
+    },
     {
       "title": "اوپن‌ای‌آی از ChatGPT Images 2.5 رونمایی کرد؛ تولید و ویرایش تصویر با دقت کم‌نظیر",
       "url": "https://www.zoomit.ir/ai-articles/466817-openai-chatgpt-images-2-5-launch/",
@@ -34,14 +50,6 @@
       "summary": "کره‌‌ی جنوبی می‌خواهد هوش مصنوعی مولد را به یکی از خدمات عمومی تبدیل کند؛ رایگان، نامحدود و با تکیه بر مدل‌های بومی."
     },
     {
-      "title": "OpenAI fought dirty on career-making math problem, says NYU mathematician",
-      "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-09-08T17:32:15.000Z",
-      "summary": "There is a $1 million bounty for the first person providing a solution to the Navier-Stokes existence and smoothness problem."
-    },
-    {
       "title": "دستاورد محققان: داروی طراحی‌شده با هوش مصنوعی علائم پیری بیولوژیکی را کاهش داد",
       "url": "https://digiato.com/health/ai-generated-drug-slow-aging-study",
       "source": "دیجیاتو",
@@ -56,14 +64,6 @@
       "lang": "en",
       "published": "2026-09-08T17:00:00.000Z",
       "summary": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits."
-    },
-    {
-      "title": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
-      "url": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-09-08T16:20:31.000Z",
-      "summary": "Google Cloud expands its enterprise AI push with Accenture, betting on forward-deployed engineers to drive adoption and overcome deployment bottlenecks."
     },
     {
       "title": "ادوبی ابزارهای هوش مصنوعی پریمیر را مستقیماً به بخش تایم‌لاین می‌آورد",
