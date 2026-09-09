@@ -1,61 +1,85 @@
 {
-  "updated_at": "2026-09-09T01:59:54.484Z",
+  "updated_at": "2026-09-09T15:29:42.599Z",
   "items": [
     {
-      "title": "Hackers are stealing Claude tokens from subscribers",
-      "url": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
+      "title": "Viral AI assistant Instinct now has its own email address",
+      "url": "https://techcrunch.com/2026/09/09/viral-ai-assistant-instinct-now-has-its-own-email-address/",
       "source": "TechCrunch AI",
       "lang": "en",
-      "published": "2026-09-08T21:10:27.000Z",
-      "summary": "Last month, a Claude user noticed his account was consuming tokens even though he wasn't working. Anthropic has since warned users about hackers."
+      "published": "2026-09-09T15:13:12.000Z",
+      "summary": "Instinct’s new email feature lets the AI agent create and manage accounts, contact businesses, handle support requests, and do more on users' behalf."
     },
     {
-      "title": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
-      "url": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
+      "title": "‘Gambling with our lives’: Anthropic researcher quits, warns against self-improving AI",
+      "url": "https://techcrunch.com/2026/09/09/gambling-with-our-lives-anthropic-researcher-quits-warns-against-self-improving-ai/",
       "source": "TechCrunch AI",
       "lang": "en",
-      "published": "2026-09-08T21:04:06.000Z",
-      "summary": "Cognition's valuation multiple is higher than Cursor's was before selling to SpaceX."
+      "published": "2026-09-09T15:02:47.000Z",
+      "summary": "Anthropic researcher Jacob Coxon resigned over AI extinction fears, calling for pacing agreements between labs."
     },
     {
-      "title": "اوپن‌ای‌آی از ChatGPT Images 2.5 رونمایی کرد؛ تولید و ویرایش تصویر با دقت کم‌نظیر",
-      "url": "https://www.zoomit.ir/ai-articles/466817-openai-chatgpt-images-2-5-launch/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-09-08T19:19:00.000Z",
-      "summary": "اوپن‌ای‌آی از مدل هوش مصنوعی Images 2.5 با جزئیات بیشتر، ویرایش دقیق‌تر و تا ۵۰ درصد تأخیر کمتر رونمایی کرد."
-    },
-    {
-      "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
-      "url": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
+      "title": "Shipt becomes the latest delivery app with an AI shopping assistant",
+      "url": "https://techcrunch.com/2026/09/09/shipt-becomes-the-latest-delivery-app-with-an-ai-shopping-assistant/",
       "source": "TechCrunch AI",
       "lang": "en",
-      "published": "2026-09-08T19:00:00.000Z",
-      "summary": "Meta's new personal AI agent Muse wants access to users' email, calendars, payments, health services, and more — making the company's biggest consumer AI bet yet a major test of whether people still trust Meta with their"
+      "published": "2026-09-09T14:51:45.000Z",
+      "summary": "Users can ask the assistant to do things like \"Create a cart for my Saturday tailgate for 25 people and include some brunch items,\" or \"Build a cart for easy school lunches and after-school snacks,\" Shipt says."
     },
     {
-      "title": "مسئله‌ ریاضی با پاداش یک میلیون دلار؛ هوش مصنوعی اوپن‌ای‌آی معمای ۹۰ ساله را حل کرد",
-      "url": "https://www.zoomit.ir/ai-articles/466816-openai-navier-stokes-millennium-prize-problem/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-09-08T18:29:18.000Z",
-      "summary": "اوپن‌ای‌آی می‌گوید هوش مصنوعی آزمایشی‌اش موفق شد معمای ۹۰ ساله‌ی ناویر-استوکس را حل کند."
-    },
-    {
-      "title": "کره جنوبی هوش مصنوعی رایگان و نامحدود را در دسترس همه مردم قرار می‌دهد",
-      "url": "https://www.zoomit.ir/ai-articles/466815-south-korea-free-ai-for-all/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-09-08T17:42:31.000Z",
-      "summary": "کره‌‌ی جنوبی می‌خواهد هوش مصنوعی مولد را به یکی از خدمات عمومی تبدیل کند؛ رایگان، نامحدود و با تکیه بر مدل‌های بومی."
-    },
-    {
-      "title": "دستاورد محققان: داروی طراحی‌شده با هوش مصنوعی علائم پیری بیولوژیکی را کاهش داد",
-      "url": "https://digiato.com/health/ai-generated-drug-slow-aging-study",
+      "title": "کوالکام و آمازون قرارداد ۶۰ میلیارد دلاری هوش مصنوعی امضا کردند؛ خط‌ونشان برای انویدیا",
+      "url": "https://digiato.com/finance-investment/amazon-qualcomm-ai-chips-datacenter-deal",
       "source": "دیجیاتو",
       "lang": "fa",
-      "published": "2026-09-08T17:30:00.000Z",
-      "summary": "داروی Rentosertib با هدف درمان بیماری مزمن ریوی در کنار افزایش طول عمر انسان‌ها طراحی شده است. The post دستاورد محققان: داروی طراحی‌شده با هوش مصنوعی علائم پیری بیولوژیکی را کاهش داد appeared first on دیجیاتو."
+      "published": "2026-09-09T13:45:00.000Z",
+      "summary": "این قرارداد شامل ساخت تراشه‌های اختصاصی استنتاج هوش مصنوعی و تجهیزات شبکه نوری پرسرعت دیتاسنتر می‌شود. The post کوالکام و آمازون قرارداد ۶۰ میلیارد دلاری هوش مصنوعی امضا کردند؛ خط‌ونشان برای انویدیا appeared first on دیج"
+    },
+    {
+      "title": "ثبت شکایت علیه آنتروپیک بابت فریب کاربران در فروش اشتراک‌های پولی Claude",
+      "url": "https://digiato.com/artificial-intelligence/anthropic-claude-lawsuit-against-paid-plans",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-09-09T13:15:00.000Z",
+      "summary": "جمعی از کاربران هوش مصنوعی Claude از شرکت آنتروپیک بابت تبلیغات فریب‌آمیز طرح‌های پولی این ابزار شکایت کرده‌اند. The post ثبت شکایت علیه آنتروپیک بابت فریب کاربران در فروش اشتراک‌های پولی Claude appeared first on دیجیاتو"
+    },
+    {
+      "title": "سامسونگ با برجسته‌ترین استارتاپ هوش مصنوعی اروپا وارد همکاری شد",
+      "url": "https://www.zoomit.ir/business/466836-samsung-mistral-ai-chip-partnership/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-09-09T12:30:00.000Z",
+      "summary": "سامسونگ با رهبری دور جدید سرمایه‌گذاری در میسترال، هوش مصنوعی را به قلب عملیات‌های نیمه‌هادی خود می‌برد."
+    },
+    {
+      "title": "آمریکا شرکت‌های چینی را به سرقت فناوری‌های هوش مصنوعی متهم کرد",
+      "url": "https://digiato.com/artificial-intelligence/us-accuses-china-ai-firms-distillation",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-09-09T12:30:00.000Z",
+      "summary": "مقامات آمریکایی شش شرکت چینی از جمله دیپ‌سیک، Moonshot AI و علی‌بابا را متهم به استفاده از روش «تقطیر» هوش مصنوعی کرده‌اند. The post آمریکا شرکت‌های چینی را به سرقت فناوری‌های هوش مصنوعی متهم کرد appeared first on دیجیات"
+    },
+    {
+      "title": "دانشمند ارشد آنتروپیک از احتمال «کشته‌شدن همه انسان‌ها به دست هوش مصنوعی» می‌گوید",
+      "url": "https://www.zoomit.ir/ai-articles/466863-anthropic-ai-safety-warning-kill-all-humans/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-09-09T10:44:46.000Z",
+      "summary": "دو پژوهشگر آنتروپیک از مسابقه‌ی خطرناک برای ساخت «هوش مصنوعیِ خودبهبوددهنده» گفتند و از احتمال وقوع فاجعه‌ای بزرگ خبر دادند."
+    },
+    {
+      "title": "هوش مصنوعی جایگزین گزارشگران در بازی‌های ویدیویی می‌شود؛ استفاده از AI در NHL 27",
+      "url": "https://www.zoomit.ir/gaming/466766-nhl-27-ai-voice-commentary/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-09-09T09:40:00.000Z",
+      "summary": "الکترونیک آرتز برای تولید صدای گزارشگران در بازی NHL 27 از هوش مصنوعی استفاده کرده است."
+    },
+    {
+      "title": "What OpenAI’s latest controversy tells us about the future of math",
+      "url": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
+      "source": "MIT Technology Review",
+      "lang": "en",
+      "published": "2026-09-09T03:10:08.000Z",
+      "summary": "OpenAI’s latest mathematical milestone has quickly become mired in controversy. Today, the company announced that its agents have solved one of the Millennium Prize Problems, some of the most important open problems in m"
     },
     {
       "title": "How GPT-5.6 Sol helps run quantum computing experiments",
@@ -66,36 +90,12 @@
       "summary": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits."
     },
     {
-      "title": "ادوبی ابزارهای هوش مصنوعی پریمیر را مستقیماً به بخش تایم‌لاین می‌آورد",
-      "url": "https://digiato.com/artificial-intelligence/adobe-premiere-generative-media-ai-tools",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-09-08T15:10:55.000Z",
-      "summary": "تغییرات جدید پریمیر دسترسی به ابزارهای شخص ثالث را برای تدوین‌گران بسیار ساده‌تر می‌کند. The post ادوبی ابزارهای هوش مصنوعی پریمیر را مستقیماً به بخش تایم‌لاین می‌آورد appeared first on دیجیاتو."
-    },
-    {
       "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
       "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
       "source": "Google DeepMind",
       "lang": "en",
       "published": "2026-09-08T14:00:15.000Z",
       "summary": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome."
-    },
-    {
-      "title": "The Work Now Within Reach",
-      "url": "https://openai.com/index/the-work-now-within-reach",
-      "source": "OpenAI",
-      "lang": "en",
-      "published": "2026-09-08T13:00:00.000Z",
-      "summary": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical."
-    },
-    {
-      "title": "Introducing ChatGPT Images 2.5",
-      "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
-      "source": "OpenAI",
-      "lang": "en",
-      "published": "2026-09-08T11:30:00.000Z",
-      "summary": "ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas."
     }
   ]
 }
