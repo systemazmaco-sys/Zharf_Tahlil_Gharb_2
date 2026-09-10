@@ -1,13 +1,85 @@
 {
-  "updated_at": "2026-09-10T10:12:17.727Z",
+  "updated_at": "2026-09-10T15:25:00.536Z",
   "items": [
     {
-      "title": "دستاورد بزرگ ریاضی OpenAI زیر سؤال رفت؛ ابهام درباره استفاده از تحقیق دو پژوهشگر",
-      "url": "https://digiato.com/artificial-intelligence/openai-navier-stokes-controversy-2",
+      "title": "Now everyone can put data to work",
+      "url": "https://openai.com/index/put-data-to-work",
+      "source": "OpenAI",
+      "lang": "en",
+      "published": "2026-09-10T15:00:00.000Z",
+      "summary": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language."
+    },
+    {
+      "title": "AI agents are flooding public services with new requests",
+      "url": "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-09-10T14:53:50.000Z",
+      "summary": "“The vast majority of cases we find are people who are entitled to claim for something, claiming for that thing,” the researcher told TechCrunch."
+    },
+    {
+      "title": "آیا درون‌گراها و برون‌گراها باید به‌شکلی متفاوت از هوش مصنوعی استفاده کنند؟",
+      "url": "https://www.zoomit.ir/human-science/466804-personality-types-ai-usage/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-09-10T14:40:00.000Z",
+      "summary": "تیپ شخصیتی شما، از درون‌گرایی تا برون‌گرایی، شیوه تعامل و بهره‌گیری از ابزارهای هوش مصنوعی را تغییر می‌دهد؛ اما شخصی‌سازی بیش‌ازحد نیز پیامدهایی دارد."
+    },
+    {
+      "title": "Maven Robotics wants to steal your robot deployment deal",
+      "url": "https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-09-10T14:17:37.000Z",
+      "summary": "Maven Robotics emerged from stealth today with a $100 million Series A and active deployments."
+    },
+    {
+      "title": "نیویورک به ممنوع‌سازی استخراج رمزارز و دیتاسنترهای هوش مصنوعی فکر می‌کند",
+      "url": "https://www.zoomit.ir/cryptocurrency/466833-plattsburgh-ai-crypto-moratorium-hearing/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-09-10T14:00:00.000Z",
+      "summary": "مسئولان شهر پلاتسبرگ در نیویورک طرح توقف موقت مجوزهای مربوط به دیتاسنترها هوش مصنوعی و استخراج رمزارز را بررسی کردند."
+    },
+    {
+      "title": "اندرو گارفیلد پس از ایفای نقش «سم آلتمن» دیگر از ChatGPT استفاده نمی‌کند",
+      "url": "https://digiato.com/internet-network/andrew-garfield-stopped-using-chatgpt-sam-altman-role",
       "source": "دیجیاتو",
       "lang": "fa",
-      "published": "2026-09-10T10:08:00.000Z",
-      "summary": "ادعای حل مسئله ناویر-استوکس توسط OpenAI با جنجال بزرگی روبه‌رو شده است. The post دستاورد بزرگ ریاضی OpenAI زیر سؤال رفت؛ ابهام درباره استفاده از تحقیق دو پژوهشگر appeared first on دیجیاتو."
+      "published": "2026-09-10T13:50:47.000Z",
+      "summary": "این بازیگر ۴۳ ساله پیش از این نیز بعد از بازی در فیلم «شبکه اجتماعی» استفاده از فیس‌بوک را به‌طور کامل متوقف کرده بود. The post اندرو گارفیلد پس از ایفای نقش «سم آلتمن» دیگر از ChatGPT استفاده نمی‌کند appeared first on د"
+    },
+    {
+      "title": "یک ریاضی‌دان از OpenAI توضیح می‌خواهد: داده‌های هوش مصنوعی شما از کجا آمده‌اند؟",
+      "url": "https://digiato.com/artificial-intelligence/openai-mathematicians-data-training-dispute",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-09-10T13:12:05.000Z",
+      "summary": "این ریاضیدان مدعی است مدل‌های هوش مصنوعی احتمالاً از تعاملات خصوصی او برای پیشرفت در مبحث پیچیده «گروه‌های غیرسوفیک» استفاده کرده‌اند. The post یک ریاضی‌دان از OpenAI توضیح می‌خواهد: داده‌های هوش مصنوعی شما از کجا آمده‌ا"
+    },
+    {
+      "title": "بحران حافظه قیمت تراشه‌های هوش مصنوعی چینی را تا ۵۰ درصد افزایش داد",
+      "url": "https://digiato.com/computers-hardware/china-ai-chipmakers-raise-prices-hbm-shortage",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-09-10T11:06:09.000Z",
+      "summary": "هواوی از جمله شرکت‌هایی است که قیمت محصولات خود را افزایش داده است. The post بحران حافظه قیمت تراشه‌های هوش مصنوعی چینی را تا ۵۰ درصد افزایش داد appeared first on دیجیاتو."
+    },
+    {
+      "title": "Powering AI is an architecture problem",
+      "url": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/",
+      "source": "MIT Technology Review",
+      "lang": "en",
+      "published": "2026-09-10T11:00:00.000Z",
+      "summary": "On July 22, 2026, a transmission line fault in Ashburn, Virginia—the heart of the world’s largest data center cluster—knocked more than 3 gigawatts of load off the grid in seconds. And it wasn’t the first time. Two years"
+    },
+    {
+      "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
+      "url": "https://openai.com/index/expanding-ai-access-us-government",
+      "source": "OpenAI",
+      "lang": "en",
+      "published": "2026-09-10T07:00:00.000Z",
+      "summary": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support."
     },
     {
       "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
@@ -18,84 +90,12 @@
       "summary": "Listen Labs walked away from a signed Series C term sheet from Menlo Ventures, sources say."
     },
     {
-      "title": "OpenAI adds a prominent AI doomer to its board of directors",
-      "url": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-09-09T22:25:22.000Z",
-      "summary": "Paul Christiano, an influential AI researcher focused on alignment, is joining the OpenAI Foundation as a member of its board."
-    },
-    {
-      "title": "Massachusetts hits data centers with new clean power rules",
-      "url": "https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-09-09T21:43:34.000Z",
-      "summary": "Massachusetts has become the third state in as many months to slap new restrictions on data center development."
-    },
-    {
       "title": "لولای آیفون دوئو با کمک هوش مصنوعی طراحی شده است",
       "url": "https://www.zoomit.ir/mobile/466904-apple-unveils-foldable-iphone-duo/",
       "source": "زومیت",
       "lang": "fa",
       "published": "2026-09-09T19:41:43.000Z",
       "summary": "اپل برای طراحی لولای اولین گوشی تاشدنی‌اش از هوش مصنوعی استفاده کرده است."
-    },
-    {
-      "title": "Paul Christiano joins OpenAI Foundation Board",
-      "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
-      "source": "OpenAI",
-      "lang": "en",
-      "published": "2026-09-09T17:00:00.000Z",
-      "summary": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards."
-    },
-    {
-      "title": "The AI policy window is open. We need to act.",
-      "url": "https://openai.com/index/ai-policy-window",
-      "source": "OpenAI",
-      "lang": "en",
-      "published": "2026-09-09T13:00:00.000Z",
-      "summary": "Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared standards, and durable policy action while the policy window remains open."
-    },
-    {
-      "title": "سامسونگ با برجسته‌ترین استارتاپ هوش مصنوعی اروپا وارد همکاری شد",
-      "url": "https://www.zoomit.ir/business/466836-samsung-mistral-ai-chip-partnership/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-09-09T12:30:00.000Z",
-      "summary": "سامسونگ با رهبری دور جدید سرمایه‌گذاری در میسترال، هوش مصنوعی را به قلب عملیات‌های نیمه‌هادی خود می‌برد."
-    },
-    {
-      "title": "GPT-6 Astra: The next generation in intelligence for work",
-      "url": "https://openai.com/index/gpt-6-astra-next-generation-work",
-      "source": "OpenAI",
-      "lang": "en",
-      "published": "2026-09-09T11:00:00.000Z",
-      "summary": "Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment."
-    },
-    {
-      "title": "دانشمند ارشد آنتروپیک از احتمال «کشته‌شدن همه انسان‌ها به دست هوش مصنوعی» می‌گوید",
-      "url": "https://www.zoomit.ir/ai-articles/466863-anthropic-ai-safety-warning-kill-all-humans/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-09-09T10:44:46.000Z",
-      "summary": "دو پژوهشگر آنتروپیک از مسابقه‌ی خطرناک برای ساخت «هوش مصنوعیِ خودبهبوددهنده» گفتند و از احتمال وقوع فاجعه‌ای بزرگ خبر دادند."
-    },
-    {
-      "title": "What OpenAI’s latest controversy tells us about the future of math",
-      "url": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
-      "source": "MIT Technology Review",
-      "lang": "en",
-      "published": "2026-09-09T03:10:08.000Z",
-      "summary": "OpenAI’s latest mathematical milestone has quickly become mired in controversy. Today, the company announced that its agents have solved one of the Millennium Prize Problems, some of the most important open problems in m"
-    },
-    {
-      "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
-      "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
-      "source": "Google DeepMind",
-      "lang": "en",
-      "published": "2026-09-08T14:00:15.000Z",
-      "summary": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome."
     }
   ]
 }
