@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-09-10T01:56:31.624Z",
+  "updated_at": "2026-09-10T10:12:17.727Z",
   "items": [
+    {
+      "title": "دستاورد بزرگ ریاضی OpenAI زیر سؤال رفت؛ ابهام درباره استفاده از تحقیق دو پژوهشگر",
+      "url": "https://digiato.com/artificial-intelligence/openai-navier-stokes-controversy-2",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-09-10T10:08:00.000Z",
+      "summary": "ادعای حل مسئله ناویر-استوکس توسط OpenAI با جنجال بزرگی روبه‌رو شده است. The post دستاورد بزرگ ریاضی OpenAI زیر سؤال رفت؛ ابهام درباره استفاده از تحقیق دو پژوهشگر appeared first on دیجیاتو."
+    },
     {
       "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
       "url": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
@@ -88,14 +96,6 @@
       "lang": "en",
       "published": "2026-09-08T14:00:15.000Z",
       "summary": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome."
-    },
-    {
-      "title": "This AI entrepreneur is developing agents that can plan ahead for the unexpected",
-      "url": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/",
-      "source": "MIT Technology Review",
-      "lang": "en",
-      "published": "2026-09-08T10:34:00.000Z",
-      "summary": "Danijar Hafner’s office in San Francisco’s SoMa district sits mostly empty. His brand-new startup is still in stealth mode and doesn’t even have its name on the door. On the day I visit, there’s only one other person the"
     }
   ]
 }
