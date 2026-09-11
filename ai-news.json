@@ -1,13 +1,61 @@
 {
-  "updated_at": "2026-09-10T20:11:41.757Z",
+  "updated_at": "2026-09-11T10:09:18.477Z",
   "items": [
     {
-      "title": "Meta’s AI agent Muse is now the No. 2 app in the US",
-      "url": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
+      "title": "نسخه ویژه ChatGPT برای خدمات مالی با دسترسی به مدل Astra معرفی شد [تماشا کنید]",
+      "url": "https://digiato.com/artificial-intelligence/openai-launches-chatgpt-for-financial-services",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-09-11T09:47:49.000Z",
+      "summary": "OpenAI قصد دارد با این سرویس جدید پوشش دیتای گسترده‌تری را فراتر از بانکداران و محققان سهام توسعه دهد. The post نسخه ویژه ChatGPT برای خدمات مالی با دسترسی به مدل Astra معرفی شد [تماشا کنید] appeared first on دیجیاتو."
+    },
+    {
+      "title": "آنتروپیک: ایجنت‌های هوش مصنوعی هم مثل انسان‌ها از کپچا متنفرند",
+      "url": "https://digiato.com/artificial-intelligence/anthropic-ai-agents-hate-captchas",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-09-11T08:56:02.000Z",
+      "summary": "آنتروپیک همچنین گفته مدل Mythos 5 این شرکت بسته نرم‌افزاری مخرب را در یک دیتابیس عمومی اپلود کرده است. The post آنتروپیک: ایجنت‌های هوش مصنوعی هم مثل انسان‌ها از کپچا متنفرند appeared first on دیجیاتو."
+    },
+    {
+      "title": "OpenAI به‌دلیل تقاضای بالا برای مدل Astra، ثبت‌نام اشتراک پرو را متوقف کرد",
+      "url": "https://digiato.com/artificial-intelligence/openai-pause-subscriptions-for-pro-plan",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-09-11T07:22:23.000Z",
+      "summary": "فشار به زیرساخت‌های OpenAI در پی عرضه مدل پیشرفته آسترا دلیل این تصمیم اعلام شده است. The post OpenAI به‌دلیل تقاضای بالا برای مدل Astra، ثبت‌نام اشتراک پرو را متوقف کرد appeared first on دیجیاتو."
+    },
+    {
+      "title": "متا برای هوش مصنوعی جدیدش آی‌دی Muse را از یک گروه راک گرفت",
+      "url": "https://www.zoomit.ir/ai-articles/466987-muse-meta-ai-handle/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-09-11T06:00:00.000Z",
+      "summary": "گروه راک بریتانیایی میوز نام کاربری ایکس و اینستاگرام خود را به ابزار هوش مصنوعی جدید متا واگذار کرد."
+    },
+    {
+      "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
+      "url": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
       "source": "TechCrunch AI",
       "lang": "en",
-      "published": "2026-09-10T19:50:04.000Z",
-      "summary": "Meta's newest app Muse is off to a slower start than the company's other apps, like Meta AI or Threads."
+      "published": "2026-09-10T21:51:59.000Z",
+      "summary": "Nvidia has its finger in every pie, and sees another year of plenty in its future, Jensen Huang says. But, he insists, its deals are not circular."
+    },
+    {
+      "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
+      "url": "https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-09-10T21:35:00.000Z",
+      "summary": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness, and building businesses."
+    },
+    {
+      "title": "OpenAI puts Pro subscriptions on hold due to Astra demand",
+      "url": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-09-10T20:59:51.000Z",
+      "summary": "The company said Pro subscriptions put the most strain on its systems, so it's pausing sign-ups while adding more capacity."
     },
     {
       "title": "OpenAI چگونه مسئله ناویر-استوکس را در ۸۸ ساعت حل کرد؟",
@@ -26,38 +74,6 @@
       "summary": "هوش مصنوعی ممکن است پل واکر را به فیلم‌های «سریع و خشن» برگرداند؛ اما برادر واکر با این کار موافق نیست."
     },
     {
-      "title": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
-      "url": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-09-10T17:54:44.000Z",
-      "summary": "Come inside the mind of a bot trying to convince the internet it's human."
-    },
-    {
-      "title": "India’s Pocket FM doubles revenue run rate to $500M as AI powers 93% of audio content",
-      "url": "https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-09-10T17:45:00.000Z",
-      "summary": "Pocket FM uses AI to produce 99% of its new content, helping make content production about 80 times cheaper."
-    },
-    {
-      "title": "سرگئی برین در یک آشپزخانه استارتاپی آینده هوش مصنوعی گوگل را رقم می‌زند",
-      "url": "https://digiato.com/artificial-intelligence/google-sergey-brin-cooking-up-future-ai",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-09-10T17:30:00.000Z",
-      "summary": "در شرایطی که رقابت هوش مصنوعی شدیدتر از همیشه شده، «سرگئی برین» از مقری ویژه در ماونتین ویو درحال پیشبرد پروژه‌های گوگل است. The post سرگئی برین در یک آشپزخانه استارتاپی آینده هوش مصنوعی گوگل را رقم می‌زند appeared first"
-    },
-    {
-      "title": "راهکار جالب استارتاپ هندی: شناسایی سرطان با کمک بویایی سگ‌ها و هوش مصنوعی",
-      "url": "https://digiato.com/health/indian-startup-dogs-ai-cancer-screening",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-09-10T16:30:00.000Z",
-      "summary": "یک استارتاپ هندی با ترکیب حس بویایی سگ‌ها و هوش مصنوعی درحال توسعه روشی غیرتهاجمی برای غربالگری اولیه سرطان از نمونه تنفس انسان است. The post راهکار جالب استارتاپ هندی: شناسایی سرطان با کمک بویایی سگ‌ها و هوش مصنوعی appe"
-    },
-    {
       "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
       "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
       "source": "OpenAI",
@@ -72,22 +88,6 @@
       "lang": "en",
       "published": "2026-09-10T15:00:00.000Z",
       "summary": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language."
-    },
-    {
-      "title": "آیا درون‌گراها و برون‌گراها باید به‌شکلی متفاوت از هوش مصنوعی استفاده کنند؟",
-      "url": "https://www.zoomit.ir/human-science/466804-personality-types-ai-usage/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-09-10T14:40:00.000Z",
-      "summary": "تیپ شخصیتی شما، از درون‌گرایی تا برون‌گرایی، شیوه تعامل و بهره‌گیری از ابزارهای هوش مصنوعی را تغییر می‌دهد؛ اما شخصی‌سازی بیش‌ازحد نیز پیامدهایی دارد."
-    },
-    {
-      "title": "اندرو گارفیلد پس از ایفای نقش «سم آلتمن» دیگر از ChatGPT استفاده نمی‌کند",
-      "url": "https://digiato.com/internet-network/andrew-garfield-stopped-using-chatgpt-sam-altman-role",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-09-10T13:50:47.000Z",
-      "summary": "این بازیگر ۴۳ ساله پیش از این نیز بعد از بازی در فیلم «شبکه اجتماعی» استفاده از فیس‌بوک را به‌طور کامل متوقف کرده بود. The post اندرو گارفیلد پس از ایفای نقش «سم آلتمن» دیگر از ChatGPT استفاده نمی‌کند appeared first on د"
     },
     {
       "title": "Powering AI is an architecture problem",
