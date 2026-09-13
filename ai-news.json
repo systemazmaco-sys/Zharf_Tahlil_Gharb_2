@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13T15:14:28.094Z",
+  "updated_at": "2026-09-13T19:58:10.264Z",
   "items": [
     {
       "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
@@ -10,6 +10,54 @@
       "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models."
     },
     {
+      "title": "What’s behind the AI industry’s latest warnings of doom?",
+      "url": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-09-13T19:40:15.000Z",
+      "summary": "On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity."
+    },
+    {
+      "title": "هشدار تکان‌دهنده سرمایه‌گذار بزرگ: شاید هوش مصنوعی باید پیش از وضع قوانین، اولین قربانی‌ها را بگیرد",
+      "url": "https://www.zoomit.ir/ai-articles/467072-ai-regulations-greg-jensen-warning/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-09-13T17:45:00.000Z",
+      "summary": "یکی از مدیران ارشد سرمایه‌گذاری جهان هشدار داد سیاست‌مداران تنها پس از وقوع تلفات انسانی ناشی از هوش مصنوعی، متوجه خطرات می‌شوند."
+    },
+    {
+      "title": "لحظه‌ی کد قرمز؛ چرا سازندگان هوش مصنوعی خودشان ترسیده‌اند؟",
+      "url": "https://www.zoomit.ir/ai-articles/467139-ai-code-red-moment-featured/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-09-13T16:30:00.000Z",
+      "summary": "شرکت‌هایی که برای ساخت قدرتمندترین مدل‌ها میلیاردها دلار خرج می‌کنند، حالا از ضرورت کاهش سرعت حرف می‌زنند؛ بی‌آنکه مسابقه از حرکت بایستد."
+    },
+    {
+      "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
+      "url": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-09-13T16:30:00.000Z",
+      "summary": "Obama recently said that Democrats need to make artificial intelligence one of their “central agendas” and “have a very clear plan” to address concerns around the technology’s economic impact and safety."
+    },
+    {
+      "title": "جنجال بر سر توسعه شتابان هوش مصنوعی؛ ترامپ با خواسته بزرگان صنعت مخالفت کرد",
+      "url": "https://www.zoomit.ir/ai-articles/467145-trump-ai-slowdown-china-competition/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-09-13T16:25:37.000Z",
+      "summary": "دونالد ترامپ هشدار مدیران هوش مصنوعی را نپذیرفت و رقابت با چین را دلیلی برای ادامه‌ی توسعه‌ی شتابان هوش مصنوعی عنوان کرد."
+    },
+    {
+      "title": "Anthropic chief urges slowdown in AI development to safer pa|Cointelegraph",
+      "url": "https://news.google.com/rss/articles/CBMi3wNBVV95cUxOTExMVUpuWkU0TDZpNW1VbUVYSWhhMHZQckQzRi1wVm9ZQTFkWXFzRXFIallIVUFoRnBSNXItNmFnNHZIVU9QZ19LdzU4VkpiUkw5VVVLYXJ3YnB0d0RrWHVWeS1IZkxNdFIwNWNKeE1rdjBhMkdYTlUxY251cXlESzhkd082ZHRfYVVZVGYwZ2NVaVpoSzZ3dkJleWZXUWI2SHJUR252ZGxtQXd1X3JHcU5nLWt5SC1CMVJSMHBrLTlRd1FxS3BIUXlPWUVZODZLVVE2bEFJV1J1d3hSTWhJbXBDLW51LUxXUURNQlJVeHUxUGJCbmU2UHlZMWlGWTR0VGZBVE1wOXVpTWJSazZuOFdtZFFXSkRQc25lMDVheGNBcWpBU2VCZ2kxX0dRay1vWDA4ZU9pRlFMRnJ4a1BSTXctWVM4UWxlaGhfdzZIZ0hUbWFpRUxYXzctckhEX1NsYUJIRHhTQUZ6NFNYNnpBNkVuc19uT3pKaWpmZTJVeEVES1NPSUlqMXhWTmVpYXlkaW1odDh1SWF1Ukp4MGwyMVdad0FUcExKQWoyaDZheDhmenI0Z1EwNG9KMk5BNFNxQm50NHdPUUI3ZzJadUpkWE1sRmlTOFB1T2lRZFJwRQ?oc=5",
+      "source": "خبرپو",
+      "lang": "fa",
+      "published": "2026-09-13T14:46:02.000Z",
+      "summary": "Anthropic chief urges slowdown in AI development to safer pa|Cointelegraph خبرپو"
+    },
+    {
       "title": "OpenAI برای ارتقای امنیت شبکه برق با غول‌های انرژی آمریکا مذاکره می‌کند",
       "url": "https://digiato.com/security/openai-sam-altman-electric-grid-daybreak-cybersecurity",
       "source": "دیجیاتو",
@@ -18,60 +66,12 @@
       "summary": "طرح یک میلیارد دلاری Daybreak با هدف شناسایی و برطرف کردن رخنه‌های امنیتی در سیستم‌های حساس و زیرساختی طراحی شده است. The post OpenAI برای ارتقای امنیت شبکه برق با غول‌های انرژی آمریکا مذاکره می‌کند appeared first on دیج"
     },
     {
-      "title": "خبر بد برای غول‌های هوش مصنوعی؛ سناتورهای آمریکا در پی وضع قوانین سخت‌گیرانه هستند",
-      "url": "https://www.zoomit.ir/ai-articles/467068-us-senate-ai-safety-legislation/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-09-13T12:50:00.000Z",
-      "summary": "مذاکره‌کنندگان سنای آمریکا در حال بررسی طرحی هستند که توسعه‌دهندگان هوش مصنوعی را ملزم به تضمین ایمنی محصولات پیشرفته می‌کند."
-    },
-    {
-      "title": "رئیس‌جمهور چین خواستار ایجاد جامعه‌ای برای توسعه هوش مصنوعی متن‌باز شد",
-      "url": "https://digiato.com/artificial-intelligence/xi-brics-open-source-ai-community",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-09-13T12:00:00.000Z",
-      "summary": "«شی جین‌پینگ» در اجلاس بریکس پیشنهاد ایجاد جامعه‌ای برای هوش مصنوعی متن‌باز را مطرح کرد. The post رئیس‌جمهور چین خواستار ایجاد جامعه‌ای برای توسعه هوش مصنوعی متن‌باز شد appeared first on دیجیاتو."
-    },
-    {
-      "title": "قانون ملی توسعه هوش مصنوعی ابلاغ شد؛ یک سازمان زیر نظر رئیس‌جمهور با صندوق ۱۰ هزار میلیارد تومانی",
-      "url": "https://www.zoomit.ir/iran-news/467113-iran-national-ai-development-law-explained/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-09-13T07:42:54.000Z",
-      "summary": "قانون ملی توسعه هوش مصنوعی با پیش‌بینی تشکیل سازمانی مستقل زیر نظر رئیس‌جمهور و سطح‌بندی سامانه‌ها بر اساس ریسک به دولت ابلاغ شد."
-    },
-    {
-      "title": "در رویداد ویژن ۲۰۲۶ مطرح شد: هوش مصنوعی چگونه وارد کسب‌وکارها می‌شود؟",
-      "url": "https://www.zoomit.ir/report/467040-vision-2026-ai-business-panel-keynote/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-09-13T07:23:11.000Z",
-      "summary": "رویداد ویژن ۲۰۲۶ با حضور مدیران استارتاپ‌های بزرگ به بررسی موانع واقعی و مراحل پذیرش هوش مصنوعی در ساختار کسب‌وکارهای ایرانی پرداخت."
-    },
-    {
       "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
       "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
       "source": "TechCrunch AI",
       "lang": "en",
       "published": "2026-09-12T20:19:16.000Z",
       "summary": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman."
-    },
-    {
-      "title": "Anthropic CEO outlines plan to slow AI development",
-      "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-09-12T19:34:44.000Z",
-      "summary": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?"
-    },
-    {
-      "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
-      "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-09-11T22:58:17.000Z",
-      "summary": "The round for the two-year-old startup is coming together months after Mecka announced its Series A."
     },
     {
       "title": "Roundtables: Could AI really kill us all?",
