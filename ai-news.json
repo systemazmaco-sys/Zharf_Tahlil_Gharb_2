@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13T10:45:32.919Z",
+  "updated_at": "2026-09-13T15:14:28.094Z",
   "items": [
     {
       "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
@@ -10,12 +10,28 @@
       "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models."
     },
     {
-      "title": "شایعه داغ پیرامون گوگل دیپ‌مایند: دستیابی به هوش مصنوعی که خودش را بهبود می‌دهد",
-      "url": "https://digiato.com/artificial-intelligence/google-deepmind-rsi-rumor-dario-amodei",
+      "title": "OpenAI برای ارتقای امنیت شبکه برق با غول‌های انرژی آمریکا مذاکره می‌کند",
+      "url": "https://digiato.com/security/openai-sam-altman-electric-grid-daybreak-cybersecurity",
       "source": "دیجیاتو",
       "lang": "fa",
-      "published": "2026-09-13T08:55:55.000Z",
-      "summary": "گمانه‌زنی‌ها حاکی از آن است که گوگل به RSI یا «خودبهبودی بازگشتی» در توسعه هوش مصنوعی دست پیدا کرده است. The post شایعه داغ پیرامون گوگل دیپ‌مایند: دستیابی به هوش مصنوعی که خودش را بهبود می‌دهد appeared first on دیجیاتو."
+      "published": "2026-09-13T12:54:24.000Z",
+      "summary": "طرح یک میلیارد دلاری Daybreak با هدف شناسایی و برطرف کردن رخنه‌های امنیتی در سیستم‌های حساس و زیرساختی طراحی شده است. The post OpenAI برای ارتقای امنیت شبکه برق با غول‌های انرژی آمریکا مذاکره می‌کند appeared first on دیج"
+    },
+    {
+      "title": "خبر بد برای غول‌های هوش مصنوعی؛ سناتورهای آمریکا در پی وضع قوانین سخت‌گیرانه هستند",
+      "url": "https://www.zoomit.ir/ai-articles/467068-us-senate-ai-safety-legislation/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-09-13T12:50:00.000Z",
+      "summary": "مذاکره‌کنندگان سنای آمریکا در حال بررسی طرحی هستند که توسعه‌دهندگان هوش مصنوعی را ملزم به تضمین ایمنی محصولات پیشرفته می‌کند."
+    },
+    {
+      "title": "رئیس‌جمهور چین خواستار ایجاد جامعه‌ای برای توسعه هوش مصنوعی متن‌باز شد",
+      "url": "https://digiato.com/artificial-intelligence/xi-brics-open-source-ai-community",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-09-13T12:00:00.000Z",
+      "summary": "«شی جین‌پینگ» در اجلاس بریکس پیشنهاد ایجاد جامعه‌ای برای هوش مصنوعی متن‌باز را مطرح کرد. The post رئیس‌جمهور چین خواستار ایجاد جامعه‌ای برای توسعه هوش مصنوعی متن‌باز شد appeared first on دیجیاتو."
     },
     {
       "title": "قانون ملی توسعه هوش مصنوعی ابلاغ شد؛ یک سازمان زیر نظر رئیس‌جمهور با صندوق ۱۰ هزار میلیارد تومانی",
@@ -32,14 +48,6 @@
       "lang": "fa",
       "published": "2026-09-13T07:23:11.000Z",
       "summary": "رویداد ویژن ۲۰۲۶ با حضور مدیران استارتاپ‌های بزرگ به بررسی موانع واقعی و مراحل پذیرش هوش مصنوعی در ساختار کسب‌وکارهای ایرانی پرداخت."
-    },
-    {
-      "title": "پروژه بزرگ شرکت هوش مصنوعی ایلان ماسک: ساخت یک شرکت کامل در سه روز به کمک چت‌بات!",
-      "url": "https://www.zoomit.ir/ai-articles/467095-spacex-ai-grok-livestream-event/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-09-13T06:40:00.000Z",
-      "summary": "تیم هوش مصنوعی اسپیس‌ایکس در یک رویداد زنده‌ی سه روزه، روند ساخت یک کسب‌وکار کامل با چت‌بات گراک را به نمایش می‌گذارد."
     },
     {
       "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
@@ -84,18 +92,10 @@
     {
       "title": "Anthropic says Claude used for cyberattacks and surveillance|Cointelegraph",
       "url": "https://news.google.com/rss/articles/CBMizANBVV95cUxNZE1VSW1BamhnN2hXT2FvUVJfX2dvM2dEN2dGc0c4Sld4N05DZU1MamdmWThfWVd6QURNYjQtMTM2cW9WcXFvdDdSeTQ3TFVXNTJPSE5VR3hyRTM3VlVuM284ejFSR2hncnl6TWxJUFV5MzFyNzQzMGh1b2o4b3JWeXI5S1pMOEZmTS04SGRzVzFEclJ2SlgwQ2ZTQWJFUGlOYVpDTkJTVEhhLVN0MWFjalZ4dnIxbkNTMk5veFVxTWtqQXBrXzlNUlF6UmVjMWtPVUYycFBYcmRxQlh4Qk9mZHlETDVQOGlJOG53SF9PMzRpYnVJNENGMXAwV3dEUThCMV91R01sdVdjYnFERjFWamlqVVRVc242VmlpTnROd29PT183emVNdjdfQThZNzQxcW80Nm5lVk5PVlMwNHg0eVdYR3FEWWFQNlVMblNmTDB4QVdfZWxNNFBlUGJsRE83c2s5UURTOUVEQVpWMkFIUzRMQWw5M1VuOUVKYndtMzdrdE9yTFRSLTQ0X0Q3X3c0amdmRWxHMndCcG01dTFQbjduWWpobmd6UzM0d1dVQ1pWTVRwTmpzUDR5cERTc29ncmhnY2FOOFVJT2dr?oc=5",
-      "source": "khabarpu.com",
+      "source": "خبرپو",
       "lang": "fa",
       "published": "2026-09-11T10:24:09.000Z",
-      "summary": "Anthropic says Claude used for cyberattacks and surveillance|Cointelegraph khabarpu.com"
-    },
-    {
-      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
-      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
-      "source": "OpenAI",
-      "lang": "en",
-      "published": "2026-09-11T10:00:00.000Z",
-      "summary": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second."
+      "summary": "Anthropic says Claude used for cyberattacks and surveillance|Cointelegraph خبرپو"
     }
   ]
 }
