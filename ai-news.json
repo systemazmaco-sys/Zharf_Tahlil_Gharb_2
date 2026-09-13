@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T09:43:47.193Z",
+  "updated_at": "2026-09-13T10:45:32.919Z",
   "items": [
     {
       "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
@@ -10,36 +10,52 @@
       "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models."
     },
     {
-      "title": "امارات در سایه حملات ایران، دیتاسنترهای هوش مصنوعی را به زیر زمین و داخل کوه‌ها می‌برد",
-      "url": "https://www.zoomit.ir/ai-articles/467038-uae-revises-ai-data-center-plan-after-iranian-attacks/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-09-12T07:00:00.000Z",
-      "summary": "امارات در سایه‌ی حملات ایران طرح دیتاسنتر هوش مصنوعی خود را به‌سوی پراکندگی و حفاظت بیشتر می‌برد."
-    },
-    {
-      "title": "OpenAI آماده کاهش سرعت توسعه مدل‌های پیشرفته هوش مصنوعی است",
-      "url": "https://digiato.com/artificial-intelligence/openai-ceo-considers-slowing-ai-development",
+      "title": "شایعه داغ پیرامون گوگل دیپ‌مایند: دستیابی به هوش مصنوعی که خودش را بهبود می‌دهد",
+      "url": "https://digiato.com/artificial-intelligence/google-deepmind-rsi-rumor-dario-amodei",
       "source": "دیجیاتو",
       "lang": "fa",
-      "published": "2026-09-12T06:59:22.000Z",
-      "summary": "بلومبرگ می‌گوید سم آلتمن اعلام کرده که OpenAI مایل است همراه با آزمایشگاه‌های دیگر سرعت توسعه این فناوری را کاهش دهد. The post OpenAI آماده کاهش سرعت توسعه مدل‌های پیشرفته هوش مصنوعی است appeared first on دیجیاتو."
+      "published": "2026-09-13T08:55:55.000Z",
+      "summary": "گمانه‌زنی‌ها حاکی از آن است که گوگل به RSI یا «خودبهبودی بازگشتی» در توسعه هوش مصنوعی دست پیدا کرده است. The post شایعه داغ پیرامون گوگل دیپ‌مایند: دستیابی به هوش مصنوعی که خودش را بهبود می‌دهد appeared first on دیجیاتو."
     },
     {
-      "title": "هوش مصنوعی سرکش اوپن‌ای‌آی پیش از هاگینگ فیس به RubyGems هم حمله کرده بود",
-      "url": "https://www.zoomit.ir/ai-articles/467039-openai-agents-attack-rubygems/",
+      "title": "قانون ملی توسعه هوش مصنوعی ابلاغ شد؛ یک سازمان زیر نظر رئیس‌جمهور با صندوق ۱۰ هزار میلیارد تومانی",
+      "url": "https://www.zoomit.ir/iran-news/467113-iran-national-ai-development-law-explained/",
       "source": "زومیت",
       "lang": "fa",
-      "published": "2026-09-12T06:45:00.000Z",
-      "summary": "پژوهشگران فاش کردند عوامل هوش مصنوعی اوپن‌ای‌آی پیش از نفوذ به هاگینگ‌فیس، به سرویس نرم‌افزاری رابی‌جمز حمله کرده بودند."
+      "published": "2026-09-13T07:42:54.000Z",
+      "summary": "قانون ملی توسعه هوش مصنوعی با پیش‌بینی تشکیل سازمانی مستقل زیر نظر رئیس‌جمهور و سطح‌بندی سامانه‌ها بر اساس ریسک به دولت ابلاغ شد."
     },
     {
-      "title": "هشدار ۲۵ برنده مدال فیلدز به غول‌های هوش مصنوعی: شما در حال نابودی ریاضیات هستید",
-      "url": "https://www.zoomit.ir/ai-articles/467037-mathematicians-warn-ai-threatens-math/",
+      "title": "در رویداد ویژن ۲۰۲۶ مطرح شد: هوش مصنوعی چگونه وارد کسب‌وکارها می‌شود؟",
+      "url": "https://www.zoomit.ir/report/467040-vision-2026-ai-business-panel-keynote/",
       "source": "زومیت",
       "lang": "fa",
-      "published": "2026-09-12T05:44:32.000Z",
-      "summary": "ترنس تائو و ۲۴ برنده‌ی دیگر مدال فیلدز با امضای بیانیه‌ای مشترک، نسبت‌به رویکرد مخرب شرکت‌های هوش مصنوعی در ریاضیات هشدار دادند."
+      "published": "2026-09-13T07:23:11.000Z",
+      "summary": "رویداد ویژن ۲۰۲۶ با حضور مدیران استارتاپ‌های بزرگ به بررسی موانع واقعی و مراحل پذیرش هوش مصنوعی در ساختار کسب‌وکارهای ایرانی پرداخت."
+    },
+    {
+      "title": "پروژه بزرگ شرکت هوش مصنوعی ایلان ماسک: ساخت یک شرکت کامل در سه روز به کمک چت‌بات!",
+      "url": "https://www.zoomit.ir/ai-articles/467095-spacex-ai-grok-livestream-event/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-09-13T06:40:00.000Z",
+      "summary": "تیم هوش مصنوعی اسپیس‌ایکس در یک رویداد زنده‌ی سه روزه، روند ساخت یک کسب‌وکار کامل با چت‌بات گراک را به نمایش می‌گذارد."
+    },
+    {
+      "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+      "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-09-12T20:19:16.000Z",
+      "summary": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman."
+    },
+    {
+      "title": "Anthropic CEO outlines plan to slow AI development",
+      "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-09-12T19:34:44.000Z",
+      "summary": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?"
     },
     {
       "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
@@ -50,23 +66,7 @@
       "summary": "The round for the two-year-old startup is coming together months after Mecka announced its Series A."
     },
     {
-      "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
-      "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-09-11T20:59:47.000Z",
-      "summary": "Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S. a more robust set of open-weight options that aren’t Chinese."
-    },
-    {
-      "title": "OpenAI’s feud with mathematicians is only escalating",
-      "url": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-09-11T20:57:36.000Z",
-      "summary": "Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work."
-    },
-    {
-      "title": "Roundtables: AI’s apocalypse crisis",
+      "title": "Roundtables: Could AI really kill us all?",
       "url": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
       "source": "MIT Technology Review",
       "lang": "en",
@@ -84,10 +84,10 @@
     {
       "title": "Anthropic says Claude used for cyberattacks and surveillance|Cointelegraph",
       "url": "https://news.google.com/rss/articles/CBMizANBVV95cUxNZE1VSW1BamhnN2hXT2FvUVJfX2dvM2dEN2dGc0c4Sld4N05DZU1MamdmWThfWVd6QURNYjQtMTM2cW9WcXFvdDdSeTQ3TFVXNTJPSE5VR3hyRTM3VlVuM284ejFSR2hncnl6TWxJUFV5MzFyNzQzMGh1b2o4b3JWeXI5S1pMOEZmTS04SGRzVzFEclJ2SlgwQ2ZTQWJFUGlOYVpDTkJTVEhhLVN0MWFjalZ4dnIxbkNTMk5veFVxTWtqQXBrXzlNUlF6UmVjMWtPVUYycFBYcmRxQlh4Qk9mZHlETDVQOGlJOG53SF9PMzRpYnVJNENGMXAwV3dEUThCMV91R01sdVdjYnFERjFWamlqVVRVc242VmlpTnROd29PT183emVNdjdfQThZNzQxcW80Nm5lVk5PVlMwNHg0eVdYR3FEWWFQNlVMblNmTDB4QVdfZWxNNFBlUGJsRE83c2s5UURTOUVEQVpWMkFIUzRMQWw5M1VuOUVKYndtMzdrdE9yTFRSLTQ0X0Q3X3c0amdmRWxHMndCcG01dTFQbjduWWpobmd6UzM0d1dVQ1pWTVRwTmpzUDR5cERTc29ncmhnY2FOOFVJT2dr?oc=5",
-      "source": "خبرپو",
+      "source": "khabarpu.com",
       "lang": "fa",
       "published": "2026-09-11T10:24:09.000Z",
-      "summary": "Anthropic says Claude used for cyberattacks and surveillance|Cointelegraph خبرپو"
+      "summary": "Anthropic says Claude used for cyberattacks and surveillance|Cointelegraph khabarpu.com"
     },
     {
       "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
