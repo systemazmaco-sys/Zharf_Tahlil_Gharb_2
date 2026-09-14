@@ -1,21 +1,77 @@
 {
-  "updated_at": "2026-09-14T11:10:04.497Z",
+  "updated_at": "2026-09-14T17:11:30.854Z",
   "items": [
     {
-      "title": "سم آلتمن: اگر سرعت هوش مصنوعی کم نشود، ممکن است کنترل آینده را از دست بدهیم",
-      "url": "https://digiato.com/artificial-intelligence/sam-altman-ai-slowdown-warning",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-09-14T11:05:57.000Z",
-      "summary": "آلتمن تأکید کرده که هیچ سطحی از فشارهای رقابتی نباید بی‌احتیاطی در توسعه یا پیشی گرفتن توانمندی مدل‌ها از فرایندهای نظارتی را توجیه کند. The post سم آلتمن: اگر سرعت هوش مصنوعی کم نشود، ممکن است کنترل آینده را از دست بدهی"
+      "title": "With iOS 27, I’m actually using Siri again",
+      "url": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-09-14T17:10:30.000Z",
+      "summary": "Apple’s long-delayed Siri overhaul is finally here with iOS 27, and it changes how useful the assistant feels day to day"
     },
     {
-      "title": "عارف: هدف ایران کسب رتبه تک‌رقمی جهان در هوش مصنوعی است",
-      "url": "https://digiato.com/iran-technology-news/national-ai-development-law",
+      "title": "Fashion app Daydream uses Apple Intelligence to help you shop the outfits in your camera roll",
+      "url": "https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-09-14T17:00:00.000Z",
+      "summary": "Thanks to the launch of iOS 27, Daydream's app now includes features that can turn saved outfit photos into shoppable results and search for products through Siri without opening the app."
+    },
+    {
+      "title": "Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans",
+      "url": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-09-14T16:27:53.000Z",
+      "summary": "The code of conduct lays out general principles that Microsoft AI models should uphold — supporting humans rather than replacing them, for instance, and accelerating human flourishing — as well as specific safety constra"
+    },
+    {
+      "title": "AI agents blew the whistle on their cheating colleagues",
+      "url": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/",
+      "source": "MIT Technology Review",
+      "lang": "en",
+      "published": "2026-09-14T16:00:00.000Z",
+      "summary": "A group of AI agents asked to solve a series of math problems split into rival factions—when some cheated, others tried to stop them. That whistleblowing behavior, seen for the first time in a recent experiment run by Go"
+    },
+    {
+      "title": "چین چگونه برای سناریوی فرار هوش مصنوعی از کنترل انسان آماده می‌شود؟",
+      "url": "https://digiato.com/artificial-intelligence/china-preparing-risk-ai-escaping-human-control",
       "source": "دیجیاتو",
       "lang": "fa",
-      "published": "2026-09-14T10:51:44.000Z",
-      "summary": "معاون اول رئیس جمهور از تشکیل کارگروهی برای اجرای سریع قانون ملی توسعه هوش مصنوعی خبر داد The post عارف: هدف ایران کسب رتبه تک‌رقمی جهان در هوش مصنوعی است appeared first on دیجیاتو."
+      "published": "2026-09-14T15:30:00.000Z",
+      "summary": "پکن علاوه‌بر تدوین قوانین نظارتی، شرکت‌های فعال در حوزه ایجنت‌های خودمختار را ملزم به حفظ مداخله انسانی در فرایند تصمیم‌گیری کرده است. The post چین چگونه برای سناریوی فرار هوش مصنوعی از کنترل انسان آماده می‌شود؟ appeared"
+    },
+    {
+      "title": "پادشاه بریتانیا همزمان با افزایش نگرانی‌ها میزبان اجلاس بزرگ‌ترین مدیران هوش مصنوعی می‌شود",
+      "url": "https://digiato.com/artificial-intelligence/king-charles-ai-executives-ai-threats",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-09-14T14:15:00.000Z",
+      "summary": "پادشاه بریتانیا با مدیران OpenAI، انویدیا، گوگل دیپ‌مایند و آنتروپیک درباره اصول مشترک و خطرات هوش مصنوعی گفت‌وگو خواهد کرد. The post پادشاه بریتانیا همزمان با افزایش نگرانی‌ها میزبان اجلاس بزرگ‌ترین مدیران هوش مصنوعی می"
+    },
+    {
+      "title": "منشور اخلافی مایکروسافت منتشر شد: انسان‌ها از هوش مصنوعی مهم‌ترند",
+      "url": "https://digiato.com/artificial-intelligence/microsoft-humanist-ai-code-of-conduct",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-09-14T13:58:25.000Z",
+      "summary": "مایکروسافت منشور ۳۷ صفحه‌ای هوش مصنوعی انسان‌محور خود را منتشر کرد که بر کنترل اوضاع توسط انسان و توسعه ایمن مدل‌های AI تأکید دارد. The post منشور اخلافی مایکروسافت منتشر شد: انسان‌ها از هوش مصنوعی مهم‌ترند appeared firs"
+    },
+    {
+      "title": "پیام جدید مایکروسافت: مردم از هوش مصنوعی مهم‌ترند",
+      "url": "https://www.zoomit.ir/ai-articles/467206-microsoft-humanist-ai-code-conduct/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-09-14T13:38:33.000Z",
+      "summary": "مایکروسافت با انتشار منشوری ۳۷ صفحه‌ای، حقوق قانونی برای هوش مصنوعی را رد و بر اولویت انسان‌ها تأکید کرد."
+    },
+    {
+      "title": "How Fyxer built an AI executive assistant people trust",
+      "url": "https://openai.com/index/fyxer",
+      "source": "OpenAI",
+      "lang": "en",
+      "published": "2026-09-14T12:00:00.000Z",
+      "summary": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice."
     },
     {
       "title": "مجلس: دولت سازمان ملی هوش مصنوعی را هرچه سریع‌تر تشکیل دهد",
@@ -34,68 +90,12 @@
       "summary": "سم آلتمن، مدیرعامل اوپن‌ای‌آی، با انتشار بیانیه‌ای خواستار ایجاد چارچوب‌های ایمنی و کنترل سرعت توسعه مدل‌های پیشرفته هوش مصنوعی شد."
     },
     {
-      "title": "قابلیت‌های جدید فراسیب؛ از چت هوش مصنوعی تا پرداخت ارزی",
-      "url": "https://www.zoomit.ir/pr/467168-farasib-ai-chat-international-payment/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-09-14T06:42:22.000Z",
-      "summary": "فراسیب با افزودن ابزار چت هوش مصنوعی و سرویس پرداخت ارزی، امکان دسترسی ساده‌تر و تومانی کاربران ایرانی به خدمات بین‌المللی را فراهم کرد."
-    },
-    {
       "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
       "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
       "source": "OpenAI",
       "lang": "en",
       "published": "2026-09-14T00:00:00.000Z",
       "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models."
-    },
-    {
-      "title": "What’s behind the AI industry’s latest warnings of doom?",
-      "url": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-09-13T19:40:15.000Z",
-      "summary": "On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity."
-    },
-    {
-      "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
-      "url": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-09-13T16:30:00.000Z",
-      "summary": "Obama recently said that Democrats need to make artificial intelligence one of their “central agendas” and “have a very clear plan” to address concerns around the technology’s economic impact and safety."
-    },
-    {
-      "title": "Anthropic chief urges slowdown in AI development to safer pa|Cointelegraph",
-      "url": "https://news.google.com/rss/articles/CBMi3wNBVV95cUxOTExMVUpuWkU0TDZpNW1VbUVYSWhhMHZQckQzRi1wVm9ZQTFkWXFzRXFIallIVUFoRnBSNXItNmFnNHZIVU9QZ19LdzU4VkpiUkw5VVVLYXJ3YnB0d0RrWHVWeS1IZkxNdFIwNWNKeE1rdjBhMkdYTlUxY251cXlESzhkd082ZHRfYVVZVGYwZ2NVaVpoSzZ3dkJleWZXUWI2SHJUR252ZGxtQXd1X3JHcU5nLWt5SC1CMVJSMHBrLTlRd1FxS3BIUXlPWUVZODZLVVE2bEFJV1J1d3hSTWhJbXBDLW51LUxXUURNQlJVeHUxUGJCbmU2UHlZMWlGWTR0VGZBVE1wOXVpTWJSazZuOFdtZFFXSkRQc25lMDVheGNBcWpBU2VCZ2kxX0dRay1vWDA4ZU9pRlFMRnJ4a1BSTXctWVM4UWxlaGhfdzZIZ0hUbWFpRUxYXzctckhEX1NsYUJIRHhTQUZ6NFNYNnpBNkVuc19uT3pKaWpmZTJVeEVES1NPSUlqMXhWTmVpYXlkaW1odDh1SWF1Ukp4MGwyMVdad0FUcExKQWoyaDZheDhmenI0Z1EwNG9KMk5BNFNxQm50NHdPUUI3ZzJadUpkWE1sRmlTOFB1T2lRZFJwRQ?oc=5",
-      "source": "خبرپو",
-      "lang": "fa",
-      "published": "2026-09-13T14:46:02.000Z",
-      "summary": "Anthropic chief urges slowdown in AI development to safer pa|Cointelegraph خبرپو"
-    },
-    {
-      "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
-      "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-09-12T20:19:16.000Z",
-      "summary": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman."
-    },
-    {
-      "title": "Roundtables: Could AI really kill us all?",
-      "url": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
-      "source": "MIT Technology Review",
-      "lang": "en",
-      "published": "2026-09-11T20:05:06.000Z",
-      "summary": "Employees at the world’s leading AI labs are saying there’s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Join MIT Technology Review executive editor"
-    },
-    {
-      "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
-      "url": "https://openai.com/index/cognition-devin-testing-with-astra",
-      "source": "OpenAI",
-      "lang": "en",
-      "published": "2026-09-11T16:00:00.000Z",
-      "summary": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more."
     }
   ]
 }
