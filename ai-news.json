@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13T19:58:10.264Z",
+  "updated_at": "2026-09-14T02:11:43.659Z",
   "items": [
     {
       "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
@@ -8,6 +8,14 @@
       "lang": "en",
       "published": "2026-09-14T00:00:00.000Z",
       "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models."
+    },
+    {
+      "title": "مدیر آرم: هوش مصنوعی به درمان سرطان دست پیدا خواهد کرد",
+      "url": "https://www.zoomit.ir/ai-articles/467076-arm-ceo-ai-cancer-cure/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-09-13T20:10:00.000Z",
+      "summary": "مدیرعامل شرکت آرم باور دارد که هوش مصنوعی در طول حیات نسل کنونی راه درمان سرطان را کشف خواهد کرد."
     },
     {
       "title": "What’s behind the AI industry’s latest warnings of doom?",
@@ -40,14 +48,6 @@
       "lang": "en",
       "published": "2026-09-13T16:30:00.000Z",
       "summary": "Obama recently said that Democrats need to make artificial intelligence one of their “central agendas” and “have a very clear plan” to address concerns around the technology’s economic impact and safety."
-    },
-    {
-      "title": "جنجال بر سر توسعه شتابان هوش مصنوعی؛ ترامپ با خواسته بزرگان صنعت مخالفت کرد",
-      "url": "https://www.zoomit.ir/ai-articles/467145-trump-ai-slowdown-china-competition/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-09-13T16:25:37.000Z",
-      "summary": "دونالد ترامپ هشدار مدیران هوش مصنوعی را نپذیرفت و رقابت با چین را دلیلی برای ادامه‌ی توسعه‌ی شتابان هوش مصنوعی عنوان کرد."
     },
     {
       "title": "Anthropic chief urges slowdown in AI development to safer pa|Cointelegraph",
