@@ -1,6 +1,46 @@
 {
-  "updated_at": "2026-09-14T02:11:43.659Z",
+  "updated_at": "2026-09-14T11:10:04.497Z",
   "items": [
+    {
+      "title": "سم آلتمن: اگر سرعت هوش مصنوعی کم نشود، ممکن است کنترل آینده را از دست بدهیم",
+      "url": "https://digiato.com/artificial-intelligence/sam-altman-ai-slowdown-warning",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-09-14T11:05:57.000Z",
+      "summary": "آلتمن تأکید کرده که هیچ سطحی از فشارهای رقابتی نباید بی‌احتیاطی در توسعه یا پیشی گرفتن توانمندی مدل‌ها از فرایندهای نظارتی را توجیه کند. The post سم آلتمن: اگر سرعت هوش مصنوعی کم نشود، ممکن است کنترل آینده را از دست بدهی"
+    },
+    {
+      "title": "عارف: هدف ایران کسب رتبه تک‌رقمی جهان در هوش مصنوعی است",
+      "url": "https://digiato.com/iran-technology-news/national-ai-development-law",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-09-14T10:51:44.000Z",
+      "summary": "معاون اول رئیس جمهور از تشکیل کارگروهی برای اجرای سریع قانون ملی توسعه هوش مصنوعی خبر داد The post عارف: هدف ایران کسب رتبه تک‌رقمی جهان در هوش مصنوعی است appeared first on دیجیاتو."
+    },
+    {
+      "title": "مجلس: دولت سازمان ملی هوش مصنوعی را هرچه سریع‌تر تشکیل دهد",
+      "url": "https://www.zoomit.ir/iran-news/467188-national-ai-law-private-sector/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-09-14T10:09:43.000Z",
+      "summary": "دبیر اول کمیسیون صنایع مجلس خواستار تسریع در تشکیل سازمان ملی هوش مصنوعی شد و بر نقش تنظیم‌گر دولت و مشارکت شرکت‌های دانش‌بنیان تأکید کرد."
+    },
+    {
+      "title": "هشدار سم آلتمن درباره دو مسیر خطرناک در پیشرفت هوش مصنوعی",
+      "url": "https://www.zoomit.ir/ai-articles/467171-sam-altman-ai-safety-framework/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-09-14T06:59:51.000Z",
+      "summary": "سم آلتمن، مدیرعامل اوپن‌ای‌آی، با انتشار بیانیه‌ای خواستار ایجاد چارچوب‌های ایمنی و کنترل سرعت توسعه مدل‌های پیشرفته هوش مصنوعی شد."
+    },
+    {
+      "title": "قابلیت‌های جدید فراسیب؛ از چت هوش مصنوعی تا پرداخت ارزی",
+      "url": "https://www.zoomit.ir/pr/467168-farasib-ai-chat-international-payment/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-09-14T06:42:22.000Z",
+      "summary": "فراسیب با افزودن ابزار چت هوش مصنوعی و سرویس پرداخت ارزی، امکان دسترسی ساده‌تر و تومانی کاربران ایرانی به خدمات بین‌المللی را فراهم کرد."
+    },
     {
       "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
       "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
@@ -10,36 +50,12 @@
       "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models."
     },
     {
-      "title": "مدیر آرم: هوش مصنوعی به درمان سرطان دست پیدا خواهد کرد",
-      "url": "https://www.zoomit.ir/ai-articles/467076-arm-ceo-ai-cancer-cure/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-09-13T20:10:00.000Z",
-      "summary": "مدیرعامل شرکت آرم باور دارد که هوش مصنوعی در طول حیات نسل کنونی راه درمان سرطان را کشف خواهد کرد."
-    },
-    {
       "title": "What’s behind the AI industry’s latest warnings of doom?",
       "url": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
       "source": "TechCrunch AI",
       "lang": "en",
       "published": "2026-09-13T19:40:15.000Z",
       "summary": "On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity."
-    },
-    {
-      "title": "هشدار تکان‌دهنده سرمایه‌گذار بزرگ: شاید هوش مصنوعی باید پیش از وضع قوانین، اولین قربانی‌ها را بگیرد",
-      "url": "https://www.zoomit.ir/ai-articles/467072-ai-regulations-greg-jensen-warning/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-09-13T17:45:00.000Z",
-      "summary": "یکی از مدیران ارشد سرمایه‌گذاری جهان هشدار داد سیاست‌مداران تنها پس از وقوع تلفات انسانی ناشی از هوش مصنوعی، متوجه خطرات می‌شوند."
-    },
-    {
-      "title": "لحظه‌ی کد قرمز؛ چرا سازندگان هوش مصنوعی خودشان ترسیده‌اند؟",
-      "url": "https://www.zoomit.ir/ai-articles/467139-ai-code-red-moment-featured/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-09-13T16:30:00.000Z",
-      "summary": "شرکت‌هایی که برای ساخت قدرتمندترین مدل‌ها میلیاردها دلار خرج می‌کنند، حالا از ضرورت کاهش سرعت حرف می‌زنند؛ بی‌آنکه مسابقه از حرکت بایستد."
     },
     {
       "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
@@ -56,14 +72,6 @@
       "lang": "fa",
       "published": "2026-09-13T14:46:02.000Z",
       "summary": "Anthropic chief urges slowdown in AI development to safer pa|Cointelegraph خبرپو"
-    },
-    {
-      "title": "OpenAI برای ارتقای امنیت شبکه برق با غول‌های انرژی آمریکا مذاکره می‌کند",
-      "url": "https://digiato.com/security/openai-sam-altman-electric-grid-daybreak-cybersecurity",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-09-13T12:54:24.000Z",
-      "summary": "طرح یک میلیارد دلاری Daybreak با هدف شناسایی و برطرف کردن رخنه‌های امنیتی در سیستم‌های حساس و زیرساختی طراحی شده است. The post OpenAI برای ارتقای امنیت شبکه برق با غول‌های انرژی آمریکا مذاکره می‌کند appeared first on دیج"
     },
     {
       "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
@@ -88,14 +96,6 @@
       "lang": "en",
       "published": "2026-09-11T16:00:00.000Z",
       "summary": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more."
-    },
-    {
-      "title": "Anthropic says Claude used for cyberattacks and surveillance|Cointelegraph",
-      "url": "https://news.google.com/rss/articles/CBMizANBVV95cUxNZE1VSW1BamhnN2hXT2FvUVJfX2dvM2dEN2dGc0c4Sld4N05DZU1MamdmWThfWVd6QURNYjQtMTM2cW9WcXFvdDdSeTQ3TFVXNTJPSE5VR3hyRTM3VlVuM284ejFSR2hncnl6TWxJUFV5MzFyNzQzMGh1b2o4b3JWeXI5S1pMOEZmTS04SGRzVzFEclJ2SlgwQ2ZTQWJFUGlOYVpDTkJTVEhhLVN0MWFjalZ4dnIxbkNTMk5veFVxTWtqQXBrXzlNUlF6UmVjMWtPVUYycFBYcmRxQlh4Qk9mZHlETDVQOGlJOG53SF9PMzRpYnVJNENGMXAwV3dEUThCMV91R01sdVdjYnFERjFWamlqVVRVc242VmlpTnROd29PT183emVNdjdfQThZNzQxcW80Nm5lVk5PVlMwNHg0eVdYR3FEWWFQNlVMblNmTDB4QVdfZWxNNFBlUGJsRE83c2s5UURTOUVEQVpWMkFIUzRMQWw5M1VuOUVKYndtMzdrdE9yTFRSLTQ0X0Q3X3c0amdmRWxHMndCcG01dTFQbjduWWpobmd6UzM0d1dVQ1pWTVRwTmpzUDR5cERTc29ncmhnY2FOOFVJT2dr?oc=5",
-      "source": "خبرپو",
-      "lang": "fa",
-      "published": "2026-09-11T10:24:09.000Z",
-      "summary": "Anthropic says Claude used for cyberattacks and surveillance|Cointelegraph خبرپو"
     }
   ]
 }
