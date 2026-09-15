@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-14T21:08:29.675Z",
+  "updated_at": "2026-09-15T02:18:02.482Z",
   "items": [
+    {
+      "title": "Jensen Huang took a call from Trump, and showed off something else, too",
+      "url": "https://techcrunch.com/2026/09/14/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-09-15T01:50:48.000Z",
+      "summary": "When Jensen Huang took a live call from Trump, some of us were more focused the phone he used to take it."
+    },
+    {
+      "title": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
+      "url": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-09-14T21:51:02.000Z",
+      "summary": "Though Elon Musk and Sam Altman have supported Dario Amodei's calls to slow the pace of AI development, Jensen Huang seems to feel differently."
+    },
     {
       "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
       "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
@@ -40,22 +56,6 @@
       "lang": "en",
       "published": "2026-09-14T17:54:22.000Z",
       "summary": "This story appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. This weekend, Dario Amodei, CEO of Anthropic, posted an essay calling for a brake on the pace"
-    },
-    {
-      "title": "With iOS 27, I’m actually using Siri again",
-      "url": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-09-14T17:10:30.000Z",
-      "summary": "Apple’s long-delayed Siri overhaul is finally here with iOS 27, and it changes how useful the assistant feels day to day."
-    },
-    {
-      "title": "Fashion app Daydream uses Apple Intelligence to help you shop the outfits in your camera roll",
-      "url": "https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-09-14T17:00:00.000Z",
-      "summary": "Thanks to the launch of iOS 27, Daydream's app now includes features that can turn saved outfit photos into shoppable results and search for products through Siri without opening the app."
     },
     {
       "title": "AI agents blew the whistle on their cheating colleagues",
