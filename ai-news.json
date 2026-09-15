@@ -1,53 +1,85 @@
 {
-  "updated_at": "2026-09-15T02:18:02.482Z",
+  "updated_at": "2026-09-15T15:51:32.374Z",
   "items": [
     {
-      "title": "Jensen Huang took a call from Trump, and showed off something else, too",
-      "url": "https://techcrunch.com/2026/09/14/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too/",
+      "title": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
+      "url": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
       "source": "TechCrunch AI",
       "lang": "en",
-      "published": "2026-09-15T01:50:48.000Z",
-      "summary": "When Jensen Huang took a live call from Trump, some of us were more focused the phone he used to take it."
+      "published": "2026-09-15T15:47:03.000Z",
+      "summary": "OpenAI confirms weeks of AI safety talks with Anthropic and Google DeepMind, as Trump's team dismisses safety concerns and pushes to keep pace with China."
     },
     {
-      "title": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
-      "url": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-09-14T21:51:02.000Z",
-      "summary": "Though Elon Musk and Sam Altman have supported Dario Amodei's calls to slow the pace of AI development, Jensen Huang seems to feel differently."
-    },
-    {
-      "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
-      "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-09-14T20:44:14.000Z",
-      "summary": "Glass Imaging was founded by a pair of former Apple engineers who previously led the team that developed Apple's Portrait Mode."
-    },
-    {
-      "title": "وقتی تاکسی‌های خودران پلیس را خبر می‌کنند؛ دستگیری دو نوجوان مسلح به کمک هوش مصنوعی ویمو",
-      "url": "https://www.zoomit.ir/tech/467140-waymo-robotaxi-reports-armed-passengers/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-09-14T19:40:00.000Z",
-      "summary": "هوش مصنوعی و دوربین‌های نظارتی یک تاکسی رباتیک ویمو پس از تشخیص سلاح گرم در دست دو نوجوان، پلیس سان‌فرانسیسکو را باخبر کردند."
-    },
-    {
-      "title": "جنگ بر سر آینده هوش مصنوعی؛ آیا دره سیلیکون رقابت را فدای ایمنی می‌کند؟",
-      "url": "https://digiato.com/artificial-intelligence/ai-safety-regulation-debate",
+      "title": "ایلان ماسک شکایت شرکت‌هایش از اپل را پس گرفت؛ تمرکز کامل روی نبرد حقوقی با OpenAI",
+      "url": "https://digiato.com/business/elon-musk-drops-apple-antitrust-lawsuit",
       "source": "دیجیاتو",
       "lang": "fa",
-      "published": "2026-09-14T19:30:00.000Z",
-      "summary": "اختلاف مدیران فناوری بر سر ایمنی هوش مصنوعی بالا گرفته است؛ برخی خواستار کندشدن توسعه‌ هستند و برخی از خطر محدودشدن رقابت می‌گویند. The post جنگ بر سر آینده هوش مصنوعی؛ آیا دره سیلیکون رقابت را فدای ایمنی می‌کند؟ appeare"
+      "published": "2026-09-15T15:30:00.000Z",
+      "summary": "دلیل این تصمیم هنوز مشخص نشده و شرکت‌های ایلان ماسک تأکید کرده‌اند که دعوای حقوقی خود علیه OpenAI را با قدرت ادامه خواهند داد. The post ایلان ماسک شکایت شرکت‌هایش از اپل را پس گرفت؛ تمرکز کامل روی نبرد حقوقی با OpenAI ap"
     },
     {
-      "title": "وقتی بهترین دوست رباتیک یک کودک می‌میرد، چه بر سر او می‌آید؟",
-      "url": "https://www.zoomit.ir/robotics-smart-machines/467209-kids-robot-best-friend-dies-festured/",
+      "title": "AEO startup Profound hits unicorn valuation, raises $180M Series D 7 months after last round",
+      "url": "https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-09-15T15:22:48.000Z",
+      "summary": "Profound has raised a $180 million Series D at a $1.8 billion valuation, less than seven months after it raised a $96 million Series C."
+    },
+    {
+      "title": "بیل گیتس هوش مصنوعی را به بیگانگان فضایی تشبیه کرد",
+      "url": "https://www.zoomit.ir/ai-articles/467289-bill-gates-ai-governments-not-ready/",
       "source": "زومیت",
       "lang": "fa",
-      "published": "2026-09-14T18:30:00.000Z",
-      "summary": "اسباب‌بازی‌های مجهز به هوش مصنوعی به کودکان دارای اوتیسم وعده‌ی همراهی و کمک درمانی می‌دهند؛ اما آیا می‌توانند در بلندمدت واقعاً کنارشان بمانند؟"
+      "published": "2026-09-15T15:08:16.000Z",
+      "summary": "بیل گیتس می‌گوید دولت‌ها از پیامدهای هوش مصنوعی عقب مانده‌اند و مردم باید برای شوک‌های شغلی و اجتماعی آماده شوند."
+    },
+    {
+      "title": "Former TikTok execs built an app that uses AI to teach you how to pose for a photo",
+      "url": "https://techcrunch.com/2026/09/15/former-tiktok-execs-built-an-app-that-uses-ai-to-teach-you-how-to-pose-for-a-photo/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-09-15T14:42:37.000Z",
+      "summary": "Essentially a camera app, Superpose analyzes selfies or photos and generates four potential poses using AI."
+    },
+    {
+      "title": "ویژگی‌های هوش مصنوعی iOS 27 در ایران کار نمی‌کنند",
+      "url": "https://digiato.com/artificial-intelligence/ios-27-apple-intelligence-issues-iran",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-09-15T13:25:00.000Z",
+      "summary": "قابلیت‌های اپل اینتلیجنس ظاهراً حتی با ابزارهای تغییر آی‌پی هم قابل استفاده نیستند. The post ویژگی‌های هوش مصنوعی iOS 27 در ایران کار نمی‌کنند appeared first on دیجیاتو."
+    },
+    {
+      "title": "باکیفیت‌ترین ویدئو از فوران سیاه‌چاله؛ نتیجه بازسازی ۲۷ سال رصد با هوش مصنوعی",
+      "url": "https://www.zoomit.ir/space/467272-highest-resolution-images-of-black-hole-jet/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-09-15T13:05:00.000Z",
+      "summary": "پژوهشگران بیش از ۱۰۰ تصویر از یک سیاه‌چاله را با کمک هوش مصنوعی به ویدئو تبدیل کردند تا فعالیت فواره قدرتمند آن را بررسی کنند."
+    },
+    {
+      "title": "انتشار تست مقاومت و کالبدشکافی آنر ربات فون؛ دوربین رباتیک آسیب‌پذیر است [تماشا کنید]",
+      "url": "https://digiato.com/mobile/honor-robot-phone-durability-test",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-09-15T12:50:20.000Z",
+      "summary": "این ویدیو همچنین با انجام کالبدشکافی، قطعات داخلی دستگاه را نمایش می‌دهد. The post انتشار تست مقاومت و کالبدشکافی آنر ربات فون؛ دوربین رباتیک آسیب‌پذیر است [تماشا کنید] appeared first on دیجیاتو."
+    },
+    {
+      "title": "What’s at stake in AI’s trillion-dollar gamble",
+      "url": "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/",
+      "source": "MIT Technology Review",
+      "lang": "en",
+      "published": "2026-09-15T10:00:00.000Z",
+      "summary": "When Jessica Wachter, a finance professor at the University of Pennsylvania’s Wharton School, wanted to assess AI’s impact on the economy over the next few years, she faced a long list of business and technical uncertain"
+    },
+    {
+      "title": "«ترمز هوش مصنوعی را بکشید»؛ واکنش‌ مدیران و سیاست‌مداران به درخواست غیرمنتظره مدیرعامل آنتروپیک",
+      "url": "https://www.zoomit.ir/ai-articles/467226-ai-slowdown-debate-executives-politicians/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-09-15T08:35:00.000Z",
+      "summary": "انتشار مقاله‌ای تازه درباره‌ی لزوم کاهش سرعت پیشرفت هوش مصنوعی، موجی از واکنش‌های موافق و مخالف را میان مدیران ارشد فناوری و سیاستمداران برانگیخت."
     },
     {
       "title": "The AI industry has taken a doomer turn. What now?",
@@ -64,38 +96,6 @@
       "lang": "en",
       "published": "2026-09-14T16:00:00.000Z",
       "summary": "A group of AI agents asked to solve a series of math problems split into rival factions—when some cheated, others tried to stop them. That whistleblowing behavior, seen for the first time in a recent experiment run by Go"
-    },
-    {
-      "title": "چین چگونه برای سناریوی فرار هوش مصنوعی از کنترل انسان آماده می‌شود؟",
-      "url": "https://digiato.com/artificial-intelligence/china-preparing-risk-ai-escaping-human-control",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-09-14T15:30:00.000Z",
-      "summary": "پکن علاوه‌بر تدوین قوانین نظارتی، شرکت‌های فعال در حوزه ایجنت‌های خودمختار را ملزم به حفظ مداخله انسانی در فرایند تصمیم‌گیری کرده است. The post چین چگونه برای سناریوی فرار هوش مصنوعی از کنترل انسان آماده می‌شود؟ appeared"
-    },
-    {
-      "title": "پادشاه بریتانیا همزمان با افزایش نگرانی‌ها میزبان اجلاس بزرگ‌ترین مدیران هوش مصنوعی می‌شود",
-      "url": "https://digiato.com/artificial-intelligence/king-charles-ai-executives-ai-threats",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-09-14T14:15:00.000Z",
-      "summary": "پادشاه بریتانیا با مدیران OpenAI، انویدیا، گوگل دیپ‌مایند و آنتروپیک درباره اصول مشترک و خطرات هوش مصنوعی گفت‌وگو خواهد کرد. The post پادشاه بریتانیا همزمان با افزایش نگرانی‌ها میزبان اجلاس بزرگ‌ترین مدیران هوش مصنوعی می"
-    },
-    {
-      "title": "پیام جدید مایکروسافت: مردم از هوش مصنوعی مهم‌ترند",
-      "url": "https://www.zoomit.ir/ai-articles/467206-microsoft-humanist-ai-code-conduct/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-09-14T13:38:33.000Z",
-      "summary": "مایکروسافت با انتشار منشوری ۳۷ صفحه‌ای، حقوق قانونی برای هوش مصنوعی را رد و بر اولویت انسان‌ها تأکید کرد."
-    },
-    {
-      "title": "How Fyxer built an AI executive assistant people trust",
-      "url": "https://openai.com/index/fyxer",
-      "source": "OpenAI",
-      "lang": "en",
-      "published": "2026-09-14T12:00:00.000Z",
-      "summary": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice."
     }
   ]
 }
