@@ -1,13 +1,69 @@
 {
-  "updated_at": "2026-09-15T15:51:32.374Z",
+  "updated_at": "2026-09-16T02:11:12.919Z",
   "items": [
     {
-      "title": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
-      "url": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
+      "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
+      "url": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
       "source": "TechCrunch AI",
       "lang": "en",
-      "published": "2026-09-15T15:47:03.000Z",
-      "summary": "OpenAI confirms weeks of AI safety talks with Anthropic and Google DeepMind, as Trump's team dismisses safety concerns and pushes to keep pace with China."
+      "published": "2026-09-16T00:20:39.000Z",
+      "summary": "AI isn't some new form of \"alien mind,\" according to Jensen Huang. It's just hardware and software, so safety can be engineered by each AI product maker."
+    },
+    {
+      "title": "The AI data center boom is colliding with cities scarred by big industry",
+      "url": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-09-15T21:47:38.000Z",
+      "summary": "National outcry against data center construction has spread to Philadelphia, where officials suggested possible construction in a neighborhood already impacted by a now-defunct oil refinery."
+    },
+    {
+      "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
+      "url": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-09-15T20:12:53.000Z",
+      "summary": "A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging templates, testing, and troubleshooting."
+    },
+    {
+      "title": "هوش مصنوعی دارد سخت‌ترین مسائل ریاضی را حل می‌کند؛ ریاضی‌دان‌ها چرا عصبانی‌اند؟",
+      "url": "https://www.zoomit.ir/ai-articles/467270-mathematicians-outraged-openai-methods-featured/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-09-15T18:30:00.000Z",
+      "summary": "ادعای اثبات مسئله‌ی هزاره توسط هوش مصنوعی، صدای برندگان مدال فیلدز را درآورد؛ نبردی که نه بر سر جواب، بلکه بر سر معناست."
+    },
+    {
+      "title": "زومیا؛ شاخه‌ی هوش مصنوعی زومیت برای دنبال‌کردن دنیای AI",
+      "url": "https://www.zoomit.ir/ai-articles/467297-zoomit-launches-zoomia-ai/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-09-15T18:25:08.000Z",
+      "summary": "زومیا، شاخه‌ی هوش مصنوعی زومیت، جایی برای دنبال‌کردن تازه‌ترین خبرها، ابزارها، آموزش‌ها و کاربردهای واقعی AI است."
+    },
+    {
+      "title": "مدل‌های هوش مصنوعی جدید گوگل، هم‌زمان با فکر کردن با شما صحبت می‌کنند",
+      "url": "https://www.zoomit.ir/ai-articles/467296-google-gemini-3-8-live-extended-thinking/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-09-15T17:58:12.000Z",
+      "summary": "گوگل دو مدل تازه‌ی جمنای را برای گفت‌وگوی صوتی، استدلال چندمرحله‌ای و اجرای ابزارها در پس‌زمینه معرفی کرد."
+    },
+    {
+      "title": "Roundtables: Could AI really kill us all?",
+      "url": "https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/",
+      "source": "MIT Technology Review",
+      "lang": "en",
+      "published": "2026-09-15T17:47:51.000Z",
+      "summary": "Listen to the session or watch below Employees at the world’s leading AI labs are saying there’s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Watch "
+    },
+    {
+      "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+      "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
+      "source": "Google DeepMind",
+      "lang": "en",
+      "published": "2026-09-15T17:05:57.000Z",
+      "summary": ""
     },
     {
       "title": "ایلان ماسک شکایت شرکت‌هایش از اپل را پس گرفت؛ تمرکز کامل روی نبرد حقوقی با OpenAI",
@@ -18,44 +74,12 @@
       "summary": "دلیل این تصمیم هنوز مشخص نشده و شرکت‌های ایلان ماسک تأکید کرده‌اند که دعوای حقوقی خود علیه OpenAI را با قدرت ادامه خواهند داد. The post ایلان ماسک شکایت شرکت‌هایش از اپل را پس گرفت؛ تمرکز کامل روی نبرد حقوقی با OpenAI ap"
     },
     {
-      "title": "AEO startup Profound hits unicorn valuation, raises $180M Series D 7 months after last round",
-      "url": "https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-09-15T15:22:48.000Z",
-      "summary": "Profound has raised a $180 million Series D at a $1.8 billion valuation, less than seven months after it raised a $96 million Series C."
-    },
-    {
-      "title": "بیل گیتس هوش مصنوعی را به بیگانگان فضایی تشبیه کرد",
-      "url": "https://www.zoomit.ir/ai-articles/467289-bill-gates-ai-governments-not-ready/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-09-15T15:08:16.000Z",
-      "summary": "بیل گیتس می‌گوید دولت‌ها از پیامدهای هوش مصنوعی عقب مانده‌اند و مردم باید برای شوک‌های شغلی و اجتماعی آماده شوند."
-    },
-    {
-      "title": "Former TikTok execs built an app that uses AI to teach you how to pose for a photo",
-      "url": "https://techcrunch.com/2026/09/15/former-tiktok-execs-built-an-app-that-uses-ai-to-teach-you-how-to-pose-for-a-photo/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-09-15T14:42:37.000Z",
-      "summary": "Essentially a camera app, Superpose analyzes selfies or photos and generates four potential poses using AI."
-    },
-    {
       "title": "ویژگی‌های هوش مصنوعی iOS 27 در ایران کار نمی‌کنند",
       "url": "https://digiato.com/artificial-intelligence/ios-27-apple-intelligence-issues-iran",
       "source": "دیجیاتو",
       "lang": "fa",
       "published": "2026-09-15T13:25:00.000Z",
       "summary": "قابلیت‌های اپل اینتلیجنس ظاهراً حتی با ابزارهای تغییر آی‌پی هم قابل استفاده نیستند. The post ویژگی‌های هوش مصنوعی iOS 27 در ایران کار نمی‌کنند appeared first on دیجیاتو."
-    },
-    {
-      "title": "باکیفیت‌ترین ویدئو از فوران سیاه‌چاله؛ نتیجه بازسازی ۲۷ سال رصد با هوش مصنوعی",
-      "url": "https://www.zoomit.ir/space/467272-highest-resolution-images-of-black-hole-jet/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-09-15T13:05:00.000Z",
-      "summary": "پژوهشگران بیش از ۱۰۰ تصویر از یک سیاه‌چاله را با کمک هوش مصنوعی به ویدئو تبدیل کردند تا فعالیت فواره قدرتمند آن را بررسی کنند."
     },
     {
       "title": "انتشار تست مقاومت و کالبدشکافی آنر ربات فون؛ دوربین رباتیک آسیب‌پذیر است [تماشا کنید]",
@@ -72,30 +96,6 @@
       "lang": "en",
       "published": "2026-09-15T10:00:00.000Z",
       "summary": "When Jessica Wachter, a finance professor at the University of Pennsylvania’s Wharton School, wanted to assess AI’s impact on the economy over the next few years, she faced a long list of business and technical uncertain"
-    },
-    {
-      "title": "«ترمز هوش مصنوعی را بکشید»؛ واکنش‌ مدیران و سیاست‌مداران به درخواست غیرمنتظره مدیرعامل آنتروپیک",
-      "url": "https://www.zoomit.ir/ai-articles/467226-ai-slowdown-debate-executives-politicians/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-09-15T08:35:00.000Z",
-      "summary": "انتشار مقاله‌ای تازه درباره‌ی لزوم کاهش سرعت پیشرفت هوش مصنوعی، موجی از واکنش‌های موافق و مخالف را میان مدیران ارشد فناوری و سیاستمداران برانگیخت."
-    },
-    {
-      "title": "The AI industry has taken a doomer turn. What now?",
-      "url": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
-      "source": "MIT Technology Review",
-      "lang": "en",
-      "published": "2026-09-14T17:54:22.000Z",
-      "summary": "This story appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. This weekend, Dario Amodei, CEO of Anthropic, posted an essay calling for a brake on the pace"
-    },
-    {
-      "title": "AI agents blew the whistle on their cheating colleagues",
-      "url": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/",
-      "source": "MIT Technology Review",
-      "lang": "en",
-      "published": "2026-09-14T16:00:00.000Z",
-      "summary": "A group of AI agents asked to solve a series of math problems split into rival factions—when some cheated, others tried to stop them. That whistleblowing behavior, seen for the first time in a recent experiment run by Go"
     }
   ]
 }
