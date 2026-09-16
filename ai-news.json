@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-09-16T15:43:14.539Z",
+  "updated_at": "2026-09-16T20:35:10.458Z",
   "items": [
+    {
+      "title": "After accusations of selling ‘perv glasses,’ Meta prepares to sell a pair without a camera",
+      "url": "https://techcrunch.com/2026/09/16/after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-09-16T20:12:00.000Z",
+      "summary": "Can Meta dodge the \"pervert glasses\" accusations with a new camera-free product?"
+    },
+    {
+      "title": "از توهم چت‌بات‌ها تا ریسک نابودی بشریت؛ چگونه هوش مصنوعی به اینجا رسید؟",
+      "url": "https://digiato.com/artificial-intelligence/how-ai-went-from-hallucinating-to-wiping-humanity",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-09-16T19:30:00.000Z",
+      "summary": "مدیران بزرگ هوش مصنوعی درباره احتمال رسیدن فناوری هوش مصنوعی به خودبهبودی بازگشتی (RSI) و از دست رفتن کنترل هشدار داده‌اند. The post از توهم چت‌بات‌ها تا ریسک نابودی بشریت؛ چگونه هوش مصنوعی به اینجا رسید؟ appeared first "
+    },
+    {
+      "title": "AI labs want in-house auditors — but maybe they should shut the front door first",
+      "url": "https://techcrunch.com/2026/09/16/ai-labs-want-in-house-auditors-but-maybe-they-should-shut-the-front-door-first/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-09-16T18:25:25.000Z",
+      "summary": "There may be a simpler and more effective fix for rogue agents, hiding in plain sight."
+    },
+    {
+      "title": "ایجنت‌های هوش مصنوعی در یک آزمایش اصطلاحات جدیدی ساختند که محققان نمی‌فهمیدند",
+      "url": "https://digiato.com/artificial-intelligence/ai-agents-secret-language-emergence-study",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-09-16T17:30:00.000Z",
+      "summary": "پژوهشی نشان می‌دهد ایجنت‌های هوش مصنوعی در تعامل طولانی‌مدت، اصطلاحات و قواعد ارتباطی جدیدی می‌سازند که برای انسان‌ها نامفهوم است. The post ایجنت‌های هوش مصنوعی در یک آزمایش اصطلاحات جدیدی ساختند که محققان نمی‌فهمیدند ap"
+    },
+    {
+      "title": "Your AI agents can now control your Google Home devices",
+      "url": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-09-16T17:00:00.000Z",
+      "summary": "Google is launching early access to a new MCP server for Google Home, allowing AI agents like Claude, ChatGPT, and others to control connected devices, review camera summaries, and access smart home activity using natura"
+    },
+    {
+      "title": "کلاد آپدیت شد؛ هوش مصنوعی آنتروپیک حالا ابزارهایی برای ساخت سند دارد",
+      "url": "https://www.zoomit.ir/ai-articles/467354-anthropic-one-claude-docs-slides/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-09-16T16:52:39.000Z",
+      "summary": "آنتروپیک با رونمایی از ابزارهای Docs و Slides، هوش مصنوعی کلاد را به‌روزرسانی کرد."
+    },
     {
       "title": "Helping older adults use AI in everyday life",
       "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
@@ -8,30 +56,6 @@
       "lang": "en",
       "published": "2026-09-16T16:00:00.000Z",
       "summary": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely."
-    },
-    {
-      "title": "Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-09-16T15:00:00.000Z",
-      "summary": "The robotics industry is still waiting for their breakthrough into day-to-day life. Nvidia's Les Karpas has an answer as to why at TechCrunch Disrupt 2026. Register before September 25 to save up to $200 on your pass."
-    },
-    {
-      "title": "Threads’ new features let podcasters promote shows and reach listeners",
-      "url": "https://techcrunch.com/2026/09/16/threads-new-features-let-podcasters-promote-shows-and-reach-listeners/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-09-16T14:24:58.000Z",
-      "summary": "Threads is rolling out new tools for podcasters, including profile cards, episode links, transcripts, guest tags, posting reminders, and audience insights, as Meta looks to make the X rival a bigger hub for podcast promo"
-    },
-    {
-      "title": "Next wave of VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026 revealed",
-      "url": "https://techcrunch.com/2026/09/16/next-wave-of-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026-revealed/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-09-16T14:15:00.000Z",
-      "summary": "Meet the next five top-tier investors judging the Startup Battlefield 200 contenders live at TechCrunch Disrupt 2026. Register before September 25 to save up to $200 and don't miss a moment of the ultimate startup pitch "
     },
     {
       "title": "ایجنت‌های OpenAI دو ماه پیش از هک هاگینگ فیس دنبال نفوذ به آن بودند",
@@ -58,44 +82,20 @@
       "summary": "The AI boom is becoming a materials challenge. As AI pushes computing into new territory, the materials behind that infrastructure are becoming just as crucial as the algorithms running on it. Semiconductors and data cen"
     },
     {
+      "title": "How to connect AI usage to business value",
+      "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
+      "source": "OpenAI",
+      "lang": "en",
+      "published": "2026-09-16T12:00:00.000Z",
+      "summary": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes."
+    },
+    {
       "title": "سامانه صدور پروانه هوش مصنوعی فعال شد",
       "url": "https://www.zoomit.ir/iran-news/467325-ai-license-system-launched/",
       "source": "زومیت",
       "lang": "fa",
       "published": "2026-09-16T08:18:27.000Z",
       "summary": "رگولاتوری ثبت درخواست پروانه‌ هوش مصنوعی را الکترونیکی و دامنه‌ خدمات قابل‌ ارائه را مشخص کرد."
-    },
-    {
-      "title": "هاشمی: اپراتورهای هوش مصنوعی ایجاد می‌شود/ فاز اول پایگاه فضایی چابهار به پیشرفت ۹۸ درصدی رسید",
-      "url": "https://www.zoomit.ir/iran-news/467322-iran-ai-operators-space-development/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-09-16T07:42:42.000Z",
-      "summary": "وزیر ارتباطات می‌گوید پروانه اپراتورهای هوش مصنوعی ارائه می‌شود که بخش خصوصی می‌تواند با یک نرخ بازگشت سرمایه منطقی، برای آن سرمایه‌گذاری کند."
-    },
-    {
-      "title": "مقاله بحث‌برانگیز: هوش مصنوعی به‌تنهایی بهتر از پزشکان عمل می‌کند",
-      "url": "https://www.zoomit.ir/health-medical/466695-ai-outperforming-doctors-medical-study/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-09-16T07:10:00.000Z",
-      "summary": "مقاله‌ای تازه ادعا می‌کند هوش مصنوعی در برخی وظایف پزشکی از پزشکان جلو زده و حتی ممکن است حضور انسان، در آینده کیفیت مراقبت از بیمار را کاهش دهد."
-    },
-    {
-      "title": "Roundtables: Could AI really kill us all?",
-      "url": "https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/",
-      "source": "MIT Technology Review",
-      "lang": "en",
-      "published": "2026-09-15T17:47:51.000Z",
-      "summary": "Listen to the session or watch below Employees at the world’s leading AI labs are saying there’s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Watch "
-    },
-    {
-      "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
-      "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
-      "source": "Google DeepMind",
-      "lang": "en",
-      "published": "2026-09-15T17:05:57.000Z",
-      "summary": ""
     }
   ]
 }
