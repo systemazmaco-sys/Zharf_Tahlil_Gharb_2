@@ -1,53 +1,85 @@
 {
-  "updated_at": "2026-09-16T02:11:12.919Z",
+  "updated_at": "2026-09-16T15:43:14.539Z",
   "items": [
     {
-      "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
-      "url": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
+      "title": "Helping older adults use AI in everyday life",
+      "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+      "source": "OpenAI",
+      "lang": "en",
+      "published": "2026-09-16T16:00:00.000Z",
+      "summary": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely."
+    },
+    {
+      "title": "Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026/",
       "source": "TechCrunch AI",
       "lang": "en",
-      "published": "2026-09-16T00:20:39.000Z",
-      "summary": "AI isn't some new form of \"alien mind,\" according to Jensen Huang. It's just hardware and software, so safety can be engineered by each AI product maker."
+      "published": "2026-09-16T15:00:00.000Z",
+      "summary": "The robotics industry is still waiting for their breakthrough into day-to-day life. Nvidia's Les Karpas has an answer as to why at TechCrunch Disrupt 2026. Register before September 25 to save up to $200 on your pass."
     },
     {
-      "title": "The AI data center boom is colliding with cities scarred by big industry",
-      "url": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
+      "title": "Threads’ new features let podcasters promote shows and reach listeners",
+      "url": "https://techcrunch.com/2026/09/16/threads-new-features-let-podcasters-promote-shows-and-reach-listeners/",
       "source": "TechCrunch AI",
       "lang": "en",
-      "published": "2026-09-15T21:47:38.000Z",
-      "summary": "National outcry against data center construction has spread to Philadelphia, where officials suggested possible construction in a neighborhood already impacted by a now-defunct oil refinery."
+      "published": "2026-09-16T14:24:58.000Z",
+      "summary": "Threads is rolling out new tools for podcasters, including profile cards, episode links, transcripts, guest tags, posting reminders, and audience insights, as Meta looks to make the X rival a bigger hub for podcast promo"
     },
     {
-      "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
-      "url": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
+      "title": "Next wave of VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026 revealed",
+      "url": "https://techcrunch.com/2026/09/16/next-wave-of-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026-revealed/",
       "source": "TechCrunch AI",
       "lang": "en",
-      "published": "2026-09-15T20:12:53.000Z",
-      "summary": "A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging templates, testing, and troubleshooting."
+      "published": "2026-09-16T14:15:00.000Z",
+      "summary": "Meet the next five top-tier investors judging the Startup Battlefield 200 contenders live at TechCrunch Disrupt 2026. Register before September 25 to save up to $200 and don't miss a moment of the ultimate startup pitch "
     },
     {
-      "title": "هوش مصنوعی دارد سخت‌ترین مسائل ریاضی را حل می‌کند؛ ریاضی‌دان‌ها چرا عصبانی‌اند؟",
-      "url": "https://www.zoomit.ir/ai-articles/467270-mathematicians-outraged-openai-methods-featured/",
-      "source": "زومیت",
+      "title": "ایجنت‌های OpenAI دو ماه پیش از هک هاگینگ فیس دنبال نفوذ به آن بودند",
+      "url": "https://digiato.com/security/openai-rogue-agents-hugging-face-breach",
+      "source": "دیجیاتو",
       "lang": "fa",
-      "published": "2026-09-15T18:30:00.000Z",
-      "summary": "ادعای اثبات مسئله‌ی هزاره توسط هوش مصنوعی، صدای برندگان مدال فیلدز را درآورد؛ نبردی که نه بر سر جواب، بلکه بر سر معناست."
+      "published": "2026-09-16T14:13:00.000Z",
+      "summary": "بررسی‌های جدید نشان می‌دهد ایجنت‌های سرکش OpenAI دو ماه پیش از نفوذ بزرگ به هاگینگ فیس، آسیب‌پذیری‌های این پلتفرم را بررسی کرده بودند. The post ایجنت‌های OpenAI دو ماه پیش از هک هاگینگ فیس دنبال نفوذ به آن بودند appeared"
     },
     {
-      "title": "زومیا؛ شاخه‌ی هوش مصنوعی زومیت برای دنبال‌کردن دنیای AI",
-      "url": "https://www.zoomit.ir/ai-articles/467297-zoomit-launches-zoomia-ai/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-09-15T18:25:08.000Z",
-      "summary": "زومیا، شاخه‌ی هوش مصنوعی زومیت، جایی برای دنبال‌کردن تازه‌ترین خبرها، ابزارها، آموزش‌ها و کاربردهای واقعی AI است."
+      "title": "Reimagining advertising with AI",
+      "url": "https://openai.com/index/reimagining-advertising-with-ai",
+      "source": "OpenAI",
+      "lang": "en",
+      "published": "2026-09-16T13:00:00.000Z",
+      "summary": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify."
     },
     {
-      "title": "مدل‌های هوش مصنوعی جدید گوگل، هم‌زمان با فکر کردن با شما صحبت می‌کنند",
-      "url": "https://www.zoomit.ir/ai-articles/467296-google-gemini-3-8-live-extended-thinking/",
+      "title": "Building the materials foundation for AI",
+      "url": "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/",
+      "source": "MIT Technology Review",
+      "lang": "en",
+      "published": "2026-09-16T12:47:34.000Z",
+      "summary": "The AI boom is becoming a materials challenge. As AI pushes computing into new territory, the materials behind that infrastructure are becoming just as crucial as the algorithms running on it. Semiconductors and data cen"
+    },
+    {
+      "title": "سامانه صدور پروانه هوش مصنوعی فعال شد",
+      "url": "https://www.zoomit.ir/iran-news/467325-ai-license-system-launched/",
       "source": "زومیت",
       "lang": "fa",
-      "published": "2026-09-15T17:58:12.000Z",
-      "summary": "گوگل دو مدل تازه‌ی جمنای را برای گفت‌وگوی صوتی، استدلال چندمرحله‌ای و اجرای ابزارها در پس‌زمینه معرفی کرد."
+      "published": "2026-09-16T08:18:27.000Z",
+      "summary": "رگولاتوری ثبت درخواست پروانه‌ هوش مصنوعی را الکترونیکی و دامنه‌ خدمات قابل‌ ارائه را مشخص کرد."
+    },
+    {
+      "title": "هاشمی: اپراتورهای هوش مصنوعی ایجاد می‌شود/ فاز اول پایگاه فضایی چابهار به پیشرفت ۹۸ درصدی رسید",
+      "url": "https://www.zoomit.ir/iran-news/467322-iran-ai-operators-space-development/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-09-16T07:42:42.000Z",
+      "summary": "وزیر ارتباطات می‌گوید پروانه اپراتورهای هوش مصنوعی ارائه می‌شود که بخش خصوصی می‌تواند با یک نرخ بازگشت سرمایه منطقی، برای آن سرمایه‌گذاری کند."
+    },
+    {
+      "title": "مقاله بحث‌برانگیز: هوش مصنوعی به‌تنهایی بهتر از پزشکان عمل می‌کند",
+      "url": "https://www.zoomit.ir/health-medical/466695-ai-outperforming-doctors-medical-study/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-09-16T07:10:00.000Z",
+      "summary": "مقاله‌ای تازه ادعا می‌کند هوش مصنوعی در برخی وظایف پزشکی از پزشکان جلو زده و حتی ممکن است حضور انسان، در آینده کیفیت مراقبت از بیمار را کاهش دهد."
     },
     {
       "title": "Roundtables: Could AI really kill us all?",
@@ -64,38 +96,6 @@
       "lang": "en",
       "published": "2026-09-15T17:05:57.000Z",
       "summary": ""
-    },
-    {
-      "title": "ایلان ماسک شکایت شرکت‌هایش از اپل را پس گرفت؛ تمرکز کامل روی نبرد حقوقی با OpenAI",
-      "url": "https://digiato.com/business/elon-musk-drops-apple-antitrust-lawsuit",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-09-15T15:30:00.000Z",
-      "summary": "دلیل این تصمیم هنوز مشخص نشده و شرکت‌های ایلان ماسک تأکید کرده‌اند که دعوای حقوقی خود علیه OpenAI را با قدرت ادامه خواهند داد. The post ایلان ماسک شکایت شرکت‌هایش از اپل را پس گرفت؛ تمرکز کامل روی نبرد حقوقی با OpenAI ap"
-    },
-    {
-      "title": "ویژگی‌های هوش مصنوعی iOS 27 در ایران کار نمی‌کنند",
-      "url": "https://digiato.com/artificial-intelligence/ios-27-apple-intelligence-issues-iran",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-09-15T13:25:00.000Z",
-      "summary": "قابلیت‌های اپل اینتلیجنس ظاهراً حتی با ابزارهای تغییر آی‌پی هم قابل استفاده نیستند. The post ویژگی‌های هوش مصنوعی iOS 27 در ایران کار نمی‌کنند appeared first on دیجیاتو."
-    },
-    {
-      "title": "انتشار تست مقاومت و کالبدشکافی آنر ربات فون؛ دوربین رباتیک آسیب‌پذیر است [تماشا کنید]",
-      "url": "https://digiato.com/mobile/honor-robot-phone-durability-test",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-09-15T12:50:20.000Z",
-      "summary": "این ویدیو همچنین با انجام کالبدشکافی، قطعات داخلی دستگاه را نمایش می‌دهد. The post انتشار تست مقاومت و کالبدشکافی آنر ربات فون؛ دوربین رباتیک آسیب‌پذیر است [تماشا کنید] appeared first on دیجیاتو."
-    },
-    {
-      "title": "What’s at stake in AI’s trillion-dollar gamble",
-      "url": "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/",
-      "source": "MIT Technology Review",
-      "lang": "en",
-      "published": "2026-09-15T10:00:00.000Z",
-      "summary": "When Jessica Wachter, a finance professor at the University of Pennsylvania’s Wharton School, wanted to assess AI’s impact on the economy over the next few years, she faced a long list of business and technical uncertain"
     }
   ]
 }
