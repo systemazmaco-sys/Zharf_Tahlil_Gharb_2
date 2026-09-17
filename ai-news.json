@@ -1,6 +1,46 @@
 {
-  "updated_at": "2026-09-17T15:49:35.256Z",
+  "updated_at": "2026-09-17T20:42:10.101Z",
   "items": [
+    {
+      "title": "The fix for rogue AI agents could be more AI",
+      "url": "https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-09-17T20:34:47.000Z",
+      "summary": "Y Combinator has funded 106 companies related to AI observability in recent years"
+    },
+    {
+      "title": "OpenAI caught its models leaving notes to successors to hide bad behavior",
+      "url": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-09-17T20:34:24.000Z",
+      "summary": "OpenAI disclosed instances of GPT-5.6 Sol instructing future contexts to conceal mistakes and misaligned behavior, highlighting the growing challenge of detecting misalignment as increasingly capable AI models learn to h"
+    },
+    {
+      "title": "Is the AI safety debate about safety or control?",
+      "url": "https://techcrunch.com/2026/09/17/is-the-ai-safety-debate-about-safety-or-control/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-09-17T20:19:37.000Z",
+      "summary": "Not everyone agrees with Amodei's call for globally coordinated action for AI safety."
+    },
+    {
+      "title": "خبری از عصر فراوانی نیست، رونق هوش مصنوعی قیمت گجت‌های شما را هم بالا می‌برد",
+      "url": "https://www.zoomit.ir/ai-articles/467356-ai-boom-coming-gadgets-features/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-09-17T18:30:00.000Z",
+      "summary": "رونق هوش مصنوعی سهم گجت‌ها از حافظه را کاهش می‌دهد؛ گوشی‌ها، لپ‌تاپ‌ها و کنسول‌های آینده احتمالاً گران‌تر و با امکانات کمتری عرضه می‌شوند."
+    },
+    {
+      "title": "همکاری شرکت سازنده داروهای لاغری با آنتروپیک؛ ساخت سریع‌تر دارو با هوش مصنوعی",
+      "url": "https://www.zoomit.ir/health-medical/467391-novo-nordisk-anthropic-ai-drug-discovery/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-09-17T16:05:00.000Z",
+      "summary": "نوا نوردیسک برای تحلیل داده‌های زیستی و تسریع کشف داروهای جدید، مدل‌های هوش مصنوعی کلود شرکت آنتروپیک را در بخش تحقیق و توسعه به کار می‌گیرد."
+    },
     {
       "title": "محققان:‌ توسعه هوش مصنوعی می‌تواند به تولید میلیون‌ها تن زباله الکترونیکی منجر شود",
       "url": "https://digiato.com/environment/ai-to-flood-earth-with-millions-of-tons-e-waste",
@@ -18,30 +58,6 @@
       "summary": "آنتروپیک ویدیویی ۳۷ دقیقه‌ای درباره‌ی ساخت عامل‌های هوش مصنوعی منتشر کرد که تماشایش بر هر کسی واجب است."
     },
     {
-      "title": "مصاحبه مفصل مدیر ارشد مایکروسافت؛ از خطرات واقعی هوش مصنوعی تا رقابت با چین",
-      "url": "https://www.zoomit.ir/ai-articles/467392-microsoft-ai-safety-regulation-mustafa-suleyman-anthropic/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-09-17T14:46:57.000Z",
-      "summary": "مصطفی سلیمان از تهدیدهای واقعی هوش مصنوعی گفت و آنتروپیک را به سخت‌ترکردن مهار این فناوری متهم کرد."
-    },
-    {
-      "title": "مدیرعامل فیمکس: هوش مصنوعی آثار منفی گسترده‌ای روی بازار رمزارز گذاشته است",
-      "url": "https://www.zoomit.ir/cryptocurrency/467321-ai-impact-on-crypto-industry/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-09-17T14:15:00.000Z",
-      "summary": "مدیرعامل صرافی فیمکس اعلام کرد هوش مصنوعی سرمایه‌ها را جذب کرده، به هکرها قدرت بخشیده و آینده‌ی رمزارزها را به سمت تمرکزگرایی سوق می‌دهد."
-    },
-    {
-      "title": "Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia",
-      "url": "https://techcrunch.com/2026/09/17/huawei-plans-q1-2027-launch-of-new-ai-chip-as-it-takes-on-nvidia/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-09-17T14:06:14.000Z",
-      "summary": "Huawei is accelerating the launch of its next-generation Ascend 960DT AI chip as it pushes to compete with Nvidia and close China’s AI computing gap with the U.S."
-    },
-    {
       "title": "رئیس مایکروسافت: هوش مصنوعی می‌تواند به گونه سیلیکونی رقیب انسان تبدیل شود",
       "url": "https://digiato.com/artificial-intelligence/microsoft-ai-chief-warns-silicon-species-human-competition",
       "source": "دیجیاتو",
@@ -50,28 +66,12 @@
       "summary": "«مصطفی سلیمان» در صحبت‌های جدید خود به سناریویی اشاره کرده که در آن هوش مصنوعی رقیب انسان‌ها می‌شود. The post رئیس مایکروسافت: هوش مصنوعی می‌تواند به گونه سیلیکونی رقیب انسان تبدیل شود appeared first on دیجیاتو."
     },
     {
-      "title": "2 days left to exhibit at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/09/17/2-days-left-to-exhibit-at-techcrunch-disrupt-2026/",
-      "source": "TechCrunch AI",
+      "title": "Introducing Astra for Law",
+      "url": "https://openai.com/index/astra-for-law",
+      "source": "OpenAI",
       "lang": "en",
-      "published": "2026-09-17T14:00:00.000Z",
-      "summary": "Last day to book your exhibit table at Disrupt is September 18. Two days left. Get your startup in front of 10,000+ founders, investors, operators, and tech leaders on October 13–15."
-    },
-    {
-      "title": "Rival AI agents, Instinct and Meta’s Muse, both add the ability to make calls",
-      "url": "https://techcrunch.com/2026/09/17/rival-ai-agents-instinct-and-metas-muse-both-add-the-ability-to-make-calls/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-09-17T13:46:16.000Z",
-      "summary": "People can use these assistants to make restaurant reservations and cancel subscriptions."
-    },
-    {
-      "title": "گوگل قابلیت جدیدی برای کنترل خانه هوشمند با ایجنت‌های هوش مصنوعی معرفی کرد",
-      "url": "https://digiato.com/artificial-intelligence/google-home-mcp-ai-agents-control",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-09-17T08:48:54.000Z",
-      "summary": "گوگل بستر نرم‌افزاری خانه هوشمند خود را با پروتکل MCP به‌روی ایجنت‌های مختلف هوش مصنوعی از جمله Claude باز کرد. The post گوگل قابلیت جدیدی برای کنترل خانه هوشمند با ایجنت‌های هوش مصنوعی معرفی کرد appeared first on دیجیات"
+      "published": "2026-09-17T00:00:00.000Z",
+      "summary": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work."
     },
     {
       "title": "Our framework for reporting model misalignment",
@@ -90,12 +90,12 @@
       "summary": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely."
     },
     {
-      "title": "Reimagining advertising with AI",
-      "url": "https://openai.com/index/reimagining-advertising-with-ai",
-      "source": "OpenAI",
+      "title": "Building the materials foundation for AI",
+      "url": "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/",
+      "source": "MIT Technology Review",
       "lang": "en",
-      "published": "2026-09-16T13:00:00.000Z",
-      "summary": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify."
+      "published": "2026-09-16T12:47:34.000Z",
+      "summary": "The AI boom is becoming a materials challenge. As AI pushes computing into new territory, the materials behind that infrastructure are becoming just as crucial as the algorithms running on it. Semiconductors and data cen"
     }
   ]
 }
