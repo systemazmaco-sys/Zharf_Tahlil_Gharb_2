@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-16T20:35:10.458Z",
+  "updated_at": "2026-09-17T02:15:30.581Z",
   "items": [
+    {
+      "title": "هوش مصنوعی آن‌قدر بزرگ شده که دیگر قابل توقف نیست",
+      "url": "https://www.zoomit.ir/ai-articles/467287-ai-too-big-to-slow-in-geopolitical-race/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-09-16T22:00:00.000Z",
+      "summary": "هشدارها درباره‌ی خطرات هوش مصنوعی، هم‌زمان با رقابت آمریکا و چین، می‌تواند نتیجه‌ی عکس بدهد و شتاب سرمایه‌گذاری را بیشتر کند."
+    },
+    {
+      "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
+      "url": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-09-16T21:07:24.000Z",
+      "summary": "Anthropic and OpenAI want to embed independent safety evaluators inside their AI labs. Researchers welcome the unprecedented access, but warn meaningful oversight requires transparency, independence, and eventually regul"
+    },
     {
       "title": "After accusations of selling ‘perv glasses,’ Meta prepares to sell a pair without a camera",
       "url": "https://techcrunch.com/2026/09/16/after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera/",
@@ -34,12 +50,12 @@
       "summary": "پژوهشی نشان می‌دهد ایجنت‌های هوش مصنوعی در تعامل طولانی‌مدت، اصطلاحات و قواعد ارتباطی جدیدی می‌سازند که برای انسان‌ها نامفهوم است. The post ایجنت‌های هوش مصنوعی در یک آزمایش اصطلاحات جدیدی ساختند که محققان نمی‌فهمیدند ap"
     },
     {
-      "title": "Your AI agents can now control your Google Home devices",
-      "url": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
-      "source": "TechCrunch AI",
+      "title": "Our framework for reporting model misalignment",
+      "url": "https://openai.com/index/model-misalignment-reporting-framework",
+      "source": "OpenAI",
       "lang": "en",
       "published": "2026-09-16T17:00:00.000Z",
-      "summary": "Google is launching early access to a new MCP server for Google Home, allowing AI agents like Claude, ChatGPT, and others to control connected devices, review camera summaries, and access smart home activity using natura"
+      "summary": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior."
     },
     {
       "title": "کلاد آپدیت شد؛ هوش مصنوعی آنتروپیک حالا ابزارهایی برای ساخت سند دارد",
@@ -80,22 +96,6 @@
       "lang": "en",
       "published": "2026-09-16T12:47:34.000Z",
       "summary": "The AI boom is becoming a materials challenge. As AI pushes computing into new territory, the materials behind that infrastructure are becoming just as crucial as the algorithms running on it. Semiconductors and data cen"
-    },
-    {
-      "title": "How to connect AI usage to business value",
-      "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
-      "source": "OpenAI",
-      "lang": "en",
-      "published": "2026-09-16T12:00:00.000Z",
-      "summary": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes."
-    },
-    {
-      "title": "سامانه صدور پروانه هوش مصنوعی فعال شد",
-      "url": "https://www.zoomit.ir/iran-news/467325-ai-license-system-launched/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-09-16T08:18:27.000Z",
-      "summary": "رگولاتوری ثبت درخواست پروانه‌ هوش مصنوعی را الکترونیکی و دامنه‌ خدمات قابل‌ ارائه را مشخص کرد."
     }
   ]
 }
