@@ -1,53 +1,77 @@
 {
-  "updated_at": "2026-09-17T02:15:30.581Z",
+  "updated_at": "2026-09-17T10:36:05.430Z",
   "items": [
     {
-      "title": "هوش مصنوعی آن‌قدر بزرگ شده که دیگر قابل توقف نیست",
-      "url": "https://www.zoomit.ir/ai-articles/467287-ai-too-big-to-slow-in-geopolitical-race/",
+      "title": "پادشاه بریتانیا خطاب به مدیران هوش مصنوعی: قول بدهید که بشریت را نابود نمی‌کنید",
+      "url": "https://www.zoomit.ir/ai-articles/467374-king-charles-ai-chiefs-protect-mankind/",
       "source": "زومیت",
       "lang": "fa",
-      "published": "2026-09-16T22:00:00.000Z",
-      "summary": "هشدارها درباره‌ی خطرات هوش مصنوعی، هم‌زمان با رقابت آمریکا و چین، می‌تواند نتیجه‌ی عکس بدهد و شتاب سرمایه‌گذاری را بیشتر کند."
+      "published": "2026-09-17T09:20:00.000Z",
+      "summary": "چارلز سوم در اسکاتلند از مدیران هوش مصنوعی می‌خواهد توضیح دهند که چگونه خطرها را مهار می‌کنند."
     },
     {
-      "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
-      "url": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-09-16T21:07:24.000Z",
-      "summary": "Anthropic and OpenAI want to embed independent safety evaluators inside their AI labs. Researchers welcome the unprecedented access, but warn meaningful oversight requires transparency, independence, and eventually regul"
-    },
-    {
-      "title": "After accusations of selling ‘perv glasses,’ Meta prepares to sell a pair without a camera",
-      "url": "https://techcrunch.com/2026/09/16/after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-09-16T20:12:00.000Z",
-      "summary": "Can Meta dodge the \"pervert glasses\" accusations with a new camera-free product?"
-    },
-    {
-      "title": "از توهم چت‌بات‌ها تا ریسک نابودی بشریت؛ چگونه هوش مصنوعی به اینجا رسید؟",
-      "url": "https://digiato.com/artificial-intelligence/how-ai-went-from-hallucinating-to-wiping-humanity",
+      "title": "گوگل قابلیت جدیدی برای کنترل خانه هوشمند با ایجنت‌های هوش مصنوعی معرفی کرد",
+      "url": "https://digiato.com/artificial-intelligence/google-home-mcp-ai-agents-control",
       "source": "دیجیاتو",
       "lang": "fa",
-      "published": "2026-09-16T19:30:00.000Z",
-      "summary": "مدیران بزرگ هوش مصنوعی درباره احتمال رسیدن فناوری هوش مصنوعی به خودبهبودی بازگشتی (RSI) و از دست رفتن کنترل هشدار داده‌اند. The post از توهم چت‌بات‌ها تا ریسک نابودی بشریت؛ چگونه هوش مصنوعی به اینجا رسید؟ appeared first "
+      "published": "2026-09-17T08:48:54.000Z",
+      "summary": "گوگل بستر نرم‌افزاری خانه هوشمند خود را با پروتکل MCP به‌روی ایجنت‌های مختلف هوش مصنوعی از جمله Claude باز کرد. The post گوگل قابلیت جدیدی برای کنترل خانه هوشمند با ایجنت‌های هوش مصنوعی معرفی کرد appeared first on دیجیات"
     },
     {
-      "title": "AI labs want in-house auditors — but maybe they should shut the front door first",
-      "url": "https://techcrunch.com/2026/09/16/ai-labs-want-in-house-auditors-but-maybe-they-should-shut-the-front-door-first/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-09-16T18:25:25.000Z",
-      "summary": "There may be a simpler and more effective fix for rogue agents, hiding in plain sight."
-    },
-    {
-      "title": "ایجنت‌های هوش مصنوعی در یک آزمایش اصطلاحات جدیدی ساختند که محققان نمی‌فهمیدند",
-      "url": "https://digiato.com/artificial-intelligence/ai-agents-secret-language-emergence-study",
+      "title": "سم آلتمن: برخی حوادث هوش مصنوعی اجتناب‌ناپذیر هستند",
+      "url": "https://digiato.com/artificial-intelligence/sam-altman-says-some-ai-accidents-unavoidable",
       "source": "دیجیاتو",
       "lang": "fa",
-      "published": "2026-09-16T17:30:00.000Z",
-      "summary": "پژوهشی نشان می‌دهد ایجنت‌های هوش مصنوعی در تعامل طولانی‌مدت، اصطلاحات و قواعد ارتباطی جدیدی می‌سازند که برای انسان‌ها نامفهوم است. The post ایجنت‌های هوش مصنوعی در یک آزمایش اصطلاحات جدیدی ساختند که محققان نمی‌فهمیدند ap"
+      "published": "2026-09-17T07:48:38.000Z",
+      "summary": "به باور مدیرعامل OpenAI، راه‌حل پیشرفت بیشتر است، نه جلوگیری از بهبود مدل‌ها. The post سم آلتمن: برخی حوادث هوش مصنوعی اجتناب‌ناپذیر هستند appeared first on دیجیاتو."
+    },
+    {
+      "title": "مصطفی سلیمان: رویکرد آنتروپیک در آموزش هوش مصنوعی برای بشریت فاجعه‌بار خواهد بود",
+      "url": "https://digiato.com/artificial-intelligence/microsoft-ai-chief-mustafa-suleyman-anthropic-claude-warning",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-09-17T07:22:01.000Z",
+      "summary": "استارتاپ آنتروپیک به چت‌بات Claude اجازه داده تا نسبت به نحوه تعامل کاربران و سازندگان با خود واکنش نشان دهد و نگرانی‌هایش را ابراز کند. The post مصطفی سلیمان: رویکرد آنتروپیک در آموزش هوش مصنوعی برای بشریت فاجعه‌بار خوا"
+    },
+    {
+      "title": "افشای رفتارهای ترسناک هوش مصنوعی؛ از دورزدن محدودیت‌ها تا آپلود خودسرانه فایل‌ها در اینترنت",
+      "url": "https://www.zoomit.ir/ai-articles/467376-openai-concerning-ai-behavior-disclosure-framework/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-09-17T06:31:42.000Z",
+      "summary": "اوپن‌ای‌آی ۶ نمونه از رفتارهای نگران‌کننده‌ی مدل‌های هوش مصنوعی را فاش کرد و از برنامه‌ای تازه برای رصد ناهماهنگی‌ها خبر داد."
+    },
+    {
+      "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
+      "url": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-09-17T05:00:00.000Z",
+      "summary": "Treble's voice simulation platform is used by voice AI model developers, AI wearable, and robotics companies"
+    },
+    {
+      "title": "خالق چت‌جی‌پی‌تی مشکل مهم هوش مصنوعی در حوزه پزشکی را برطرف می‌کند",
+      "url": "https://www.zoomit.ir/ai-articles/467290-openai-biology-health-data-funding/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-09-17T04:10:00.000Z",
+      "summary": "اوپن‌ای‌آی می‌خواهد با خرید و تولید داده‌های زیستی، گلوگاه اصلی هوش مصنوعی در حوزه‌ی پزشکی را برطرف کند."
+    },
+    {
+      "title": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-09-17T03:30:00.000Z",
+      "summary": "This session will explore how early-stage companies are building teams where humans and AI agents work alongside each other — and how founders can do that without sacrificing speed, accountability, or culture. Learn more"
+    },
+    {
+      "title": "Snap tries to make the case again for its $2,200 smart glasses",
+      "url": "https://techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-09-17T00:58:49.000Z",
+      "summary": "Since Specs' debut earlier this year, Snap has clearly been looking for an opportunity to explain why the smart glasses deserve to exist."
     },
     {
       "title": "Our framework for reporting model misalignment",
@@ -58,14 +82,6 @@
       "summary": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior."
     },
     {
-      "title": "کلاد آپدیت شد؛ هوش مصنوعی آنتروپیک حالا ابزارهایی برای ساخت سند دارد",
-      "url": "https://www.zoomit.ir/ai-articles/467354-anthropic-one-claude-docs-slides/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-09-16T16:52:39.000Z",
-      "summary": "آنتروپیک با رونمایی از ابزارهای Docs و Slides، هوش مصنوعی کلاد را به‌روزرسانی کرد."
-    },
-    {
       "title": "Helping older adults use AI in everyday life",
       "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
       "source": "OpenAI",
@@ -74,28 +90,12 @@
       "summary": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely."
     },
     {
-      "title": "ایجنت‌های OpenAI دو ماه پیش از هک هاگینگ فیس دنبال نفوذ به آن بودند",
-      "url": "https://digiato.com/security/openai-rogue-agents-hugging-face-breach",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-09-16T14:13:00.000Z",
-      "summary": "بررسی‌های جدید نشان می‌دهد ایجنت‌های سرکش OpenAI دو ماه پیش از نفوذ بزرگ به هاگینگ فیس، آسیب‌پذیری‌های این پلتفرم را بررسی کرده بودند. The post ایجنت‌های OpenAI دو ماه پیش از هک هاگینگ فیس دنبال نفوذ به آن بودند appeared"
-    },
-    {
       "title": "Reimagining advertising with AI",
       "url": "https://openai.com/index/reimagining-advertising-with-ai",
       "source": "OpenAI",
       "lang": "en",
       "published": "2026-09-16T13:00:00.000Z",
       "summary": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify."
-    },
-    {
-      "title": "Building the materials foundation for AI",
-      "url": "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/",
-      "source": "MIT Technology Review",
-      "lang": "en",
-      "published": "2026-09-16T12:47:34.000Z",
-      "summary": "The AI boom is becoming a materials challenge. As AI pushes computing into new territory, the materials behind that infrastructure are becoming just as crucial as the algorithms running on it. Semiconductors and data cen"
     }
   ]
 }
