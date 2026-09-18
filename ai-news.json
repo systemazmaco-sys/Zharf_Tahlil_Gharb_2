@@ -1,6 +1,46 @@
 {
-  "updated_at": "2026-09-18T02:01:18.428Z",
+  "updated_at": "2026-09-18T10:12:02.776Z",
   "items": [
+    {
+      "title": "OpenAI و آنتروپیک تقریباً ۱۰ برابر بیشتر از کل شرکت‌های هوش مصنوعی چینی درآمد دارند",
+      "url": "https://digiato.com/artificial-intelligence/openai-and-anthropic-revenue-more-than-all-chinese-ai-models",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-09-18T08:37:31.000Z",
+      "summary": "دلیل این اختلاف درآمد این است که مدل‌های هوش مصنوعی چینی عموما متن‌باز هستند. The post OpenAI و آنتروپیک تقریباً ۱۰ برابر بیشتر از کل شرکت‌های هوش مصنوعی چینی درآمد دارند appeared first on دیجیاتو."
+    },
+    {
+      "title": "ساخت جایگزین رایگان فتوشاپ با دو هزار دلار هزینه هوش مصنوعی",
+      "url": "https://www.zoomit.ir/ai-articles/467428-free-ai-image-editor-psd-offline-2000-dollars/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-09-18T07:48:10.000Z",
+      "summary": "یک توسعه‌دهنده با کمک هوش مصنوعی نرم‌افزاری ساخت که فایل PSD می‌خواند و آفلاین کار می‌کند."
+    },
+    {
+      "title": "پینترست قابلیت هوش مصنوعی Restyle را برای بازطراحی دکوراسیون معرفی کرد",
+      "url": "https://digiato.com/app/pinterest-introduces-restyle-ai-tool-for-redesigning-interior-spaces",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-09-18T07:44:18.000Z",
+      "summary": "پینترست قابلیت Restyle را معرفی کرد که با هوش مصنوعی امکان بازطراحی فضای داخلی و افزودن محصولات مختلف به تصاویر کاربران را فراهم می‌کند. The post پینترست قابلیت هوش مصنوعی Restyle را برای بازطراحی دکوراسیون معرفی کرد app"
+    },
+    {
+      "title": "رئیس هواوی: هوش مصنوعی چین هنوز به سطح ریسک‌های مدل‌های آمریکایی نرسیده است",
+      "url": "https://digiato.com/artificial-intelligence/huawei-on-chinese-ai-developers-safety-risks",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-09-18T07:26:09.000Z",
+      "summary": "هواوی انتظار دارد ایجنت‌های خودمختار هوش مصنوعی به‌سرعت در طی یک دهه آینده گسترش پیدا کنند. The post رئیس هواوی: هوش مصنوعی چین هنوز به سطح ریسک‌های مدل‌های آمریکایی نرسیده است appeared first on دیجیاتو."
+    },
+    {
+      "title": "معرفی Reception؛ دستیار هوش مصنوعی برای پاسخگویی به تماس‌های کسب‌وکارها",
+      "url": "https://www.zoomit.ir/ai-articles/467408-elevenlabs-reception-ai-phone-agent/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-09-18T05:40:00.000Z",
+      "summary": "شرکت ElevenLabs از Reception رونمایی کرد؛ منشی هوش مصنوعی که شبانه‌روز به تماس‌های تلفنی جواب می‌دهد."
+    },
     {
       "title": "Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’",
       "url": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
@@ -34,38 +74,6 @@
       "summary": "رونق هوش مصنوعی سهم گجت‌ها از حافظه را کاهش می‌دهد؛ گوشی‌ها، لپ‌تاپ‌ها و کنسول‌های آینده احتمالاً گران‌تر و با امکانات کمتری عرضه می‌شوند."
     },
     {
-      "title": "همکاری شرکت سازنده داروهای لاغری با آنتروپیک؛ ساخت سریع‌تر دارو با هوش مصنوعی",
-      "url": "https://www.zoomit.ir/health-medical/467391-novo-nordisk-anthropic-ai-drug-discovery/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-09-17T16:05:00.000Z",
-      "summary": "نوا نوردیسک برای تحلیل داده‌های زیستی و تسریع کشف داروهای جدید، مدل‌های هوش مصنوعی کلود شرکت آنتروپیک را در بخش تحقیق و توسعه به کار می‌گیرد."
-    },
-    {
-      "title": "محققان:‌ توسعه هوش مصنوعی می‌تواند به تولید میلیون‌ها تن زباله الکترونیکی منجر شود",
-      "url": "https://digiato.com/environment/ai-to-flood-earth-with-millions-of-tons-e-waste",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-09-17T15:30:00.000Z",
-      "summary": "با پیش‌بینی افزایش سه برابری زباله‌های الکترونیکی در اثر توسعه مراکز هوش مصنوعی، نگرانی‌ها درباره سلامت انسان و محیط‌زیست افزایش پیدا کرده است. The post محققان:‌ توسعه هوش مصنوعی می‌تواند به تولید میلیون‌ها تن زباله الکت"
-    },
-    {
-      "title": "ساخت عامل‌های هوش مصنوعی در نیم ساعت؛ این ویدیو ارزشمند را از دست ندهید",
-      "url": "https://www.zoomit.ir/ai-articles/467394-anthropic-ai-agents-business-automation-video/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-09-17T15:02:56.000Z",
-      "summary": "آنتروپیک ویدیویی ۳۷ دقیقه‌ای درباره‌ی ساخت عامل‌های هوش مصنوعی منتشر کرد که تماشایش بر هر کسی واجب است."
-    },
-    {
-      "title": "رئیس مایکروسافت: هوش مصنوعی می‌تواند به گونه سیلیکونی رقیب انسان تبدیل شود",
-      "url": "https://digiato.com/artificial-intelligence/microsoft-ai-chief-warns-silicon-species-human-competition",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-09-17T14:05:46.000Z",
-      "summary": "«مصطفی سلیمان» در صحبت‌های جدید خود به سناریویی اشاره کرده که در آن هوش مصنوعی رقیب انسان‌ها می‌شود. The post رئیس مایکروسافت: هوش مصنوعی می‌تواند به گونه سیلیکونی رقیب انسان تبدیل شود appeared first on دیجیاتو."
-    },
-    {
       "title": "How Cooley is accelerating IPO work with ChatGPT",
       "url": "https://openai.com/index/cooley-gopublic",
       "source": "OpenAI",
@@ -88,14 +96,6 @@
       "lang": "en",
       "published": "2026-09-16T17:00:00.000Z",
       "summary": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior."
-    },
-    {
-      "title": "Building the materials foundation for AI",
-      "url": "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/",
-      "source": "MIT Technology Review",
-      "lang": "en",
-      "published": "2026-09-16T12:47:34.000Z",
-      "summary": "The AI boom is becoming a materials challenge. As AI pushes computing into new territory, the materials behind that infrastructure are becoming just as crucial as the algorithms running on it. Semiconductors and data cen"
     }
   ]
 }
