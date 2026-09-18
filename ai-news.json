@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-09-17T20:42:10.101Z",
+  "updated_at": "2026-09-18T02:01:18.428Z",
   "items": [
     {
-      "title": "The fix for rogue AI agents could be more AI",
-      "url": "https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/",
+      "title": "Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’",
+      "url": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
       "source": "TechCrunch AI",
       "lang": "en",
-      "published": "2026-09-17T20:34:47.000Z",
-      "summary": "Y Combinator has funded 106 companies related to AI observability in recent years"
+      "published": "2026-09-17T23:25:52.000Z",
+      "summary": "The round values the data center giant at $30.9 billion."
     },
     {
-      "title": "OpenAI caught its models leaving notes to successors to hide bad behavior",
-      "url": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/",
+      "title": "Google DeepMind launches institute to widen the AGI debate",
+      "url": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/",
       "source": "TechCrunch AI",
       "lang": "en",
-      "published": "2026-09-17T20:34:24.000Z",
-      "summary": "OpenAI disclosed instances of GPT-5.6 Sol instructing future contexts to conceal mistakes and misaligned behavior, highlighting the growing challenge of detecting misalignment as increasingly capable AI models learn to h"
+      "published": "2026-09-17T23:21:17.000Z",
+      "summary": "The new institute aims to surface differing views between Google, Google DeepMind, and the broader global research community around AGI. \"They will not always agree, and they will likely change their minds, as more data "
     },
     {
-      "title": "Is the AI safety debate about safety or control?",
-      "url": "https://techcrunch.com/2026/09/17/is-the-ai-safety-debate-about-safety-or-control/",
+      "title": "PrismML hopes its tiny LLM will change how we all use AI",
+      "url": "https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/",
       "source": "TechCrunch AI",
       "lang": "en",
-      "published": "2026-09-17T20:19:37.000Z",
-      "summary": "Not everyone agrees with Amodei's call for globally coordinated action for AI safety."
+      "published": "2026-09-17T22:34:09.000Z",
+      "summary": "If AI lab PrismML isn't on your radar yet, it should be."
     },
     {
       "title": "خبری از عصر فراوانی نیست، رونق هوش مصنوعی قیمت گجت‌های شما را هم بالا می‌برد",
@@ -66,6 +66,14 @@
       "summary": "«مصطفی سلیمان» در صحبت‌های جدید خود به سناریویی اشاره کرده که در آن هوش مصنوعی رقیب انسان‌ها می‌شود. The post رئیس مایکروسافت: هوش مصنوعی می‌تواند به گونه سیلیکونی رقیب انسان تبدیل شود appeared first on دیجیاتو."
     },
     {
+      "title": "How Cooley is accelerating IPO work with ChatGPT",
+      "url": "https://openai.com/index/cooley-gopublic",
+      "source": "OpenAI",
+      "lang": "en",
+      "published": "2026-09-17T12:00:00.000Z",
+      "summary": "Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most."
+    },
+    {
       "title": "Introducing Astra for Law",
       "url": "https://openai.com/index/astra-for-law",
       "source": "OpenAI",
@@ -80,14 +88,6 @@
       "lang": "en",
       "published": "2026-09-16T17:00:00.000Z",
       "summary": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior."
-    },
-    {
-      "title": "Helping older adults use AI in everyday life",
-      "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
-      "source": "OpenAI",
-      "lang": "en",
-      "published": "2026-09-16T16:00:00.000Z",
-      "summary": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely."
     },
     {
       "title": "Building the materials foundation for AI",
