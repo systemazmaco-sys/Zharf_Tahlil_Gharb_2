@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-09-18T15:22:53.113Z",
+  "updated_at": "2026-09-18T20:06:46.334Z",
   "items": [
+    {
+      "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
+      "url": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-09-18T18:49:30.000Z",
+      "summary": "Jev, a new kind of AI model, is showing developers a cheaper and faster path to software intelligence."
+    },
+    {
+      "title": "آیا هوش مصنوعی واقعاً می‌تواند نسل بشر را با سلاح بیولوژیکی نابود کند؟",
+      "url": "https://digiato.com/artificial-intelligence/how-realistic-is-the-threat-of-ai-creating-biological-weapons",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-09-18T18:30:00.000Z",
+      "summary": "دانشمندان درباره احتمال استفاده از هوش مصنوعی برای ساخت سلاح‌های بیولوژیک اختلاف‌نظر دارند و برخی این تهدید را بسیار دور می‌دانند. The post آیا هوش مصنوعی واقعاً می‌تواند نسل بشر را با سلاح بیولوژیکی نابود کند؟ appeared "
+    },
+    {
+      "title": "Disney’s first CTO led an AI startup it once accused of copying its characters",
+      "url": "https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-09-18T17:59:53.000Z",
+      "summary": "The former CEO of Character.AI, which Disney previously sent a cease-and-desist letter to, will serve as the company's first-ever chief technology officer."
+    },
+    {
+      "title": "فرماندار کالیفرنیا به‌دنبال کلید خاموشی هوش مصنوعی است",
+      "url": "https://www.zoomit.ir/ai-articles/467452-newsom-ai-kill-switch-california/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-09-18T17:54:16.000Z",
+      "summary": "گوین نیوسام، کالیفرنیا را برای نظارت سخت‌تر بر هوش مصنوعی جلو می‌برد و از «کلید خاموشی» برای مدل‌های پیشرفته می‌گوید."
+    },
+    {
+      "title": "Google’s new ‘CC’ is an AI agent that helps families run their households",
+      "url": "https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-09-18T17:33:50.000Z",
+      "summary": "Google is refocusing its CC AI agent on household coordination, letting families share emails, schedules, and tasks so the AI can manage calendars, fill out forms, make shopping lists, plan meals, and more."
+    },
+    {
+      "title": "آزمایشگاه زیستی آنتروپیک راه‌اندازی شد؛ هوش مصنوعی در خدمت برنامه دارویی",
+      "url": "https://www.zoomit.ir/ai-articles/467450-anthropic-biology-lab-ai-drug-program-reuters/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-09-18T17:28:53.000Z",
+      "summary": "آنتروپیک ظاهرا یک آزمایشگاه زیستی راه انداخته است و هم‌زمان میان جاه‌طلبی دارویی و ترس از خطرهای هوش مصنوعی حرکت می‌کند."
+    },
     {
       "title": "نبرد بر سر برق و آب در عصر هوش مصنوعی؛ اسپانیا عطش دیتاسنترها را کنترل می‌کند",
       "url": "https://www.zoomit.ir/ai-articles/467370-spain-data-centers-power-regulation-ai/",
@@ -8,38 +56,6 @@
       "lang": "fa",
       "published": "2026-09-18T15:10:00.000Z",
       "summary": "گسترش دیتاسنترهای هوش مصنوعی، دولت‌ها را به سمت مقررات سخت‌تر برای برق، آب و شفافیت سوق داده است."
-    },
-    {
-      "title": "Robinhood’s Abhishek Fatehpuria on winning the modern financial consumer at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/09/18/robinhoods-abhishek-fatehpuria-on-winning-the-modern-financial-consumer-at-techcrunch-disrupt-2026/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-09-18T15:00:00.000Z",
-      "summary": "Robinhood’s Abhishek Fatehpuria on winning the modern financial consumer at TechCrunch Disrupt 2026. Register now to save up to $200 before September 25 at 11:59 p.m. PT."
-    },
-    {
-      "title": "Researchers used Anthropic’s Claude to hack into OpenAI",
-      "url": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-09-18T14:00:14.000Z",
-      "summary": "Security researchers used Anthropic’s Claude to exploit vulnerabilities in OpenAI’s systems, taking over employee accounts and gaining access to an internal code repository before reporting the flaws."
-    },
-    {
-      "title": "چگونه بفهمیم حساب‌های کاربری ما در پلتفرم‌های هوش مصنوعی هک شده‌اند؟",
-      "url": "https://www.zoomit.ir/ai-articles/467350-how-check-ai-account-hacked/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-09-18T14:00:00.000Z",
-      "summary": "در این مقاله روش شناسایی دستگاه‌های متصل به حساب‌های هوش مصنوعی و ارتقای امنیت این اکانت‌ها را آموزش داده‌ایم."
-    },
-    {
-      "title": "The clock is ticking: Final 24 hours to exhibit at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/09/18/final-24-hours-to-exhibit-at-techcrunch-disrupt-2026/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-09-18T14:00:00.000Z",
-      "summary": "Last day to book your exhibit table at Disrupt is today, September 18. Get your startup in front of 10,000+ founders, investors, operators, and tech leaders on October 13–15."
     },
     {
       "title": "OpenAI از نسخه ویژه مدل Astra برای فعالیت‌های حقوقی رونمایی کرد [تماشا کنید]",
@@ -58,14 +74,6 @@
       "summary": "از عرضه اپلیکیشن Muse در آمریکا فقط ۱۰ روز گذشته است. The post اپلیکیشن ایجنت Muse متا با عبور از ChatGPT به رتبه اول اپ‌استور آمریکا رسید appeared first on دیجیاتو."
     },
     {
-      "title": "هشدار پادشاه بریتانیا: قبل آنکه دیر شود، باید هوش مصنوعی را کنترل کنیم",
-      "url": "https://digiato.com/artificial-intelligence/king-charles-meet-with-ai-leaders-issues-warning",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-09-18T12:21:02.000Z",
-      "summary": "پادشاه بریتانیا گفت توسعه‌دهندگان باید پیش از آنکه دیر شود، سازوکارهای کنترلی و ایمنی کافی برای هوش مصنوعی ایجاد کنند. The post هشدار پادشاه بریتانیا: قبل آنکه دیر شود، باید هوش مصنوعی را کنترل کنیم appeared first on دیج"
-    },
-    {
       "title": "Could AI really kill us all? Your questions, answered.",
       "url": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/",
       "source": "MIT Technology Review",
@@ -74,28 +82,20 @@
       "summary": "On Wednesday, MIT Technology Review hosted a live Roundtables event for subscribers that asked the question everyone’s asking right now: Could AI really kill us all? But attendees had so many more questions than we had t"
     },
     {
-      "title": "هکرها با کمک هوش مصنوعی آنتروپیک به اوپن‌ای‌آی نفوذ کردند",
-      "url": "https://www.zoomit.ir/ai-articles/467439-openai-anthropic-claude-security-breach/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-09-18T10:49:53.000Z",
-      "summary": "پژوهشگران با هوش مصنوعی آنتروپیک به حساب ChatGPT یک کارمند OpenAI رسیدند و از ضعف‌های تازه‌ی امنیتی پرده برداشتند."
-    },
-    {
-      "title": "سفر در زمان با هوش مصنوعی؛ چطور با chatgpt عکس دهه شصتی بسازیم؟",
-      "url": "https://news.google.com/rss/articles/CBMimgRBVV95cUxPLTFYUkk5VklNeW9NR0loV3lUVDN6NlJnRHVtY0d6U1VCNEhTOWVIUkRvam1TSmY3RC00dElSeU9zU3oxbFl3LThEbmMwRWg3b0VMaHR6M0ZscnF5ZFd0VVR1TW9ZN3FfdjNZaGE2bzFyeEFUUDJFVFhGc09sZkthWXptOVkzdDZrYm84WWd6eEloWDQzS1AybUJkUTJnZklKRWw3S3BlYnhhd3FvY3FPcFBGMXhsY3FIQ0IyMXc5UHNoNUczVEM0aXh0eTZlY1Q1Z3NJQVJwdHV3VmI3Z2FqNlVqLXNUNUNSOVg1TWlVRDVYUjlKcThSZ0p6eEI2M2VNdGJzUkpYOGZyejFqb2dXZWxER3o4ZnRvb2ozV2ZFejEzTUpyZnRXeUpBNFpvODdIdjZGanIzRE9jWXhyNWNra1owQnRhYXdWYlQ5dDVJUzh0WGdYcDlzRG1vd0JhN2dNc29aeGMydnF3RUV5Z3Q3Yi1FVTdRSGhJZVZQa09vUDB1bGE4anNwWU9PWHJfX3o0dlVIaktaeVdPa0YzbHktTkg2aDhPcVp3cFA5WHVpc2lsXzB2YlJ4VGRXLVpic3pfUERGMjMzLTNGWm43anNJRzVjbXRmbWFjekU4ck8zOE1VWC1fNnY5Wktqek8wQmFDRkhVSmFnWFlTeVZvd1pJaTZFUTJXUDhVbVBWZGpSTkQ0MzQ3SXk1MEVn?oc=5",
-      "source": "روزنامه هفت صبح",
-      "lang": "fa",
-      "published": "2026-09-18T03:30:00.000Z",
-      "summary": "سفر در زمان با هوش مصنوعی؛ چطور با chatgpt عکس دهه شصتی بسازیم؟ روزنامه هفت صبح"
-    },
-    {
       "title": "How Cooley is accelerating IPO work with ChatGPT",
       "url": "https://openai.com/index/cooley-gopublic",
       "source": "OpenAI",
       "lang": "en",
       "published": "2026-09-17T12:00:00.000Z",
       "summary": "Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most."
+    },
+    {
+      "title": "Introducing Astra for Law",
+      "url": "https://openai.com/index/astra-for-law",
+      "source": "OpenAI",
+      "lang": "en",
+      "published": "2026-09-17T00:00:00.000Z",
+      "summary": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work."
     }
   ]
 }
