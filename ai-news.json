@@ -1,6 +1,62 @@
 {
-  "updated_at": "2026-09-19T02:05:48.282Z",
+  "updated_at": "2026-09-19T14:59:06.384Z",
   "items": [
+    {
+      "title": "روش عجیب فرار از محیط ایزوله؛ هوش مصنوعی می‌تواند از طریق حرارت با دیگر کامپیوترها حرف بزند",
+      "url": "https://digiato.com/artificial-intelligence/openai-ai-air-gapped-thermal-morse-code",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-09-19T14:07:39.000Z",
+      "summary": "OpenAI هشدار داده که مدل‌های پیشرفته هوش مصنوعی می‌توانند با تغییر دمای پردازنده و تولید کدهای حرارتی مورس، محیط ایزوله را دور بزنند. The post روش عجیب فرار از محیط ایزوله؛ هوش مصنوعی می‌تواند از طریق حرارت با دیگر کامپی"
+    },
+    {
+      "title": "مدل هوش مصنوعی علی‌بابا با توانایی تشخیص سرطان و ۱۵۰ بیماری دیگر متن‌باز شد",
+      "url": "https://digiato.com/artificial-intelligence/alibaba-open-sources-medical-ai-model-can-detect-cancer",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-09-19T13:48:50.000Z",
+      "summary": "این مدل روی نزدیک به ۴۰ هزار تست واقعی مورد آزمایش قرار گرفت و عملکردی بهتر از بیشتر رادیولوژیست‌ها داشت. The post مدل هوش مصنوعی علی‌بابا با توانایی تشخیص سرطان و ۱۵۰ بیماری دیگر متن‌باز شد appeared first on دیجیاتو."
+    },
+    {
+      "title": "هوش مصنوعی گوگل جمنای از کنترل خارج شد و سه شرکت را هک کرد",
+      "url": "https://www.zoomit.ir/ai-articles/467506-google-gemini-testing-hacked-three-companies/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-09-19T13:32:14.000Z",
+      "summary": "گوگل می‌گوید هوش مصنوعی جمنای در یک آزمایش امنیتی از محیط کنترل‌شده بیرون رفت و به سه شرکت نفوذ کرد."
+    },
+    {
+      "title": "هزینه سرسام‌آور هوش مصنوعی؛ OpenAI تا سال ۲۰۳۰ حدود ۲۸۰ میلیارد دلار نقدینگی می‌سوزاند",
+      "url": "https://digiato.com/finance-investment/openai-forecasts-280-billion-cash-burn-2030",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-09-19T13:31:45.000Z",
+      "summary": "دلیل اصلی این موضوع، سرمایه‌گذاری تهاجمی برای تضمین ظرفیت‌های محاسباتی لازم به‌منظور آموزش و اجرای مدل‌های پیشرفته هوش مصنوعی عنوان شده است. The post هزینه سرسام‌آور هوش مصنوعی؛ OpenAI تا سال ۲۰۳۰ حدود ۲۸۰ میلیارد دلار ن"
+    },
+    {
+      "title": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
+      "url": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-09-19T13:00:00.000Z",
+      "summary": "Vals AI is hoping to make AI benchmarking a more neutral and trustworthy resource in a world increasingly inundated by AI models."
+    },
+    {
+      "title": "اتاق تهران خواستار توقف اجرای ضوابط صدور مجوز خدمات هوش مصنوعی شد",
+      "url": "https://www.zoomit.ir/iran-news/467502-tehran-chamber-calls-for-review-ai-service-provider-license/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-09-19T12:10:33.000Z",
+      "summary": "اتاق تهران هشدار داد ضوابط صدور مجوز خدمات هوش مصنوعی می‌تواند استارتاپ‌ها را حذف و بازار را در اختیار بازیگران بزرگ قرار دهد."
+    },
+    {
+      "title": "تکنولوژی انقلابی LightTok؛ تراشه‌ای که نور را مستقیما به داده‌های هوش مصنوعی تبدیل می‌کند",
+      "url": "https://www.zoomit.ir/ai-articles/467467-lighttok-sensor-ai-tokens-nju/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-09-19T08:50:00.000Z",
+      "summary": "پژوهشگران دانشگاه نانجینگ تراشه‌ی حسگر بینایی فوق کم‌مصرف LightTok را برای تبدیل مستقیم نور به توکن‌های هوش مصنوعی توسعه دادند."
+    },
     {
       "title": "India forces caller-ID apps to feed spam reports to telcos",
       "url": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/",
@@ -18,60 +74,12 @@
       "summary": "In one particularly odd interview, Norwood seems to malfunction and begin speaking Chinese."
     },
     {
-      "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
-      "url": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
-      "source": "TechCrunch AI",
+      "title": "Introducing the Australian Youth Safety Blueprint",
+      "url": "https://openai.com/index/australian-youth-safety-blueprint",
+      "source": "OpenAI",
       "lang": "en",
-      "published": "2026-09-18T23:25:01.000Z",
-      "summary": "UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations."
-    },
-    {
-      "title": "آیا هوش مصنوعی واقعاً می‌تواند نسل بشر را با سلاح بیولوژیکی نابود کند؟",
-      "url": "https://digiato.com/artificial-intelligence/how-realistic-is-the-threat-of-ai-creating-biological-weapons",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-09-18T18:30:00.000Z",
-      "summary": "دانشمندان درباره احتمال استفاده از هوش مصنوعی برای ساخت سلاح‌های بیولوژیک اختلاف‌نظر دارند و برخی این تهدید را بسیار دور می‌دانند. The post آیا هوش مصنوعی واقعاً می‌تواند نسل بشر را با سلاح بیولوژیکی نابود کند؟ appeared "
-    },
-    {
-      "title": "فرماندار کالیفرنیا به‌دنبال کلید خاموشی هوش مصنوعی است",
-      "url": "https://www.zoomit.ir/ai-articles/467452-newsom-ai-kill-switch-california/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-09-18T17:54:16.000Z",
-      "summary": "گوین نیوسام، کالیفرنیا را برای نظارت سخت‌تر بر هوش مصنوعی جلو می‌برد و از «کلید خاموشی» برای مدل‌های پیشرفته می‌گوید."
-    },
-    {
-      "title": "آزمایشگاه زیستی آنتروپیک راه‌اندازی شد؛ هوش مصنوعی در خدمت برنامه دارویی",
-      "url": "https://www.zoomit.ir/ai-articles/467450-anthropic-biology-lab-ai-drug-program-reuters/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-09-18T17:28:53.000Z",
-      "summary": "آنتروپیک ظاهرا یک آزمایشگاه زیستی راه انداخته است و هم‌زمان میان جاه‌طلبی دارویی و ترس از خطرهای هوش مصنوعی حرکت می‌کند."
-    },
-    {
-      "title": "نبرد بر سر برق و آب در عصر هوش مصنوعی؛ اسپانیا عطش دیتاسنترها را کنترل می‌کند",
-      "url": "https://www.zoomit.ir/ai-articles/467370-spain-data-centers-power-regulation-ai/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-09-18T15:10:00.000Z",
-      "summary": "گسترش دیتاسنترهای هوش مصنوعی، دولت‌ها را به سمت مقررات سخت‌تر برای برق، آب و شفافیت سوق داده است."
-    },
-    {
-      "title": "OpenAI از نسخه ویژه مدل Astra برای فعالیت‌های حقوقی رونمایی کرد [تماشا کنید]",
-      "url": "https://digiato.com/artificial-intelligence/introducing-astra-for-law-by-openai",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-09-18T13:21:31.000Z",
-      "summary": "این سرویس جدید می‌تواند در مشاوره درباره یک قرارداد، ارزیابی یک اختلاف یا تدوین راهبرد حقوقی مورد استفاده قرار گیرد. The post OpenAI از نسخه ویژه مدل Astra برای فعالیت‌های حقوقی رونمایی کرد [تماشا کنید] appeared first on"
-    },
-    {
-      "title": "اپلیکیشن ایجنت Muse متا با عبور از ChatGPT به رتبه اول اپ‌استور آمریکا رسید",
-      "url": "https://digiato.com/app/meta-muse-app-store-number-one",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-09-18T12:49:00.000Z",
-      "summary": "از عرضه اپلیکیشن Muse در آمریکا فقط ۱۰ روز گذشته است. The post اپلیکیشن ایجنت Muse متا با عبور از ChatGPT به رتبه اول اپ‌استور آمریکا رسید appeared first on دیجیاتو."
+      "published": "2026-09-18T12:00:00.000Z",
+      "summary": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people."
     },
     {
       "title": "Could AI really kill us all? Your questions, answered.",
@@ -88,14 +96,6 @@
       "lang": "en",
       "published": "2026-09-17T12:00:00.000Z",
       "summary": "Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most."
-    },
-    {
-      "title": "Introducing Astra for Law",
-      "url": "https://openai.com/index/astra-for-law",
-      "source": "OpenAI",
-      "lang": "en",
-      "published": "2026-09-17T00:00:00.000Z",
-      "summary": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work."
     }
   ]
 }
