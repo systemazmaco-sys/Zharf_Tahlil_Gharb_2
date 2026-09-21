@@ -1,53 +1,85 @@
 {
-  "updated_at": "2026-09-21T11:20:31.827Z",
+  "updated_at": "2026-09-21T17:20:46.672Z",
   "items": [
     {
-      "title": "مدل هوش مصنوعی جدید Jev چیست و چرا توسعه‌دهندگان به آن علاقه‌مند شده‌اند؟",
-      "url": "https://digiato.com/artificial-intelligence/jev-system-one-ai-model-explained",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-09-21T11:12:42.000Z",
-      "summary": "هوش مصنوعی Jev برخلاف LLMها متن تولید نمی‌کند و برای خودکارسازی نرم‌افزار و نظارت بر ایجنت‌ها طراحی شده است. The post مدل هوش مصنوعی جدید Jev چیست و چرا توسعه‌دهندگان به آن علاقه‌مند شده‌اند؟ appeared first on دیجیاتو."
-    },
-    {
-      "title": "سازمان ملل خواستار اقدام فوری دولت‌ها برای مهار هوش مصنوعی شد",
-      "url": "https://www.zoomit.ir/ai-articles/467602-un-ai-panel-precautionary-principle-safeguards/",
+      "title": "هوش مصنوعی «گراک ۴٫۷» با جهش در کدنویسی و امنیت رونمایی شد",
+      "url": "https://www.zoomit.ir/ai-articles/467622-xai-introduces-grok-4-7-advanced-coding-and-reasoning/",
       "source": "زومیت",
       "lang": "fa",
-      "published": "2026-09-21T10:41:09.000Z",
-      "summary": "پنل علمی سازمان ملل هشدار داد مهار خطرات هوش مصنوعی و اتخاذ تدابیر ایمنی نباید معطل اثبات قطعی چگونگی وقوع بحران‌ها بماند."
+      "published": "2026-09-21T17:07:32.000Z",
+      "summary": "هوش مصنوعی جدید Grok 4.7 با معماری پیچیده‌تر، توانایی حل مسائل زمان‌بر و لایه‌های امنیتی پیشرفته معرفی شد."
     },
     {
-      "title": "دو هوش مصنوعی چینی Qwen و Kimi ظاهرا کاربران ایرانی را تحریم کرده‌اند",
-      "url": "https://www.zoomit.ir/ai-articles/467597-china-ai-qwen-kimi-block-iranian-users/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-09-21T08:51:14.000Z",
-      "summary": "دسترسی کاربران ایرانی به دو ابزار محبوب هوش مصنوعی چین یعنی Qwen و Kimi بدون اعلام رسمی مسدود شده است."
-    },
-    {
-      "title": "راز رفتارهای عجیب و ترسناک دستیار هوش مصنوعی متا فاش شد",
-      "url": "https://www.zoomit.ir/ai-articles/467536-meta-muse-ai-messaging-issue/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-09-21T08:10:00.000Z",
-      "summary": "دستیار هوش مصنوعی جدید متا به دلیل ارائه‌ی توضیحات نادرست درباره‌ی نحوه‌ی دسترسی به پیام‌های خصوصی کاربران مک خبرساز شد."
-    },
-    {
-      "title": "6 days left to save up to $200 to TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/",
+      "title": "With Tabby, a former accountant is using AI to make accountants obsolete",
+      "url": "https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete/",
       "source": "TechCrunch AI",
       "lang": "en",
-      "published": "2026-09-20T21:41:08.000Z",
-      "summary": "Current ticket pricing ends in 6 days on Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then."
+      "published": "2026-09-21T16:38:51.000Z",
+      "summary": "Tabby is designed to be a real-time bookkeeping interface, handling clients’ paperwork as it gives them up-to-the-minute data on their business’s profit and loss."
     },
     {
-      "title": "World model companies are keeping a lot of secrets",
-      "url": "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/",
+      "title": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/21/where-will-the-next-breakout-startup-come-from-benchmarks-full-partnership-weighs-in-at-techcrunch-disrupt-2026/",
       "source": "TechCrunch AI",
       "lang": "en",
-      "published": "2026-09-20T20:29:07.000Z",
-      "summary": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're actually building."
+      "published": "2026-09-21T15:00:00.000Z",
+      "summary": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in on the main stage at TechCrunch Disrupt 2026. Save up to $200 before September 25 at 11:59 p.m. PT. Register now."
+    },
+    {
+      "title": "این پهپاد بمب‌افکن اهدافش را بدون دخالت انسان انتخاب می‌کند؛ هوش مصنوعی در خدمت صنایع نظامی",
+      "url": "https://www.zoomit.ir/ai-articles/467559-autonomous-ai-kamikaze-drone-demo/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-09-21T14:50:00.000Z",
+      "summary": "استارتاپ سوئدی اسکیل‌اوت سیستمز با موفقیت پرواز و حمله‌ی کاملا خودمختار یک پهپاد انتحاری را با پردازش هوش مصنوعی آفلاین به‌نمایش گذاشت."
+    },
+    {
+      "title": "Google’s $899 Googlebook is a bet that you’ll buy a new laptop for Gemini",
+      "url": "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-09-21T14:39:22.000Z",
+      "summary": "Google’s AI-native Googlebook ties Gemini to the cursor, dictation, widgets and other parts of the desktop experience."
+    },
+    {
+      "title": "ویدیو: جهش بعدی هوش مصنوعی؛ ربات‌های انسان‌نما تا سال آینده بسیار پیشرفته‌تر می‌شوند",
+      "url": "https://www.zoomit.ir/robotics-smart-machines/467609-chinese-humanoid-robots-verbal-commands/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-09-21T12:37:53.000Z",
+      "summary": "ربات‌های انسان‌نما تا سال آینده می‌توانند اکثر وظایف عمومی را تنها با دریافت دستورهای گفتاری انسان‌ها اجرا کنند."
+    },
+    {
+      "title": "How we made the first comprehensive map of deaths along the US border’s “virtual wall”",
+      "url": "https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology/",
+      "source": "MIT Technology Review",
+      "lang": "en",
+      "published": "2026-09-21T12:00:00.000Z",
+      "summary": "Our 15-month investigation into death and surveillance along the US-Mexico border began with a simple question: Why did so many people die near government surveillance towers meant to help track and apprehend them? This "
+    },
+    {
+      "title": "4 ways to address the failures we found along the US border’s “virtual wall”",
+      "url": "https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/",
+      "source": "MIT Technology Review",
+      "lang": "en",
+      "published": "2026-09-21T12:00:00.000Z",
+      "summary": "MIT Technology Review today published our investigation into how many people have died near the “virtual wall” of surveillance towers that the US government has installed along the US-Mexico border. We found cases of peo"
+    },
+    {
+      "title": "The US spent billions on border surveillance. Why can’t it catch people before they die?",
+      "url": "https://www.technologyreview.com/2026/09/21/1144166/border-towers-surveillance-investigation/",
+      "source": "MIT Technology Review",
+      "lang": "en",
+      "published": "2026-09-21T12:00:00.000Z",
+      "summary": "When José Morales Bernal crossed the border into the United States on April 8, 2024, the day before his 32nd birthday, it should have triggered a chain of technological alerts and human responses. As he walked through th"
+    },
+    {
+      "title": "How V7 gives AI agents institutional memory",
+      "url": "https://openai.com/index/v7",
+      "source": "OpenAI",
+      "lang": "en",
+      "published": "2026-09-21T00:00:00.000Z",
+      "summary": "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work."
     },
     {
       "title": "هزینه تولید فیلم‌های کوتاه مبتنی بر هوش مصنوعی رو به کاهش است.",
@@ -58,44 +90,12 @@
       "summary": "هزینه تولید فیلم‌های کوتاه مبتنی بر هوش مصنوعی رو به کاهش است. Vietnam.vn"
     },
     {
-      "title": "Is the AI industry really ready to slow down?",
-      "url": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-09-20T18:56:04.000Z",
-      "summary": "On Equity, we debated whether Ai executives are serious about wanting to slow down."
-    },
-    {
       "title": "Introducing the Australian Youth Safety Blueprint",
       "url": "https://openai.com/index/australian-youth-safety-blueprint",
       "source": "OpenAI",
       "lang": "en",
       "published": "2026-09-18T12:00:00.000Z",
       "summary": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people."
-    },
-    {
-      "title": "Could AI really kill us all? Your questions, answered.",
-      "url": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/",
-      "source": "MIT Technology Review",
-      "lang": "en",
-      "published": "2026-09-18T11:29:22.000Z",
-      "summary": "On Wednesday, MIT Technology Review hosted a live Roundtables event for subscribers that asked the question everyone’s asking right now: Could AI really kill us all? But attendees had so many more questions than we had t"
-    },
-    {
-      "title": "سفر در زمان با هوش مصنوعی؛ چطور با chatgpt عکس دهه شصتی بسازیم؟",
-      "url": "https://news.google.com/rss/articles/CBMimgRBVV95cUxPLTFYUkk5VklNeW9NR0loV3lUVDN6NlJnRHVtY0d6U1VCNEhTOWVIUkRvam1TSmY3RC00dElSeU9zU3oxbFl3LThEbmMwRWg3b0VMaHR6M0ZscnF5ZFd0VVR1TW9ZN3FfdjNZaGE2bzFyeEFUUDJFVFhGc09sZkthWXptOVkzdDZrYm84WWd6eEloWDQzS1AybUJkUTJnZklKRWw3S3BlYnhhd3FvY3FPcFBGMXhsY3FIQ0IyMXc5UHNoNUczVEM0aXh0eTZlY1Q1Z3NJQVJwdHV3VmI3Z2FqNlVqLXNUNUNSOVg1TWlVRDVYUjlKcThSZ0p6eEI2M2VNdGJzUkpYOGZyejFqb2dXZWxER3o4ZnRvb2ozV2ZFejEzTUpyZnRXeUpBNFpvODdIdjZGanIzRE9jWXhyNWNra1owQnRhYXdWYlQ5dDVJUzh0WGdYcDlzRG1vd0JhN2dNc29aeGMydnF3RUV5Z3Q3Yi1FVTdRSGhJZVZQa09vUDB1bGE4anNwWU9PWHJfX3o0dlVIaktaeVdPa0YzbHktTkg2aDhPcVp3cFA5WHVpc2lsXzB2YlJ4VGRXLVpic3pfUERGMjMzLTNGWm43anNJRzVjbXRmbWFjekU4ck8zOE1VWC1fNnY5Wktqek8wQmFDRkhVSmFnWFlTeVZvd1pJaTZFUTJXUDhVbVBWZGpSTkQ0MzQ3SXk1MEVn?oc=5",
-      "source": "روزنامه هفت صبح",
-      "lang": "fa",
-      "published": "2026-09-18T03:30:00.000Z",
-      "summary": "سفر در زمان با هوش مصنوعی؛ چطور با chatgpt عکس دهه شصتی بسازیم؟ روزنامه هفت صبح"
-    },
-    {
-      "title": "How Cooley is accelerating IPO work with ChatGPT",
-      "url": "https://openai.com/index/cooley-gopublic",
-      "source": "OpenAI",
-      "lang": "en",
-      "published": "2026-09-17T12:00:00.000Z",
-      "summary": "Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most."
     }
   ]
 }
