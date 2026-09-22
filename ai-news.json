@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-22T02:16:27.093Z",
+  "updated_at": "2026-09-22T10:30:49.958Z",
   "items": [
+    {
+      "title": "شیائومی هوش مصنوعی متن‌باز MiMo-V2.6-Pro را معرفی کرد؛ رقیب قدرتمند و ارزان مدل‌های بسته",
+      "url": "https://www.zoomit.ir/ai-articles/467634-mimo-v2-6-open-source-release-reinforcement-learning-scaling/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-09-22T05:00:37.000Z",
+      "summary": "سری متن‌باز MiMo-V2.6 با تکیه بر یادگیری تقویتی مقیاس‌پذیر و درک فضایی، استانداردهای تازه‌ای در مهندسی نرم‌افزار و خلق جهان‌های سه‌بعدی ثبت کرد."
+    },
+    {
+      "title": "شواهد جدید از آماده‌سازی آنتروپیک برای رونمایی Claude Opus 5.5؛ رقیب جدید ChatGPT در راه است",
+      "url": "https://www.zoomit.ir/ai-articles/467633-claude-opus-5-5-leak-details/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-09-22T04:45:10.000Z",
+      "summary": "گزارش‌های جدید از احتمال عرضه زودهنگام هوش مصنوعی Claude Opus 5.5 توسط انتروپیک خبر می‌دهند."
+    },
     {
       "title": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
       "url": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
@@ -26,14 +42,6 @@
       "summary": "Five days left to save up to $200 on your TechCrunch Disrupt 2026 pass + 50% off a second one. Join 10,000+ founders, investors, and operators at San Francisco’s Moscone West, October 13-15. Grab your ticket savings befo"
     },
     {
-      "title": "پایان عصر مهندسی انسان؛ با هوش مصنوعی خودبهبودبخش آشنا شوید",
-      "url": "https://digiato.com/artificial-intelligence/end-of-human-engineering-with-rsi-ai",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-09-21T18:30:00.000Z",
-      "summary": "ایده ساخت ماشین‌هایی که بتوانند خودشان را ارتقا دهند، از دهه ۵۰ میلادی مطرح بود و حالا خودبهبودی بازگشتی در آستانه تحقق قرار گرفته است. The post پایان عصر مهندسی انسان؛ با هوش مصنوعی خودبهبودبخش آشنا شوید appeared first "
-    },
-    {
       "title": "استفاده از هوش مصنوعی در بازی Wolverine تکذیب شد",
       "url": "https://www.zoomit.ir/gaming/467626-insomniac-denies-genai-marvels-wolverine-asset-bug/",
       "source": "زومیت",
@@ -48,22 +56,6 @@
       "lang": "fa",
       "published": "2026-09-21T17:21:46.000Z",
       "summary": "برنامه‌هایی برای استفاده از هوش مصنوعی در ارتش. Vietnam.vn"
-    },
-    {
-      "title": "هوش مصنوعی «گراک ۴٫۷» با جهش در کدنویسی و امنیت رونمایی شد",
-      "url": "https://www.zoomit.ir/ai-articles/467622-xai-introduces-grok-4-7-advanced-coding-and-reasoning/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-09-21T17:07:32.000Z",
-      "summary": "هوش مصنوعی جدید Grok 4.7 با معماری پیچیده‌تر، توانایی حل مسائل زمان‌بر و لایه‌های امنیتی پیشرفته معرفی شد."
-    },
-    {
-      "title": "این پهپاد بمب‌افکن اهدافش را بدون دخالت انسان انتخاب می‌کند؛ هوش مصنوعی در خدمت صنایع نظامی",
-      "url": "https://www.zoomit.ir/ai-articles/467559-autonomous-ai-kamikaze-drone-demo/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-09-21T14:50:00.000Z",
-      "summary": "استارتاپ سوئدی اسکیل‌اوت سیستمز با موفقیت پرواز و حمله‌ی کاملا خودمختار یک پهپاد انتحاری را با پردازش هوش مصنوعی آفلاین به‌نمایش گذاشت."
     },
     {
       "title": "Advisory Group on Mathematics and Artificial Intelligence",
@@ -96,6 +88,14 @@
       "lang": "en",
       "published": "2026-09-21T12:00:00.000Z",
       "summary": "MIT Technology Review today published our investigation into how many people have died near the “virtual wall” of surveillance towers that the US government has installed along the US-Mexico border. We found cases of peo"
+    },
+    {
+      "title": "The US spent billions on border surveillance. Why can’t it catch people before they die?",
+      "url": "https://www.technologyreview.com/2026/09/21/1144166/border-towers-surveillance-investigation/",
+      "source": "MIT Technology Review",
+      "lang": "en",
+      "published": "2026-09-21T12:00:00.000Z",
+      "summary": "When José Morales Bernal crossed the border into the United States on April 8, 2024, the day before his 32nd birthday, it should have triggered a chain of technological alerts and human responses. As he walked through th"
     }
   ]
 }
