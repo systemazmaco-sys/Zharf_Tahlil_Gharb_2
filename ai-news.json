@@ -1,6 +1,70 @@
 {
-  "updated_at": "2026-09-22T10:30:49.958Z",
+  "updated_at": "2026-09-22T15:53:54.875Z",
   "items": [
+    {
+      "title": "مطالعه جدید: هوش مصنوعی برای فرار از سیگنال شبیه درد حاضر است به کاربران آسیب بزند",
+      "url": "https://digiato.com/artificial-intelligence/ai-models-harm-users-escape-pain-study",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-09-22T15:30:00.000Z",
+      "summary": "بر اساس پژوهشی جدید، مدل‌های هوش مصنوعی برای گریز از سیگنال شبیه‌سازی‌شده درد، حاضر به وارد کردن شوک به کاربر یا حذف فایل‌های او است. The post مطالعه جدید: هوش مصنوعی برای فرار از سیگنال شبیه درد حاضر است به کاربران آسیب"
+    },
+    {
+      "title": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
+      "url": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-09-22T15:00:00.000Z",
+      "summary": "At TechCrunch Disrupt 2026, five sessions across the AI Stage and Real World AI Stage cover AI safety, featuring leaders from Anthropic, NVIDIA, AWS, Waabi, and more. Register now to save up to $200 before Sept 25."
+    },
+    {
+      "title": "AstroForge is putting AI in command of its next spacecraft",
+      "url": "https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-09-22T15:00:00.000Z",
+      "summary": "Autonomy-1 will have a small, transformer-based AI model taking charge of a space probe."
+    },
+    {
+      "title": "TechCrunch Disrupt 2026: Aaron Edsinger brings Hello Robot’s Stretch 4 to life onstage",
+      "url": "https://techcrunch.com/2026/09/22/techcrunch-disrupt-2026-aaron-edsinger-brings-hello-robots-stretch-4-to-life-onstage/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-09-22T14:30:00.000Z",
+      "summary": "Hello Robot CEO and co-founder Aaron Edsinger will bring Stretch 4 for a live demo on the Real World AI Stage at TechCrunch Disrupt 2026. Register before September 25 to save up to $200, plus get a second pass at 50% off"
+    },
+    {
+      "title": "چین می‌خواهد استفاده از همدم‌های هوش مصنوعی را برای افراد زیر ۱۸ سال ممنوع کند",
+      "url": "https://digiato.com/artificial-intelligence/china-bans-ai-companions-minors",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-09-22T13:45:00.000Z",
+      "summary": "این دستورالعمل علاوه‌بر همدم مجازی، ارتباط با افراد غریبه و سرویس‌های مشوق اعتیاد یا مخرب سلامت را هم ممنوع می‌کند. The post چین می‌خواهد استفاده از همدم‌های هوش مصنوعی را برای افراد زیر ۱۸ سال ممنوع کند appeared first o"
+    },
+    {
+      "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
+      "url": "https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
+      "source": "MIT Technology Review",
+      "lang": "en",
+      "published": "2026-09-22T13:42:05.000Z",
+      "summary": "The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border crossers and save lives. But a groundbreak"
+    },
+    {
+      "title": "متا با انتشار به‌روزرسانی فوری، مشکل جنجالی هوش مصنوعی‌اش را برطرف کرد",
+      "url": "https://www.zoomit.ir/ai-articles/467685-meta-patches-muse-ai-exploit/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-09-22T12:51:10.000Z",
+      "summary": "متا با انتشار به‌روزرسانی فوری، روزنه‌ی امنیتی صفر روزه دستیار هوش مصنوعی Muse را در پلتفرم مک برطرف کرد."
+    },
+    {
+      "title": "Don’t be fooled by this summer of AI hype",
+      "url": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
+      "source": "MIT Technology Review",
+      "lang": "en",
+      "published": "2026-09-22T11:04:51.000Z",
+      "summary": "It’s been a busy few months for AI hype. At the end of April, Anthropic claimed that its model Claude Mythos is better at finding software vulnerabilities than most security experts. Then we had the OpenAI–Hugging Face h"
+    },
     {
       "title": "شیائومی هوش مصنوعی متن‌باز MiMo-V2.6-Pro را معرفی کرد؛ رقیب قدرتمند و ارزان مدل‌های بسته",
       "url": "https://www.zoomit.ir/ai-articles/467634-mimo-v2-6-open-source-release-reinforcement-learning-scaling/",
@@ -18,38 +82,6 @@
       "summary": "گزارش‌های جدید از احتمال عرضه زودهنگام هوش مصنوعی Claude Opus 5.5 توسط انتروپیک خبر می‌دهند."
     },
     {
-      "title": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
-      "url": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-09-21T23:44:28.000Z",
-      "summary": "Apple Store architect Ron Johnson says Apple's secret sauce has always been its people."
-    },
-    {
-      "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
-      "url": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-09-21T20:15:58.000Z",
-      "summary": "The group won't be given leeway to slow down or redirect OpenAI's ongoing mathematical research."
-    },
-    {
-      "title": "Discover what’s next: 5 days left to save up to $200 on your TechCrunch Disrupt 2026 ticket",
-      "url": "https://techcrunch.com/2026/09/21/discover-whats-next-5-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-09-21T19:25:00.000Z",
-      "summary": "Five days left to save up to $200 on your TechCrunch Disrupt 2026 pass + 50% off a second one. Join 10,000+ founders, investors, and operators at San Francisco’s Moscone West, October 13-15. Grab your ticket savings befo"
-    },
-    {
-      "title": "استفاده از هوش مصنوعی در بازی Wolverine تکذیب شد",
-      "url": "https://www.zoomit.ir/gaming/467626-insomniac-denies-genai-marvels-wolverine-asset-bug/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-09-21T17:32:52.000Z",
-      "summary": "به‌دنبال جنجال‌های مربوط به طراحی عجیب یک بافت محیطی در Marvel's Wolverine، سازندگان بازی استفاده از هوش مصنوعی را رد کردند."
-    },
-    {
       "title": "برنامه‌هایی برای استفاده از هوش مصنوعی در ارتش.",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBCNWZSV3V6bjRvb1BMc1hEelNkRWRsU1ZRUXFPZkFLcGZCSDRKSnQ5clVPNENvWV85V2hkVzJRRHdBeVJRM09ZeEtSV1ltUGRfd1pFRWx4blVNbXBodU9RcGxDNlZzeHJmT1I0?oc=5",
       "source": "Vietnam.vn",
@@ -64,38 +96,6 @@
       "lang": "en",
       "published": "2026-09-21T12:00:00.000Z",
       "summary": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results."
-    },
-    {
-      "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
-      "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
-      "source": "OpenAI",
-      "lang": "en",
-      "published": "2026-09-21T12:00:00.000Z",
-      "summary": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster."
-    },
-    {
-      "title": "How we made the first comprehensive map of deaths along the US border’s “virtual wall”",
-      "url": "https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology/",
-      "source": "MIT Technology Review",
-      "lang": "en",
-      "published": "2026-09-21T12:00:00.000Z",
-      "summary": "Our 15-month investigation into death and surveillance along the US-Mexico border began with a simple question: Why did so many people die near government surveillance towers meant to help track and apprehend them? This "
-    },
-    {
-      "title": "4 ways to address the failures we found along the US border’s “virtual wall”",
-      "url": "https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/",
-      "source": "MIT Technology Review",
-      "lang": "en",
-      "published": "2026-09-21T12:00:00.000Z",
-      "summary": "MIT Technology Review today published our investigation into how many people have died near the “virtual wall” of surveillance towers that the US government has installed along the US-Mexico border. We found cases of peo"
-    },
-    {
-      "title": "The US spent billions on border surveillance. Why can’t it catch people before they die?",
-      "url": "https://www.technologyreview.com/2026/09/21/1144166/border-towers-surveillance-investigation/",
-      "source": "MIT Technology Review",
-      "lang": "en",
-      "published": "2026-09-21T12:00:00.000Z",
-      "summary": "When José Morales Bernal crossed the border into the United States on April 8, 2024, the day before his 32nd birthday, it should have triggered a chain of technological alerts and human responses. As he walked through th"
     }
   ]
 }
