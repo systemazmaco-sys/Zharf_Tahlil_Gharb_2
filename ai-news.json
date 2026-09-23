@@ -1,6 +1,46 @@
 {
-  "updated_at": "2026-09-23T02:16:28.922Z",
+  "updated_at": "2026-09-23T10:25:21.783Z",
   "items": [
+    {
+      "title": "شرط و شروط وزارت علوم برای استفاده از هوش مصنوعی ابلاغ شد",
+      "url": "https://www.zoomit.ir/iran-news/467746-iran-ai-tools-academic-research-guidelines/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-09-23T09:20:00.000Z",
+      "summary": "طبق راهنمای جدید وزارت علوم، استفاده از هوش مصنوعی در پژوهش و پایان‌نامه‌ها مجاز است اما پژوهشگران باید نقش آن را به‌طور شفاف اعلام کنند."
+    },
+    {
+      "title": "سازمان اوقاف هوش مصنوعی را جایگزین نیروهای انسانی کرد",
+      "url": "https://www.zoomit.ir/tech-iran/467747-owghaf-real-estate-ai-valuation/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-09-23T09:09:34.000Z",
+      "summary": "سازمان اوقاف و امور خیریه فرایند کارشناسی و کشف قیمت املاک موقوفه و اجاره‌ای را به سیستم‌های مبتنی بر هوش مصنوعی واگذار می‌کند."
+    },
+    {
+      "title": "رپ‌خوانی بتمن، جوکر و مرد عنکبوتی؛ ویدیوهای جنجالی هوش مصنوعی با Ausar ساخته شده‌اند",
+      "url": "https://www.zoomit.ir/ai-articles/467737-what-ausar-ai-studio/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-09-23T09:00:00.000Z",
+      "summary": "پلتفرم Ausar با تجمیع مدل‌های برتر هوش مصنوعی و قالب‌های آماده، بین کاربران بسیار محبوب شده است."
+    },
+    {
+      "title": "مدیرعامل SK Hynix: صنعت هوش مصنوعی بدون حافظه نمی‌تواند وجود داشته باشد",
+      "url": "https://digiato.com/computers-hardware/sk-hynix-ai-industry-cannot-exist-without-memory-builds-next-gen-memory",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-09-23T08:41:00.000Z",
+      "summary": "SK Hynix با فناوری‌های نسل بعدی به دنبال حفظ سلطه خود بر بازار حافظه است. The post مدیرعامل SK Hynix: صنعت هوش مصنوعی بدون حافظه نمی‌تواند وجود داشته باشد appeared first on دیجیاتو."
+    },
+    {
+      "title": "‘We’re already fighting yesterday’s battle’: Greece’s prime minister gets candid about AI",
+      "url": "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-09-23T04:59:08.000Z",
+      "summary": "Most leaders on a trade mission stick to the pitch, but when I interviewed Greek Prime Minister Kyriakos Mitsotakis this week, he also admitted that no government is ready for what AI is about to do."
+    },
     {
       "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
       "url": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/",
@@ -26,60 +66,12 @@
       "summary": "Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs."
     },
     {
-      "title": "سگ رباتیک آتش‌نشان؛ دستیار هوشمند برای عملیات‌های پرخطر",
-      "url": "https://www.zoomit.ir/robotics-smart-machines/467652-deep-robotics-pulse-firefighting-dog/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-09-22T20:10:00.000Z",
-      "summary": "دیپ رباتیکس از سگ رباتیک مجهز به فناوری اطفای حریق پالسی برای مهار آتش در محیط‌های پرخطر رونمایی کرد."
-    },
-    {
-      "title": "Qualcomm launches two new smartphone chips with emphasis on AI",
-      "url": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-09-22T20:00:00.000Z",
-      "summary": "Qualcomm said that its new top chip can run 30B mixture-of-expert model locally."
-    },
-    {
-      "title": "رتبه ششم در جهان؛ مدل هوش مصنوعی جدید شیائومی از GPT-5 هم جلوتر زد",
-      "url": "https://www.zoomit.ir/ai-articles/467642-xiaomi-mimo-v26-ai-release/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-09-22T19:00:00.000Z",
-      "summary": "خانواده مدل‌های هوش مصنوعی MiMo-V2.6 با عملکردی خیره‌کننده در یک آزمون از هوش مصنوعی GPT-5 پیشی گرفت."
-    },
-    {
       "title": "Introducing GPT-6 Sol and Luna",
       "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
       "source": "OpenAI",
       "lang": "en",
       "published": "2026-09-22T18:00:00.000Z",
       "summary": "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost."
-    },
-    {
-      "title": "اپل توسعه «گجت پوشیدنی مجهزبه هوش مصنوعی» را تعلیق کرد",
-      "url": "https://www.zoomit.ir/wearables/467707-apple-pauses-ai-pin-development/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-09-22T17:58:54.000Z",
-      "summary": "اپل توسعه‌ی گجت پوشیدنی مجهز به دوربین و هوش مصنوعی در ابعاد ایرتگ را موقتا به حالت تعلیق درآورد."
-    },
-    {
-      "title": "آنتروپیک از مدل Claude Opus 5.5 رونمایی کرد؛ عملکردی هم‌سطح Fable 5.1 اما ارزان‌تر",
-      "url": "https://digiato.com/artificial-intelligence/anthropic-announced-claude-opus-5-5",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-09-22T16:59:34.000Z",
-      "summary": "اولین عضو از خانواده مدل‌های پیشرو جدید آنتروپیک از راه رسید. The post آنتروپیک از مدل Claude Opus 5.5 رونمایی کرد؛ عملکردی هم‌سطح Fable 5.1 اما ارزان‌تر appeared first on دیجیاتو."
-    },
-    {
-      "title": "مطالعه جدید: هوش مصنوعی برای فرار از سیگنال شبیه درد حاضر است به کاربران آسیب بزند",
-      "url": "https://digiato.com/artificial-intelligence/ai-models-harm-users-escape-pain-study",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-09-22T15:30:00.000Z",
-      "summary": "بر اساس پژوهشی جدید، مدل‌های هوش مصنوعی برای گریز از سیگنال شبیه‌سازی‌شده درد، حاضر به وارد کردن شوک به کاربر یا حذف فایل‌های او است. The post مطالعه جدید: هوش مصنوعی برای فرار از سیگنال شبیه درد حاضر است به کاربران آسیب"
     },
     {
       "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
@@ -96,6 +88,14 @@
       "lang": "en",
       "published": "2026-09-22T12:00:00.000Z",
       "summary": "GPT‑6 Astra allowed Parallel’s agents to research and synthesize labor-market data in half the time and at half the cost vs. prior models."
+    },
+    {
+      "title": "Don’t be fooled by this summer of AI hype",
+      "url": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
+      "source": "MIT Technology Review",
+      "lang": "en",
+      "published": "2026-09-22T11:04:51.000Z",
+      "summary": "It’s been a busy few months for AI hype. At the end of April, Anthropic claimed that its model Claude Mythos is better at finding software vulnerabilities than most security experts. Then we had the OpenAI–Hugging Face h"
     }
   ]
 }
