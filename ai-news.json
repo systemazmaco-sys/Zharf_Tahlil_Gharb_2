@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-22T20:37:10.082Z",
+  "updated_at": "2026-09-23T02:16:28.922Z",
   "items": [
+    {
+      "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
+      "url": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-09-22T23:21:49.000Z",
+      "summary": "Founders shouldn't have to learn the hardest lessons the hardest way. TechCrunch Founder Summit is designed to make the challenges of starting a company easier and the highs that much greater."
+    },
+    {
+      "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
+      "url": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-09-22T21:56:43.000Z",
+      "summary": "The seven-year-old startup has raised a $350 million Series E to fuel its data-as-a-service approach."
+    },
     {
       "title": "Better prompt caching for GPT-6",
       "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
@@ -26,14 +42,6 @@
       "summary": "Qualcomm said that its new top chip can run 30B mixture-of-expert model locally."
     },
     {
-      "title": "Meta admits Muse’s likeness to OpenClaw isn’t a coincidence",
-      "url": "https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-09-22T19:09:11.000Z",
-      "summary": "Meta says Muse was built from scratch, but acknowledges the AI assistant was \"heavily inspired\" by OpenClaw — down to some of its workspace filenames and content."
-    },
-    {
       "title": "رتبه ششم در جهان؛ مدل هوش مصنوعی جدید شیائومی از GPT-5 هم جلوتر زد",
       "url": "https://www.zoomit.ir/ai-articles/467642-xiaomi-mimo-v26-ai-release/",
       "source": "زومیت",
@@ -48,14 +56,6 @@
       "lang": "en",
       "published": "2026-09-22T18:00:00.000Z",
       "summary": "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost."
-    },
-    {
-      "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
-      "url": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-09-22T18:00:00.000Z",
-      "summary": "OpenAI is launching two new models, which it says are cut from the same cloth as Astra."
     },
     {
       "title": "اپل توسعه «گجت پوشیدنی مجهزبه هوش مصنوعی» را تعلیق کرد",
@@ -90,12 +90,12 @@
       "summary": "The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border crossers and save lives. But a groundbreak"
     },
     {
-      "title": "Don’t be fooled by this summer of AI hype",
-      "url": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
-      "source": "MIT Technology Review",
+      "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
+      "url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
+      "source": "OpenAI",
       "lang": "en",
-      "published": "2026-09-22T11:04:51.000Z",
-      "summary": "It’s been a busy few months for AI hype. At the end of April, Anthropic claimed that its model Claude Mythos is better at finding software vulnerabilities than most security experts. Then we had the OpenAI–Hugging Face h"
+      "published": "2026-09-22T12:00:00.000Z",
+      "summary": "GPT‑6 Astra allowed Parallel’s agents to research and synthesize labor-market data in half the time and at half the cost vs. prior models."
     }
   ]
 }
