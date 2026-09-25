@@ -1,13 +1,69 @@
 {
-  "updated_at": "2026-09-25T02:20:30.787Z",
+  "updated_at": "2026-09-25T10:45:30.583Z",
   "items": [
     {
-      "title": "مدیرعامل ارزشمندترین شرکت جهان: هوش مصنوعی برای نجات بشر باید درد و رنج به ما تحمیل کند",
-      "url": "https://www.zoomit.ir/ai-articles/467836-jensen-huang-ai-energy-climate-change-controversy/",
+      "title": "گوگل یک قدم به انتقال دیتاسنترهای هوش مصنوعی به فضا نزدیک‌تر شد",
+      "url": "https://digiato.com/artificial-intelligence/google-project-suncatcher-aims-to-move-ai-data-centers-into-space",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-09-25T10:33:48.000Z",
+      "summary": "گوگل با پروژه Suncatcher عملکرد تراشه‌های هوش مصنوعی در مدار زمین را می‌سنجد؛ اما تشعشعات، خنک‌سازی و هزینه‌ها چالش‌برانگیزند. The post گوگل یک قدم به انتقال دیتاسنترهای هوش مصنوعی به فضا نزدیک‌تر شد appeared first on دی"
+    },
+    {
+      "title": "OpenAI احتمالاً هفته آینده مدل امنیتی GPT-6 Cyber را معرفی می‌کند",
+      "url": "https://digiato.com/artificial-intelligence/openai-working-on-gpt-6-cyber",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-09-25T09:43:32.000Z",
+      "summary": "خارج شدن مدل‌های هوش مصنوعی از محیط ایزوله و انجام حملات سایبری خودسرانه نگرانی‌های زیادی را برانگیخته است. The post OpenAI احتمالاً هفته آینده مدل امنیتی GPT-6 Cyber را معرفی می‌کند appeared first on دیجیاتو."
+    },
+    {
+      "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
+      "url": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
+      "source": "MIT Technology Review",
+      "lang": "en",
+      "published": "2026-09-25T09:16:25.000Z",
+      "summary": "The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request. The program, called “Polygraph+” or “Polygraph Next”, will"
+    },
+    {
+      "title": "متا از ابزارهای Horizon برای ساخت ویدیوگیم با هوش مصنوعی رونمایی کرد",
+      "url": "https://digiato.com/artificial-intelligence/meta-horizon-build-games-with-ai",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-09-25T07:34:47.000Z",
+      "summary": "کاربران می‌توانند بازی‌های ساخته شده خود را در اینستاگرام و فیسبوک برای سایرین نمایش دهند. The post متا از ابزارهای Horizon برای ساخت ویدیوگیم با هوش مصنوعی رونمایی کرد appeared first on دیجیاتو."
+    },
+    {
+      "title": "چهره هوش مصنوعی گوگل؛ «آواتار زنده» جمنای با توانایی لب‌خوانی رونمایی شد",
+      "url": "https://www.zoomit.ir/ai-articles/467844-google-gemini-3-8-live-avatar/",
       "source": "زومیت",
       "lang": "fa",
-      "published": "2026-09-24T19:50:02.000Z",
-      "summary": "مدیرعامل انویدیا مصرف بالای سوخت‌های فسیلی برای توسعه‌ی هوش مصنوعی را توجیه و آن را به دردِ ضروری پیش از درمان تشبیه کرد."
+      "published": "2026-09-25T05:47:04.000Z",
+      "summary": "Live Avatar با لب‌خوانی، حالت‌های چهره و پشتیبانی از ۹۷ زبان، مکالمه با هوش مصنوعی گوگل را تصویری می‌کند."
+    },
+    {
+      "title": "درخواست محرمانه کاخ سفید از اوپن‌ای‌آی و آنتروپیک درباره آزمایش مدل‌های جدید هوش مصنوعی",
+      "url": "https://www.zoomit.ir/ai-articles/467843-white-house-openai-anthropic-uk-testing-pause/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-09-25T05:43:49.000Z",
+      "summary": "کاخ سفید با ابراز نگرانی از خطرات سایبری، از اوپن‌ای‌آی و آنتروپیک خواست اشتراک‌گذاری مدل‌های جدید با کارشناسان بریتانیایی را متوقف کنند."
+    },
+    {
+      "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
+      "url": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-09-25T05:00:00.000Z",
+      "summary": "The venture firm is aligning its India fundraising cycle with its global funds for the first time, as it shifts to a shorter investment period."
+    },
+    {
+      "title": "نبرد هوش مصنوعی ادامه دارد؛ آزمایش مخفیانه مدل Sonnet 5.5 از سوی آنتروپیک",
+      "url": "https://www.zoomit.ir/ai-articles/467804-anthropic-claude-sonnet-5-5-testing/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-09-25T02:30:00.000Z",
+      "summary": "گزارش‌های غیررسمی حاکی از آزمایش مدل هوش مصنوعی کلاد سونت ۵٫۵ با ظرفیت پردازش یک میلیون توکن برای رقابت با مدل جدید اوپن‌ای‌آی است."
     },
     {
       "title": "Bring your co-founder, partner, or colleague and get 50% off a second TechCrunch Disrupt 2026 pass",
@@ -26,30 +82,6 @@
       "summary": "Prism's larger goal is open-weight AI that runs on devices and makes better use of the computing power they already have."
     },
     {
-      "title": "تسلیم شناختی؛ پژوهشگران درباره سپردن وظایف ذهنی به هوش مصنوعی هشدار می‌دهند",
-      "url": "https://www.zoomit.ir/human-science/467699-ai-cognitive-surrender-education-mit/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-09-24T18:20:00.000Z",
-      "summary": "دانشجویانی که برای هر پرسش به سراغ هوش مصنوعی می‌روند، ممکن است با مشکلی فراتر از تقلب یا کاهش نمره مواجه شوند."
-    },
-    {
-      "title": "Oracle sends force majeure notice on its New Mexico Stargate data center",
-      "url": "https://techcrunch.com/2026/09/24/oracle-sends-force-majeure-notice-on-its-new-mexico-stargate-data-center/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-09-24T18:11:44.000Z",
-      "summary": "The notice would allow Oracle to delay payments should the facility miss its 2028 target to come online."
-    },
-    {
-      "title": "تام کروز: هوش مصنوعی پایان کار سینما نخواهد بود",
-      "url": "https://digiato.com/artificial-intelligence/tom-cruise-ai-future-cinema",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-09-24T17:30:00.000Z",
-      "summary": "ستاره هالیوود می‌گوید با وجود گسترش ناگزیر ابزارهای نوین، میل مخاطبان به تماشای واقعیت و انسانیت مانع از نابودی سینما خواهد شد. The post تام کروز: هوش مصنوعی پایان کار سینما نخواهد بود appeared first on دیجیاتو."
-    },
-    {
       "title": "Introducing Gemini 3.8 Live with Live Avatar",
       "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
       "source": "Google DeepMind",
@@ -58,44 +90,12 @@
       "summary": ""
     },
     {
-      "title": "ابداع دانشمند ایرانی: دست رباتیکی که می‌تواند بدون بازو راه برود [تماشا کنید]",
-      "url": "https://digiato.com/robotics/robotic-hand-can-walk-press-keys-and-move-objects-on-its-own",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-09-24T15:30:00.000Z",
-      "summary": "تیمی از مهندسان به سرپرستی یک دانشمند ایرانی این دست را برای حفظ تعادل، و انجام فعالیت‌های هدفمند در محیط‌های انسانی آموزش داده‌اند. The post ابداع دانشمند ایرانی: دست رباتیکی که می‌تواند بدون بازو راه برود [تماشا کنید] "
-    },
-    {
-      "title": "گوگل هفته آینده یک ماهواره هوش مصنوعی را به فضا پرتاب می‌کند",
-      "url": "https://www.zoomit.ir/ai-articles/467825-google-ai-satellite-project-suncatcher-launch/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-09-24T14:30:53.000Z",
-      "summary": "گوگل با آغاز رسمی پروژه‌ی سان‌کچر و ارسال تراشه‌های TPU به فضا، احداث دیتاسنترهای هوش مصنوعی در مدار زمین را امکان‌سنجی می‌کند."
-    },
-    {
-      "title": "گوگل از مدل‌های صوتی Gemini 3.8 برای تبدیل حرفه‌ای متن به صدا رونمایی کرد [تماشا کنید]",
-      "url": "https://digiato.com/artificial-intelligence/google-gemini-3-8-text-to-speech-announced",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-09-24T12:00:06.000Z",
-      "summary": "این ابزارها امکان خلق صداهای واقع‌گرایانه با دستور متنی و کنترل لحن دیالوگ‌ها را در بیش از ۱۰۰ زبان فراهم می‌کنند. The post گوگل از مدل‌های صوتی Gemini 3.8 برای تبدیل حرفه‌ای متن به صدا رونمایی کرد [تماشا کنید] appeared "
-    },
-    {
       "title": "عامل هوش مصنوعی Muse متا نیم میلیون بار دانلود شد اما با یک",
       "url": "https://news.google.com/rss/articles/CBMivgNBVV95cUxOLXZOREhJcU9vTGtqdThhd29PYmtWWFVqcVgwSHJuaHhqU0NjREFBMHNfR080THBldUdaTGRjaklTem5TUXZPTHZ3UElySjVhOWo2dzZPaWZCRnRuZ1o0ZDEtbDM2ZXpGVmtRTW5rOElhVWpiVl95VHZSNXMyeC1URW5SOXZxRTlEWEVwakxWdzBjTlJGM2xGTTNnZDM1QkE2YjBidmozTGd1RnEwX2NfdjFHSHUxeV9xMmJ0b21hY2VCU1dxZWhUbjlhMDZoaVJzR3VVc29XSFBkN2NqVkVCZTdleWVZa1dHRk1NRHZSeXlxZ01oczE1TUc2d1pNLUE3Z204Vnk2S0dISFRhT2pTcGRNRUV2VW1DbTlRVUdsemNuTmhZVVBDNldxN1F3VW1sNm8zS2hyNkxPWnZtUkkwbjZ2U0hsbGxLWVZ3TG5MMmpoRi1UZVFCS3Yxc0ozRlhkdmlRQnF5QXpnUGo5c3BkUDRwMDBaMWJ5akdybFc2RTN2Uk84dzZCQXh6VkNUUm1fZzhkWTRfazRCdWNvSW5oTjd6SFd3N1ZmeVB5b2ZTYk9saHg5TVJNbWk5VzlSZw?oc=5",
       "source": "قطره",
       "lang": "fa",
       "published": "2026-09-23T17:56:49.000Z",
       "summary": "عامل هوش مصنوعی Muse متا نیم میلیون بار دانلود شد اما با یک قطره"
-    },
-    {
-      "title": "Advancing Private AI Compute with secure, server-side memory",
-      "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
-      "source": "Google DeepMind",
-      "lang": "en",
-      "published": "2026-09-23T16:00:57.000Z",
-      "summary": "Introducing private, server-side memory to Private AI Compute for personal AI."
     }
   ]
 }
