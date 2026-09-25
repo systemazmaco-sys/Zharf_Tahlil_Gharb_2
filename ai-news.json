@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-09-25T10:45:30.583Z",
+  "updated_at": "2026-09-25T16:05:14.307Z",
   "items": [
+    {
+      "title": "For months, OpenAI’s agent swarms have been attacking online databases to find obscure facts",
+      "url": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-09-25T15:48:14.000Z",
+      "summary": "The latest unauthorized agent swarms were discovered by researchers."
+    },
+    {
+      "title": "Anthropic’s founders seek voting control ahead of IPO",
+      "url": "https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-09-25T15:40:03.000Z",
+      "summary": "Anthropic is asking its shareholders to approve a structure that would give its seven co-founders a combined 50.1% of the vote on most corporate matters."
+    },
+    {
+      "title": "TechCrunch Disrupt 2026: Ricursive Intelligence’s Anna Goldie and Azalia Mirhoseini on when AI starts designing its own hardware",
+      "url": "https://techcrunch.com/2026/09/25/techcrunch-disrupt-2026-ricursive-intelligences-anna-goldie-and-azalia-mirhoseini-on-when-ai-starts-designing-its-own-hardware/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-09-25T15:00:00.000Z",
+      "summary": "At TechCrunch Disrupt 2026, Ricursive Intelligence co-founders Anna Goldie and Azalia Mirhoseini will take the Disrupt Stage to discuss closing the loop between AI and chip development Save up to $200 on your pass before"
+    },
+    {
+      "title": "یوتیوب در پاسخ به نگرانی‌ها: ابزارهای هوش مصنوعی جایگزین تولیدکنندگان محتوا نمی‌شوند",
+      "url": "https://www.zoomit.ir/software-news/467814-youtube-unveils-new-ai-features/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-09-25T12:55:00.000Z",
+      "summary": "یوتیوب در رویداد سالانه‌ی خود مجموعه‌ای از ابزارهای مجهز به هوش مصنوعی را برای آسان‌تر شدن فرآیند ساخت ویدیو و مدیریت محتوا رونمایی کرد."
+    },
+    {
+      "title": "ایلان ماسک برای احداث بزرگ‌ترین خوشه سخت‌افزاری هوش مصنوعی در جهان خیز برداشت",
+      "url": "https://www.zoomit.ir/ai-articles/467872-elon-musk-spacexai-colossus-2-gpu-expansion/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-09-25T12:43:48.000Z",
+      "summary": "ایلان ماسک از برنامه‌ی فعال‌سازی یک میلیون پردازنده‌ی گرافیکی تا هفته‌ی آینده و رسیدن به عدد ۱٫۴۴ میلیون واحد تا پایان سال خبر داد."
+    },
+    {
+      "title": "مدیرعامل انویدیا: هوش مصنوعی پیش از نجات بشر ابتدا به شما آسیب می‌رساند",
+      "url": "https://digiato.com/energy/nvidia-ceo-jensen-huang-says-ai-data-centers-still-need-fossil-fuels",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-09-25T12:12:25.000Z",
+      "summary": "جنسن هوانگ از تداوم استفاده از سوخت‌های فسیلی برای تأمین انرژی مراکز داده دفاع می‌کند؛ موضوعی که نگرانی‌های اقلیمی را افزایش داده است. The post مدیرعامل انویدیا: هوش مصنوعی پیش از نجات بشر ابتدا به شما آسیب می‌رساند appe"
+    },
     {
       "title": "گوگل یک قدم به انتقال دیتاسنترهای هوش مصنوعی به فضا نزدیک‌تر شد",
       "url": "https://digiato.com/artificial-intelligence/google-project-suncatcher-aims-to-move-ai-data-centers-into-space",
@@ -23,15 +71,7 @@
       "source": "MIT Technology Review",
       "lang": "en",
       "published": "2026-09-25T09:16:25.000Z",
-      "summary": "The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request. The program, called “Polygraph+” or “Polygraph Next”, will"
-    },
-    {
-      "title": "متا از ابزارهای Horizon برای ساخت ویدیوگیم با هوش مصنوعی رونمایی کرد",
-      "url": "https://digiato.com/artificial-intelligence/meta-horizon-build-games-with-ai",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-09-25T07:34:47.000Z",
-      "summary": "کاربران می‌توانند بازی‌های ساخته شده خود را در اینستاگرام و فیسبوک برای سایرین نمایش دهند. The post متا از ابزارهای Horizon برای ساخت ویدیوگیم با هوش مصنوعی رونمایی کرد appeared first on دیجیاتو."
+      "summary": "The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request. The program, called Polygraph+ or Polygraph Next, will foc"
     },
     {
       "title": "چهره هوش مصنوعی گوگل؛ «آواتار زنده» جمنای با توانایی لب‌خوانی رونمایی شد",
@@ -40,46 +80,6 @@
       "lang": "fa",
       "published": "2026-09-25T05:47:04.000Z",
       "summary": "Live Avatar با لب‌خوانی، حالت‌های چهره و پشتیبانی از ۹۷ زبان، مکالمه با هوش مصنوعی گوگل را تصویری می‌کند."
-    },
-    {
-      "title": "درخواست محرمانه کاخ سفید از اوپن‌ای‌آی و آنتروپیک درباره آزمایش مدل‌های جدید هوش مصنوعی",
-      "url": "https://www.zoomit.ir/ai-articles/467843-white-house-openai-anthropic-uk-testing-pause/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-09-25T05:43:49.000Z",
-      "summary": "کاخ سفید با ابراز نگرانی از خطرات سایبری، از اوپن‌ای‌آی و آنتروپیک خواست اشتراک‌گذاری مدل‌های جدید با کارشناسان بریتانیایی را متوقف کنند."
-    },
-    {
-      "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
-      "url": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-09-25T05:00:00.000Z",
-      "summary": "The venture firm is aligning its India fundraising cycle with its global funds for the first time, as it shifts to a shorter investment period."
-    },
-    {
-      "title": "نبرد هوش مصنوعی ادامه دارد؛ آزمایش مخفیانه مدل Sonnet 5.5 از سوی آنتروپیک",
-      "url": "https://www.zoomit.ir/ai-articles/467804-anthropic-claude-sonnet-5-5-testing/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-09-25T02:30:00.000Z",
-      "summary": "گزارش‌های غیررسمی حاکی از آزمایش مدل هوش مصنوعی کلاد سونت ۵٫۵ با ظرفیت پردازش یک میلیون توکن برای رقابت با مدل جدید اوپن‌ای‌آی است."
-    },
-    {
-      "title": "Bring your co-founder, partner, or colleague and get 50% off a second TechCrunch Disrupt 2026 pass",
-      "url": "https://techcrunch.com/2026/09/24/bring-your-co-founder-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-09-24T19:15:00.000Z",
-      "summary": "Buy one pass to TechCrunch Disrupt 2026 and get 50% off a second of the same ticket type. Register before event starts on October 13 at 8 a.m. PT."
-    },
-    {
-      "title": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
-      "url": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-09-24T19:00:42.000Z",
-      "summary": "Prism's larger goal is open-weight AI that runs on devices and makes better use of the computing power they already have."
     },
     {
       "title": "Introducing Gemini 3.8 Live with Live Avatar",
