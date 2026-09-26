@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-25T20:50:35.787Z",
+  "updated_at": "2026-09-26T02:25:09.215Z",
   "items": [
+    {
+      "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
+      "url": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-09-25T23:11:10.000Z",
+      "summary": "Boom Supersonic CEO Blake Scholl said its new stationary power plants were no longer in Crusoe's near-term plans."
+    },
+    {
+      "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
+      "url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-09-25T22:20:47.000Z",
+      "summary": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge."
+    },
     {
       "title": "Meta opens early access program for new Muse features",
       "url": "https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/",
@@ -10,28 +26,12 @@
       "summary": "Anyone interested in joining has to ask Muse to put them on the list."
     },
     {
-      "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
-      "url": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-09-25T19:13:38.000Z",
-      "summary": "Anthropic has committed $11.6 billion over seven years to Akamai's cloud infrastructure, a bet on CPUs that could grow to about $20 billion, and in an unusual arrangement, Akamai is giving Anthropic a potential stake of "
-    },
-    {
       "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
       "url": "https://openai.com/index/proaction",
       "source": "OpenAI",
       "lang": "en",
       "published": "2026-09-25T19:00:00.000Z",
       "summary": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster."
-    },
-    {
-      "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
-      "url": "https://techcrunch.com/2026/09/25/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-09-25T18:48:33.000Z",
-      "summary": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness, and building businesses."
     },
     {
       "title": "یوتیوب در پاسخ به نگرانی‌ها: ابزارهای هوش مصنوعی جایگزین تولیدکنندگان محتوا نمی‌شوند",
@@ -82,20 +82,20 @@
       "summary": "Live Avatar با لب‌خوانی، حالت‌های چهره و پشتیبانی از ۹۷ زبان، مکالمه با هوش مصنوعی گوگل را تصویری می‌کند."
     },
     {
-      "title": "عامل هوش مصنوعی Muse متا نیم میلیون بار دانلود شد اما با یک",
-      "url": "https://news.google.com/rss/articles/CBMivgNBVV95cUxOLXZOREhJcU9vTGtqdThhd29PYmtWWFVqcVgwSHJuaHhqU0NjREFBMHNfR080THBldUdaTGRjaklTem5TUXZPTHZ3UElySjVhOWo2dzZPaWZCRnRuZ1o0ZDEtbDM2ZXpGVmtRTW5rOElhVWpiVl95VHZSNXMyeC1URW5SOXZxRTlEWEVwakxWdzBjTlJGM2xGTTNnZDM1QkE2YjBidmozTGd1RnEwX2NfdjFHSHUxeV9xMmJ0b21hY2VCU1dxZWhUbjlhMDZoaVJzR3VVc29XSFBkN2NqVkVCZTdleWVZa1dHRk1NRHZSeXlxZ01oczE1TUc2d1pNLUE3Z204Vnk2S0dISFRhT2pTcGRNRUV2VW1DbTlRVUdsemNuTmhZVVBDNldxN1F3VW1sNm8zS2hyNkxPWnZtUkkwbjZ2U0hsbGxLWVZ3TG5MMmpoRi1UZVFCS3Yxc0ozRlhkdmlRQnF5QXpnUGo5c3BkUDRwMDBaMWJ5akdybFc2RTN2Uk84dzZCQXh6VkNUUm1fZzhkWTRfazRCdWNvSW5oTjd6SFd3N1ZmeVB5b2ZTYk9saHg5TVJNbWk5VzlSZw?oc=5",
-      "source": "قطره",
-      "lang": "fa",
-      "published": "2026-09-23T17:56:49.000Z",
-      "summary": "عامل هوش مصنوعی Muse متا نیم میلیون بار دانلود شد اما با یک قطره"
+      "title": "Introducing Gemini 3.8 Live with Live Avatar",
+      "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
+      "source": "Google DeepMind",
+      "lang": "en",
+      "published": "2026-09-24T16:20:39.000Z",
+      "summary": ""
     },
     {
-      "title": "Two years of OpenAI Academy",
-      "url": "https://openai.com/index/two-years-of-openai-academy",
-      "source": "OpenAI",
-      "lang": "en",
-      "published": "2026-09-23T16:00:00.000Z",
-      "summary": "Marking two years of OpenAI Academy and bringing AI skills to even more communities."
+      "title": "عامل هوش مصنوعی Muse متا نیم میلیون بار دانلود شد اما با یک",
+      "url": "https://news.google.com/rss/articles/CBMivgNBVV95cUxOLXZOREhJcU9vTGtqdThhd29PYmtWWFVqcVgwSHJuaHhqU0NjREFBMHNfR080THBldUdaTGRjaklTem5TUXZPTHZ3UElySjVhOWo2dzZPaWZCRnRuZ1o0ZDEtbDM2ZXpGVmtRTW5rOElhVWpiVl95VHZSNXMyeC1URW5SOXZxRTlEWEVwakxWdzBjTlJGM2xGTTNnZDM1QkE2YjBidmozTGd1RnEwX2NfdjFHSHUxeV9xMmJ0b21hY2VCU1dxZWhUbjlhMDZoaVJzR3VVc29XSFBkN2NqVkVCZTdleWVZa1dHRk1NRHZSeXlxZ01oczE1TUc2d1pNLUE3Z204Vnk2S0dISFRhT2pTcGRNRUV2VW1DbTlRVUdsemNuTmhZVVBDNldxN1F3VW1sNm8zS2hyNkxPWnZtUkkwbjZ2U0hsbGxLWVZ3TG5MMmpoRi1UZVFCS3Yxc0ozRlhkdmlRQnF5QXpnUGo5c3BkUDRwMDBaMWJ5akdybFc2RTN2Uk84dzZCQXh6VkNUUm1fZzhkWTRfazRCdWNvSW5oTjd6SFd3N1ZmeVB5b2ZTYk9saHg5TVJNbWk5VzlSZw?oc=5",
+      "source": "موتور جستجوی قطره",
+      "lang": "fa",
+      "published": "2026-09-23T17:56:49.000Z",
+      "summary": "عامل هوش مصنوعی Muse متا نیم میلیون بار دانلود شد اما با یک موتور جستجوی قطره"
     }
   ]
 }
