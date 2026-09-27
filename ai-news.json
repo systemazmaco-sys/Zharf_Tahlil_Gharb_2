@@ -1,21 +1,45 @@
 {
-  "updated_at": "2026-09-27T15:57:01.436Z",
+  "updated_at": "2026-09-27T20:33:29.804Z",
   "items": [
     {
-      "title": "نفوذ هوش مصنوعی به زیرساخت‌های دولتی؛ مدیران اوپن‌ای‌آی و آنتروپیک به سنای استرالیا احضار شدند",
-      "url": "https://www.zoomit.ir/ai-articles/467991-australia-summons-openai-anthropic-chiefs/",
+      "title": "وقتی الگوریتم‌ها حق درمان را می‌گیرند؛ اشتباه بزرگ هوش مصنوعی در نظام سلامت آمریکا",
+      "url": "https://www.zoomit.ir/ai-articles/467931-trump-admin-ai-medicare-denials/",
       "source": "زومیت",
       "lang": "fa",
-      "published": "2026-09-27T15:40:00.000Z",
-      "summary": "سنای استرالیا مدیران ارشد OpenAI و آنتروپیک را پس از نفوذ یک عامل هوش مصنوعی به سامانه‌ی داده‌های سلامت احضار کرد."
+      "published": "2026-09-27T20:10:00.000Z",
+      "summary": "اجرای آزمایشی سیستمی مبتنی‌بر هوش مصنوعی برای تأیید خدمات درمانی سالمندان در آمریکا، با تاخیرهای گسترده و واکنش شدید روبه‌رو شد."
     },
     {
-      "title": "ترامپ به مناسبت راه‌اندازی یک وب‌سایت دولتی، بزرگان هوش مصنوعی را گردهم می‌آورد",
-      "url": "https://www.zoomit.ir/ai-articles/467917-trump-hosts-tech-leaders-ai/",
+      "title": "Can Muse overcome Meta’s trust issues?",
+      "url": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-09-27T19:57:30.000Z",
+      "summary": "On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic."
+    },
+    {
+      "title": "تلاش عامل‌های هوش مصنوعی اوپن‌ای‌آی برای نفوذ به یکی از وب‌سایت‌های سازمان ملل",
+      "url": "https://www.zoomit.ir/ai-articles/468002-openai-agents-bruteforce-un-website-investigation/",
       "source": "زومیت",
       "lang": "fa",
-      "published": "2026-09-27T14:00:00.000Z",
-      "summary": "دونالد ترامپ با حضور چهره‌های برجسته‌ی دنیای فناوری، وب‌سایت دولتی جدیدی را با تمرکز بر خدمات هوش مصنوعی رونمایی می‌کند."
+      "published": "2026-09-27T19:50:29.000Z",
+      "summary": "عامل‌های خودمختار اوپن‌ای‌آی در پی ناکامی در دسترسی به داده‌ها، بیش از ۱۶ هزار بار به یک وب‌سایت سازمان ملل حمله کردند و رفتار فریبکارانه نشان دادند."
+    },
+    {
+      "title": "هوش مصنوعی در مدار زمین؛ آیا گوگل با پروژه «سان‌کچر» گلوگاه انرژی را دور می‌زند؟",
+      "url": "https://www.zoomit.ir/ai-articles/467929-google-suncatcher-space-ai-datacenter/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-09-27T19:00:00.000Z",
+      "summary": "گوگل در طرح سان‌کچر قصد دارد با پرتاب ماهواره‌های خورشیدی مجهز به تراشه‌های هوش مصنوعی در سال ۲۰۲۶، امکان پردازش داده در فضا را بررسی کند."
+    },
+    {
+      "title": "Anthropic’s Dario Amodei gets the SNL treatment",
+      "url": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-09-27T16:30:00.000Z",
+      "summary": "\"AI is the devil and I its maker.\""
     },
     {
       "title": "هوش مصنوعی Jev بازی پوکمون Red را در کمتر از یک هفته تمام کرد",
@@ -26,36 +50,12 @@
       "summary": "در این آزمایش Claude Opus 5 برخی مواقع با اصلاح گزینه‌ها به Jev راهنمایی می‌کرد. The post هوش مصنوعی Jev بازی پوکمون Red را در کمتر از یک هفته تمام کرد appeared first on دیجیاتو."
     },
     {
-      "title": "ممنوعیت محصولات ساخته‌شده با هوش مصنوعی در بزرگ‌ترین نمایشگاه بازی‌های رومیزی بریتانیا",
-      "url": "https://www.zoomit.ir/ai-articles/467968-uk-games-expo-bans-ai/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-09-27T12:10:00.000Z",
-      "summary": "نمایشگاه یو‌کی گیمز اکسپو عرضه و نمایش تمام آثار و بازی‌های ساخته‌شده با هوش مصنوعی را ممنوع کرد."
-    },
-    {
       "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
       "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
       "source": "TechCrunch AI",
       "lang": "en",
       "published": "2026-09-27T01:30:00.000Z",
       "summary": "The limited test covers select products and users, with a broader rollout planned for later in October."
-    },
-    {
-      "title": "Insurers claim AI is already increasing healthcare costs",
-      "url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-09-26T21:02:06.000Z",
-      "summary": "Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year period."
-    },
-    {
-      "title": "I created an interactive digital avatar of myself — and you can talk to it",
-      "url": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-09-26T14:00:00.000Z",
-      "summary": "After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves."
     },
     {
       "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
@@ -84,10 +84,10 @@
     {
       "title": "عامل هوش مصنوعی Muse متا نیم میلیون بار دانلود شد اما با یک",
       "url": "https://news.google.com/rss/articles/CBMivgNBVV95cUxOLXZOREhJcU9vTGtqdThhd29PYmtWWFVqcVgwSHJuaHhqU0NjREFBMHNfR080THBldUdaTGRjaklTem5TUXZPTHZ3UElySjVhOWo2dzZPaWZCRnRuZ1o0ZDEtbDM2ZXpGVmtRTW5rOElhVWpiVl95VHZSNXMyeC1URW5SOXZxRTlEWEVwakxWdzBjTlJGM2xGTTNnZDM1QkE2YjBidmozTGd1RnEwX2NfdjFHSHUxeV9xMmJ0b21hY2VCU1dxZWhUbjlhMDZoaVJzR3VVc29XSFBkN2NqVkVCZTdleWVZa1dHRk1NRHZSeXlxZ01oczE1TUc2d1pNLUE3Z204Vnk2S0dISFRhT2pTcGRNRUV2VW1DbTlRVUdsemNuTmhZVVBDNldxN1F3VW1sNm8zS2hyNkxPWnZtUkkwbjZ2U0hsbGxLWVZ3TG5MMmpoRi1UZVFCS3Yxc0ozRlhkdmlRQnF5QXpnUGo5c3BkUDRwMDBaMWJ5akdybFc2RTN2Uk84dzZCQXh6VkNUUm1fZzhkWTRfazRCdWNvSW5oTjd6SFd3N1ZmeVB5b2ZTYk9saHg5TVJNbWk5VzlSZw?oc=5",
-      "source": "ghatreh.com",
+      "source": "موتور جستجوی قطره",
       "lang": "fa",
       "published": "2026-09-23T17:56:49.000Z",
-      "summary": "عامل هوش مصنوعی Muse متا نیم میلیون بار دانلود شد اما با یک ghatreh.com"
+      "summary": "عامل هوش مصنوعی Muse متا نیم میلیون بار دانلود شد اما با یک موتور جستجوی قطره"
     },
     {
       "title": "Advancing Private AI Compute with secure, server-side memory",
