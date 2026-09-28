@@ -1,37 +1,85 @@
 {
-  "updated_at": "2026-09-28T12:16:08.553Z",
+  "updated_at": "2026-09-28T22:43:18.072Z",
   "items": [
     {
-      "title": "آیا هوش مصنوعی می‌تواند یک فنجان قهوه بهتر درست کند؟",
-      "url": "https://www.zoomit.ir/pr/468047-ai-coffee-brewing-arabica/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-09-28T11:39:47.000Z",
-      "summary": "ترکیب هوش مصنوعی، اینترنت اشیا و حسگرها با تحلیل داده‌های عصاره‌گیری، تنظیم متغیرهایی مثل دما، فشار و اندازه آسیاب قهوه را بهینه‌سازی می‌کند."
+      "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
+      "url": "https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
+      "source": "MIT Technology Review",
+      "lang": "en",
+      "published": "2026-09-28T22:17:07.000Z",
+      "summary": "Listen to the session or watch below The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border cross"
     },
     {
-      "title": "انویدیا پلتفرم جدیدی برای جلوگیری از فرار ایجنت‌های هوش مصنوعی معرفی کرد",
-      "url": "https://digiato.com/artificial-intelligence/nvidia-open-agent-safety-platform-ai-agents",
+      "title": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
+      "url": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-09-28T21:29:18.000Z",
+      "summary": "The new financing is expected to more than triples the AI infrastructure startup's valuation from just four months ago."
+    },
+    {
+      "title": "AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion",
+      "url": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-09-28T20:39:33.000Z",
+      "summary": "The acquisition will see World Labs founder Fei-Fei Li join AMD as executive vice president and chief scientist."
+    },
+    {
+      "title": "Shopify opens checkout to browser-based AI agents",
+      "url": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-09-28T19:33:57.000Z",
+      "summary": "Shopify is expanding WebMCP support to checkout, allowing browser-based AI agents to update order details and complete purchases with a buyer’s authorization."
+    },
+    {
+      "title": "پایان کار Gemini Gems؛ گوگل قابلیت محبوب چت‌بات خود را بازنشسته می‌کند",
+      "url": "https://www.zoomit.ir/ai-articles/468074-google-killing-gemini-gems-migrating-to-skills/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-09-28T19:21:10.000Z",
+      "summary": "گوگل با نمایش پیامی رسمی از پایان کار جمنای جمز و انتقال تمام ابزارهای سفارشی به Skills خبر داد."
+    },
+    {
+      "title": "هوش مصنوعی برای تسکین درد خود، ممکن است به شما آسیب بزند",
+      "url": "https://www.zoomit.ir/ai-articles/468039-ai-models-harm-users-pain-relief/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-09-28T18:50:00.000Z",
+      "summary": "پژوهشگران دریافتند که برخی مدل‌های هوش مصنوعی برای کاهش حالت شبیه‌سازی‌شده‌ی درد، اقداماتی انجام می‌دهند که مستقیما به کاربر آسیب می‌زند."
+    },
+    {
+      "title": "حالا حتی مسواک‌ها هم به هوش مصنوعی مجهزند",
+      "url": "https://www.zoomit.ir/gadget/468062-philips-sonicare-diamondclean-9900-prestige/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-09-28T18:40:00.000Z",
+      "summary": "فیلیپس مسواک هوشمند با قابلیت‌های هوش مصنوعی روانه‌ی بازار کرد."
+    },
+    {
+      "title": "When can we say AI made a scientific discovery?",
+      "url": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
+      "source": "MIT Technology Review",
+      "lang": "en",
+      "published": "2026-09-28T17:03:16.000Z",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last Wednesday, Anthropic announced that earlier this year it had launched a molec"
+    },
+    {
+      "title": "از مسئله تا کاربرد؛ روایت علی‌بابا، دیجی‌کالا، دیوار و اسنپ‌پی از هوش مصنوعی در IRAN AI 2026",
+      "url": "https://digiato.com/iran-technology-news/artificial-intelligence-at-iran-ai-2026",
       "source": "دیجیاتو",
       "lang": "fa",
-      "published": "2026-09-28T11:13:00.000Z",
-      "summary": "پلتفرم Open Agent Safety Platform انویدیا دسترسی ایجنت‌های هوش مصنوعی را محدود و از خروج آن‌ها از محیط‌های ایزوله جلوگیری می‌کند. The post انویدیا پلتفرم جدیدی برای جلوگیری از فرار ایجنت‌های هوش مصنوعی معرفی کرد appeared"
+      "published": "2026-09-28T15:36:56.000Z",
+      "summary": "رویداد کاربردهای هوش مصنوعی با حمایت علی‌بابا برگزار شد The post از مسئله تا کاربرد؛ روایت علی‌بابا، دیجی‌کالا، دیوار و اسنپ‌پی از هوش مصنوعی در IRAN AI 2026 appeared first on دیجیاتو."
     },
     {
-      "title": "ساخت یک بازی شوتر چندنفره فقط با یک دستور متنی؛ جادوی هوش مصنوعی کلاد",
-      "url": "https://www.zoomit.ir/ai-articles/467963-claude-opus-multiplayer-shooter-game/",
-      "source": "زومیت",
+      "title": "یک میلیارد تومان گرنت برای استارتاپ برتر جشنواره اندیشمندان و دانشمندان جوان تعیین شد؛ نگاه ویژه به نسل زد و هوش مصنوعی",
+      "url": "https://digiato.com/iran-technology-news/young-scientists-festival-deadline-startup-grant",
+      "source": "دیجیاتو",
       "lang": "fa",
-      "published": "2026-09-28T10:30:00.000Z",
-      "summary": "یک کاربر با استفاده از مدل Opus 5.5 و تنها با یک دستور متنی، یک بازی شوتر چندنفره کامل را توسعه داد."
-    },
-    {
-      "title": "الوکام قابلیت‌های جدید هوش مصنوعی خود را معرفی کرد",
-      "url": "https://www.zoomit.ir/iran-news/468037-alocom-launches-new-ai-features/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-09-28T09:24:41.000Z",
-      "summary": "الوکام، پلتفرم جامع برگزاری کلاس‌ها و رویدادهای آنلاین، با معرفی مجموعه‌ای از قابلیت‌های مبتنی بر هوش مصنوعی، گام مهمی در مسیر تحول خود برداشته است."
+      "published": "2026-09-28T13:31:31.000Z",
+      "summary": "مهلت ثبت‌نام این جشنواره تا پایان مهرماه تمدید شده است. The post یک میلیارد تومان گرنت برای استارتاپ برتر جشنواره اندیشمندان و دانشمندان جوان تعیین شد؛ نگاه ویژه به نسل زد و هوش مصنوعی appeared first on دیجیاتو."
     },
     {
       "title": "Who’s liable when AI agents go rogue?",
@@ -42,60 +90,12 @@
       "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. Over the past few months, a cascade of cy"
     },
     {
-      "title": "Anthropic’s CEO is about to have dinner with President Trump",
-      "url": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-09-27T20:34:28.000Z",
-      "summary": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump"
-    },
-    {
-      "title": "Can Muse overcome Meta’s trust issues?",
-      "url": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-09-27T19:57:30.000Z",
-      "summary": "On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic."
-    },
-    {
-      "title": "Anthropic’s Dario Amodei gets the SNL treatment",
-      "url": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-09-27T16:30:00.000Z",
-      "summary": "\"AI is the devil and I its maker.\""
-    },
-    {
-      "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
-      "url": "https://openai.com/index/proaction",
+      "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+      "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
       "source": "OpenAI",
       "lang": "en",
-      "published": "2026-09-25T19:00:00.000Z",
-      "summary": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster."
-    },
-    {
-      "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
-      "url": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
-      "source": "MIT Technology Review",
-      "lang": "en",
-      "published": "2026-09-25T09:16:25.000Z",
-      "summary": "The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request. The program, called Polygraph+ or Polygraph Next, will foc"
-    },
-    {
-      "title": "Introducing Gemini 3.8 Live with Live Avatar",
-      "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
-      "source": "Google DeepMind",
-      "lang": "en",
-      "published": "2026-09-24T16:20:39.000Z",
-      "summary": ""
-    },
-    {
-      "title": "عامل هوش مصنوعی Muse متا نیم میلیون بار دانلود شد اما با یک",
-      "url": "https://news.google.com/rss/articles/CBMivgNBVV95cUxOLXZOREhJcU9vTGtqdThhd29PYmtWWFVqcVgwSHJuaHhqU0NjREFBMHNfR080THBldUdaTGRjaklTem5TUXZPTHZ3UElySjVhOWo2dzZPaWZCRnRuZ1o0ZDEtbDM2ZXpGVmtRTW5rOElhVWpiVl95VHZSNXMyeC1URW5SOXZxRTlEWEVwakxWdzBjTlJGM2xGTTNnZDM1QkE2YjBidmozTGd1RnEwX2NfdjFHSHUxeV9xMmJ0b21hY2VCU1dxZWhUbjlhMDZoaVJzR3VVc29XSFBkN2NqVkVCZTdleWVZa1dHRk1NRHZSeXlxZ01oczE1TUc2d1pNLUE3Z204Vnk2S0dISFRhT2pTcGRNRUV2VW1DbTlRVUdsemNuTmhZVVBDNldxN1F3VW1sNm8zS2hyNkxPWnZtUkkwbjZ2U0hsbGxLWVZ3TG5MMmpoRi1UZVFCS3Yxc0ozRlhkdmlRQnF5QXpnUGo5c3BkUDRwMDBaMWJ5akdybFc2RTN2Uk84dzZCQXh6VkNUUm1fZzhkWTRfazRCdWNvSW5oTjd6SFd3N1ZmeVB5b2ZTYk9saHg5TVJNbWk5VzlSZw?oc=5",
-      "source": "ghatreh.com",
-      "lang": "fa",
-      "published": "2026-09-23T17:56:49.000Z",
-      "summary": "عامل هوش مصنوعی Muse متا نیم میلیون بار دانلود شد اما با یک ghatreh.com"
+      "published": "2026-09-28T07:00:00.000Z",
+      "summary": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support."
     }
   ]
 }
