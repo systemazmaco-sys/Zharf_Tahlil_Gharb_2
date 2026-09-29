@@ -1,21 +1,85 @@
 {
-  "updated_at": "2026-09-29T03:08:48.196Z",
+  "updated_at": "2026-09-29T17:12:12.250Z",
   "items": [
     {
-      "title": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
-      "url": "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/",
+      "title": "Can a chatbot fix the government maze? The White House is about to find out",
+      "url": "https://techcrunch.com/2026/09/29/can-a-chatbot-fix-the-government-maze-the-white-house-is-about-to-find-out/",
       "source": "TechCrunch AI",
       "lang": "en",
-      "published": "2026-09-29T00:30:00.000Z",
-      "summary": "Thirteen of the 18 startups in Peak XV’s latest Surge cohort are targeting global markets, while more than half are based in India."
+      "published": "2026-09-29T16:55:56.000Z",
+      "summary": "America.gov is intended to simplify the process of navigating government bureaucracy, but language models are imperfect and remain prone to hallucinations, which could cause new issues."
     },
     {
-      "title": "OpenAI reportedly ditches model over safety concerns",
-      "url": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
+      "title": "شکاف ثروت در عصر مدرن؛ آیا هوش مصنوعی، پولدارها را پولدارتر می‌کند؟",
+      "url": "https://www.zoomit.ir/economics/468030-ai-impact-global-wealth-inequality/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-09-29T15:15:00.000Z",
+      "summary": "گزارش صندوق بین‌المللی پول نشان می‌دهد هوش مصنوعی ممکن است شکاف ثروت میان کشورها و گروه‌های مختلف شغلی را عمیق‌تر کند."
+    },
+    {
+      "title": "Instinct founder said more than 50% of transactions on the platform are travel-related",
+      "url": "https://techcrunch.com/2026/09/29/instinct-founder-said-more-than-50-of-transactions-on-the-platform-are-travel-related/",
       "source": "TechCrunch AI",
       "lang": "en",
-      "published": "2026-09-28T23:39:20.000Z",
-      "summary": "A top executive at the AI lab told the Wall Street Journal that the model in question had displayed a poor aptitude for following orders."
+      "published": "2026-09-29T15:12:07.000Z",
+      "summary": "Instinct founder said the platform is growing 10% day by day, with transaction volume increasing at a similar rate."
+    },
+    {
+      "title": "هوش مصنوعی متا آدرس خانه یک یوتیوبر معروف را برای فردی غریبه فرستاد!",
+      "url": "https://www.zoomit.ir/ai-articles/468141-meta-muse-ai-leaked-youtuber-address-facebook-marketplace/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-09-29T14:38:27.000Z",
+      "summary": "دستیار شخصی «میوس» متا با پذیرش قیمتی پایین و ارسال نشانی منزل کاربر به یک غریبه در فیسبوک مارکت‌پلیس، دردسر امنیتی تازه‌ای آفرید."
+    },
+    {
+      "title": "حباب هوش مصنوعی کی می‌ترکد؟",
+      "url": "https://www.zoomit.ir/ai-articles/468029-ai-boom-funding-gap-risks/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-09-29T14:00:00.000Z",
+      "summary": "رونق هوش مصنوعی با تزریق مداوم نقدینگی به حرکت خود ادامه می‌دهد، اما خطر شکل‌گیری شکاف مالی بقای غول‌های این حوزه را تهدید می‌کند."
+    },
+    {
+      "title": "With Dazzle, Marissa Mayer bets your camera roll has more info on your life than your inbox",
+      "url": "https://techcrunch.com/2026/09/29/with-dazzle-marissa-mayer-bets-your-camera-roll-has-more-info-on-your-life-than-your-inbox/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-09-29T13:53:01.000Z",
+      "summary": "Mayer argues that if a photo is worth a thousand words, your camera roll is worth millions. By analyzing all the photos stored on your phone, Dazzle claims to understand your hobbies, interests, food, and style preferenc"
+    },
+    {
+      "title": "ترامپ میزبان نشستی با حضور مدیرعامل متا، آنتروپیک و انویدیا درباره هوش مصنوعی خواهد بود",
+      "url": "https://digiato.com/artificial-intelligence/trump-host-zuckerberg-ai-titans-meeting",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-09-29T13:24:50.000Z",
+      "summary": "نگرانی از بابت رفتارهای خودسرانه ایجنت‌های هوش مصنوعی و نفوذ به سیستم‌ها، کاخ سفید را به برگزاری جلسه با رهبران فناوری وادار کرد. The post ترامپ میزبان نشستی با حضور مدیرعامل متا، آنتروپیک و انویدیا درباره هوش مصنوعی خوا"
+    },
+    {
+      "title": "فیلیپس نسل جدید مسواک برقی خود را با هوش مصنوعی و نمایشگر داخلی روانه بازار کرد",
+      "url": "https://digiato.com/articles/philips-next-gen-diamondclean-9900-smart-toothbrush",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-09-29T12:05:00.000Z",
+      "summary": "این گجت با پایش حرکات دست شدت لرزش را تنظیم می‌کند و با نمایش نقشه دندان‌ها کیفیت مسواک‌زدن را بررسی می‌کند. The post فیلیپس نسل جدید مسواک برقی خود را با هوش مصنوعی و نمایشگر داخلی روانه بازار کرد appeared first on دیجی"
+    },
+    {
+      "title": "پرامپت نویسی حرفه‌ای در چت جی پی تی (ChatGPT) | آموزش کامل",
+      "url": "https://digiato.com/promoted/prompt-chatgpt-like-a-pro",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-09-29T11:37:52.000Z",
+      "summary": "با ساختار استاندارد پرامپت، ۵ تکنیک کاربردی و اشتباهات رایج آشنا شوید. The post پرامپت نویسی حرفه‌ای در چت جی پی تی (ChatGPT) | آموزش کامل appeared first on دیجیاتو."
+    },
+    {
+      "title": "Making AI an asset, not an expense",
+      "url": "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/",
+      "source": "MIT Technology Review",
+      "lang": "en",
+      "published": "2026-09-29T10:43:45.000Z",
+      "summary": "When customers talk about AI costs, the conversation usually starts with token prices and ends with access to the latest, most capable model in the cloud. Do they always need that level of capability? Not necessarily. Bu"
     },
     {
       "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
@@ -26,76 +90,12 @@
       "summary": "Listen to the session or watch below The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border cross"
     },
     {
-      "title": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
-      "url": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-09-28T21:29:18.000Z",
-      "summary": "The new financing is expected to more than triples the AI infrastructure startup's valuation from just four months ago."
-    },
-    {
-      "title": "پایان کار Gemini Gems؛ گوگل قابلیت محبوب چت‌بات خود را بازنشسته می‌کند",
-      "url": "https://www.zoomit.ir/ai-articles/468074-google-killing-gemini-gems-migrating-to-skills/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-09-28T19:21:10.000Z",
-      "summary": "گوگل با نمایش پیامی رسمی از پایان کار جمنای جمز و انتقال تمام ابزارهای سفارشی به Skills خبر داد."
-    },
-    {
       "title": "How we will do better for Australia",
       "url": "https://openai.com/index/how-we-will-do-better-for-australia",
       "source": "OpenAI",
       "lang": "en",
       "published": "2026-09-28T19:00:00.000Z",
       "summary": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences."
-    },
-    {
-      "title": "هوش مصنوعی برای تسکین درد خود، ممکن است به شما آسیب بزند",
-      "url": "https://www.zoomit.ir/ai-articles/468039-ai-models-harm-users-pain-relief/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-09-28T18:50:00.000Z",
-      "summary": "پژوهشگران دریافتند که برخی مدل‌های هوش مصنوعی برای کاهش حالت شبیه‌سازی‌شده‌ی درد، اقداماتی انجام می‌دهند که مستقیما به کاربر آسیب می‌زند."
-    },
-    {
-      "title": "حالا حتی مسواک‌ها هم به هوش مصنوعی مجهزند",
-      "url": "https://www.zoomit.ir/gadget/468062-philips-sonicare-diamondclean-9900-prestige/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-09-28T18:40:00.000Z",
-      "summary": "فیلیپس مسواک هوشمند با قابلیت‌های هوش مصنوعی روانه‌ی بازار کرد."
-    },
-    {
-      "title": "When can we say AI made a scientific discovery?",
-      "url": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
-      "source": "MIT Technology Review",
-      "lang": "en",
-      "published": "2026-09-28T17:03:16.000Z",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last Wednesday, Anthropic announced that earlier this year it had launched a molec"
-    },
-    {
-      "title": "از مسئله تا کاربرد؛ روایت علی‌بابا، دیجی‌کالا، دیوار و اسنپ‌پی از هوش مصنوعی در IRAN AI 2026",
-      "url": "https://digiato.com/iran-technology-news/artificial-intelligence-at-iran-ai-2026",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-09-28T15:36:56.000Z",
-      "summary": "رویداد کاربردهای هوش مصنوعی با حمایت علی‌بابا برگزار شد The post از مسئله تا کاربرد؛ روایت علی‌بابا، دیجی‌کالا، دیوار و اسنپ‌پی از هوش مصنوعی در IRAN AI 2026 appeared first on دیجیاتو."
-    },
-    {
-      "title": "یک میلیارد تومان گرنت برای استارتاپ برتر جشنواره اندیشمندان و دانشمندان جوان تعیین شد؛ نگاه ویژه به نسل زد و هوش مصنوعی",
-      "url": "https://digiato.com/iran-technology-news/young-scientists-festival-deadline-startup-grant",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-09-28T13:31:31.000Z",
-      "summary": "مهلت ثبت‌نام این جشنواره تا پایان مهرماه تمدید شده است. The post یک میلیارد تومان گرنت برای استارتاپ برتر جشنواره اندیشمندان و دانشمندان جوان تعیین شد؛ نگاه ویژه به نسل زد و هوش مصنوعی appeared first on دیجیاتو."
-    },
-    {
-      "title": "Who’s liable when AI agents go rogue?",
-      "url": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/",
-      "source": "MIT Technology Review",
-      "lang": "en",
-      "published": "2026-09-28T08:06:22.000Z",
-      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. Over the past few months, a cascade of cy"
     }
   ]
 }
