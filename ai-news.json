@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-28T22:43:18.072Z",
+  "updated_at": "2026-09-29T03:08:48.196Z",
   "items": [
+    {
+      "title": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
+      "url": "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-09-29T00:30:00.000Z",
+      "summary": "Thirteen of the 18 startups in Peak XV’s latest Surge cohort are targeting global markets, while more than half are based in India."
+    },
+    {
+      "title": "OpenAI reportedly ditches model over safety concerns",
+      "url": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-09-28T23:39:20.000Z",
+      "summary": "A top executive at the AI lab told the Wall Street Journal that the model in question had displayed a poor aptitude for following orders."
+    },
     {
       "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
       "url": "https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
@@ -18,28 +34,20 @@
       "summary": "The new financing is expected to more than triples the AI infrastructure startup's valuation from just four months ago."
     },
     {
-      "title": "AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion",
-      "url": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-09-28T20:39:33.000Z",
-      "summary": "The acquisition will see World Labs founder Fei-Fei Li join AMD as executive vice president and chief scientist."
-    },
-    {
-      "title": "Shopify opens checkout to browser-based AI agents",
-      "url": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-09-28T19:33:57.000Z",
-      "summary": "Shopify is expanding WebMCP support to checkout, allowing browser-based AI agents to update order details and complete purchases with a buyer’s authorization."
-    },
-    {
       "title": "پایان کار Gemini Gems؛ گوگل قابلیت محبوب چت‌بات خود را بازنشسته می‌کند",
       "url": "https://www.zoomit.ir/ai-articles/468074-google-killing-gemini-gems-migrating-to-skills/",
       "source": "زومیت",
       "lang": "fa",
       "published": "2026-09-28T19:21:10.000Z",
       "summary": "گوگل با نمایش پیامی رسمی از پایان کار جمنای جمز و انتقال تمام ابزارهای سفارشی به Skills خبر داد."
+    },
+    {
+      "title": "How we will do better for Australia",
+      "url": "https://openai.com/index/how-we-will-do-better-for-australia",
+      "source": "OpenAI",
+      "lang": "en",
+      "published": "2026-09-28T19:00:00.000Z",
+      "summary": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences."
     },
     {
       "title": "هوش مصنوعی برای تسکین درد خود، ممکن است به شما آسیب بزند",
@@ -88,14 +96,6 @@
       "lang": "en",
       "published": "2026-09-28T08:06:22.000Z",
       "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. Over the past few months, a cascade of cy"
-    },
-    {
-      "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
-      "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
-      "source": "OpenAI",
-      "lang": "en",
-      "published": "2026-09-28T07:00:00.000Z",
-      "summary": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support."
     }
   ]
 }
