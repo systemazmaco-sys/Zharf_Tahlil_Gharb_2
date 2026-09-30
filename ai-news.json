@@ -1,6 +1,46 @@
 {
-  "updated_at": "2026-09-30T17:10:07.757Z",
+  "updated_at": "2026-09-30T21:37:44.775Z",
   "items": [
+    {
+      "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
+      "url": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-09-30T21:07:40.000Z",
+      "summary": "Flow Engineering, which is bringing AI agents to hardware design, also landed Roelof Botha as an angel investor and board member."
+    },
+    {
+      "title": "Gemini 4 Argon: our next era of frontier intelligence",
+      "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
+      "source": "Google DeepMind",
+      "lang": "en",
+      "published": "2026-09-30T20:01:45.000Z",
+      "summary": ""
+    },
+    {
+      "title": "OpenAI’s Jev clone could help the frontier lab stop its swarming agents",
+      "url": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-09-30T19:00:57.000Z",
+      "summary": "OpenAI's \"Decisions API\" is a Jev clone that confirms the importance of fast, cheap intelligence."
+    },
+    {
+      "title": "AI voice startup ElevenLabs doubles valuation to $22B",
+      "url": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-09-30T18:23:57.000Z",
+      "summary": "The $300 million employee tender was co-led by Wellington and T. Rowe Price."
+    },
+    {
+      "title": "توافق تاریخی غول‌های هوش مصنوعی با ترامپ: نظارت بدون قانون‌گذاری اجباری",
+      "url": "https://www.zoomit.ir/ai-articles/468232-ai-execs-trump-self-policing-deal-comments/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-09-30T17:37:02.000Z",
+      "summary": "رهبران بزرگ‌ترین شرکت‌های هوش مصنوعی با امضای توافقی در کاخ سفید، بر خودتنظیم‌گری و توسعه‌ی ایمن فناوری بدون قوانین الزام‌آور فدرال تأکید کردند."
+    },
     {
       "title": "تولید ویدیو با هوش مصنوعی گوگل رایگان شد؛ حتی برای کاربران ایرانی",
       "url": "https://www.zoomit.ir/ai-articles/468230-google-vids-gemini-omni-ai-video-generation/",
@@ -10,44 +50,12 @@
       "summary": "دسترسی عمومی به Google Vids با هوش مصنوعی Gemini Omni 1.1 Flash فراهم شد تا کاربران بتوانند ویدیوهای باکیفیت خلق کنند."
     },
     {
-      "title": "Meta disputes claim that Muse read a user’s private messages without permission",
-      "url": "https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-09-30T16:24:23.000Z",
-      "summary": "Meta says its Muse AI agent cannot access a user’s Messages without explicit permission, disputing a journalist’s account that the agent read his private messages while the required Mac setting was turned off."
-    },
-    {
-      "title": "DoorDash launches an AI agent you can text to order food",
-      "url": "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-09-30T16:00:24.000Z",
-      "summary": "By launching an AI agent for food ordering, DoorDash is looking to gain an edge over rivals Uber Eats and Grubhub."
-    },
-    {
-      "title": "Destro AI’s secret sauce is getting robots and humans on the same page",
-      "url": "https://techcrunch.com/2026/09/30/destro-ais-secret-sauce-is-getting-robots-and-humans-on-the-same-page/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-09-30T16:00:00.000Z",
-      "summary": "\"One of the biggest reasons we are winning against robotics companies is because we are not a robotics company.\""
-    },
-    {
       "title": "رازهای الگوریتم فاش می‌شود؟ معرفی هوش مصنوعی جدید اینستاگرام برای بهینه‌سازی پست‌ها",
       "url": "https://www.zoomit.ir/social-network/468228-instagram-ai-creative-assistant-edits-app/",
       "source": "زومیت",
       "lang": "fa",
       "published": "2026-09-30T15:21:01.000Z",
       "summary": "اینستاگرام با افزودن دستیار هوشمند به برنامه‌ی Edits، راهکار بهینه‌سازی ویدیوها و افزایش تعامل کاربران را آشکار می‌کند."
-    },
-    {
-      "title": "حمله مدیرعامل میسترال به غول‌های هوش مصنوعی: بحث‌های امنیتی، نقابِ بی‌دقتی است",
-      "url": "https://www.zoomit.ir/ai-articles/468120-mistral-ai-safety-negligence-claim/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-09-30T15:10:00.000Z",
-      "summary": "مدیرعامل میسترال، رقبای آمریکایی خود را به استفاده از بحث ایمنی به‌عنوان پوششی برای سهل‌انگاری متهم کرد."
     },
     {
       "title": "Introducing SynthID Bio",
@@ -74,28 +82,20 @@
       "summary": "Two months after the bombshell news that a swarm of its agents had broken their containment and hacked into the computers of the AI company Hugging Face, OpenAI is still putting out fires. A steady drip of disclosures ab"
     },
     {
+      "title": "Disrupting a coordinated model-distillation campaign",
+      "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+      "source": "OpenAI",
+      "lang": "en",
+      "published": "2026-09-30T10:30:00.000Z",
+      "summary": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation."
+    },
+    {
       "title": "Helping small businesses put AI to work",
       "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
       "source": "OpenAI",
       "lang": "en",
       "published": "2026-09-30T10:00:00.000Z",
       "summary": "OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI."
-    },
-    {
-      "title": "Making AI an asset, not an expense",
-      "url": "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/",
-      "source": "MIT Technology Review",
-      "lang": "en",
-      "published": "2026-09-29T10:43:45.000Z",
-      "summary": "When customers talk about AI costs, the conversation usually starts with token prices and ends with access to the latest, most capable model in the cloud. Do they always need that level of capability? Not necessarily. Bu"
-    },
-    {
-      "title": "DevDay 2026 Recap",
-      "url": "https://openai.com/index/devday-2026-recap",
-      "source": "OpenAI",
-      "lang": "en",
-      "published": "2026-09-29T10:00:00.000Z",
-      "summary": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders."
     }
   ]
 }
