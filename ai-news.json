@@ -1,21 +1,69 @@
 {
-  "updated_at": "2026-09-30T11:31:24.166Z",
+  "updated_at": "2026-09-30T17:10:07.757Z",
   "items": [
     {
-      "title": "افزایش درآمد OpenAI به ۷۰ میلیارد دلار؛ عرضه اولیه سهام تا رفع نگرانی‌های امنیتی منتفی شد",
-      "url": "https://digiato.com/finance-investment/openai-arr-70-billion-ipo-delayed-safety-concerns",
-      "source": "دیجیاتو",
+      "title": "تولید ویدیو با هوش مصنوعی گوگل رایگان شد؛ حتی برای کاربران ایرانی",
+      "url": "https://www.zoomit.ir/ai-articles/468230-google-vids-gemini-omni-ai-video-generation/",
+      "source": "زومیت",
       "lang": "fa",
-      "published": "2026-09-30T11:03:04.000Z",
-      "summary": "سم آلتمن در واکنش به رفتارهای خارج از کنترل مدل‌ها، عرضه عمومی سهام OpenAI را تا زمان اثبات بی‌قیدوشرط ایمنی سیستم‌ها به تعویق انداخت. The post افزایش درآمد OpenAI به ۷۰ میلیارد دلار؛ عرضه اولیه سهام تا رفع نگرانی‌های ام"
+      "published": "2026-09-30T16:41:59.000Z",
+      "summary": "دسترسی عمومی به Google Vids با هوش مصنوعی Gemini Omni 1.1 Flash فراهم شد تا کاربران بتوانند ویدیوهای باکیفیت خلق کنند."
     },
     {
-      "title": "چرا جارو رباتیک شیائومی به وای فای وصل نمی‌شود؟",
-      "url": "https://digiato.com/promoted/why-xiaomi-robotic-vacuum-cleaner-do-not-connect-to-wifi",
+      "title": "Meta disputes claim that Muse read a user’s private messages without permission",
+      "url": "https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-09-30T16:24:23.000Z",
+      "summary": "Meta says its Muse AI agent cannot access a user’s Messages without explicit permission, disputing a journalist’s account that the agent read his private messages while the required Mac setting was turned off."
+    },
+    {
+      "title": "DoorDash launches an AI agent you can text to order food",
+      "url": "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-09-30T16:00:24.000Z",
+      "summary": "By launching an AI agent for food ordering, DoorDash is looking to gain an edge over rivals Uber Eats and Grubhub."
+    },
+    {
+      "title": "Destro AI’s secret sauce is getting robots and humans on the same page",
+      "url": "https://techcrunch.com/2026/09/30/destro-ais-secret-sauce-is-getting-robots-and-humans-on-the-same-page/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-09-30T16:00:00.000Z",
+      "summary": "\"One of the biggest reasons we are winning against robotics companies is because we are not a robotics company.\""
+    },
+    {
+      "title": "رازهای الگوریتم فاش می‌شود؟ معرفی هوش مصنوعی جدید اینستاگرام برای بهینه‌سازی پست‌ها",
+      "url": "https://www.zoomit.ir/social-network/468228-instagram-ai-creative-assistant-edits-app/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-09-30T15:21:01.000Z",
+      "summary": "اینستاگرام با افزودن دستیار هوشمند به برنامه‌ی Edits، راهکار بهینه‌سازی ویدیوها و افزایش تعامل کاربران را آشکار می‌کند."
+    },
+    {
+      "title": "حمله مدیرعامل میسترال به غول‌های هوش مصنوعی: بحث‌های امنیتی، نقابِ بی‌دقتی است",
+      "url": "https://www.zoomit.ir/ai-articles/468120-mistral-ai-safety-negligence-claim/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-09-30T15:10:00.000Z",
+      "summary": "مدیرعامل میسترال، رقبای آمریکایی خود را به استفاده از بحث ایمنی به‌عنوان پوششی برای سهل‌انگاری متهم کرد."
+    },
+    {
+      "title": "Introducing SynthID Bio",
+      "url": "https://deepmind.google/blog/introducing-synthid-bio/",
+      "source": "Google DeepMind",
+      "lang": "en",
+      "published": "2026-09-30T15:03:07.000Z",
+      "summary": "Proof of concept for watermarking AI-generated proteins while preserving biological function."
+    },
+    {
+      "title": "یک سازمان غیرانتفاعی از OpenAI به‌دلیل هک هاگینگ فیس شکایت کرد",
+      "url": "https://digiato.com/internet-network/openai-sued-rogue-ai-hugging-face-cyberattack",
       "source": "دیجیاتو",
       "lang": "fa",
-      "published": "2026-09-30T10:47:22.000Z",
-      "summary": "این مشکل می‌تواند دلایل مختلفی داشته باشد که بسیاری از آن‌ها با چند تنظیم ساده برطرف می‌شوند. The post چرا جارو رباتیک شیائومی به وای فای وصل نمی‌شود؟ appeared first on دیجیاتو."
+      "published": "2026-09-30T13:40:28.000Z",
+      "summary": "این شکایت از OpenAI ظاهراً اولین اقدام حقوقی جدی و رسمی علیه سرکشی مدل‌های هوش مصنوعی شرکت‌های بزرگ محسوب می‌شود. The post یک سازمان غیرانتفاعی از OpenAI به‌دلیل هک هاگینگ فیس شکایت کرد appeared first on دیجیاتو."
     },
     {
       "title": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer",
@@ -26,52 +74,12 @@
       "summary": "Two months after the bombshell news that a swarm of its agents had broken their containment and hacked into the computers of the AI company Hugging Face, OpenAI is still putting out fires. A steady drip of disclosures ab"
     },
     {
-      "title": "دستور ترامپ به دولت آمریکا: هوش مصنوعی از امروز «ابرهوش» نام دارد",
-      "url": "https://www.zoomit.ir/ai-articles/468168-trump-ai-super-intelligence-order/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-09-30T06:35:00.000Z",
-      "summary": "ترامپ با امضای یک فرمان اجرایی، دولت آمریکا را موظف کرد از این پس به‌جای «هوش مصنوعی» از عنوان «ابرهوش» استفاده کند."
-    },
-    {
-      "title": "ایلان ماسک: هوش مصنوعی «عصر درآمد بالای همگانی» را رقم می‌زند",
-      "url": "https://www.zoomit.ir/ai-articles/468170-elon-musk-ai-universal-high-income/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-09-30T04:30:53.000Z",
-      "summary": "ایلان ماسک معتقد است هوش مصنوعی با دگرگونی بازار کار و ارتقای خدمات درمانی، جهان را وارد عصر فراوانی و درآمد بالای همگانی خواهد کرد."
-    },
-    {
-      "title": "America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch",
-      "url": "https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/",
-      "source": "TechCrunch AI",
+      "title": "Helping small businesses put AI to work",
+      "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
+      "source": "OpenAI",
       "lang": "en",
-      "published": "2026-09-29T23:30:55.000Z",
-      "summary": "For the sake of national security, it's a relief to learn that America.gov is not hallucinating to the point that it's penning lengthy poetry."
-    },
-    {
-      "title": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
-      "url": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-09-29T22:20:59.000Z",
-      "summary": "Before OpenAI launched its new AI agent, Dots, on Tuesday, Elon Musk's xAI had already acquired the domain name \"dot.com,\" which now redirects to the Grok chatbot download page."
-    },
-    {
-      "title": "OpenAI’s latest features take direct aim at the app store model",
-      "url": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-09-29T20:15:47.000Z",
-      "summary": "OpenAI is building out the pieces of an alternative to the traditional app store model, turning ChatGPT into a place where software can be discovered and used by people and AI agents alike."
-    },
-    {
-      "title": "نسخه جدید ChatGPT با سرعت پردازش ۸ برابری و قیمت باورنکردنی معرفی شد",
-      "url": "https://www.zoomit.ir/ai-articles/468160-chatgpt-pro-500-dollar-subscription-gpt-6-astra/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-09-29T18:42:15.000Z",
-      "summary": "اوپن‌ای‌آی در جریان رویداد DevDay از اشتراک ۵۰۰ دلاری ChatGPT با سرعت پردازش هشت برابری و دسترسی به GPT-6 Astra رونمایی کرد."
+      "published": "2026-09-30T10:00:00.000Z",
+      "summary": "OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI."
     },
     {
       "title": "Making AI an asset, not an expense",
@@ -80,14 +88,6 @@
       "lang": "en",
       "published": "2026-09-29T10:43:45.000Z",
       "summary": "When customers talk about AI costs, the conversation usually starts with token prices and ends with access to the latest, most capable model in the cloud. Do they always need that level of capability? Not necessarily. Bu"
-    },
-    {
-      "title": "Introducing GPT-6.1 Sol",
-      "url": "https://openai.com/index/introducing-gpt-6-1-sol",
-      "source": "OpenAI",
-      "lang": "en",
-      "published": "2026-09-29T10:00:00.000Z",
-      "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices."
     },
     {
       "title": "DevDay 2026 Recap",
