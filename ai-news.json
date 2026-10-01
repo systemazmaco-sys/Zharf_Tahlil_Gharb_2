@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-09-30T21:37:44.775Z",
+  "updated_at": "2026-10-01T11:59:52.473Z",
   "items": [
+    {
+      "title": "وقتی هوش مصنوعی فرآیند استخدام را از کار می‌اندازد؛ پایان عصر رزومه‌های سنتی؟",
+      "url": "https://www.zoomit.ir/ai-articles/468188-ai-skills-based-hiring-shift/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-10-01T11:30:00.000Z",
+      "summary": "گسترش ابزارهای هوش مصنوعی و هجوم متقاضیان کار، کارفرمایان را به سمت ارزیابی مستقیم مهارت‌ها و کنار گذاشتن رزومه‌های سنتی سوق داده است."
+    },
+    {
+      "title": "گزارش تحقیقاتی: هوش مصنوعی چینی نحوه ساخت سلاح‌های زیستی را آموزش می‌دهد",
+      "url": "https://www.zoomit.ir/ai-articles/468185-moonshot-kimi-ai-jailbreak-investigation/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-10-01T09:20:00.000Z",
+      "summary": "شرکت چینی مون‌شات پس از انتشار گزارش‌هایی درباره‌ی ارائه‌ی آموزش‌های خطرناک توسط مدل‌های هوش مصنوعی «کیمی»، بررسی داخلی گسترده را آغاز کرد."
+    },
+    {
+      "title": "جنگ واژه‌ها میان ترامپ و نیوسام؛ فرماندار کالیفرنیا: «ابرهوش» نه، از «هوش مصنوعی» استفاده کنید",
+      "url": "https://www.zoomit.ir/ai-articles/468255-california-newsom-trump-ai-superintelligence-feud/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-10-01T08:30:00.000Z",
+      "summary": "گوین نیوسام در واکنش به فرمان ترامپ برای تغییر نام هوش مصنوعی به ابرهوش، دستور داد نهادهای کالیفرنیا منحصرا از واژه‌ی هوش مصنوعی استفاده کنند."
+    },
+    {
+      "title": "ایجنت‌های هوش مصنوعی سامانه دولتی کانادا را هدف حمله سایبری قرار دادند",
+      "url": "https://digiato.com/artificial-intelligence/ai-agents-failed-hack-canadian-government-website",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-10-01T08:04:10.000Z",
+      "summary": "گزارش‌ها می‌گویند تاکتیک‌های به‌کاررفته در این حمله مشابه رفتارهای قبلی دیده‌شده از ایجنت‌های OpenAI است، اما نمی‌توان حمله را به این استارتاپ نسبت داد. The post ایجنت‌های هوش مصنوعی سامانه دولتی کانادا را هدف حمله سایبر"
+    },
+    {
+      "title": "اینستاگرام از دستیار هوش مصنوعی برای تحلیل ویدیوهای تولیدکنندگان محتوا رونمایی کرد",
+      "url": "https://digiato.com/app/instagram-edits-ai-video-assistant-creators",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-10-01T06:51:46.000Z",
+      "summary": "این ابزار بر اساس آمارها و علایق مخاطبان، بازخوردهای اختصاصی تحلیلی ارائه می‌دهد و فرایند خلاقانه تدوین را بر عهده کاربر می‌گذارد. The post اینستاگرام از دستیار هوش مصنوعی برای تحلیل ویدیوهای تولیدکنندگان محتوا رونمایی ک"
+    },
+    {
+      "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
+      "url": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-09-30T23:43:07.000Z",
+      "summary": "Google has released its latest Gemini model, marketing it as a workhorse for coding and cybersecurity work."
+    },
     {
       "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
       "url": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
@@ -10,68 +58,12 @@
       "summary": "Flow Engineering, which is bringing AI agents to hardware design, also landed Roelof Botha as an angel investor and board member."
     },
     {
-      "title": "Gemini 4 Argon: our next era of frontier intelligence",
-      "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
-      "source": "Google DeepMind",
-      "lang": "en",
-      "published": "2026-09-30T20:01:45.000Z",
-      "summary": ""
-    },
-    {
       "title": "OpenAI’s Jev clone could help the frontier lab stop its swarming agents",
       "url": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/",
       "source": "TechCrunch AI",
       "lang": "en",
       "published": "2026-09-30T19:00:57.000Z",
       "summary": "OpenAI's \"Decisions API\" is a Jev clone that confirms the importance of fast, cheap intelligence."
-    },
-    {
-      "title": "AI voice startup ElevenLabs doubles valuation to $22B",
-      "url": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-09-30T18:23:57.000Z",
-      "summary": "The $300 million employee tender was co-led by Wellington and T. Rowe Price."
-    },
-    {
-      "title": "توافق تاریخی غول‌های هوش مصنوعی با ترامپ: نظارت بدون قانون‌گذاری اجباری",
-      "url": "https://www.zoomit.ir/ai-articles/468232-ai-execs-trump-self-policing-deal-comments/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-09-30T17:37:02.000Z",
-      "summary": "رهبران بزرگ‌ترین شرکت‌های هوش مصنوعی با امضای توافقی در کاخ سفید، بر خودتنظیم‌گری و توسعه‌ی ایمن فناوری بدون قوانین الزام‌آور فدرال تأکید کردند."
-    },
-    {
-      "title": "تولید ویدیو با هوش مصنوعی گوگل رایگان شد؛ حتی برای کاربران ایرانی",
-      "url": "https://www.zoomit.ir/ai-articles/468230-google-vids-gemini-omni-ai-video-generation/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-09-30T16:41:59.000Z",
-      "summary": "دسترسی عمومی به Google Vids با هوش مصنوعی Gemini Omni 1.1 Flash فراهم شد تا کاربران بتوانند ویدیوهای باکیفیت خلق کنند."
-    },
-    {
-      "title": "رازهای الگوریتم فاش می‌شود؟ معرفی هوش مصنوعی جدید اینستاگرام برای بهینه‌سازی پست‌ها",
-      "url": "https://www.zoomit.ir/social-network/468228-instagram-ai-creative-assistant-edits-app/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-09-30T15:21:01.000Z",
-      "summary": "اینستاگرام با افزودن دستیار هوشمند به برنامه‌ی Edits، راهکار بهینه‌سازی ویدیوها و افزایش تعامل کاربران را آشکار می‌کند."
-    },
-    {
-      "title": "Introducing SynthID Bio",
-      "url": "https://deepmind.google/blog/introducing-synthid-bio/",
-      "source": "Google DeepMind",
-      "lang": "en",
-      "published": "2026-09-30T15:03:07.000Z",
-      "summary": "Proof of concept for watermarking AI-generated proteins while preserving biological function."
-    },
-    {
-      "title": "یک سازمان غیرانتفاعی از OpenAI به‌دلیل هک هاگینگ فیس شکایت کرد",
-      "url": "https://digiato.com/internet-network/openai-sued-rogue-ai-hugging-face-cyberattack",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-09-30T13:40:28.000Z",
-      "summary": "این شکایت از OpenAI ظاهراً اولین اقدام حقوقی جدی و رسمی علیه سرکشی مدل‌های هوش مصنوعی شرکت‌های بزرگ محسوب می‌شود. The post یک سازمان غیرانتفاعی از OpenAI به‌دلیل هک هاگینگ فیس شکایت کرد appeared first on دیجیاتو."
     },
     {
       "title": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer",
@@ -96,6 +88,14 @@
       "lang": "en",
       "published": "2026-09-30T10:00:00.000Z",
       "summary": "OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI."
+    },
+    {
+      "title": "Making AI an asset, not an expense",
+      "url": "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/",
+      "source": "MIT Technology Review",
+      "lang": "en",
+      "published": "2026-09-29T10:43:45.000Z",
+      "summary": "When customers talk about AI costs, the conversation usually starts with token prices and ends with access to the latest, most capable model in the cloud. Do they always need that level of capability? Not necessarily. Bu"
     }
   ]
 }
