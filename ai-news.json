@@ -1,6 +1,62 @@
 {
-  "updated_at": "2026-10-02T02:59:18.412Z",
+  "updated_at": "2026-10-02T11:31:33.512Z",
   "items": [
+    {
+      "title": "خالق ChatGPT پس از درز اطلاعات حساس، سه پژوهشگر ارشد خود را اخراج کرد",
+      "url": "https://www.zoomit.ir/ai-articles/468339-openai-fires-safety-researchers-data-leak/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-10-02T10:53:53.000Z",
+      "summary": "اوپن‌ای‌آی سه پژوهشگر ارشد تیم ایمنی خود را به اتهام نقض پروتکل‌ها و اشتراک‌گذاری داده‌های محرمانه با نهادهای خارجی اخراج کرد."
+    },
+    {
+      "title": "آنتروپیک نسخه دولتی Claude را با قابلیت مدیریت هزینه و کنترل دسترسی منتشر کرد",
+      "url": "https://digiato.com/artificial-intelligence/anthropic-expands-claude-for-government-with-cost-and-access-management-tools",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-10-02T09:54:06.000Z",
+      "summary": "انتروپیک نسخه دولتی Claude را با قابلیت‌های امنیتی، کنترل دسترسی و مدیریت هزینه عرضه کرد؛ این نسخه هم‌زمان با طرح تجاری به‌روزرسانی می‌شود. The post آنتروپیک نسخه دولتی Claude را با قابلیت مدیریت هزینه و کنترل دسترسی منت"
+    },
+    {
+      "title": "پیروزی گوگل در دادگاه؛ شکایت ناشران درباره AI Overviews رد شد",
+      "url": "https://digiato.com/app/google-wins-antitrust-lawsuits-over-ai-overviews",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-10-02T08:26:59.000Z",
+      "summary": "شاکیان مدعی شده بودند که قابلیت‌های جستجوی مبتنی بر هوش مصنوعی گوگل، ترافیک وب‌سایت‌های آنها را کاهش داده است. The post پیروزی گوگل در دادگاه؛ شکایت ناشران درباره AI Overviews رد شد appeared first on دیجیاتو."
+    },
+    {
+      "title": "Don’t be fooled—LLMs don’t reason",
+      "url": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/",
+      "source": "MIT Technology Review",
+      "lang": "en",
+      "published": "2026-10-02T08:00:00.000Z",
+      "summary": "On an afternoon in Seoul in March 2016, I watched a program I helped build put a stone on the fifth line of a Go board in what looked like a gift to its human opponent. Move 37 in game two of the five-game match looked s"
+    },
+    {
+      "title": "OpenAI سه پژوهشگر ایمنی خود را به‌دلیل نقض سیاست‌های محرمانگی اخراج کرد",
+      "url": "https://digiato.com/artificial-intelligence/openai-fires-workers-sharing-sensitive-information-external-ai-safety-group",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-10-02T07:34:20.000Z",
+      "summary": "OpenAI می‌گوید سه کارمند خود را به دلیل به اشتراک‌گذاری اطلاعاتی درباره ایمنی مدل‌های شرکت با یک گروه شخص ثالث اخراج کرده است. The post OpenAI سه پژوهشگر ایمنی خود را به‌دلیل نقض سیاست‌های محرمانگی اخراج کرد appeared fir"
+    },
+    {
+      "title": "دوربین امنیتی جدید اپل تصاویر را ضبط نمی‌کند؛ توصیف متنی با هوش مصنوعی",
+      "url": "https://www.zoomit.ir/ai-articles/468305-apple-smart-home-camera-no-video-j450/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-10-02T06:30:00.000Z",
+      "summary": "اپل پروژه‌ای را پیش می‌برد که در آن، دوربین هوشمند خانگی رویدادها را به‌جای ضبط ویدیو، به‌صورت متن برای کاربر توصیف می‌کند."
+    },
+    {
+      "title": "جهش ۲۰ برابری ثبت دامنه‌های اسلوونیایی در پی تصمیم ترامپ برای تغییر نام هوش مصنوعی!",
+      "url": "https://www.zoomit.ir/ai-articles/468298-trump-super-intelligence-slovenia-domains/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-10-02T06:10:00.000Z",
+      "summary": "ثبت دامنه‌های اینترنتی کشور اسلوونی پس از پیشنهاد دونالد ترامپ برای تغییر نام هوش مصنوعی بیش از ۲۱۰۰ درصد افزایش یافت."
+    },
     {
       "title": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture Venezuela’s president",
       "url": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
@@ -8,30 +64,6 @@
       "lang": "en",
       "published": "2026-10-01T21:08:11.000Z",
       "summary": "President Trump reportedly asked for Grok's opinion before invading Venezuela and capturing Nicolás Maduro."
-    },
-    {
-      "title": "اسپیس‌ایکس نخستین ماهواره هوش مصنوعی گوگل را برفراز فالکون ۹ پرتاب کرد",
-      "url": "https://www.zoomit.ir/aviation-aerospace/468294-spacex-launches-google-ai-satellite/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-10-01T20:44:10.000Z",
-      "summary": "گوگل نخستین ماهواره پروژه سان‌کچر را را به مدار نزدیک زمین فرستاد تا عملکرد تراشه‌های هوش مصنوعی TPU را در فضا ارزیابی کند."
-    },
-    {
-      "title": "مایکروسافت با مدل صوتی جدید رکورد سرعت و دقت هوش مصنوعی را شکست",
-      "url": "https://www.zoomit.ir/ai-articles/468293-microsoft-mai-transcribe-2-streaming-speech-to-text-launch/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-10-01T19:38:54.000Z",
-      "summary": "مایکروسافت با رونمایی از MAI-Transcribe-2-Streaming و دستیابی به نرخ خطای ۲٫۵ درصد در ۰٫۱۳ ثانیه، صدر جدول تبدیل بلادرنگ صوت به متن را تصاحب کرد."
-    },
-    {
-      "title": "چت‌بات‌های لجباز؛ چرا هوش مصنوعی عذرخواهی می‌کند، اما از اشتباهش دست نمی‌کشد؟",
-      "url": "https://www.zoomit.ir/ai-articles/468286-ai-stubbornness-and-belief-inertia-featured/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-10-01T19:30:00.000Z",
-      "summary": "هوش مصنوعی در مکالمات طولانی گیج می‌شود و به‌جای اصلاح، اشتباهش را به شیوه‌های مختلف ادامه می‌دهد. ریشه‌ی این لجبازی کجاست؟"
     },
     {
       "title": "ChatGPT can now virtually try on clothes for you",
@@ -64,38 +96,6 @@
       "lang": "en",
       "published": "2026-10-01T16:00:00.000Z",
       "summary": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers."
-    },
-    {
-      "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
-      "url": "https://openai.com/index/the-den-family-social",
-      "source": "OpenAI",
-      "lang": "en",
-      "published": "2026-10-01T00:00:00.000Z",
-      "summary": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days."
-    },
-    {
-      "title": "Gemini 4 Argon: our next era of frontier intelligence",
-      "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
-      "source": "Google DeepMind",
-      "lang": "en",
-      "published": "2026-09-30T20:01:45.000Z",
-      "summary": ""
-    },
-    {
-      "title": "Introducing SynthID Bio",
-      "url": "https://deepmind.google/blog/introducing-synthid-bio/",
-      "source": "Google DeepMind",
-      "lang": "en",
-      "published": "2026-09-30T15:03:07.000Z",
-      "summary": "Proof of concept for watermarking AI-generated proteins while preserving biological function."
-    },
-    {
-      "title": "چین تمرکز هوش مصنوعی را به سمت کاربردها و مدیریت تغییر می‌دهد.",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcHN1VjhhV1I1aXZFZm5mTFlKNUN3cTBwelc5c29NRnZIakFtVEJ3enJsTG1NWEF1UmRqUjl3X0VnNG51ZmprNzVKQUZELXZNR0Q2b1Jtd2hZOFZxNHZPRklzNjFqci1La1UyaTZvaGhuOWRVdFpzVGx3bTZtZ1h0QkZVSUZ2c3dQ?oc=5",
-      "source": "Vietnam.vn",
-      "lang": "fa",
-      "published": "2026-09-30T11:47:29.000Z",
-      "summary": "چین تمرکز هوش مصنوعی را به سمت کاربردها و مدیریت تغییر می‌دهد. Vietnam.vn"
     }
   ]
 }
