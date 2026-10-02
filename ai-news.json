@@ -1,6 +1,70 @@
 {
-  "updated_at": "2026-10-02T11:31:33.512Z",
+  "updated_at": "2026-10-02T16:58:59.193Z",
   "items": [
+    {
+      "title": "A model guide for the GPT-6 family",
+      "url": "https://openai.com/index/practical-guide-building-gpt-6",
+      "source": "OpenAI",
+      "lang": "en",
+      "published": "2026-10-02T16:15:00.000Z",
+      "summary": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production."
+    },
+    {
+      "title": "Redefining enterprise intelligence with autonomous AI",
+      "url": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
+      "source": "MIT Technology Review",
+      "lang": "en",
+      "published": "2026-10-02T15:49:04.000Z",
+      "summary": "Enterprise AI is no longer a future ambition. It is in full operational flight. Model capabilities are advancing faster than most organizations can absorb, while the cost of performance continues to fall. Globally, AI in"
+    },
+    {
+      "title": "Pope Leo XIV is not a fan of AI-generated art",
+      "url": "https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-10-02T15:39:41.000Z",
+      "summary": "\"There is an ontological difference, even before an aesthetic one, between art and what a machine can generate through statistical calculation based on millions of images created by others,\" the pope wrote. \"Algorithms l"
+    },
+    {
+      "title": "ادعای OpenAI: شرکت چینی مون‌شات به دنبال استخراج اطلاعات مدل‌های ما بود",
+      "url": "https://digiato.com/artificial-intelligence/openai-alleges-moonshot-ai-linked-users-tried-to-extract-reasoning-data",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-10-02T15:30:00.000Z",
+      "summary": "OpenAI مدعی است کاربران مرتبط با Moonshot AI با ثبت هزاران درخواست، برای استخراج داده‌های استدلالی مدل‌های این شرکت تلاش کرده‌اند. The post ادعای OpenAI: شرکت چینی مون‌شات به دنبال استخراج اطلاعات مدل‌های ما بود appeared"
+    },
+    {
+      "title": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
+      "url": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-10-02T15:00:00.000Z",
+      "summary": "Blackstone's Jas Khaira will take the Builders Stage at TechCrunch Disrupt 2026 on building next-gen AI. Register for your pass and get 50% off a second."
+    },
+    {
+      "title": "TechCrunch Disrupt 2026: Clay’s Kareem Amin on the rise of the GTM engineer",
+      "url": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-clays-kareem-amin-on-the-rise-of-the-gtm-engineer/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-10-02T14:30:00.000Z",
+      "summary": "Clay Co-founder and CEO Kareem Amin joins the AI Stage to discuss the rise of GTM engineer at TechCrunch Disrupt 2026. Register for your ticket and get a second pass at 50% off."
+    },
+    {
+      "title": "یوتیوبر معروف از مدل هوش مصنوعی بدون سانسور Ajax رونمایی کرد",
+      "url": "https://www.zoomit.ir/ai-articles/468346-pewdiepie-unveils-ajax-ai-model/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-10-02T13:31:07.000Z",
+      "summary": "یوتیوبر معروف از مدل هوش مصنوعی خانگی و بدون سانسور Ajax برای محیط کاری Odysseus رونمایی کرد."
+    },
+    {
+      "title": "آمازون ساخت دیتاسنترهای هوش مصنوعی را یک مسئله امنیت ملی خواند",
+      "url": "https://www.zoomit.ir/ai-articles/468345-amazon-ai-data-center-warning/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-10-02T13:17:08.000Z",
+      "summary": "مدیرعامل خدمات ابری آمازون با انتشار متنی مفصل هشدار داد که مخالفت‌های محلی با ساخت دیتاسنترها، امنیت ملی و آینده‌ی اقتصادی آمریکا را تهدید می‌کند."
+    },
     {
       "title": "خالق ChatGPT پس از درز اطلاعات حساس، سه پژوهشگر ارشد خود را اخراج کرد",
       "url": "https://www.zoomit.ir/ai-articles/468339-openai-fires-safety-researchers-data-leak/",
@@ -18,14 +82,6 @@
       "summary": "انتروپیک نسخه دولتی Claude را با قابلیت‌های امنیتی، کنترل دسترسی و مدیریت هزینه عرضه کرد؛ این نسخه هم‌زمان با طرح تجاری به‌روزرسانی می‌شود. The post آنتروپیک نسخه دولتی Claude را با قابلیت مدیریت هزینه و کنترل دسترسی منت"
     },
     {
-      "title": "پیروزی گوگل در دادگاه؛ شکایت ناشران درباره AI Overviews رد شد",
-      "url": "https://digiato.com/app/google-wins-antitrust-lawsuits-over-ai-overviews",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-10-02T08:26:59.000Z",
-      "summary": "شاکیان مدعی شده بودند که قابلیت‌های جستجوی مبتنی بر هوش مصنوعی گوگل، ترافیک وب‌سایت‌های آنها را کاهش داده است. The post پیروزی گوگل در دادگاه؛ شکایت ناشران درباره AI Overviews رد شد appeared first on دیجیاتو."
-    },
-    {
       "title": "Don’t be fooled—LLMs don’t reason",
       "url": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/",
       "source": "MIT Technology Review",
@@ -34,68 +90,12 @@
       "summary": "On an afternoon in Seoul in March 2016, I watched a program I helped build put a stone on the fifth line of a Go board in what looked like a gift to its human opponent. Move 37 in game two of the five-game match looked s"
     },
     {
-      "title": "OpenAI سه پژوهشگر ایمنی خود را به‌دلیل نقض سیاست‌های محرمانگی اخراج کرد",
-      "url": "https://digiato.com/artificial-intelligence/openai-fires-workers-sharing-sensitive-information-external-ai-safety-group",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-10-02T07:34:20.000Z",
-      "summary": "OpenAI می‌گوید سه کارمند خود را به دلیل به اشتراک‌گذاری اطلاعاتی درباره ایمنی مدل‌های شرکت با یک گروه شخص ثالث اخراج کرده است. The post OpenAI سه پژوهشگر ایمنی خود را به‌دلیل نقض سیاست‌های محرمانگی اخراج کرد appeared fir"
-    },
-    {
-      "title": "دوربین امنیتی جدید اپل تصاویر را ضبط نمی‌کند؛ توصیف متنی با هوش مصنوعی",
-      "url": "https://www.zoomit.ir/ai-articles/468305-apple-smart-home-camera-no-video-j450/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-10-02T06:30:00.000Z",
-      "summary": "اپل پروژه‌ای را پیش می‌برد که در آن، دوربین هوشمند خانگی رویدادها را به‌جای ضبط ویدیو، به‌صورت متن برای کاربر توصیف می‌کند."
-    },
-    {
-      "title": "جهش ۲۰ برابری ثبت دامنه‌های اسلوونیایی در پی تصمیم ترامپ برای تغییر نام هوش مصنوعی!",
-      "url": "https://www.zoomit.ir/ai-articles/468298-trump-super-intelligence-slovenia-domains/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-10-02T06:10:00.000Z",
-      "summary": "ثبت دامنه‌های اینترنتی کشور اسلوونی پس از پیشنهاد دونالد ترامپ برای تغییر نام هوش مصنوعی بیش از ۲۱۰۰ درصد افزایش یافت."
-    },
-    {
-      "title": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture Venezuela’s president",
-      "url": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-10-01T21:08:11.000Z",
-      "summary": "President Trump reportedly asked for Grok's opinion before invading Venezuela and capturing Nicolás Maduro."
-    },
-    {
-      "title": "ChatGPT can now virtually try on clothes for you",
-      "url": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-10-01T19:21:53.000Z",
-      "summary": "OpenAI is rolling out new shopping features for ChatGPT that let users virtually try on clothing and accessories using their own photos and save products they like to a Favorites library."
-    },
-    {
-      "title": "Google thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground",
-      "url": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-10-01T19:18:03.000Z",
-      "summary": "Google launched its first advanced chip into orbit to pave the way for space data centers."
-    },
-    {
       "title": "The eternal complement",
       "url": "https://openai.com/index/the-eternal-complement",
       "source": "OpenAI",
       "lang": "en",
       "published": "2026-10-01T17:00:00.000Z",
       "summary": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress."
-    },
-    {
-      "title": "How Albertsons Companies is reimagining retail from the inside out",
-      "url": "https://openai.com/index/albertsons-reimagining-retail",
-      "source": "OpenAI",
-      "lang": "en",
-      "published": "2026-10-01T16:00:00.000Z",
-      "summary": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers."
     }
   ]
 }
