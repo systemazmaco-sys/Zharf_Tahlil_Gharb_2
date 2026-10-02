@@ -1,21 +1,53 @@
 {
-  "updated_at": "2026-10-01T18:10:10.615Z",
+  "updated_at": "2026-10-02T02:59:18.412Z",
   "items": [
     {
-      "title": "Opus 5.5 loves to tell you ‘this matters’ (and other AI writing tells)",
-      "url": "https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/",
+      "title": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture Venezuela’s president",
+      "url": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
       "source": "TechCrunch AI",
       "lang": "en",
-      "published": "2026-10-01T17:50:19.000Z",
-      "summary": "Opus 5.5’s biggest tell is the word “dependable,” which pops up 23 times more often than in human samples."
+      "published": "2026-10-01T21:08:11.000Z",
+      "summary": "President Trump reportedly asked for Grok's opinion before invading Venezuela and capturing Nicolás Maduro."
     },
     {
-      "title": "پلی‌استیشن ۵ با کمک هوش مصنوعی کیفیت بازی‌ها را ارتقاء می‌دهد",
-      "url": "https://www.zoomit.ir/gaming/468291-sony-brings-ai-upscaling-qssr-regular-ps5/",
+      "title": "اسپیس‌ایکس نخستین ماهواره هوش مصنوعی گوگل را برفراز فالکون ۹ پرتاب کرد",
+      "url": "https://www.zoomit.ir/aviation-aerospace/468294-spacex-launches-google-ai-satellite/",
       "source": "زومیت",
       "lang": "fa",
-      "published": "2026-10-01T17:28:24.000Z",
-      "summary": "سونی با معرفی فناوری QSSR، وضوح تصویر و کیفیت گرافیکی بازی‌های کنسول PS5 را از طریق هوش مصنوعی ارتقاء می‌دهد."
+      "published": "2026-10-01T20:44:10.000Z",
+      "summary": "گوگل نخستین ماهواره پروژه سان‌کچر را را به مدار نزدیک زمین فرستاد تا عملکرد تراشه‌های هوش مصنوعی TPU را در فضا ارزیابی کند."
+    },
+    {
+      "title": "مایکروسافت با مدل صوتی جدید رکورد سرعت و دقت هوش مصنوعی را شکست",
+      "url": "https://www.zoomit.ir/ai-articles/468293-microsoft-mai-transcribe-2-streaming-speech-to-text-launch/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-10-01T19:38:54.000Z",
+      "summary": "مایکروسافت با رونمایی از MAI-Transcribe-2-Streaming و دستیابی به نرخ خطای ۲٫۵ درصد در ۰٫۱۳ ثانیه، صدر جدول تبدیل بلادرنگ صوت به متن را تصاحب کرد."
+    },
+    {
+      "title": "چت‌بات‌های لجباز؛ چرا هوش مصنوعی عذرخواهی می‌کند، اما از اشتباهش دست نمی‌کشد؟",
+      "url": "https://www.zoomit.ir/ai-articles/468286-ai-stubbornness-and-belief-inertia-featured/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-10-01T19:30:00.000Z",
+      "summary": "هوش مصنوعی در مکالمات طولانی گیج می‌شود و به‌جای اصلاح، اشتباهش را به شیوه‌های مختلف ادامه می‌دهد. ریشه‌ی این لجبازی کجاست؟"
+    },
+    {
+      "title": "ChatGPT can now virtually try on clothes for you",
+      "url": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-10-01T19:21:53.000Z",
+      "summary": "OpenAI is rolling out new shopping features for ChatGPT that let users virtually try on clothing and accessories using their own photos and save products they like to a Favorites library."
+    },
+    {
+      "title": "Google thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground",
+      "url": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-10-01T19:18:03.000Z",
+      "summary": "Google launched its first advanced chip into orbit to pave the way for space data centers."
     },
     {
       "title": "The eternal complement",
@@ -26,30 +58,6 @@
       "summary": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress."
     },
     {
-      "title": "Amazon releases its own Jev clone as decision models flood the web",
-      "url": "https://techcrunch.com/2026/10/01/amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-10-01T16:49:22.000Z",
-      "summary": "Amazon Web Services' Strand Labs has released the latest Jevalike decision model, Strands Decider 2B."
-    },
-    {
-      "title": "Shopify debuts Canvas, a way to build online stores by chatting with AI",
-      "url": "https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-10-01T16:44:35.000Z",
-      "summary": "Shopify’s new Canvas site builder lets merchants create and customize their online stores by chatting with its AI agent Sidekick, while watching the changes happen in real time."
-    },
-    {
-      "title": "این هوش مصنوعی هر تصویری را به دنیای سه‌بعدی تبدیل می‌کند!",
-      "url": "https://www.zoomit.ir/ai-articles/468288-nvidia-lyra-2-generative-3d-worlds/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-10-01T16:11:31.000Z",
-      "summary": "هوش مصنوعی متن‌باز Lyra 2.0 با حل چالش فراموشی مکانی، تبدیل یک تصویر دوبعدی به محیطی سه‌بعدی را امکان‌پذیر می‌کند."
-    },
-    {
       "title": "How Albertsons Companies is reimagining retail from the inside out",
       "url": "https://openai.com/index/albertsons-reimagining-retail",
       "source": "OpenAI",
@@ -58,12 +66,12 @@
       "summary": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers."
     },
     {
-      "title": "وقتی هوش مصنوعی فرآیند استخدام را از کار می‌اندازد؛ پایان عصر رزومه‌های سنتی؟",
-      "url": "https://www.zoomit.ir/ai-articles/468188-ai-skills-based-hiring-shift/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-10-01T11:30:00.000Z",
-      "summary": "گسترش ابزارهای هوش مصنوعی و هجوم متقاضیان کار، کارفرمایان را به سمت ارزیابی مستقیم مهارت‌ها و کنار گذاشتن رزومه‌های سنتی سوق داده است."
+      "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
+      "url": "https://openai.com/index/the-den-family-social",
+      "source": "OpenAI",
+      "lang": "en",
+      "published": "2026-10-01T00:00:00.000Z",
+      "summary": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days."
     },
     {
       "title": "Gemini 4 Argon: our next era of frontier intelligence",
@@ -88,14 +96,6 @@
       "lang": "fa",
       "published": "2026-09-30T11:47:29.000Z",
       "summary": "چین تمرکز هوش مصنوعی را به سمت کاربردها و مدیریت تغییر می‌دهد. Vietnam.vn"
-    },
-    {
-      "title": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer",
-      "url": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/",
-      "source": "MIT Technology Review",
-      "lang": "en",
-      "published": "2026-09-30T10:40:30.000Z",
-      "summary": "Two months after the bombshell news that a swarm of its agents had broken their containment and hacked into the computers of the AI company Hugging Face, OpenAI is still putting out fires. A steady drip of disclosures ab"
     }
   ]
 }
