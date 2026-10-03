@@ -1,6 +1,38 @@
 {
-  "updated_at": "2026-10-03T02:45:23.317Z",
+  "updated_at": "2026-10-03T10:46:14.297Z",
   "items": [
+    {
+      "title": "پاپ لئو چهاردهم علیه آثار هنری ساخت هوش مصنوعی: الگوریتم‌ها فاقد جرقه‌ انسانی هستند",
+      "url": "https://digiato.com/artificial-intelligence/pope-criticizes-ai-generated-art-artists-alliance",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-10-03T09:59:29.000Z",
+      "summary": "رهبر کاتولیک‌های جهان با تأکید بر فقدان جرقه‌ انسانی در خروجی الگوریتم‌ها، خواستار اتحاد با هنرمندان برای مقابله با آثار هنری ساخت هوش مصنوعی شد. The post پاپ لئو چهاردهم علیه آثار هنری ساخت هوش مصنوعی: الگوریتم‌ها فاقد "
+    },
+    {
+      "title": "گوگل ماهواره آزمایشی پردازش AI پرتاب کرد؛ اولین گام در انتقال دیتاسنترها به فضا",
+      "url": "https://digiato.com/internet-network/google-launched-first-chips-to-bring-datacenters-to-space",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-10-03T09:30:00.000Z",
+      "summary": "گوگل یک ماهواره حاوی تراشه‌های هوش مصنوعی خود را به فضا فرستاد تا کارایی آنها در شرایط دشوار مداری را آزمایش کند. The post گوگل ماهواره آزمایشی پردازش AI پرتاب کرد؛ اولین گام در انتقال دیتاسنترها به فضا appeared first on"
+    },
+    {
+      "title": "اپل از حالا با خطرات احتمالی عامل‌های هوش مصنوعی در مک مقابله می‌کند",
+      "url": "https://www.zoomit.ir/security/468366-apple-macos-full-disk-access-ai-agents/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-10-03T06:55:00.000Z",
+      "summary": "اپل از اعمال تدابیر امنیتی جدید برای قابلیت دسترسی کامل به دیسک در سیستم‌عامل مک به دلیل خطرات ناشی از ایجنت‌های هوش مصنوعی خبر داد."
+    },
+    {
+      "title": "رئیس پلیس آگاهی: هوش مصنوعی پرونده‌های پیچیده پلیس آگاهی را رمزگشایی می‌کند",
+      "url": "https://www.zoomit.ir/tech-iran/468374-iran-police-ai-crime-investigation/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-10-03T06:45:52.000Z",
+      "summary": "رئیس پلیس آگاهی فراجا از به‌کارگیری هوش مصنوعی، ادله دیجیتال و تحلیل داده‌ها در فرایند کشف علمی جرایم خبر داد."
+    },
     {
       "title": "Meta wants your next gadget to be Muse-infused",
       "url": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
@@ -34,14 +66,6 @@
       "summary": "Your next opportunity could be one conversation away. Get your Expo+ Pass for just $75. Limited to the first 100 qualifying people."
     },
     {
-      "title": "پدرخوانده هوش مصنوعی: مدیرعامل متوهم آنتروپیک درک درستی از امنیت سایبری ندارد",
-      "url": "https://digiato.com/artificial-intelligence/yann-lecun-dario-amodei-ai-risks",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-10-02T17:30:00.000Z",
-      "summary": "پدرخوانده هوش مصنوعی می‌گوید نگرانی‌ای درباره نابودی انسان با هوش مصنوعی ندارد. The post پدرخوانده هوش مصنوعی: مدیرعامل متوهم آنتروپیک درک درستی از امنیت سایبری ندارد appeared first on دیجیاتو."
-    },
-    {
       "title": "A model guide for the GPT-6 family",
       "url": "https://openai.com/index/practical-guide-building-gpt-6",
       "source": "OpenAI",
@@ -56,30 +80,6 @@
       "lang": "en",
       "published": "2026-10-02T15:49:04.000Z",
       "summary": "Enterprise AI is no longer a future ambition. It is in full operational flight. Model capabilities are advancing faster than most organizations can absorb, while the cost of performance continues to fall. Globally, AI in"
-    },
-    {
-      "title": "ادعای OpenAI: شرکت چینی مون‌شات به دنبال استخراج اطلاعات مدل‌های ما بود",
-      "url": "https://digiato.com/artificial-intelligence/openai-alleges-moonshot-ai-linked-users-tried-to-extract-reasoning-data",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-10-02T15:30:00.000Z",
-      "summary": "OpenAI مدعی است کاربران مرتبط با Moonshot AI با ثبت هزاران درخواست، برای استخراج داده‌های استدلالی مدل‌های این شرکت تلاش کرده‌اند. The post ادعای OpenAI: شرکت چینی مون‌شات به دنبال استخراج اطلاعات مدل‌های ما بود appeared"
-    },
-    {
-      "title": "یوتیوبر معروف از مدل هوش مصنوعی بدون سانسور Ajax رونمایی کرد",
-      "url": "https://www.zoomit.ir/ai-articles/468346-pewdiepie-unveils-ajax-ai-model/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-10-02T13:31:07.000Z",
-      "summary": "یوتیوبر معروف از مدل هوش مصنوعی خانگی و بدون سانسور Ajax برای محیط کاری Odysseus رونمایی کرد."
-    },
-    {
-      "title": "آمازون ساخت دیتاسنترهای هوش مصنوعی را یک مسئله امنیت ملی خواند",
-      "url": "https://www.zoomit.ir/ai-articles/468345-amazon-ai-data-center-warning/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-10-02T13:17:08.000Z",
-      "summary": "مدیرعامل خدمات ابری آمازون با انتشار متنی مفصل هشدار داد که مخالفت‌های محلی با ساخت دیتاسنترها، امنیت ملی و آینده‌ی اقتصادی آمریکا را تهدید می‌کند."
     },
     {
       "title": "Don’t be fooled—LLMs don’t reason",
