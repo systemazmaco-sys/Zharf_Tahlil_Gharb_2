@@ -1,6 +1,30 @@
 {
-  "updated_at": "2026-10-03T15:22:23.535Z",
+  "updated_at": "2026-10-03T20:18:49.723Z",
   "items": [
+    {
+      "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
+      "url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-10-03T18:43:57.000Z",
+      "summary": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers."
+    },
+    {
+      "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+      "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-10-03T16:30:01.000Z",
+      "summary": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job."
+    },
+    {
+      "title": "هشدار محققان: چت‌بات‌های هوش مصنوعی ممکن است به کاربران آسیب‌های روانی جدی بزنند",
+      "url": "https://digiato.com/health/the-ai-chatbots-causing-serious-psychological-harms-research-finds",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-10-03T16:30:00.000Z",
+      "summary": "شرکت‌های هوش مصنوعی با ده‌ها پرونده قضایی مواجه شده‌اند که در آنها ادعا شده استفاده از چت‌بات‌ها باعث آسیب به کاربران شده است. The post هشدار محققان: چت‌بات‌های هوش مصنوعی ممکن است به کاربران آسیب‌های روانی جدی بزنند app"
+    },
     {
       "title": "All the AI agents that can live in your text messages",
       "url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
@@ -16,22 +40,6 @@
       "lang": "fa",
       "published": "2026-10-03T13:58:37.000Z",
       "summary": "جنجال‌هایی که اخیراً درباره دسترسی ایجنت Muse متا به‌وجود آمده بود، زمینه‌ساز این تغییر در مک‌اواس شده است. The post اپل دسترسی به کل حافظه macOS را به‌دلیل خطر ایجنت‌های هوش مصنوعی سخت‌تر می‌کند appeared first on دیجیات"
-    },
-    {
-      "title": "Meta wants your next gadget to be Muse-infused",
-      "url": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-10-03T00:45:39.000Z",
-      "summary": "Meta wants Muse in your TV and your toaster, so it's giving the code away for free."
-    },
-    {
-      "title": "Sean Parker is rebuilding Stability AI around music",
-      "url": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-10-02T21:09:14.000Z",
-      "summary": "Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money."
     },
     {
       "title": "A model guide for the GPT-6 family",
@@ -74,28 +82,20 @@
       "summary": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress."
     },
     {
-      "title": "هر ۷ دقیقه، یک کسب‌وکار ویتنامی دیگر هوش مصنوعی را به کار می‌گیرد.",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVmFwaHRnWW5leGU2U3JNanRQM1EzUXo1MGV5M3NCMzFYajl5a1NkYWFyV014aVI2QXYxLU5MT29Tdko5VzRDanRNX21GNVg4V3ppbzVEOVo0ZnVBWEZkVG56UmZCeWFwellYeFZQRDVkaGJLM0g5Z19IYnJWdHNFX1VEbmRzd0tS?oc=5",
-      "source": "Vietnam.vn",
-      "lang": "fa",
-      "published": "2026-09-30T21:04:53.000Z",
-      "summary": "هر ۷ دقیقه، یک کسب‌وکار ویتنامی دیگر هوش مصنوعی را به کار می‌گیرد. Vietnam.vn"
-    },
-    {
-      "title": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer",
-      "url": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/",
-      "source": "MIT Technology Review",
+      "title": "Gemini 4 Argon: our next era of frontier intelligence",
+      "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
+      "source": "Google DeepMind",
       "lang": "en",
-      "published": "2026-09-30T10:40:30.000Z",
-      "summary": "Two months after the bombshell news that a swarm of its agents had broken their containment and hacked into the computers of the AI company Hugging Face, OpenAI is still putting out fires. A steady drip of disclosures ab"
+      "published": "2026-09-30T20:01:45.000Z",
+      "summary": ""
     },
     {
-      "title": "عامل هوش مصنوعی Muse متا نیم میلیون بار دانلود شد اما با یک",
-      "url": "https://news.google.com/rss/articles/CBMivgNBVV95cUxOLXZOREhJcU9vTGtqdThhd29PYmtWWFVqcVgwSHJuaHhqU0NjREFBMHNfR080THBldUdaTGRjaklTem5TUXZPTHZ3UElySjVhOWo2dzZPaWZCRnRuZ1o0ZDEtbDM2ZXpGVmtRTW5rOElhVWpiVl95VHZSNXMyeC1URW5SOXZxRTlEWEVwakxWdzBjTlJGM2xGTTNnZDM1QkE2YjBidmozTGd1RnEwX2NfdjFHSHUxeV9xMmJ0b21hY2VCU1dxZWhUbjlhMDZoaVJzR3VVc29XSFBkN2NqVkVCZTdleWVZa1dHRk1NRHZSeXlxZ01oczE1TUc2d1pNLUE3Z204Vnk2S0dISFRhT2pTcGRNRUV2VW1DbTlRVUdsemNuTmhZVVBDNldxN1F3VW1sNm8zS2hyNkxPWnZtUkkwbjZ2U0hsbGxLWVZ3TG5MMmpoRi1UZVFCS3Yxc0ozRlhkdmlRQnF5QXpnUGo5c3BkUDRwMDBaMWJ5akdybFc2RTN2Uk84dzZCQXh6VkNUUm1fZzhkWTRfazRCdWNvSW5oTjd6SFd3N1ZmeVB5b2ZTYk9saHg5TVJNbWk5VzlSZw?oc=5",
-      "source": "موتور جستجوی قطره",
-      "lang": "fa",
-      "published": "2026-09-23T17:56:49.000Z",
-      "summary": "عامل هوش مصنوعی Muse متا نیم میلیون بار دانلود شد اما با یک موتور جستجوی قطره"
+      "title": "Introducing SynthID Bio",
+      "url": "https://deepmind.google/blog/introducing-synthid-bio/",
+      "source": "Google DeepMind",
+      "lang": "en",
+      "published": "2026-09-30T15:03:07.000Z",
+      "summary": "Proof of concept for watermarking AI-generated proteins while preserving biological function."
     }
   ]
 }
