@@ -1,21 +1,37 @@
 {
-  "updated_at": "2026-10-04T11:28:38.678Z",
+  "updated_at": "2026-10-04T16:06:47.589Z",
   "items": [
     {
-      "title": "گوگل به تخریب غیرقانونی جنگل ۳۰۰ هکتاری برای احداث دیتاسنتر هوش مصنوعی متهم شد",
-      "url": "https://digiato.com/artificial-intelligence/google-accused-clearing-forest-finland-data-center",
+      "title": "ابداع دانشمندان: این هوش مصنوعی با تحلیل صدا سرعت پیری افراد را تخمین می‌زند",
+      "url": "https://digiato.com/health/ai-speech-clock-aging-dementia",
       "source": "دیجیاتو",
       "lang": "fa",
-      "published": "2026-10-04T10:38:07.000Z",
-      "summary": "انجمن حفاظت از طبیعت فنلاند می‌گوید گوگل بدون تکمیل ارزیابی‌ها، ۳۰۰ هکتار از جنگل را برای احداث دو دیتاسنتر جدید هوش‌مصنوعی تخریب کرده است. The post گوگل به تخریب غیرقانونی جنگل ۳۰۰ هکتاری برای احداث دیتاسنتر هوش مصنوعی "
+      "published": "2026-10-04T15:30:00.000Z",
+      "summary": "پژوهشگران با هوش مصنوعی سن افراد را از روی گفتار تخمین زدند. The post ابداع دانشمندان: این هوش مصنوعی با تحلیل صدا سرعت پیری افراد را تخمین می‌زند appeared first on دیجیاتو."
     },
     {
-      "title": "ردپای هوش مصنوعی در حملات سایبری به بانک‌ها؛ کره جنوبی نشست اضطراری برگزار کرد",
-      "url": "https://digiato.com/security/south-korea-bank-hacks-ai-tools",
+      "title": "Trump unveils his new Super Intelligence Force",
+      "url": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-10-04T15:15:10.000Z",
+      "summary": "This new task force is Trump's latest response to the debate over AI safety."
+    },
+    {
+      "title": "آپدیت 26H2 ویندوز ۱۱ با امکانات هوش مصنوعی برای فایل اکسپلورر منتشر شد",
+      "url": "https://digiato.com/app/microsoft-windows-11-26h2-update-rollout",
       "source": "دیجیاتو",
       "lang": "fa",
-      "published": "2026-10-04T09:04:53.000Z",
-      "summary": "ردپای استفاده از ایجنت‌های هوش مصنوعی در این حملات دیده می‌شود. The post ردپای هوش مصنوعی در حملات سایبری به بانک‌ها؛ کره جنوبی نشست اضطراری برگزار کرد appeared first on دیجیاتو."
+      "published": "2026-10-04T13:30:24.000Z",
+      "summary": "مایکروسافت در کنار لایه‌های حفاظتی پیشرفته، پشتیبانی از الگوریتم‌های رمزنگاری پساکوانتومی را مستقیماً به سیستم‌عامل خود افزوده است. The post آپدیت 26H2 ویندوز ۱۱ با امکانات هوش مصنوعی برای فایل اکسپلورر منتشر شد appeared"
+    },
+    {
+      "title": "تغییر الگوریتم گوگل: رتبه سایت‌های دارای نویسنده‌های جعلی هوش مصنوعی کاهش می‌یابد",
+      "url": "https://digiato.com/internet-network/google-penalizes-sites-fake-bylines-ai-headshots",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-10-04T12:41:00.000Z",
+      "summary": "گوگل جعل هویت تولیدکنندگان محتوا و چهره‌های ساخته‌شده با ابزارهای هوش مصنوعی را مصداق بارز فریبکاری و محتوای بی‌کیفیت می‌داند. The post تغییر الگوریتم گوگل: رتبه سایت‌های دارای نویسنده‌های جعلی هوش مصنوعی کاهش می‌یابد ap"
     },
     {
       "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
@@ -32,14 +48,6 @@
       "lang": "en",
       "published": "2026-10-03T16:30:01.000Z",
       "summary": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job."
-    },
-    {
-      "title": "All the AI agents that can live in your text messages",
-      "url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-10-03T14:00:00.000Z",
-      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work."
     },
     {
       "title": "A model guide for the GPT-6 family",
@@ -88,14 +96,6 @@
       "lang": "en",
       "published": "2026-09-30T20:01:45.000Z",
       "summary": ""
-    },
-    {
-      "title": "Introducing SynthID Bio",
-      "url": "https://deepmind.google/blog/introducing-synthid-bio/",
-      "source": "Google DeepMind",
-      "lang": "en",
-      "published": "2026-09-30T15:03:07.000Z",
-      "summary": "Proof of concept for watermarking AI-generated proteins while preserving biological function."
     }
   ]
 }
