@@ -1,6 +1,30 @@
 {
-  "updated_at": "2026-10-04T16:06:47.589Z",
+  "updated_at": "2026-10-04T20:36:42.763Z",
   "items": [
+    {
+      "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
+      "url": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-10-04T20:08:34.000Z",
+      "summary": "On Equity, we discussed the Trump administration's attempts to rebrand AI."
+    },
+    {
+      "title": "پاتک اژدها به دره سیلیکون؛ چگونه چین جنگ هوش مصنوعی را به اعماق زمین کشاند؟",
+      "url": "https://digiato.com/tech/usa-china-war-for-rare-earth-materials",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-10-04T18:30:00.000Z",
+      "summary": "دنیا همیشه بر سر منابع درحال جنگ بوده و حالا هم نوبت به یک «جنگ سرد تکنولوژیک» بین شرق و غرب دنیا رسیده است. The post پاتک اژدها به دره سیلیکون؛ چگونه چین جنگ هوش مصنوعی را به اعماق زمین کشاند؟ appeared first on دیجیاتو."
+    },
+    {
+      "title": "هوش مصنوعی با فناوری جدید دانشمندان می‌تواند از روی امواج مغزی منظور شما را بفهمد",
+      "url": "https://digiato.com/robotics/ai-mind-reading-neural-value-alignment",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-10-04T16:30:00.000Z",
+      "summary": "فناوری جدید با تحلیل امواج مغزی می‌تواند تشخیص دهد آیا هوش مصنوعی هدف یا روش مورد انتظار کاربر را اشتباه فهمیده است یا خیر. The post هوش مصنوعی با فناوری جدید دانشمندان می‌تواند از روی امواج مغزی منظور شما را بفهمد appea"
+    },
     {
       "title": "ابداع دانشمندان: این هوش مصنوعی با تحلیل صدا سرعت پیری افراد را تخمین می‌زند",
       "url": "https://digiato.com/health/ai-speech-clock-aging-dementia",
@@ -18,36 +42,12 @@
       "summary": "This new task force is Trump's latest response to the debate over AI safety."
     },
     {
-      "title": "آپدیت 26H2 ویندوز ۱۱ با امکانات هوش مصنوعی برای فایل اکسپلورر منتشر شد",
-      "url": "https://digiato.com/app/microsoft-windows-11-26h2-update-rollout",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-10-04T13:30:24.000Z",
-      "summary": "مایکروسافت در کنار لایه‌های حفاظتی پیشرفته، پشتیبانی از الگوریتم‌های رمزنگاری پساکوانتومی را مستقیماً به سیستم‌عامل خود افزوده است. The post آپدیت 26H2 ویندوز ۱۱ با امکانات هوش مصنوعی برای فایل اکسپلورر منتشر شد appeared"
-    },
-    {
-      "title": "تغییر الگوریتم گوگل: رتبه سایت‌های دارای نویسنده‌های جعلی هوش مصنوعی کاهش می‌یابد",
-      "url": "https://digiato.com/internet-network/google-penalizes-sites-fake-bylines-ai-headshots",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-10-04T12:41:00.000Z",
-      "summary": "گوگل جعل هویت تولیدکنندگان محتوا و چهره‌های ساخته‌شده با ابزارهای هوش مصنوعی را مصداق بارز فریبکاری و محتوای بی‌کیفیت می‌داند. The post تغییر الگوریتم گوگل: رتبه سایت‌های دارای نویسنده‌های جعلی هوش مصنوعی کاهش می‌یابد ap"
-    },
-    {
       "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
       "url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
       "source": "TechCrunch AI",
       "lang": "en",
       "published": "2026-10-03T18:43:57.000Z",
       "summary": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers."
-    },
-    {
-      "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
-      "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-10-03T16:30:01.000Z",
-      "summary": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job."
     },
     {
       "title": "A model guide for the GPT-6 family",
