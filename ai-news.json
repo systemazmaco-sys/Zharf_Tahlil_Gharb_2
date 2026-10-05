@@ -1,37 +1,69 @@
 {
-  "updated_at": "2026-10-05T12:55:59.228Z",
+  "updated_at": "2026-10-05T23:26:45.048Z",
   "items": [
     {
-      "title": "تپسل گزارش بازاریابی دیجیتال ۱۴۰۴ را با یک عامل هوش مصنوعی ارائه می‌کند",
-      "url": "https://digiato.com/iran-technology-news/tapsell-digital-marketing-report-1404",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-10-05T12:51:20.000Z",
-      "summary": "گزارش تعاملی بازاریابی دیجیتال ۱۴۰۴ تپسل از ۲۰ مهر با تکیه بر هوش مصنوعی و پایگاه دانش تعاملی در دسترس قرار می‌گیرد The post تپسل گزارش بازاریابی دیجیتال ۱۴۰۴ را با یک عامل هوش مصنوعی ارائه می‌کند appeared first on دیجیا"
-    },
-    {
-      "title": "کامپیوتر Lucebox Zero 495 با Ryzen AI MAX+ 495 و ۲۲۴ گیگابایت حافظه معرفی شد",
-      "url": "https://digiato.com/computers-hardware/super-fast-ai-workstation-amd-ryzen-ai-max-495-in-128-192-gb-radeon-ai-pro-r9700",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-10-05T12:18:00.000Z",
-      "summary": "این ورک‌استیشن فوق‌سریع برای امور هوش مصنوعی با Ryzen AI MAX+ 495 دارای قیمت ۵۹۹۹ دلار است و تا ۲۲۴ گیگابایت حافظه دارد. The post کامپیوتر Lucebox Zero 495 با Ryzen AI MAX+ 495 و ۲۲۴ گیگابایت حافظه معرفی شد appeared firs"
-    },
-    {
-      "title": "Can Safeworld convince people that gen AI robots won’t hurt them?",
-      "url": "https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them/",
+      "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
+      "url": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
       "source": "TechCrunch AI",
       "lang": "en",
-      "published": "2026-10-05T12:00:00.000Z",
-      "summary": "Safeworld is building digital humans to make sure robots don't hurt the real ones."
+      "published": "2026-10-05T20:36:48.000Z",
+      "summary": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says."
     },
     {
-      "title": "هواوی و کوالکام قرارداد چندساله تبادل پتنت‌های 5G و هوش مصنوعی امضا کردند",
-      "url": "https://digiato.com/finance-investment/huawei-qualcomm-patent-licensing-deal-5g-ai",
+      "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
+      "url": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-10-05T19:33:53.000Z",
+      "summary": "Reflection is aiming Beam and future models at enterprises and sovereign nations. The pitch is to build “AI factories,” a product that would let institutions build their own customized, local AI system by training Reflec"
+    },
+    {
+      "title": "Instinct brings its AI agent to group chats, even for friends without an account",
+      "url": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-10-05T18:54:30.000Z",
+      "summary": "Instinct is launching group chats that let friends use its AI agent together for tasks like planning trips, organizing carpools, and coordinating events. The company says personal accounts remain separate, with permissio"
+    },
+    {
+      "title": "هکرهای چین با جعل هویت کارمندان آنتروپیک در پی سرقت اسرار هوش مصنوعی هستند",
+      "url": "https://digiato.com/security/chinese-hackers-impersonate-anthropic-ai-secrets",
       "source": "دیجیاتو",
       "lang": "fa",
-      "published": "2026-10-05T11:02:00.000Z",
-      "summary": "این قرارداد شامل تبادل مجوزهای 5G و خرید پتنت‌های ثبت‌شده هواوی در آمریکا در زمینه هوش مصنوعی و رایانش توسط کوالکام است. The post هواوی و کوالکام قرارداد چندساله تبادل پتنت‌های 5G و هوش مصنوعی امضا کردند appeared first o"
+      "published": "2026-10-05T17:30:00.000Z",
+      "summary": "هکرها با ارسال ایمیل‌هایی مانند تشکیل کمیته مشورتی و بررسی نظامی هوش مصنوعی، بدافزارهای خود را به حساب‌های ابری کارشناسان تزریق کرده‌اند. The post هکرهای چین با جعل هویت کارمندان آنتروپیک در پی سرقت اسرار هوش مصنوعی هستن"
+    },
+    {
+      "title": "Connecting AI agents to enterprise knowledge",
+      "url": "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/",
+      "source": "MIT Technology Review",
+      "lang": "en",
+      "published": "2026-10-05T15:47:52.000Z",
+      "summary": "For all the data that AI systems continually amass and analyze, enterprise AI agents often suffer from a curious shortcoming: a lack of knowledge. More than data, knowledge is the understanding of what the data means in "
+    },
+    {
+      "title": "تبلیغات بیشتری به ChatGPT می‌آید؛ منتظر آگهی‌های تصویری باشید",
+      "url": "https://digiato.com/artificial-intelligence/more-ads-coming-to-chatgpt",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-10-05T15:00:00.000Z",
+      "summary": "شرکت OpenAI اعلام کرد به‌زودی تبلیغات بیشتری را در ChatGPT به نمایش درمی‌آورد و آگهی‌های تصویری هم نشان داده می‌شوند. The post تبلیغات بیشتری به ChatGPT می‌آید؛ منتظر آگهی‌های تصویری باشید appeared first on دیجیاتو."
+    },
+    {
+      "title": "Our approach to EU text provenance rules",
+      "url": "https://openai.com/index/eu-text-provenance",
+      "source": "OpenAI",
+      "lang": "en",
+      "published": "2026-10-05T15:00:00.000Z",
+      "summary": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers."
+    },
+    {
+      "title": "Bringing predictive analytics to the agentic AI era",
+      "url": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/",
+      "source": "MIT Technology Review",
+      "lang": "en",
+      "published": "2026-10-05T13:29:32.000Z",
+      "summary": "In 2026, the question for enterprise AI is no longer whether predictive models can outperform statistical forecasts—that argument is settled. The big question now is how to enable predictive systems to act on their own c"
     },
     {
       "title": "Building advertising for the way people use AI",
@@ -50,22 +82,6 @@
       "summary": "Over the summer I talked to the CEO of Springboards, a startup building an LLM that’s designed to come up with a wider variety of responses than its mainstream rivals do. At the start of the call, he said something that’"
     },
     {
-      "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
-      "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-10-04T20:31:07.000Z",
-      "summary": "AI slop seems to be overwhelming bug bounty programs."
-    },
-    {
-      "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
-      "url": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-10-04T20:08:34.000Z",
-      "summary": "On Equity, we discussed the Trump administration's attempts to rebrand AI."
-    },
-    {
       "title": "A model guide for the GPT-6 family",
       "url": "https://openai.com/index/practical-guide-building-gpt-6",
       "source": "OpenAI",
@@ -74,28 +90,12 @@
       "summary": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production."
     },
     {
-      "title": "Redefining enterprise intelligence with autonomous AI",
-      "url": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
-      "source": "MIT Technology Review",
+      "title": "Gemini 4 Argon: our next era of frontier intelligence",
+      "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
+      "source": "Google DeepMind",
       "lang": "en",
-      "published": "2026-10-02T15:49:04.000Z",
-      "summary": "Enterprise AI is no longer a future ambition. It is in full operational flight. Model capabilities are advancing faster than most organizations can absorb, while the cost of performance continues to fall. Globally, AI in"
-    },
-    {
-      "title": "Don’t be fooled—LLMs don’t reason",
-      "url": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/",
-      "source": "MIT Technology Review",
-      "lang": "en",
-      "published": "2026-10-02T08:00:00.000Z",
-      "summary": "On an afternoon in Seoul in March 2016, I watched a program I helped build put a stone on the fifth line of a Go board in what looked like a gift to its human opponent. Move 37 in game two of the five-game match looked s"
-    },
-    {
-      "title": "Chatham scales its capital markets expertise with OpenAI",
-      "url": "https://openai.com/index/chatham-financial",
-      "source": "OpenAI",
-      "lang": "en",
-      "published": "2026-10-02T00:00:00.000Z",
-      "summary": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4."
+      "published": "2026-09-30T20:01:45.000Z",
+      "summary": ""
     }
   ]
 }
