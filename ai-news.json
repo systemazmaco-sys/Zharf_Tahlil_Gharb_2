@@ -1,45 +1,45 @@
 {
-  "updated_at": "2026-10-06T12:22:27.797Z",
+  "updated_at": "2026-10-06T21:59:12.042Z",
   "items": [
     {
-      "title": "سئو در عصر هوش مصنوعی؛ استراتژی دیده‌شدن در AI Overview و پاسخ چت‌بات‌ها",
-      "url": "https://digiato.com/promoted/seo-in-age-of-ai-with-aracoagency",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-10-06T11:30:42.000Z",
-      "summary": "این مقاله توضیح می‌دهد کدام اصول سئو همچنان پایه‌ی کار هستند و کدام بخش‌های استراتژی باید با منطق جست‌وجوی هوش مصنوعی بازنگری شوند. The post سئو در عصر هوش مصنوعی؛ استراتژی دیده‌شدن در AI Overview و پاسخ چت‌بات‌ها appear"
-    },
-    {
-      "title": "مسئول روابط عمومی OpenAI مصاحبه سم آلتمن را هنگام پرسش درباره خودکشی کاربر ChatGPT قطع کرد",
-      "url": "https://digiato.com/internet-network/openai-pr-interrupts-sam-altman-chatgpt-suicide-question",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-10-06T10:55:11.000Z",
-      "summary": "مسئول روابط عمومی OpenAI حین مصاحبه سم آلتمن با Vanity Fair، تلاش کرد مانع از پاسخگویی او به سؤالی درباره خودکشی یک کاربر ChatGPT شود. The post مسئول روابط عمومی OpenAI مصاحبه سم آلتمن را هنگام پرسش درباره خودکشی کاربر C"
-    },
-    {
-      "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
-      "url": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
+      "title": "How AI decision models could change content moderation",
+      "url": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
       "source": "TechCrunch AI",
       "lang": "en",
-      "published": "2026-10-05T20:36:48.000Z",
-      "summary": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says."
+      "published": "2026-10-06T20:35:20.000Z",
+      "summary": "On Tuesday, Musubi announced a lightweight decision model made for real-time moderation called PolicyLM-1.7B, released with open weights."
     },
     {
-      "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
-      "url": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
+      "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
+      "url": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
       "source": "TechCrunch AI",
       "lang": "en",
-      "published": "2026-10-05T19:33:53.000Z",
-      "summary": "Reflection is aiming Beam and future models at enterprises and sovereign nations. The pitch is to build “AI factories,” a product that would let institutions build their own customized, local AI system by training Reflec"
+      "published": "2026-10-06T20:00:30.000Z",
+      "summary": "Nvidia-backed Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation ahead of a planned 2027 IPO, led by Coatue and Blackstone."
     },
     {
-      "title": "Instinct brings its AI agent to group chats, even for friends without an account",
-      "url": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/",
+      "title": "The next hurdle for AI agents: getting websites to let them in",
+      "url": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/",
       "source": "TechCrunch AI",
       "lang": "en",
-      "published": "2026-10-05T18:54:30.000Z",
-      "summary": "Instinct is launching group chats that let friends use its AI agent together for tasks like planning trips, organizing carpools, and coordinating events. The company says personal accounts remain separate, with permissio"
+      "published": "2026-10-06T19:56:50.000Z",
+      "summary": "Personal AI agents promise to shop, book flights, and make reservations for you. But deliberate blocks and anti-bot defenses are getting in the way, leaving consumers caught in the middle. A new standard aims to help."
+    },
+    {
+      "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+      "url": "https://openai.com/index/atlassian-partnership",
+      "source": "OpenAI",
+      "lang": "en",
+      "published": "2026-10-06T16:00:00.000Z",
+      "summary": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work."
+    },
+    {
+      "title": "Advancing computer use with Ironclad",
+      "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
+      "source": "OpenAI",
+      "lang": "en",
+      "published": "2026-10-06T10:00:00.000Z",
+      "summary": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work."
     },
     {
       "title": "Connecting AI agents to enterprise knowledge",
@@ -66,14 +66,6 @@
       "summary": "In 2026, the question for enterprise AI is no longer whether predictive models can outperform statistical forecasts—that argument is settled. The big question now is how to enable predictive systems to act on their own c"
     },
     {
-      "title": "Building advertising for the way people use AI",
-      "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
-      "source": "OpenAI",
-      "lang": "en",
-      "published": "2026-10-05T10:00:00.000Z",
-      "summary": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers."
-    },
-    {
       "title": "پولی که به هوش مصنوعی تزریق می‌شود در سطح بی‌سابقه‌ای است.",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ZWGo4djI5WjZZZ3Q1RnJrSl9YSkY3a0NBXzdYRGZUNWxVZWkyZUhXOFBXNzloN0VEb1JaaEdVSWFyZnVWQmRxVGhoaGx0OW5POU55Z3l2VWZkMFllNEVzWWVfQXp3ZC13?oc=5",
       "source": "Vietnam.vn",
@@ -90,12 +82,20 @@
       "summary": "Over the summer I talked to the CEO of Springboards, a startup building an LLM that’s designed to come up with a wider variety of responses than its mainstream rivals do. At the start of the call, he said something that’"
     },
     {
-      "title": "A model guide for the GPT-6 family",
-      "url": "https://openai.com/index/practical-guide-building-gpt-6",
-      "source": "OpenAI",
-      "lang": "en",
-      "published": "2026-10-02T16:15:00.000Z",
-      "summary": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production."
+      "title": "عامل هوش مصنوعی Muse متا نیم میلیون بار دانلود شد اما با یک",
+      "url": "https://news.google.com/rss/articles/CBMivgNBVV95cUxOLXZOREhJcU9vTGtqdThhd29PYmtWWFVqcVgwSHJuaHhqU0NjREFBMHNfR080THBldUdaTGRjaklTem5TUXZPTHZ3UElySjVhOWo2dzZPaWZCRnRuZ1o0ZDEtbDM2ZXpGVmtRTW5rOElhVWpiVl95VHZSNXMyeC1URW5SOXZxRTlEWEVwakxWdzBjTlJGM2xGTTNnZDM1QkE2YjBidmozTGd1RnEwX2NfdjFHSHUxeV9xMmJ0b21hY2VCU1dxZWhUbjlhMDZoaVJzR3VVc29XSFBkN2NqVkVCZTdleWVZa1dHRk1NRHZSeXlxZ01oczE1TUc2d1pNLUE3Z204Vnk2S0dISFRhT2pTcGRNRUV2VW1DbTlRVUdsemNuTmhZVVBDNldxN1F3VW1sNm8zS2hyNkxPWnZtUkkwbjZ2U0hsbGxLWVZ3TG5MMmpoRi1UZVFCS3Yxc0ozRlhkdmlRQnF5QXpnUGo5c3BkUDRwMDBaMWJ5akdybFc2RTN2Uk84dzZCQXh6VkNUUm1fZzhkWTRfazRCdWNvSW5oTjd6SFd3N1ZmeVB5b2ZTYk9saHg5TVJNbWk5VzlSZw?oc=5",
+      "source": "موتور جستجوی قطره",
+      "lang": "fa",
+      "published": "2026-09-23T07:00:00.000Z",
+      "summary": "عامل هوش مصنوعی Muse متا نیم میلیون بار دانلود شد اما با یک موتور جستجوی قطره"
+    },
+    {
+      "title": "سفر در زمان با هوش مصنوعی؛ چطور با chatgpt عکس دهه شصتی بسازیم؟",
+      "url": "https://news.google.com/rss/articles/CBMimgRBVV95cUxPLTFYUkk5VklNeW9NR0loV3lUVDN6NlJnRHVtY0d6U1VCNEhTOWVIUkRvam1TSmY3RC00dElSeU9zU3oxbFl3LThEbmMwRWg3b0VMaHR6M0ZscnF5ZFd0VVR1TW9ZN3FfdjNZaGE2bzFyeEFUUDJFVFhGc09sZkthWXptOVkzdDZrYm84WWd6eEloWDQzS1AybUJkUTJnZklKRWw3S3BlYnhhd3FvY3FPcFBGMXhsY3FIQ0IyMXc5UHNoNUczVEM0aXh0eTZlY1Q1Z3NJQVJwdHV3VmI3Z2FqNlVqLXNUNUNSOVg1TWlVRDVYUjlKcThSZ0p6eEI2M2VNdGJzUkpYOGZyejFqb2dXZWxER3o4ZnRvb2ozV2ZFejEzTUpyZnRXeUpBNFpvODdIdjZGanIzRE9jWXhyNWNra1owQnRhYXdWYlQ5dDVJUzh0WGdYcDlzRG1vd0JhN2dNc29aeGMydnF3RUV5Z3Q3Yi1FVTdRSGhJZVZQa09vUDB1bGE4anNwWU9PWHJfX3o0dlVIaktaeVdPa0YzbHktTkg2aDhPcVp3cFA5WHVpc2lsXzB2YlJ4VGRXLVpic3pfUERGMjMzLTNGWm43anNJRzVjbXRmbWFjekU4ck8zOE1VWC1fNnY5Wktqek8wQmFDRkhVSmFnWFlTeVZvd1pJaTZFUTJXUDhVbVBWZGpSTkQ0MzQ3SXk1MEVn?oc=5",
+      "source": "روزنامه هفت صبح",
+      "lang": "fa",
+      "published": "2026-09-18T07:00:00.000Z",
+      "summary": "سفر در زمان با هوش مصنوعی؛ چطور با chatgpt عکس دهه شصتی بسازیم؟ روزنامه هفت صبح"
     }
   ]
 }
