@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-06T03:42:35.105Z",
+  "updated_at": "2026-10-06T12:22:27.797Z",
   "items": [
+    {
+      "title": "سئو در عصر هوش مصنوعی؛ استراتژی دیده‌شدن در AI Overview و پاسخ چت‌بات‌ها",
+      "url": "https://digiato.com/promoted/seo-in-age-of-ai-with-aracoagency",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-10-06T11:30:42.000Z",
+      "summary": "این مقاله توضیح می‌دهد کدام اصول سئو همچنان پایه‌ی کار هستند و کدام بخش‌های استراتژی باید با منطق جست‌وجوی هوش مصنوعی بازنگری شوند. The post سئو در عصر هوش مصنوعی؛ استراتژی دیده‌شدن در AI Overview و پاسخ چت‌بات‌ها appear"
+    },
+    {
+      "title": "مسئول روابط عمومی OpenAI مصاحبه سم آلتمن را هنگام پرسش درباره خودکشی کاربر ChatGPT قطع کرد",
+      "url": "https://digiato.com/internet-network/openai-pr-interrupts-sam-altman-chatgpt-suicide-question",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-10-06T10:55:11.000Z",
+      "summary": "مسئول روابط عمومی OpenAI حین مصاحبه سم آلتمن با Vanity Fair، تلاش کرد مانع از پاسخگویی او به سؤالی درباره خودکشی یک کاربر ChatGPT شود. The post مسئول روابط عمومی OpenAI مصاحبه سم آلتمن را هنگام پرسش درباره خودکشی کاربر C"
+    },
     {
       "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
       "url": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
@@ -26,28 +42,12 @@
       "summary": "Instinct is launching group chats that let friends use its AI agent together for tasks like planning trips, organizing carpools, and coordinating events. The company says personal accounts remain separate, with permissio"
     },
     {
-      "title": "هکرهای چین با جعل هویت کارمندان آنتروپیک در پی سرقت اسرار هوش مصنوعی هستند",
-      "url": "https://digiato.com/security/chinese-hackers-impersonate-anthropic-ai-secrets",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-10-05T17:30:00.000Z",
-      "summary": "هکرها با ارسال ایمیل‌هایی مانند تشکیل کمیته مشورتی و بررسی نظامی هوش مصنوعی، بدافزارهای خود را به حساب‌های ابری کارشناسان تزریق کرده‌اند. The post هکرهای چین با جعل هویت کارمندان آنتروپیک در پی سرقت اسرار هوش مصنوعی هستن"
-    },
-    {
       "title": "Connecting AI agents to enterprise knowledge",
       "url": "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/",
       "source": "MIT Technology Review",
       "lang": "en",
       "published": "2026-10-05T15:47:52.000Z",
       "summary": "For all the data that AI systems continually amass and analyze, enterprise AI agents often suffer from a curious shortcoming: a lack of knowledge. More than data, knowledge is the understanding of what the data means in "
-    },
-    {
-      "title": "تبلیغات بیشتری به ChatGPT می‌آید؛ منتظر آگهی‌های تصویری باشید",
-      "url": "https://digiato.com/artificial-intelligence/more-ads-coming-to-chatgpt",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-10-05T15:00:00.000Z",
-      "summary": "شرکت OpenAI اعلام کرد به‌زودی تبلیغات بیشتری را در ChatGPT به نمایش درمی‌آورد و آگهی‌های تصویری هم نشان داده می‌شوند. The post تبلیغات بیشتری به ChatGPT می‌آید؛ منتظر آگهی‌های تصویری باشید appeared first on دیجیاتو."
     },
     {
       "title": "Our approach to EU text provenance rules",
@@ -74,6 +74,14 @@
       "summary": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers."
     },
     {
+      "title": "پولی که به هوش مصنوعی تزریق می‌شود در سطح بی‌سابقه‌ای است.",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ZWGo4djI5WjZZZ3Q1RnJrSl9YSkY3a0NBXzdYRGZUNWxVZWkyZUhXOFBXNzloN0VEb1JaaEdVSWFyZnVWQmRxVGhoaGx0OW5POU55Z3l2VWZkMFllNEVzWWVfQXp3ZC13?oc=5",
+      "source": "Vietnam.vn",
+      "lang": "fa",
+      "published": "2026-10-05T09:16:11.000Z",
+      "summary": "پولی که به هوش مصنوعی تزریق می‌شود در سطح بی‌سابقه‌ای است. Vietnam.vn"
+    },
+    {
       "title": "People really hate AI, so why can’t they get enough?",
       "url": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
       "source": "MIT Technology Review",
@@ -88,14 +96,6 @@
       "lang": "en",
       "published": "2026-10-02T16:15:00.000Z",
       "summary": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production."
-    },
-    {
-      "title": "Gemini 4 Argon: our next era of frontier intelligence",
-      "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
-      "source": "Google DeepMind",
-      "lang": "en",
-      "published": "2026-09-30T20:01:45.000Z",
-      "summary": ""
     }
   ]
 }
