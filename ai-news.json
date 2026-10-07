@@ -1,53 +1,69 @@
 {
-  "updated_at": "2026-10-07T03:10:02.465Z",
+  "updated_at": "2026-10-07T22:24:09.430Z",
   "items": [
     {
-      "title": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
-      "url": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/",
+      "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
+      "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
       "source": "TechCrunch AI",
       "lang": "en",
-      "published": "2026-10-06T22:34:03.000Z",
-      "summary": "Instead of helping marketers manage and optimize ad spend, the company is focusing on building the tools that generate the creative assets and campaigns."
+      "published": "2026-10-07T20:48:45.000Z",
+      "summary": "The developer of Hermes Agent raised a $90 million Series B."
     },
     {
-      "title": "How AI decision models could change content moderation",
-      "url": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
+      "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
+      "url": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
       "source": "TechCrunch AI",
       "lang": "en",
-      "published": "2026-10-06T20:35:20.000Z",
-      "summary": "On Tuesday, Musubi announced a lightweight decision model made for real-time moderation called PolicyLM-1.7B, released with open weights."
+      "published": "2026-10-07T20:22:37.000Z",
+      "summary": "Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents."
     },
     {
-      "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
-      "url": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
+      "title": "Meta’s Muse launches on iPad just a month after its mobile debut",
+      "url": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/",
       "source": "TechCrunch AI",
       "lang": "en",
-      "published": "2026-10-06T20:00:30.000Z",
-      "summary": "Nvidia-backed Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation ahead of a planned 2027 IPO, led by Coatue and Blackstone."
+      "published": "2026-10-07T18:30:57.000Z",
+      "summary": "Meta’s AI agent Muse is now available on iPad, just a month after its mobile debut, as the company rapidly expands the assistant’s reach and integrations."
     },
     {
-      "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
-      "url": "https://openai.com/index/atlassian-partnership",
-      "source": "OpenAI",
-      "lang": "en",
-      "published": "2026-10-06T16:00:00.000Z",
-      "summary": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work."
+      "title": "مایکروسافت سرچ تسک‌بار ویندوز ۱۱ را با هوش مصنوعی متحول می‌کند",
+      "url": "https://digiato.com/app/windows-11-ai-taskbar-search-copilot",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-10-07T18:17:40.000Z",
+      "summary": "سرچ جدید تسک‌بار ویندوز ۱۱ انجام کارهایی مانند جست‌وجوی فایل، تغییر تنظیمات و اجرای وظایف را با دستور متنی ممکن می‌کند. The post مایکروسافت سرچ تسک‌بار ویندوز ۱۱ را با هوش مصنوعی متحول می‌کند appeared first on دیجیاتو."
     },
     {
-      "title": "How Jump Trading is scaling quant research with ChatGPT",
-      "url": "https://openai.com/index/jump-trading",
+      "title": "Helping teens learn, plan, and shape the future of AI",
+      "url": "https://openai.com/index/teens-learn-and-plan",
       "source": "OpenAI",
       "lang": "en",
-      "published": "2026-10-06T12:00:00.000Z",
-      "summary": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review."
+      "published": "2026-10-07T12:00:00.000Z",
+      "summary": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council."
     },
     {
-      "title": "Sharing AI progress in mathematics",
-      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+      "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
+      "url": "https://openai.com/index/radisson",
       "source": "OpenAI",
       "lang": "en",
-      "published": "2026-10-06T12:00:00.000Z",
-      "summary": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub."
+      "published": "2026-10-07T07:00:00.000Z",
+      "summary": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips."
+    },
+    {
+      "title": "GPT-6 and Intelligent UI for everyone",
+      "url": "https://openai.com/index/gpt-6-for-everyone",
+      "source": "OpenAI",
+      "lang": "en",
+      "published": "2026-10-07T00:00:00.000Z",
+      "summary": "GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly."
+    },
+    {
+      "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+      "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
+      "source": "Google DeepMind",
+      "lang": "en",
+      "published": "2026-10-06T19:57:04.000Z",
+      "summary": ""
     },
     {
       "title": "Connecting AI agents to enterprise knowledge",
@@ -74,28 +90,12 @@
       "summary": "Over the summer I talked to the CEO of Springboards, a startup building an LLM that’s designed to come up with a wider variety of responses than its mainstream rivals do. At the start of the call, he said something that’"
     },
     {
-      "title": "عامل هوش مصنوعی Muse متا نیم میلیون بار دانلود شد اما با یک",
-      "url": "https://news.google.com/rss/articles/CBMivgNBVV95cUxOLXZOREhJcU9vTGtqdThhd29PYmtWWFVqcVgwSHJuaHhqU0NjREFBMHNfR080THBldUdaTGRjaklTem5TUXZPTHZ3UElySjVhOWo2dzZPaWZCRnRuZ1o0ZDEtbDM2ZXpGVmtRTW5rOElhVWpiVl95VHZSNXMyeC1URW5SOXZxRTlEWEVwakxWdzBjTlJGM2xGTTNnZDM1QkE2YjBidmozTGd1RnEwX2NfdjFHSHUxeV9xMmJ0b21hY2VCU1dxZWhUbjlhMDZoaVJzR3VVc29XSFBkN2NqVkVCZTdleWVZa1dHRk1NRHZSeXlxZ01oczE1TUc2d1pNLUE3Z204Vnk2S0dISFRhT2pTcGRNRUV2VW1DbTlRVUdsemNuTmhZVVBDNldxN1F3VW1sNm8zS2hyNkxPWnZtUkkwbjZ2U0hsbGxLWVZ3TG5MMmpoRi1UZVFCS3Yxc0ozRlhkdmlRQnF5QXpnUGo5c3BkUDRwMDBaMWJ5akdybFc2RTN2Uk84dzZCQXh6VkNUUm1fZzhkWTRfazRCdWNvSW5oTjd6SFd3N1ZmeVB5b2ZTYk9saHg5TVJNbWk5VzlSZw?oc=5",
-      "source": "موتور جستجوی قطره",
-      "lang": "fa",
-      "published": "2026-09-23T07:00:00.000Z",
-      "summary": "عامل هوش مصنوعی Muse متا نیم میلیون بار دانلود شد اما با یک موتور جستجوی قطره"
-    },
-    {
-      "title": "سفر در زمان با هوش مصنوعی؛ چطور با chatgpt عکس دهه شصتی بسازیم؟",
-      "url": "https://news.google.com/rss/articles/CBMimgRBVV95cUxPLTFYUkk5VklNeW9NR0loV3lUVDN6NlJnRHVtY0d6U1VCNEhTOWVIUkRvam1TSmY3RC00dElSeU9zU3oxbFl3LThEbmMwRWg3b0VMaHR6M0ZscnF5ZFd0VVR1TW9ZN3FfdjNZaGE2bzFyeEFUUDJFVFhGc09sZkthWXptOVkzdDZrYm84WWd6eEloWDQzS1AybUJkUTJnZklKRWw3S3BlYnhhd3FvY3FPcFBGMXhsY3FIQ0IyMXc5UHNoNUczVEM0aXh0eTZlY1Q1Z3NJQVJwdHV3VmI3Z2FqNlVqLXNUNUNSOVg1TWlVRDVYUjlKcThSZ0p6eEI2M2VNdGJzUkpYOGZyejFqb2dXZWxER3o4ZnRvb2ozV2ZFejEzTUpyZnRXeUpBNFpvODdIdjZGanIzRE9jWXhyNWNra1owQnRhYXdWYlQ5dDVJUzh0WGdYcDlzRG1vd0JhN2dNc29aeGMydnF3RUV5Z3Q3Yi1FVTdRSGhJZVZQa09vUDB1bGE4anNwWU9PWHJfX3o0dlVIaktaeVdPa0YzbHktTkg2aDhPcVp3cFA5WHVpc2lsXzB2YlJ4VGRXLVpic3pfUERGMjMzLTNGWm43anNJRzVjbXRmbWFjekU4ck8zOE1VWC1fNnY5Wktqek8wQmFDRkhVSmFnWFlTeVZvd1pJaTZFUTJXUDhVbVBWZGpSTkQ0MzQ3SXk1MEVn?oc=5",
-      "source": "روزنامه هفت صبح",
-      "lang": "fa",
-      "published": "2026-09-18T07:00:00.000Z",
-      "summary": "سفر در زمان با هوش مصنوعی؛ چطور با chatgpt عکس دهه شصتی بسازیم؟ روزنامه هفت صبح"
-    },
-    {
-      "title": "ادیت عکس با هوش مصنوعی؛ بهترین پرامپت بالا بردن کیفیت عکس و انواع تغییرات",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9xRnF2eHBHTVIyR1hwU1pLU3BNaXlkSF9nOE9pdzFHY2doa1J5QkR6ZTRRUzY2UldLUVRQZjU1QXhIY1pYaHlRWEh4RHhFQ2ZjYmE3cHpvbEk?oc=5",
-      "source": "namnak.com",
-      "lang": "fa",
-      "published": "2026-08-30T07:00:00.000Z",
-      "summary": "ادیت عکس با هوش مصنوعی؛ بهترین پرامپت بالا بردن کیفیت عکس و انواع تغییرات namnak.com"
+      "title": "Gemini 4 Argon: our next era of frontier intelligence",
+      "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
+      "source": "Google DeepMind",
+      "lang": "en",
+      "published": "2026-09-30T20:01:45.000Z",
+      "summary": ""
     }
   ]
 }
