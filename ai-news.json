@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-10-06T21:59:12.042Z",
+  "updated_at": "2026-10-07T03:10:02.465Z",
   "items": [
+    {
+      "title": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
+      "url": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-10-06T22:34:03.000Z",
+      "summary": "Instead of helping marketers manage and optimize ad spend, the company is focusing on building the tools that generate the creative assets and campaigns."
+    },
     {
       "title": "How AI decision models could change content moderation",
       "url": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
@@ -18,14 +26,6 @@
       "summary": "Nvidia-backed Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation ahead of a planned 2027 IPO, led by Coatue and Blackstone."
     },
     {
-      "title": "The next hurdle for AI agents: getting websites to let them in",
-      "url": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-10-06T19:56:50.000Z",
-      "summary": "Personal AI agents promise to shop, book flights, and make reservations for you. But deliberate blocks and anti-bot defenses are getting in the way, leaving consumers caught in the middle. A new standard aims to help."
-    },
-    {
       "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
       "url": "https://openai.com/index/atlassian-partnership",
       "source": "OpenAI",
@@ -34,12 +34,20 @@
       "summary": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work."
     },
     {
-      "title": "Advancing computer use with Ironclad",
-      "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
+      "title": "How Jump Trading is scaling quant research with ChatGPT",
+      "url": "https://openai.com/index/jump-trading",
       "source": "OpenAI",
       "lang": "en",
-      "published": "2026-10-06T10:00:00.000Z",
-      "summary": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work."
+      "published": "2026-10-06T12:00:00.000Z",
+      "summary": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review."
+    },
+    {
+      "title": "Sharing AI progress in mathematics",
+      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+      "source": "OpenAI",
+      "lang": "en",
+      "published": "2026-10-06T12:00:00.000Z",
+      "summary": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub."
     },
     {
       "title": "Connecting AI agents to enterprise knowledge",
@@ -50,28 +58,12 @@
       "summary": "For all the data that AI systems continually amass and analyze, enterprise AI agents often suffer from a curious shortcoming: a lack of knowledge. More than data, knowledge is the understanding of what the data means in "
     },
     {
-      "title": "Our approach to EU text provenance rules",
-      "url": "https://openai.com/index/eu-text-provenance",
-      "source": "OpenAI",
-      "lang": "en",
-      "published": "2026-10-05T15:00:00.000Z",
-      "summary": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers."
-    },
-    {
       "title": "Bringing predictive analytics to the agentic AI era",
       "url": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/",
       "source": "MIT Technology Review",
       "lang": "en",
       "published": "2026-10-05T13:29:32.000Z",
       "summary": "In 2026, the question for enterprise AI is no longer whether predictive models can outperform statistical forecasts—that argument is settled. The big question now is how to enable predictive systems to act on their own c"
-    },
-    {
-      "title": "پولی که به هوش مصنوعی تزریق می‌شود در سطح بی‌سابقه‌ای است.",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ZWGo4djI5WjZZZ3Q1RnJrSl9YSkY3a0NBXzdYRGZUNWxVZWkyZUhXOFBXNzloN0VEb1JaaEdVSWFyZnVWQmRxVGhoaGx0OW5POU55Z3l2VWZkMFllNEVzWWVfQXp3ZC13?oc=5",
-      "source": "Vietnam.vn",
-      "lang": "fa",
-      "published": "2026-10-05T09:16:11.000Z",
-      "summary": "پولی که به هوش مصنوعی تزریق می‌شود در سطح بی‌سابقه‌ای است. Vietnam.vn"
     },
     {
       "title": "People really hate AI, so why can’t they get enough?",
@@ -96,6 +88,14 @@
       "lang": "fa",
       "published": "2026-09-18T07:00:00.000Z",
       "summary": "سفر در زمان با هوش مصنوعی؛ چطور با chatgpt عکس دهه شصتی بسازیم؟ روزنامه هفت صبح"
+    },
+    {
+      "title": "ادیت عکس با هوش مصنوعی؛ بهترین پرامپت بالا بردن کیفیت عکس و انواع تغییرات",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9xRnF2eHBHTVIyR1hwU1pLU3BNaXlkSF9nOE9pdzFHY2doa1J5QkR6ZTRRUzY2UldLUVRQZjU1QXhIY1pYaHlRWEh4RHhFQ2ZjYmE3cHpvbEk?oc=5",
+      "source": "namnak.com",
+      "lang": "fa",
+      "published": "2026-08-30T07:00:00.000Z",
+      "summary": "ادیت عکس با هوش مصنوعی؛ بهترین پرامپت بالا بردن کیفیت عکس و انواع تغییرات namnak.com"
     }
   ]
 }
