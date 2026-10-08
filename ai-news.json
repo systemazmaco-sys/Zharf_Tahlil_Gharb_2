@@ -1,21 +1,61 @@
 {
-  "updated_at": "2026-10-08T12:24:45.489Z",
+  "updated_at": "2026-10-08T22:37:16.413Z",
   "items": [
     {
-      "title": "ابزار College Planner برای ChatGPT معرفی شد؛ مدیریت مراحل اپلای و پذیرش در دانشگاه‌ها",
-      "url": "https://digiato.com/artificial-intelligence/chatgpt-college-planner-study-tools",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-10-08T09:41:23.000Z",
-      "summary": "این قابلیت جدید تمام مراحل اپلای و تقویم پذیرش دانشگاه‌ها را در یک پنل متمرکز سامان‌دهی می‌کند. The post ابزار College Planner برای ChatGPT معرفی شد؛ مدیریت مراحل اپلای و پذیرش در دانشگاه‌ها appeared first on دیجیاتو."
+      "title": "Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website",
+      "url": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-10-08T21:00:00.000Z",
+      "summary": "With over a thousand emails, slides, texts, and documents from the United States v. Elizabeth Holmes trial, Extend engineer Bo Lau created a website that simulates what it might have been like to rifle through the Theran"
     },
     {
-      "title": "درآمد TSMC در سه‌ماهه سوم به لطف تقاضای تراشه‌های هوش مصنوعی ۵۰ درصد رشد کرد",
-      "url": "https://digiato.com/finance-investment/tsmc-record-q3-revenue-ai-chip-demand",
+      "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
+      "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-10-08T20:04:26.000Z",
+      "summary": "Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are creating a chilling effect on the company’s AI safety culture."
+    },
+    {
+      "title": "Ben Affleck is an AI nerd, and the internet is impressed",
+      "url": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-10-08T18:20:32.000Z",
+      "summary": "Ben Affleck is going viral for his deep knowledge of AI, from neural networks and transformers to open weights. The actor, who sold his AI filmmaking startup to Netflix earlier this year, is proving he's more than just a"
+    },
+    {
+      "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+      "url": "https://openai.com/index/oracle",
+      "source": "OpenAI",
+      "lang": "en",
+      "published": "2026-10-08T16:00:00.000Z",
+      "summary": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex."
+    },
+    {
+      "title": "برنده نوبل فیزیک: ۳۵ سال قبل ایده استفاده از هوش مصنوعی در تحقیقات را مطرح کردم",
+      "url": "https://digiato.com/interdisciplinary/francis-halzen-2026-physics-nobel-laureate-pride-at-pioneering-ai-role",
       "source": "دیجیاتو",
       "lang": "fa",
-      "published": "2026-10-08T09:06:04.000Z",
-      "summary": "رونق بی‌سابقه بازار تراشه‌های هوش مصنوعی و سفارش‌های انویدیا درآمد سه‌ماهه سوم بزرگ‌ترین تراشه‌ساز جهان را به رکوردی تاریخی رساند. The post درآمد TSMC در سه‌ماهه سوم به لطف تقاضای تراشه‌های هوش مصنوعی ۵۰ درصد رشد کرد app"
+      "published": "2026-10-08T15:30:00.000Z",
+      "summary": "پژوهشگران با استفاده از یادگیری ماشین توانستند کهکشان راه شیری را از داده‌های رصدخانه نوترینویی IceCube استخراج کنند. The post برنده نوبل فیزیک: ۳۵ سال قبل ایده استفاده از هوش مصنوعی در تحقیقات را مطرح کردم appeared firs"
+    },
+    {
+      "title": "هکر ۲۶ ساله چینی مظنون به سرقت داده‌های بانکی کره جنوبی با هوش مصنوعی Claude شد",
+      "url": "https://digiato.com/artificial-intelligence/south-korean-banks-hacked-china-ai-agent",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-10-08T13:25:37.000Z",
+      "summary": "شواهد فنی نشان می‌دهد هکر مظنون از ابزار Claude برای پیدا کردن کانال‌های تلگرامی فروش اطلاعات سرقت‌شده کره‌ای‌ها استفاده کرده بود. The post هکر ۲۶ ساله چینی مظنون به سرقت داده‌های بانکی کره جنوبی با هوش مصنوعی Claude شد "
+    },
+    {
+      "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+      "url": "https://openai.com/index/pollo-ai",
+      "source": "OpenAI",
+      "lang": "en",
+      "published": "2026-10-08T12:00:00.000Z",
+      "summary": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads."
     },
     {
       "title": "AI breakthroughs in robotics won’t change your life any time soon",
@@ -26,14 +66,6 @@
       "summary": "The story is a collaboration between MIT Technology Review and Aventine, a non-profit research foundation that creates and supports content about how technology and science are changing the way we live. A robot shaped li"
     },
     {
-      "title": "لپ‌تاپ‌های ایسوس ProArt P16 و P14 با قابلیت اجرای آفلاین مدل‌های هوش مصنوعی از راه رسیدند",
-      "url": "https://digiato.com/laptop/asus-proart-p16-p14-rtx-spark-laptops-launched",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-10-08T08:33:12.000Z",
-      "summary": "این لپ‌تاپ‌ها با معماری مشترک گریس و بلک‌ول، امکان اجرای مدل‌های زبانی ۱۲۰ میلیارد پارامتری را بدون نیاز به پردازش ابری فراهم می‌کنند. The post لپ‌تاپ‌های ایسوس ProArt P16 و P14 با قابلیت اجرای آفلاین مدل‌های هوش مصنوعی "
-    },
-    {
       "title": "Building a safer path to autonomous industrial AI",
       "url": "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/",
       "source": "MIT Technology Review",
@@ -42,60 +74,28 @@
       "summary": "Industrial AI is entering a new phase. After decades of predictive analytics and other specialized applications, advances in foundation models, physical AI, and agentic AI are making it possible to automate more complex "
     },
     {
-      "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
-      "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-10-07T20:48:45.000Z",
-      "summary": "The developer of Hermes Agent raised a $90 million Series B."
-    },
-    {
-      "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
-      "url": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-10-07T20:22:37.000Z",
-      "summary": "Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents."
-    },
-    {
-      "title": "Meta’s Muse launches on iPad just a month after its mobile debut",
-      "url": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-10-07T18:30:57.000Z",
-      "summary": "Meta’s AI agent Muse is now available on iPad, just a month after its mobile debut, as the company rapidly expands the assistant’s reach and integrations."
-    },
-    {
-      "title": "Helping teens learn, plan, and shape the future of AI",
-      "url": "https://openai.com/index/teens-learn-and-plan",
+      "title": "Disrupting AI-enabled “false front” operations",
+      "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
       "source": "OpenAI",
       "lang": "en",
-      "published": "2026-10-07T12:00:00.000Z",
-      "summary": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council."
+      "published": "2026-10-08T00:00:00.000Z",
+      "summary": "OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging."
     },
     {
-      "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
-      "url": "https://openai.com/index/radisson",
-      "source": "OpenAI",
-      "lang": "en",
-      "published": "2026-10-07T07:00:00.000Z",
-      "summary": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips."
+      "title": "مقررات مربوط به ایمنی و مدیریت ریسک برای کاربرد هوش مصنوعی در بانکداری.",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYVJtOTdlSzFqSVpLbDhSOW5KQ3ZpZ0dhSGpOWGVCd1FZZjlzS0xjWGlpTmp0TUNWTGFFZi1tTXFrWTMyb0VobUNpRmdvaWRDc3h3OXFZaXhncmNZdXlfSmtQbVZjejBoZi0wUzdpTmpJT1Y5NjBaRDRRVlVaWWxPRTBaV1hyN1NqVlY0YUpTb0lPYTZQU3Jic0lKbzZYZGpIQkNJ?oc=5",
+      "source": "Vietnam.vn",
+      "lang": "fa",
+      "published": "2026-10-07T07:57:09.000Z",
+      "summary": "مقررات مربوط به ایمنی و مدیریت ریسک برای کاربرد هوش مصنوعی در بانکداری. Vietnam.vn"
     },
     {
-      "title": "GPT-6 and Intelligent UI for everyone",
-      "url": "https://openai.com/index/gpt-6-for-everyone",
-      "source": "OpenAI",
+      "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+      "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
+      "source": "Google DeepMind",
       "lang": "en",
-      "published": "2026-10-07T00:00:00.000Z",
-      "summary": "GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly."
-    },
-    {
-      "title": "Connecting AI agents to enterprise knowledge",
-      "url": "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/",
-      "source": "MIT Technology Review",
-      "lang": "en",
-      "published": "2026-10-05T15:47:52.000Z",
-      "summary": "For all the data that AI systems continually amass and analyze, enterprise AI agents often suffer from a curious shortcoming: a lack of knowledge. More than data, knowledge is the understanding of what the data means in "
+      "published": "2026-10-06T19:57:04.000Z",
+      "summary": ""
     }
   ]
 }
