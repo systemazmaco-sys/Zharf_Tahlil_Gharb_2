@@ -1,6 +1,30 @@
 {
-  "updated_at": "2026-10-09T12:14:16.715Z",
+  "updated_at": "2026-10-09T21:58:40.856Z",
   "items": [
+    {
+      "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+      "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-10-09T21:41:29.000Z",
+      "summary": "TypeSafe AI raised $870 million in a round led by a16Z."
+    },
+    {
+      "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+      "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-10-09T19:36:56.000Z",
+      "summary": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip."
+    },
+    {
+      "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
+      "url": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-10-09T16:56:42.000Z",
+      "summary": "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled community backlash against AI infrastructure, w"
+    },
     {
       "title": "ترامپ: هرکس از نام هوش مصنوعی استفاده کند، دشمن است",
       "url": "https://digiato.com/artificial-intelligence/trump-calls-those-rejecting-super-intelligence-enemies-of-the-white-house",
@@ -8,22 +32,6 @@
       "lang": "fa",
       "published": "2026-10-09T11:22:17.000Z",
       "summary": "ترامپ از عبارت ابرهوش به‌جای هوش مصنوعی دفاع می‌کند؛ تلاشی که هم‌زمان با افزایش نگرانی‌ها درباره ایمنی مدل‌ها مطرح شده است. The post ترامپ: هرکس از نام هوش مصنوعی استفاده کند، دشمن است appeared first on دیجیاتو."
-    },
-    {
-      "title": "گوگل از اپ AI Edge Foresight رونمایی کرد؛ یادداشت‌برداری صوتی بدون نیاز به اینترنت [تماشا کنید]",
-      "url": "https://digiato.com/artificial-intelligence/google-introduces-ai-edge-foresight-for-offline-ai-powered-note-taking-on-macos",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-10-09T10:12:02.000Z",
-      "summary": "گوگل با AI Edge Foresight اپلیکیشنی برای یادداشت‌برداری صوتی، تبدیل صوت به متن و پاسخ‌گویی آفلاین معرفی کرده که فعلاً روی مک‌اواس اجرا می‌شود. The post گوگل از اپ AI Edge Foresight رونمایی کرد؛ یادداشت‌برداری صوتی بدون ن"
-    },
-    {
-      "title": "پاسخ‌های ریاضی هوش مصنوعی OpenAI هنوز به استانداردهای جامعه علمی نرسیده‌اند",
-      "url": "https://digiato.com/artificial-intelligence/openais-math-solutions-not-meeting-standards",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-10-09T09:26:36.000Z",
-      "summary": "گروه مشورتی ریاضیات و هوش مصنوعی (AGMAI) بر ضرورت درک انسانی نتایج و انتشار جزئیات فرایند حل مسائل تأکید کرده است. The post پاسخ‌های ریاضی هوش مصنوعی OpenAI هنوز به استانداردهای جامعه علمی نرسیده‌اند appeared first on دی"
     },
     {
       "title": "We’re putting too much faith in AI’s ability to say no",
@@ -42,36 +50,20 @@
       "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight."
     },
     {
+      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+      "url": "https://openai.com/index/asana-browser-agent",
+      "source": "OpenAI",
+      "lang": "en",
+      "published": "2026-10-09T07:00:00.000Z",
+      "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models."
+    },
+    {
       "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
       "url": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
       "source": "MIT Technology Review",
       "lang": "en",
       "published": "2026-10-09T00:08:24.000Z",
       "summary": "Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscop"
-    },
-    {
-      "title": "Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website",
-      "url": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-10-08T21:00:00.000Z",
-      "summary": "With over a thousand emails, slides, texts, and documents from the United States v. Elizabeth Holmes trial, Extend engineer Bo Lau created a website that simulates what it might have been like to rifle through the Theran"
-    },
-    {
-      "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
-      "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-10-08T20:04:26.000Z",
-      "summary": "Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are creating a chilling effect on the company’s AI safety culture."
-    },
-    {
-      "title": "Ben Affleck is an AI nerd, and the internet is impressed",
-      "url": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-10-08T18:20:32.000Z",
-      "summary": "Ben Affleck is going viral for his deep knowledge of AI, from neural networks and transformers to open weights. The actor, who sold his AI filmmaking startup to Netflix earlier this year, is proving he's more than just a"
     },
     {
       "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
@@ -82,20 +74,28 @@
       "summary": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex."
     },
     {
-      "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
-      "url": "https://openai.com/index/pollo-ai",
-      "source": "OpenAI",
-      "lang": "en",
-      "published": "2026-10-08T12:00:00.000Z",
-      "summary": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads."
-    },
-    {
       "title": "AI breakthroughs in robotics won’t change your life any time soon",
       "url": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
       "source": "MIT Technology Review",
       "lang": "en",
       "published": "2026-10-08T09:00:00.000Z",
       "summary": "The story is a collaboration between MIT Technology Review and Aventine, a non-profit research foundation that creates and supports content about how technology and science are changing the way we live. A robot shaped li"
+    },
+    {
+      "title": "مقررات مربوط به ایمنی و مدیریت ریسک برای کاربرد هوش مصنوعی در بانکداری.",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYVJtOTdlSzFqSVpLbDhSOW5KQ3ZpZ0dhSGpOWGVCd1FZZjlzS0xjWGlpTmp0TUNWTGFFZi1tTXFrWTMyb0VobUNpRmdvaWRDc3h3OXFZaXhncmNZdXlfSmtQbVZjejBoZi0wUzdpTmpJT1Y5NjBaRDRRVlVaWWxPRTBaV1hyN1NqVlY0YUpTb0lPYTZQU3Jic0lKbzZYZGpIQkNJ?oc=5",
+      "source": "Vietnam.vn",
+      "lang": "fa",
+      "published": "2026-10-07T07:57:09.000Z",
+      "summary": "مقررات مربوط به ایمنی و مدیریت ریسک برای کاربرد هوش مصنوعی در بانکداری. Vietnam.vn"
+    },
+    {
+      "title": "LPBank Plus با استفاده از هوش مصنوعی، عادات تراکنش دیجیتال را ترویج می‌دهد.",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPaUtrdVZyNmpJXzhsUDJTb2c3V2NOSm8yQkZmQmNDT1lzSERnTVZOSjgyOFNLekJjTTAwdk1QWlItckY2TUdNZ1dISGUzb08yS00wMm4xN3ZGVFh3by1YVmRWbDRTZTh1OHpXRDN2YWsyMkpZZnhJS3pDenFSeGwwQVV3?oc=5",
+      "source": "Vietnam.vn",
+      "lang": "fa",
+      "published": "2026-10-01T11:47:36.000Z",
+      "summary": "LPBank Plus با استفاده از هوش مصنوعی، عادات تراکنش دیجیتال را ترویج می‌دهد. Vietnam.vn"
     }
   ]
 }
