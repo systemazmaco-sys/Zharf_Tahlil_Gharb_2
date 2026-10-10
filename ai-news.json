@@ -1,37 +1,45 @@
 {
-  "updated_at": "2026-10-10T11:32:01.633Z",
+  "updated_at": "2026-10-10T20:50:06.252Z",
   "items": [
     {
-      "title": "جف بزوس: هوش مصنوعی می‌تواند هفته کاری را به ۳ روز کاهش دهد",
-      "url": "https://digiato.com/artificial-intelligence/bezos-predicts-ai-three-day-workweek-labor-shortage",
+      "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+      "url": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-10-10T19:50:00.000Z",
+      "summary": "Is Apple hoping to get into the AI-generated podcast business?"
+    },
+    {
+      "title": "تهدیدی برای ادوبی؛ جایگزین متن‌باز مجموعه Creative Cloud با هوش مصنوعی ساخته شد",
+      "url": "https://digiato.com/app/artcraft-reverse-engineers-adobe-creative-suite-open-source",
       "source": "دیجیاتو",
       "lang": "fa",
-      "published": "2026-10-10T10:05:00.000Z",
-      "summary": "بنیان‌گذار آمازون می‌گوید رشد بهره‌وری هوش مصنوعی با امکان تأمین مخارج از طریق ۳ روز کار در هفته، باعث کمبود نیروی کار می‌شود. The post جف بزوس: هوش مصنوعی می‌تواند هفته کاری را به ۳ روز کاهش دهد appeared first on دیجیات"
+      "published": "2026-10-10T17:30:00.000Z",
+      "summary": "تیم توسعه‌دهنده ArtCraft با استفاده از هوش مصنوعی، ابزارهای ادوبی را مهندسی معکوس و نسخه‌های رایگان و متن‌باز آنها را برای کاربران منتشر کرد. The post تهدیدی برای ادوبی؛ جایگزین متن‌باز مجموعه Creative Cloud با هوش مصنوع"
     },
     {
-      "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
-      "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-10-10T00:18:32.000Z",
-      "summary": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice."
+      "title": "اسناد تکان‌دهنده: چت‌بات‌های Character.AI کاربران نوجوان را به خودآزاری تشویق کرده‌اند",
+      "url": "https://digiato.com/artificial-intelligence/character-ai-chatbots-accused-encouraging-self-harm-lawsuit",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-10-10T15:30:00.000Z",
+      "summary": "اسناد دادگاه کنتاکی نشان می‌دهد چت‌بات‌های هوش مصنوعی کاربران کم‌سن را تحقیر کرده و راهکارهای آسیب‌زدن به خود را به آن‌ها ارائه داده‌اند. The post اسناد تکان‌دهنده: چت‌بات‌های Character.AI کاربران نوجوان را به خودآزاری ت"
     },
     {
-      "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
-      "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
+      "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
+      "url": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/",
       "source": "TechCrunch AI",
       "lang": "en",
-      "published": "2026-10-09T21:41:29.000Z",
-      "summary": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs."
+      "published": "2026-10-10T15:00:00.000Z",
+      "summary": "TechCrunch Disrupt 2026 takes place October 13-15 in San Francisco. Over 300 startups will show what they’ve built to 10,000 tech leaders. Plus, 250+ speakers are ready to share insights across 200+ sessions. Register be"
     },
     {
-      "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
-      "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
+      "title": "Here are the top AI agents that can live in your text messages",
+      "url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
       "source": "TechCrunch AI",
       "lang": "en",
-      "published": "2026-10-09T19:36:56.000Z",
-      "summary": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip."
+      "published": "2026-10-10T14:00:00.000Z",
+      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work."
     },
     {
       "title": "NEX Brain™ در ویتنام راه‌اندازی شد و در بحث رشد برند در عصر هوش مصنوعی به Chicilon پیوست.",
@@ -72,14 +80,6 @@
       "lang": "en",
       "published": "2026-10-09T00:08:24.000Z",
       "summary": "Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscop"
-    },
-    {
-      "title": "هانوی ربات‌ها و هوش مصنوعی را به نسل جوان نزدیک‌تر می‌کند.",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBwaVc5cWtwc2VCZFc1cVltUjFKNzRjbV9nR0hCUVZCSkczVUZRMkx2TXMxR1g3VDZTUnFQWnE1Ui1SUlA2d2ltdUZjT0kzRG11dVZjcXV3ZFRXUlVYZDhKZXlMdGZRNjUtWnJHcXA4Ql8tOVNsdVlXLWJsTlM?oc=5",
-      "source": "Vietnam.vn",
-      "lang": "fa",
-      "published": "2026-10-08T18:14:03.000Z",
-      "summary": "هانوی ربات‌ها و هوش مصنوعی را به نسل جوان نزدیک‌تر می‌کند. Vietnam.vn"
     },
     {
       "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
