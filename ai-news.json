@@ -1,13 +1,21 @@
 {
-  "updated_at": "2026-10-09T21:58:40.856Z",
+  "updated_at": "2026-10-10T03:11:12.497Z",
   "items": [
+    {
+      "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+      "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-10-10T00:18:32.000Z",
+      "summary": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice."
+    },
     {
       "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
       "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
       "source": "TechCrunch AI",
       "lang": "en",
       "published": "2026-10-09T21:41:29.000Z",
-      "summary": "TypeSafe AI raised $870 million in a round led by a16Z."
+      "summary": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs."
     },
     {
       "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
@@ -18,20 +26,20 @@
       "summary": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip."
     },
     {
-      "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
-      "url": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-10-09T16:56:42.000Z",
-      "summary": "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled community backlash against AI infrastructure, w"
-    },
-    {
       "title": "ترامپ: هرکس از نام هوش مصنوعی استفاده کند، دشمن است",
       "url": "https://digiato.com/artificial-intelligence/trump-calls-those-rejecting-super-intelligence-enemies-of-the-white-house",
       "source": "دیجیاتو",
       "lang": "fa",
       "published": "2026-10-09T11:22:17.000Z",
       "summary": "ترامپ از عبارت ابرهوش به‌جای هوش مصنوعی دفاع می‌کند؛ تلاشی که هم‌زمان با افزایش نگرانی‌ها درباره ایمنی مدل‌ها مطرح شده است. The post ترامپ: هرکس از نام هوش مصنوعی استفاده کند، دشمن است appeared first on دیجیاتو."
+    },
+    {
+      "title": "NEX Brain™ در ویتنام راه‌اندازی شد و در بحث رشد برند در عصر هوش مصنوعی به Chicilon پیوست.",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTGFDbFVOYzdNQzRYLU5IUWdfa0hjWWZ4bGNhOWxRaFJQSEo3bTVsbVd4M2pGekZ2bmlrMFJabFU0UXZQMzVfc1JiOFN2N1NyS1pyeW05RzNLS25zUmpKRnY4V1R0LS1wLUxKa28zRTVZQlNHNnZrOW5rRmFkcDlPSnNidEgtemtFNDcyUUVzVVdkVkctMzJBVFN5MnNuNmdaaU1Vb2lUck5rZWg2NkRaYlNSNXowakN5MFdtdXF3?oc=5",
+      "source": "Vietnam.vn",
+      "lang": "fa",
+      "published": "2026-10-09T10:46:30.000Z",
+      "summary": "NEX Brain™ در ویتنام راه‌اندازی شد و در بحث رشد برند در عصر هوش مصنوعی به Chicilon پیوست. Vietnam.vn"
     },
     {
       "title": "We’re putting too much faith in AI’s ability to say no",
@@ -66,6 +74,14 @@
       "summary": "Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscop"
     },
     {
+      "title": "هانوی ربات‌ها و هوش مصنوعی را به نسل جوان نزدیک‌تر می‌کند.",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBwaVc5cWtwc2VCZFc1cVltUjFKNzRjbV9nR0hCUVZCSkczVUZRMkx2TXMxR1g3VDZTUnFQWnE1Ui1SUlA2d2ltdUZjT0kzRG11dVZjcXV3ZFRXUlVYZDhKZXlMdGZRNjUtWnJHcXA4Ql8tOVNsdVlXLWJsTlM?oc=5",
+      "source": "Vietnam.vn",
+      "lang": "fa",
+      "published": "2026-10-08T18:14:03.000Z",
+      "summary": "هانوی ربات‌ها و هوش مصنوعی را به نسل جوان نزدیک‌تر می‌کند. Vietnam.vn"
+    },
+    {
       "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
       "url": "https://openai.com/index/oracle",
       "source": "OpenAI",
@@ -80,22 +96,6 @@
       "lang": "en",
       "published": "2026-10-08T09:00:00.000Z",
       "summary": "The story is a collaboration between MIT Technology Review and Aventine, a non-profit research foundation that creates and supports content about how technology and science are changing the way we live. A robot shaped li"
-    },
-    {
-      "title": "مقررات مربوط به ایمنی و مدیریت ریسک برای کاربرد هوش مصنوعی در بانکداری.",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYVJtOTdlSzFqSVpLbDhSOW5KQ3ZpZ0dhSGpOWGVCd1FZZjlzS0xjWGlpTmp0TUNWTGFFZi1tTXFrWTMyb0VobUNpRmdvaWRDc3h3OXFZaXhncmNZdXlfSmtQbVZjejBoZi0wUzdpTmpJT1Y5NjBaRDRRVlVaWWxPRTBaV1hyN1NqVlY0YUpTb0lPYTZQU3Jic0lKbzZYZGpIQkNJ?oc=5",
-      "source": "Vietnam.vn",
-      "lang": "fa",
-      "published": "2026-10-07T07:57:09.000Z",
-      "summary": "مقررات مربوط به ایمنی و مدیریت ریسک برای کاربرد هوش مصنوعی در بانکداری. Vietnam.vn"
-    },
-    {
-      "title": "LPBank Plus با استفاده از هوش مصنوعی، عادات تراکنش دیجیتال را ترویج می‌دهد.",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPaUtrdVZyNmpJXzhsUDJTb2c3V2NOSm8yQkZmQmNDT1lzSERnTVZOSjgyOFNLekJjTTAwdk1QWlItckY2TUdNZ1dISGUzb08yS00wMm4xN3ZGVFh3by1YVmRWbDRTZTh1OHpXRDN2YWsyMkpZZnhJS3pDenFSeGwwQVV3?oc=5",
-      "source": "Vietnam.vn",
-      "lang": "fa",
-      "published": "2026-10-01T11:47:36.000Z",
-      "summary": "LPBank Plus با استفاده از هوش مصنوعی، عادات تراکنش دیجیتال را ترویج می‌دهد. Vietnam.vn"
     }
   ]
 }
