@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-10-11T02:43:38.068Z",
+  "updated_at": "2026-10-11T11:45:29.501Z",
   "items": [
+    {
+      "title": "هوش مصنوعی جدید دانشمندان اسپانیایی پیری سلول‌های بنیادی خون را تشخیص می‌دهد",
+      "url": "https://digiato.com/interdisciplinary/barcelona-ai-detects-blood-stem-cells-ageing",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-10-11T11:05:00.000Z",
+      "summary": "دانشمندان با تحلیل سه‌بعدی DNA و بدون نیاز به روش‌های پرهزینه، دگرگونی ساختار هسته سلول در گذر زمان را آشکار کردند. The post هوش مصنوعی جدید دانشمندان اسپانیایی پیری سلول‌های بنیادی خون را تشخیص می‌دهد appeared first on "
+    },
     {
       "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
       "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
@@ -16,22 +24,6 @@
       "lang": "en",
       "published": "2026-10-10T19:50:00.000Z",
       "summary": "Is Apple hoping to get into the AI-generated podcast business?"
-    },
-    {
-      "title": "تهدیدی برای ادوبی؛ جایگزین متن‌باز مجموعه Creative Cloud با هوش مصنوعی ساخته شد",
-      "url": "https://digiato.com/app/artcraft-reverse-engineers-adobe-creative-suite-open-source",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-10-10T17:30:00.000Z",
-      "summary": "تیم توسعه‌دهنده ArtCraft با استفاده از هوش مصنوعی، ابزارهای ادوبی را مهندسی معکوس و نسخه‌های رایگان و متن‌باز آنها را برای کاربران منتشر کرد. The post تهدیدی برای ادوبی؛ جایگزین متن‌باز مجموعه Creative Cloud با هوش مصنوع"
-    },
-    {
-      "title": "اسناد تکان‌دهنده: چت‌بات‌های Character.AI کاربران نوجوان را به خودآزاری تشویق کرده‌اند",
-      "url": "https://digiato.com/artificial-intelligence/character-ai-chatbots-accused-encouraging-self-harm-lawsuit",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-10-10T15:30:00.000Z",
-      "summary": "اسناد دادگاه کنتاکی نشان می‌دهد چت‌بات‌های هوش مصنوعی کاربران کم‌سن را تحقیر کرده و راهکارهای آسیب‌زدن به خود را به آن‌ها ارائه داده‌اند. The post اسناد تکان‌دهنده: چت‌بات‌های Character.AI کاربران نوجوان را به خودآزاری ت"
     },
     {
       "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
@@ -96,6 +88,14 @@
       "lang": "en",
       "published": "2026-10-08T09:00:00.000Z",
       "summary": "The story is a collaboration between MIT Technology Review and Aventine, a non-profit research foundation that creates and supports content about how technology and science are changing the way we live. A robot shaped li"
+    },
+    {
+      "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+      "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
+      "source": "Google DeepMind",
+      "lang": "en",
+      "published": "2026-10-06T19:57:04.000Z",
+      "summary": ""
     }
   ]
 }
