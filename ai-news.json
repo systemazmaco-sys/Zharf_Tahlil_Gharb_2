@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-11T21:11:02.839Z",
+  "updated_at": "2026-10-12T13:48:18.637Z",
   "items": [
+    {
+      "title": "Former Plaud exec raises $26M for AI app that listens to you in the background",
+      "url": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-10-12T12:47:59.000Z",
+      "summary": "Ambi is releasing apps for iPhone, Mac, and Apple Watch that enables ambient capture"
+    },
+    {
+      "title": "Will the HomeView be Apple’s first smart home success?",
+      "url": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-10-11T21:14:40.000Z",
+      "summary": "Over the past couple of years, we’ve seen multiple reports that Apple was working on a new smart home product, but now it seems the product has a name and a launch date."
+    },
     {
       "title": "48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next",
       "url": "https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/",
@@ -8,38 +24,6 @@
       "lang": "en",
       "published": "2026-10-11T19:00:00.000Z",
       "summary": "Less than 48 hours, TechCrunch Disrupt 2026 starts in San Francisco’s Moscone West. Save up to $100 on your pass before prices increase at the door, plus get 50% on a second pass. Or score other deals."
-    },
-    {
-      "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
-      "url": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-10-11T16:52:33.000Z",
-      "summary": "On Equity, we debate the impact of data center moratoriums and whether the AI industry has a communication problem."
-    },
-    {
-      "title": "ارزیابی محققان: هوش مصنوعی و جنگ هسته‌ای می‌توانند تا سال ۲۱۰۰ انسان را منقرض کنند",
-      "url": "https://digiato.com/articles/lancet-global-threats-humanity-2100",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-10-11T14:02:00.000Z",
-      "summary": "کمیته‌ای از دانشمندان در مجله علمی لنست ۱۷ تهدید عمده برای سلامت بشر تا سال ۲۱۰۰ را فهرست کردند. The post ارزیابی محققان: هوش مصنوعی و جنگ هسته‌ای می‌توانند تا سال ۲۱۰۰ انسان را منقرض کنند appeared first on دیجیاتو."
-    },
-    {
-      "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
-      "url": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-10-11T14:00:00.000Z",
-      "summary": "Voice AI's often misses important points for its context layer, and causes the whole pipeline to break"
-    },
-    {
-      "title": "NEX Brain™ در ویتنام راه‌اندازی شد و در بحث رشد برند در عصر هوش مصنوعی به Chicilon پیوست.",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTGFDbFVOYzdNQzRYLU5IUWdfa0hjWWZ4bGNhOWxRaFJQSEo3bTVsbVd4M2pGekZ2bmlrMFJabFU0UXZQMzVfc1JiOFN2N1NyS1pyeW05RzNLS25zUmpKRnY4V1R0LS1wLUxKa28zRTVZQlNHNnZrOW5rRmFkcDlPSnNidEgtemtFNDcyUUVzVVdkVkctMzJBVFN5MnNuNmdaaU1Vb2lUck5rZWg2NkRaYlNSNXowakN5MFdtdXF3?oc=5",
-      "source": "Vietnam.vn",
-      "lang": "fa",
-      "published": "2026-10-09T10:46:30.000Z",
-      "summary": "NEX Brain™ در ویتنام راه‌اندازی شد و در بحث رشد برند در عصر هوش مصنوعی به Chicilon پیوست. Vietnam.vn"
     },
     {
       "title": "We’re putting too much faith in AI’s ability to say no",
@@ -90,12 +74,28 @@
       "summary": "The story is a collaboration between MIT Technology Review and Aventine, a non-profit research foundation that creates and supports content about how technology and science are changing the way we live. A robot shaped li"
     },
     {
-      "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
-      "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
-      "source": "Google DeepMind",
-      "lang": "en",
-      "published": "2026-10-06T19:57:04.000Z",
-      "summary": ""
+      "title": "سونی نسل بعدی بلندگوهای ULT TOWER خود را با پردازش صدای مبتنی بر هوش مصنوعی عرضه می‌کند.",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWXJlZTUzZWdPcWtIcDktMlRnd1dRYXBSdFI3QmYydmVna0pneU1iY3ZUUWRPa1l5MWwzbG85a3p3ekdieENIaVRyQmN6LXl6dmpuem9DdnhyZmVpOU1BY083Z3FCMzNpdzVKclllMWoxR1dZQl9NdzdMb1VpUEFWTUpEX1pXNGc?oc=5",
+      "source": "Vietnam.vn",
+      "lang": "fa",
+      "published": "2026-10-05T10:46:18.000Z",
+      "summary": "سونی نسل بعدی بلندگوهای ULT TOWER خود را با پردازش صدای مبتنی بر هوش مصنوعی عرضه می‌کند. Vietnam.vn"
+    },
+    {
+      "title": "دانشگاه‌ها در عصر هوش مصنوعی: ما باید رویکرد خود را به آموزش تغییر دهیم.",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOYTVMZGN0ektxU29DRU0xWDJhZTh0aHlRQmd1b2tuREZrcDIzQUtWZDdEczk1bDVEa1BmdW1QOXh5RUlwOVdrbW5wR3hHME4yb3gyYVFjQkJZcnVWY0NYdnVZZFpOOUFyb3R0WV94RFZCMl9sTGVZNGdHai05MmZMMndWcw?oc=5",
+      "source": "Vietnam.vn",
+      "lang": "fa",
+      "published": "2026-10-04T07:26:18.000Z",
+      "summary": "دانشگاه‌ها در عصر هوش مصنوعی: ما باید رویکرد خود را به آموزش تغییر دهیم. Vietnam.vn"
+    },
+    {
+      "title": "LPBank Plus با استفاده از هوش مصنوعی، عادات تراکنش دیجیتال را ترویج می‌دهد.",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPaUtrdVZyNmpJXzhsUDJTb2c3V2NOSm8yQkZmQmNDT1lzSERnTVZOSjgyOFNLekJjTTAwdk1QWlItckY2TUdNZ1dISGUzb08yS00wMm4xN3ZGVFh3by1YVmRWbDRTZTh1OHpXRDN2YWsyMkpZZnhJS3pDenFSeGwwQVV3?oc=5",
+      "source": "Vietnam.vn",
+      "lang": "fa",
+      "published": "2026-10-01T11:47:36.000Z",
+      "summary": "LPBank Plus با استفاده از هوش مصنوعی، عادات تراکنش دیجیتال را ترویج می‌دهد. Vietnam.vn"
     }
   ]
 }
