@@ -1,29 +1,37 @@
 {
-  "updated_at": "2026-10-12T13:48:18.637Z",
+  "updated_at": "2026-10-12T23:55:34.530Z",
   "items": [
     {
-      "title": "Former Plaud exec raises $26M for AI app that listens to you in the background",
-      "url": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
+      "title": "Meta releases its first frontier model, Muse Wonder",
+      "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
       "source": "TechCrunch AI",
       "lang": "en",
-      "published": "2026-10-12T12:47:59.000Z",
-      "summary": "Ambi is releasing apps for iPhone, Mac, and Apple Watch that enables ambient capture"
+      "published": "2026-10-12T17:56:56.000Z",
+      "summary": "Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with higher benchmark scores and better results on complex tasks like coding."
     },
     {
-      "title": "Will the HomeView be Apple’s first smart home success?",
-      "url": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
+      "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
+      "url": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
       "source": "TechCrunch AI",
       "lang": "en",
-      "published": "2026-10-11T21:14:40.000Z",
-      "summary": "Over the past couple of years, we’ve seen multiple reports that Apple was working on a new smart home product, but now it seems the product has a name and a launch date."
+      "published": "2026-10-12T17:19:14.000Z",
+      "summary": "A Silicon Valley startup that uses weather balloons and AI to predict the weather won a U.S. military contract worth almost $50 million."
     },
     {
-      "title": "48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next",
-      "url": "https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/",
+      "title": "Honeyjar offers AI tools to improve PR and comms at every company",
+      "url": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
       "source": "TechCrunch AI",
       "lang": "en",
-      "published": "2026-10-11T19:00:00.000Z",
-      "summary": "Less than 48 hours, TechCrunch Disrupt 2026 starts in San Francisco’s Moscone West. Save up to $100 on your pass before prices increase at the door, plus get 50% on a second pass. Or score other deals."
+      "published": "2026-10-12T15:45:00.000Z",
+      "summary": "Journalists, entrepreneurs, and even some public relations professionals will tell you that the PR process is broken. But could AI actually make things better?"
+    },
+    {
+      "title": "آمازون می‌خواهد یک استارتاپ هوش مصنوعی به ارزش ۷ میلیارد دلار بخرد",
+      "url": "https://digiato.com/articles/amazon-decart-acquisition-talks",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-10-12T14:30:00.000Z",
+      "summary": "استارتاپ هوش مصنوعی دکارت که آمازون به خرید آن فکر می‌کند، مدل‌های ویرایش ویدیو توسعه داده است. The post آمازون می‌خواهد یک استارتاپ هوش مصنوعی به ارزش ۷ میلیارد دلار بخرد appeared first on دیجیاتو."
     },
     {
       "title": "We’re putting too much faith in AI’s ability to say no",
@@ -80,14 +88,6 @@
       "lang": "fa",
       "published": "2026-10-05T10:46:18.000Z",
       "summary": "سونی نسل بعدی بلندگوهای ULT TOWER خود را با پردازش صدای مبتنی بر هوش مصنوعی عرضه می‌کند. Vietnam.vn"
-    },
-    {
-      "title": "دانشگاه‌ها در عصر هوش مصنوعی: ما باید رویکرد خود را به آموزش تغییر دهیم.",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOYTVMZGN0ektxU29DRU0xWDJhZTh0aHlRQmd1b2tuREZrcDIzQUtWZDdEczk1bDVEa1BmdW1QOXh5RUlwOVdrbW5wR3hHME4yb3gyYVFjQkJZcnVWY0NYdnVZZFpOOUFyb3R0WV94RFZCMl9sTGVZNGdHai05MmZMMndWcw?oc=5",
-      "source": "Vietnam.vn",
-      "lang": "fa",
-      "published": "2026-10-04T07:26:18.000Z",
-      "summary": "دانشگاه‌ها در عصر هوش مصنوعی: ما باید رویکرد خود را به آموزش تغییر دهیم. Vietnam.vn"
     },
     {
       "title": "LPBank Plus با استفاده از هوش مصنوعی، عادات تراکنش دیجیتال را ترویج می‌دهد.",
