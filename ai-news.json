@@ -1,29 +1,53 @@
 {
-  "updated_at": "2026-10-13T13:06:44.110Z",
+  "updated_at": "2026-10-13T22:03:21.555Z",
   "items": [
     {
-      "title": "Amex introduces a framework to prevent AI agents from making unauthorized purchases",
-      "url": "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/",
+      "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
+      "url": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/",
       "source": "TechCrunch AI",
       "lang": "en",
-      "published": "2026-10-13T13:00:00.000Z",
-      "summary": "American Express is introducing a new framework designed to ensure AI agents only make purchases their users have authorized, potentially preventing costly mistakes and disputes as AI-powered shopping grows."
+      "published": "2026-10-13T20:36:44.000Z",
+      "summary": "A federal judge ruled that Apple can access OpenAI's interview materials involving former Apple employees, as well as private messages and testimony from key figures in the case."
     },
     {
-      "title": "علی‌بابا از عینک هوشمند و ایرباد مجهز به هوش مصنوعی Qwen رونمایی کرد",
-      "url": "https://digiato.com/gadgets/alibaba-unveils-qwen-n1-ai-glasses",
+      "title": "Flox Intelligence is building AI to keep wildlife away from trains, airports, and roads",
+      "url": "https://techcrunch.com/2026/10/13/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-10-13T18:30:00.000Z",
+      "summary": "Flox's edge devices can identify animals and use species-specific sounds to drive them away from critical infrastructure."
+    },
+    {
+      "title": "Facebook is giving users more control over their algorithm",
+      "url": "https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-10-13T18:05:24.000Z",
+      "summary": "Meta announced the launch of its new AI-powered feature, “Your Algorithm,” a feature it first launched on Instagram."
+    },
+    {
+      "title": "پلیس آمریکا با این هوش مصنوعی می‌تواند آدرس خانه را با تنها یک عکس از داخل آن پیدا کند",
+      "url": "https://digiato.com/articles/ai-raven-locate-homes-interior-photos",
       "source": "دیجیاتو",
       "lang": "fa",
-      "published": "2026-10-13T12:48:27.000Z",
-      "summary": "نسخه پرو این عینک با اسکن عنبیه امکان تأیید مستقیم خریدهای اینترنتی را فراهم می‌کند. The post علی‌بابا از عینک هوشمند و ایرباد مجهز به هوش مصنوعی Qwen رونمایی کرد appeared first on دیجیاتو."
+      "published": "2026-10-13T17:30:00.000Z",
+      "summary": "ابزار هوش مصنوعی Raven با بررسی عکس‌های فضای داخلی خانه، حتی تصویری از ماشین لباس‌شویی، به پلیس در یافتن محل احتمالی ملک کمک می‌کند. The post پلیس آمریکا با این هوش مصنوعی می‌تواند آدرس خانه را با تنها یک عکس از داخل آن "
     },
     {
-      "title": "Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy",
-      "url": "https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/",
-      "source": "TechCrunch AI",
+      "title": "دستاورد جدید Claude Code؛ هوش مصنوعی به کشف احتمالی یک سیاره فراخورشیدی کمک کرد",
+      "url": "https://digiato.com/articles/claude-code-potential-new-planet-discovery",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-10-13T15:30:00.000Z",
+      "summary": "تلسکوپ فضایی TESS ناسا در ماه نوامبر صحت ادعای کشف این سیاره را با رصد مجدد بررسی می‌کند. The post دستاورد جدید Claude Code؛ هوش مصنوعی به کشف احتمالی یک سیاره فراخورشیدی کمک کرد appeared first on دیجیاتو."
+    },
+    {
+      "title": "Higgsfield takes AI video from 1 minute to over 10",
+      "url": "https://openai.com/index/higgsfield-longer-videos-voice",
+      "source": "OpenAI",
       "lang": "en",
-      "published": "2026-10-13T12:23:42.000Z",
-      "summary": "The startup will sell some of its assets to Disney for $20 million."
+      "published": "2026-10-13T12:00:00.000Z",
+      "summary": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live."
     },
     {
       "title": "Open models have real benefits. Do they outweigh the risks?",
@@ -40,14 +64,6 @@
       "lang": "en",
       "published": "2026-10-13T09:00:00.000Z",
       "summary": "When Keelan Miskell began winding down his crypto startup this year, he didn’t think its data was worth much: the users were anonymous, the company just a few years old. But he’s since turned the firm’s digital archives "
-    },
-    {
-      "title": "Meta releases its first frontier model, Muse Wonder",
-      "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-10-12T17:56:56.000Z",
-      "summary": "Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with higher benchmark scores and better results on complex tasks like coding."
     },
     {
       "title": "Anthropic Disables Internet Access for AI Agents After Unauthorized Actions",
@@ -80,22 +96,6 @@
       "lang": "en",
       "published": "2026-10-09T07:00:00.000Z",
       "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models."
-    },
-    {
-      "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
-      "url": "https://openai.com/index/oracle",
-      "source": "OpenAI",
-      "lang": "en",
-      "published": "2026-10-08T16:00:00.000Z",
-      "summary": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex."
-    },
-    {
-      "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
-      "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
-      "source": "Google DeepMind",
-      "lang": "en",
-      "published": "2026-10-06T19:57:04.000Z",
-      "summary": ""
     }
   ]
 }
