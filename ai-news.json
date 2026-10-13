@@ -1,6 +1,46 @@
 {
-  "updated_at": "2026-10-12T23:55:34.530Z",
+  "updated_at": "2026-10-13T13:06:44.110Z",
   "items": [
+    {
+      "title": "Amex introduces a framework to prevent AI agents from making unauthorized purchases",
+      "url": "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-10-13T13:00:00.000Z",
+      "summary": "American Express is introducing a new framework designed to ensure AI agents only make purchases their users have authorized, potentially preventing costly mistakes and disputes as AI-powered shopping grows."
+    },
+    {
+      "title": "علی‌بابا از عینک هوشمند و ایرباد مجهز به هوش مصنوعی Qwen رونمایی کرد",
+      "url": "https://digiato.com/gadgets/alibaba-unveils-qwen-n1-ai-glasses",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-10-13T12:48:27.000Z",
+      "summary": "نسخه پرو این عینک با اسکن عنبیه امکان تأیید مستقیم خریدهای اینترنتی را فراهم می‌کند. The post علی‌بابا از عینک هوشمند و ایرباد مجهز به هوش مصنوعی Qwen رونمایی کرد appeared first on دیجیاتو."
+    },
+    {
+      "title": "Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy",
+      "url": "https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-10-13T12:23:42.000Z",
+      "summary": "The startup will sell some of its assets to Disney for $20 million."
+    },
+    {
+      "title": "Open models have real benefits. Do they outweigh the risks?",
+      "url": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
+      "source": "MIT Technology Review",
+      "lang": "en",
+      "published": "2026-10-13T10:00:00.000Z",
+      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here. Late last month, Anthropic re"
+    },
+    {
+      "title": "AI labs are buying data from dead startups to train their models",
+      "url": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/",
+      "source": "MIT Technology Review",
+      "lang": "en",
+      "published": "2026-10-13T09:00:00.000Z",
+      "summary": "When Keelan Miskell began winding down his crypto startup this year, he didn’t think its data was worth much: the users were anonymous, the company just a few years old. But he’s since turned the firm’s digital archives "
+    },
     {
       "title": "Meta releases its first frontier model, Muse Wonder",
       "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
@@ -10,28 +50,12 @@
       "summary": "Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with higher benchmark scores and better results on complex tasks like coding."
     },
     {
-      "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
-      "url": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-10-12T17:19:14.000Z",
-      "summary": "A Silicon Valley startup that uses weather balloons and AI to predict the weather won a U.S. military contract worth almost $50 million."
-    },
-    {
-      "title": "Honeyjar offers AI tools to improve PR and comms at every company",
-      "url": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-10-12T15:45:00.000Z",
-      "summary": "Journalists, entrepreneurs, and even some public relations professionals will tell you that the PR process is broken. But could AI actually make things better?"
-    },
-    {
-      "title": "آمازون می‌خواهد یک استارتاپ هوش مصنوعی به ارزش ۷ میلیارد دلار بخرد",
-      "url": "https://digiato.com/articles/amazon-decart-acquisition-talks",
-      "source": "دیجیاتو",
+      "title": "Anthropic Disables Internet Access for AI Agents After Unauthorized Actions",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB0aHN6RjdkdC1DV0U4elBxLV9DRmlrYVlfSWJCUjBCNlVsM3pLRmRwZzJSSDFrRExrLU5jNkV1ZDF2d2tZcTMxcnhiUHdXMkJnZzM2OUFnYw?oc=5",
+      "source": "OECD AI Policy Observatory",
       "lang": "fa",
-      "published": "2026-10-12T14:30:00.000Z",
-      "summary": "استارتاپ هوش مصنوعی دکارت که آمازون به خرید آن فکر می‌کند، مدل‌های ویرایش ویدیو توسعه داده است. The post آمازون می‌خواهد یک استارتاپ هوش مصنوعی به ارزش ۷ میلیارد دلار بخرد appeared first on دیجیاتو."
+      "published": "2026-10-10T07:00:00.000Z",
+      "summary": "Anthropic Disables Internet Access for AI Agents After Unauthorized Actions OECD AI Policy Observatory"
     },
     {
       "title": "We’re putting too much faith in AI’s ability to say no",
@@ -58,14 +82,6 @@
       "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models."
     },
     {
-      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
-      "url": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
-      "source": "MIT Technology Review",
-      "lang": "en",
-      "published": "2026-10-09T00:08:24.000Z",
-      "summary": "Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscop"
-    },
-    {
       "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
       "url": "https://openai.com/index/oracle",
       "source": "OpenAI",
@@ -74,28 +90,12 @@
       "summary": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex."
     },
     {
-      "title": "AI breakthroughs in robotics won’t change your life any time soon",
-      "url": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
-      "source": "MIT Technology Review",
+      "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+      "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
+      "source": "Google DeepMind",
       "lang": "en",
-      "published": "2026-10-08T09:00:00.000Z",
-      "summary": "The story is a collaboration between MIT Technology Review and Aventine, a non-profit research foundation that creates and supports content about how technology and science are changing the way we live. A robot shaped li"
-    },
-    {
-      "title": "سونی نسل بعدی بلندگوهای ULT TOWER خود را با پردازش صدای مبتنی بر هوش مصنوعی عرضه می‌کند.",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWXJlZTUzZWdPcWtIcDktMlRnd1dRYXBSdFI3QmYydmVna0pneU1iY3ZUUWRPa1l5MWwzbG85a3p3ekdieENIaVRyQmN6LXl6dmpuem9DdnhyZmVpOU1BY083Z3FCMzNpdzVKclllMWoxR1dZQl9NdzdMb1VpUEFWTUpEX1pXNGc?oc=5",
-      "source": "Vietnam.vn",
-      "lang": "fa",
-      "published": "2026-10-05T10:46:18.000Z",
-      "summary": "سونی نسل بعدی بلندگوهای ULT TOWER خود را با پردازش صدای مبتنی بر هوش مصنوعی عرضه می‌کند. Vietnam.vn"
-    },
-    {
-      "title": "LPBank Plus با استفاده از هوش مصنوعی، عادات تراکنش دیجیتال را ترویج می‌دهد.",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPaUtrdVZyNmpJXzhsUDJTb2c3V2NOSm8yQkZmQmNDT1lzSERnTVZOSjgyOFNLekJjTTAwdk1QWlItckY2TUdNZ1dISGUzb08yS00wMm4xN3ZGVFh3by1YVmRWbDRTZTh1OHpXRDN2YWsyMkpZZnhJS3pDenFSeGwwQVV3?oc=5",
-      "source": "Vietnam.vn",
-      "lang": "fa",
-      "published": "2026-10-01T11:47:36.000Z",
-      "summary": "LPBank Plus با استفاده از هوش مصنوعی، عادات تراکنش دیجیتال را ترویج می‌دهد. Vietnam.vn"
+      "published": "2026-10-06T19:57:04.000Z",
+      "summary": ""
     }
   ]
 }
