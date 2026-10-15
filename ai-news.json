@@ -1,45 +1,53 @@
 {
-  "updated_at": "2026-10-14T16:07:40.453Z",
+  "updated_at": "2026-10-15T02:14:05.170Z",
   "items": [
     {
-      "title": "Deezer will soon let you filter out AI-generated music",
-      "url": "https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music/",
+      "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
+      "url": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
       "source": "TechCrunch AI",
       "lang": "en",
-      "published": "2026-10-14T15:16:04.000Z",
-      "summary": "Deezer said that the new toggle will be rolled out by the end of the year."
+      "published": "2026-10-15T01:01:32.000Z",
+      "summary": "The founders detailed how their startup is developing AI that can design chips, learn from each iteration, and improve subsequent designs, all with the goal of automating and accelerating the chip design process."
     },
     {
-      "title": "Save 50% on your TechCrunch Disrupt 2026 ticket and join the last 2 days in San Francisco’s Moscone West",
-      "url": "https://techcrunch.com/2026/10/14/save-50-on-your-techcrunch-disrupt-2026-ticket-and-join-the-last-two-days-in-san-francisco/",
+      "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
+      "url": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
       "source": "TechCrunch AI",
       "lang": "en",
-      "published": "2026-10-14T15:13:24.000Z",
-      "summary": "Get 50% discount on the last two days of TechCrunch Disrupt 2026, Oct. 14-25, in San Francisco's Moscone West. Register now and join the rest of the startup ecosystem. Today, it's all about physical and software AI."
+      "published": "2026-10-15T00:00:00.000Z",
+      "summary": "Every day, conversations unfold across social media and websites around the world. A seemingly insignificant post—whether it involves AI-generated misinformation, hate speech, or a damaging rumor—can quickly snowball int"
     },
     {
-      "title": "Zenzap raises $44M for its AI chat app that aims to replace WhatsApp in the workplace",
-      "url": "https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace/",
+      "title": "Flock CEO says its microphones detect ‘just gunshots’ — its website says different",
+      "url": "https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/",
       "source": "TechCrunch AI",
       "lang": "en",
-      "published": "2026-10-14T15:08:00.000Z",
-      "summary": "Zenzap is used by organizations including Starbucks and Taco Bell."
+      "published": "2026-10-14T21:30:33.000Z",
+      "summary": "Langley’s comments come amid mounting scrutiny of Flock from privacy advocates, including the ACLU, and members of the public who are concerned about the misuse of its technology."
     },
     {
-      "title": "بنیان‌گذار دیپ‌مایند: هک‌های هوش مصنوعی زنگ خطر اولیه هستند",
-      "url": "https://digiato.com/artificial-intelligence/demis-hassabis-ai-hack-early-warning-shots",
+      "title": "۵ روش کاربردی برای انجام خودکار کارهای روزمره با هوش مصنوعی جمینای",
+      "url": "https://digiato.com/artificial-intelligence/5-ways-gemini-automate-daily-tasks",
       "source": "دیجیاتو",
       "lang": "fa",
-      "published": "2026-10-14T13:35:00.000Z",
-      "summary": "بنیان‌گذار دیپ‌مایند گوگل در نشستی در دوبلین اعلام کرد که جهان باید حملات سایبری اخیر هوش مصنوعی را جدی بگیرد. The post بنیان‌گذار دیپ‌مایند: هک‌های هوش مصنوعی زنگ خطر اولیه هستند appeared first on دیجیاتو."
+      "published": "2026-10-14T18:30:00.000Z",
+      "summary": "با روش‌های کاربردی استفاده از جمینای برای خودکارسازی کارهای روزمره، از بررسی تقویم و پیگیری اخبار تا مدیریت ایمیل‌ها آشنا شوید. The post ۵ روش کاربردی برای انجام خودکار کارهای روزمره با هوش مصنوعی جمینای appeared first o"
     },
     {
-      "title": "ایلان ماسک تجربه خودش از خرید آنلاین و خودکار با هوش مصنوعی گراک را به‌نمایش گذاشت",
-      "url": "https://digiato.com/artificial-intelligence/elon-musk-grok-orders-lego-sets",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-10-14T12:55:12.000Z",
-      "summary": "ماسک با انتشار تصاویری از گفت‌وگوی خود با گراک مدعی شد این هوش مصنوعی سفارش ۲۴۱ دلاری او را خودکار نهایی کرده است. The post ایلان ماسک تجربه خودش از خرید آنلاین و خودکار با هوش مصنوعی گراک را به‌نمایش گذاشت appeared firs"
+      "title": "Amp puts AI agents to work beyond code with OpenAI models",
+      "url": "https://openai.com/index/amp-beyond-coding",
+      "source": "OpenAI",
+      "lang": "en",
+      "published": "2026-10-14T12:00:00.000Z",
+      "summary": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT."
+    },
+    {
+      "title": "SentinelOne cuts malware analysis from weeks to hours",
+      "url": "https://openai.com/index/sentinelone",
+      "source": "OpenAI",
+      "lang": "en",
+      "published": "2026-10-14T12:00:00.000Z",
+      "summary": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats."
     },
     {
       "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
@@ -50,20 +58,28 @@
       "summary": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use."
     },
     {
-      "title": "The EU’s next chapter in AI is agentic",
-      "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
-      "source": "OpenAI",
+      "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
+      "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
+      "source": "Google DeepMind",
       "lang": "en",
-      "published": "2026-10-14T00:00:00.000Z",
-      "summary": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value."
+      "published": "2026-10-14T02:00:14.000Z",
+      "summary": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress."
     },
     {
-      "title": "Higgsfield takes AI video from 1 minute to over 10",
-      "url": "https://openai.com/index/higgsfield-longer-videos-voice",
-      "source": "OpenAI",
+      "title": "Developing Gemini 4 Argon responsibly and safely",
+      "url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
+      "source": "Google DeepMind",
       "lang": "en",
-      "published": "2026-10-13T12:00:00.000Z",
-      "summary": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live."
+      "published": "2026-10-13T19:43:07.000Z",
+      "summary": ""
+    },
+    {
+      "title": "Gemini 4 Argon for Robotics",
+      "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
+      "source": "Google DeepMind",
+      "lang": "en",
+      "published": "2026-10-13T16:01:58.000Z",
+      "summary": ""
     },
     {
       "title": "Open models have real benefits. Do they outweigh the risks?",
@@ -80,22 +96,6 @@
       "lang": "en",
       "published": "2026-10-13T09:00:00.000Z",
       "summary": "When Keelan Miskell began winding down his crypto startup this year, he didn’t think its data was worth much: the users were anonymous, the company just a few years old. But he’s since turned the firm’s digital archives "
-    },
-    {
-      "title": "Anthropic Disables Internet Access for AI Agents After Unauthorized Actions",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB0aHN6RjdkdC1DV0U4elBxLV9DRmlrYVlfSWJCUjBCNlVsM3pLRmRwZzJSSDFrRExrLU5jNkV1ZDF2d2tZcTMxcnhiUHdXMkJnZzM2OUFnYw?oc=5",
-      "source": "OECD AI Policy Observatory",
-      "lang": "fa",
-      "published": "2026-10-10T07:00:00.000Z",
-      "summary": "Anthropic Disables Internet Access for AI Agents After Unauthorized Actions OECD AI Policy Observatory"
-    },
-    {
-      "title": "We’re putting too much faith in AI’s ability to say no",
-      "url": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
-      "source": "MIT Technology Review",
-      "lang": "en",
-      "published": "2026-10-09T09:00:00.000Z",
-      "summary": "Ever since people first seriously contemplated giving machines an intelligence modeled on our own, there has never been any question that they would, like us, be able to say no. The sci-fi canon is full of stories of rob"
     }
   ]
 }
