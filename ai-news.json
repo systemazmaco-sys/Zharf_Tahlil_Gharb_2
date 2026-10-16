@@ -1,29 +1,37 @@
 {
-  "updated_at": "2026-10-16T15:43:21.040Z",
+  "updated_at": "2026-10-16T20:12:27.570Z",
   "items": [
     {
-      "title": "Jev is Vercel’s fastest-adopted AI model ever",
-      "url": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
-      "source": "TechCrunch AI",
+      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+      "url": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+      "source": "MIT Technology Review",
       "lang": "en",
-      "published": "2026-10-16T15:33:49.000Z",
-      "summary": "The data comes from the Vercel's AI gateway, a unified API service similar to OpenRouter."
+      "published": "2026-10-16T18:00:00.000Z",
+      "summary": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints f"
     },
     {
-      "title": "Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy",
-      "url": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
+      "title": "India becomes the latest country to report rogue AI agent activity",
+      "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
       "source": "TechCrunch AI",
       "lang": "en",
-      "published": "2026-10-16T14:26:51.000Z",
-      "summary": "Actor and angel investor Mark Wahlberg says he's OK with using AI in filmmaking, provided it's used \"to enhance what you're doing.\""
+      "published": "2026-10-16T17:52:24.000Z",
+      "summary": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles."
     },
     {
-      "title": "Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles",
-      "url": "https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/",
+      "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+      "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
       "source": "TechCrunch AI",
       "lang": "en",
-      "published": "2026-10-16T14:00:00.000Z",
-      "summary": "Counterfeiters are getting better at replicating brands' marks and passing off dupes, known as \"superfakes,\" as genuine items. A startup called Veritas wants to tackle the problem with its own chip that verifies goods."
+      "published": "2026-10-16T16:30:00.000Z",
+      "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, an"
+    },
+    {
+      "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
+      "url": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-10-16T16:30:00.000Z",
+      "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, an"
     },
     {
       "title": "یوتوب موزیک حالا آهنگ‌های هوش مصنوعی را برچسب‌گذاری می‌کند",
@@ -42,12 +50,20 @@
       "summary": "گزارش‌ها از احضار OpenAI و آنتروپیک در آمریکا به‌دلیل نگرانی‌ها درباره ایمنی مدل‌ها، حوادث امنیتی و ادعاهای حریم خصوصی حکایت دارند. The post OpenAI و آنتروپیک زیر ذره‌بین کمیسیون تجارت آمریکا قرار گرفتند appeared first o"
     },
     {
-      "title": "ایجنت‌های هوش مصنوعی به سیستم‌های یک شرکت هندی نفوذ کردند",
-      "url": "https://digiato.com/security/ai-model-escapes-test-environment-and-accesses-sensitive-data-in-india",
-      "source": "دیجیاتو",
+      "title": "ایسوس پروآرت پی ۱۶ (ASUS ProArt P16) قابلیت‌های برنامه‌های هوش مصنوعی را در لپ‌تاپ‌ها گسترش می‌دهد.",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNd2s0NHY2TFpfX2xOYnNXU3JicXZ5a0xFMjlLTXoxT2hwd05EdE0yLTZ2eXpqVmtVMmc3N1hpRDRCd2E4OHhoVXBOMnZ6SlpOVHVjcjZ5NmhLVzNaeWwteVBsMUpldjhGLWtKVlNaZkFseFVJdlhyeEhORzdFakJ2S3lTbzVEbHpwdXJNQ05ubElYdjAt?oc=5",
+      "source": "Vietnam.vn",
       "lang": "fa",
-      "published": "2026-10-16T11:24:39.000Z",
-      "summary": "یک مدل هوش مصنوعی در هند از محیط آزمایشی خارج شد و به داده‌های حساس دسترسی یافت؛ هم‌زمان، دولت درباره افزایش سرعت حملات سایبری هشدار The post ایجنت‌های هوش مصنوعی به سیستم‌های یک شرکت هندی نفوذ کردند appeared first on دی"
+      "published": "2026-10-16T12:49:00.000Z",
+      "summary": "ایسوس پروآرت پی ۱۶ (ASUS ProArt P16) قابلیت‌های برنامه‌های هوش مصنوعی را در لپ‌تاپ‌ها گسترش می‌دهد. Vietnam.vn"
+    },
+    {
+      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+      "source": "OpenAI",
+      "lang": "en",
+      "published": "2026-10-16T00:00:00.000Z",
+      "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation."
     },
     {
       "title": "Bringing GPT-Rosalind to academic research labs",
@@ -58,6 +74,14 @@
       "summary": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research."
     },
     {
+      "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+      "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+      "source": "Google DeepMind",
+      "lang": "en",
+      "published": "2026-10-15T16:08:03.000Z",
+      "summary": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science."
+    },
+    {
       "title": "Teaching students to think and learn through questions",
       "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
       "source": "OpenAI",
@@ -66,36 +90,12 @@
       "summary": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning."
     },
     {
-      "title": "Sullivan & Cromwell brings legal expertise into agreement review",
-      "url": "https://openai.com/index/sullivan-cromwell",
-      "source": "OpenAI",
+      "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
+      "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
+      "source": "Google DeepMind",
       "lang": "en",
-      "published": "2026-10-15T00:00:00.000Z",
-      "summary": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement."
-    },
-    {
-      "title": "Open models have real benefits. Do they outweigh the risks?",
-      "url": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
-      "source": "MIT Technology Review",
-      "lang": "en",
-      "published": "2026-10-13T10:00:00.000Z",
-      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here. Late last month, Anthropic re"
-    },
-    {
-      "title": "AI labs are buying data from dead startups to train their models",
-      "url": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/",
-      "source": "MIT Technology Review",
-      "lang": "en",
-      "published": "2026-10-13T09:00:00.000Z",
-      "summary": "When Keelan Miskell began winding down his crypto startup this year, he didn’t think its data was worth much: the users were anonymous, the company just a few years old. But he’s since turned the firm’s digital archives "
-    },
-    {
-      "title": "Anthropic Disables Internet Access for AI Agents After Unauthorized Actions",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB0aHN6RjdkdC1DV0U4elBxLV9DRmlrYVlfSWJCUjBCNlVsM3pLRmRwZzJSSDFrRExrLU5jNkV1ZDF2d2tZcTMxcnhiUHdXMkJnZzM2OUFnYw?oc=5",
-      "source": "OECD AI Policy Observatory",
-      "lang": "fa",
-      "published": "2026-10-10T07:00:00.000Z",
-      "summary": "Anthropic Disables Internet Access for AI Agents After Unauthorized Actions OECD AI Policy Observatory"
+      "published": "2026-10-14T02:00:14.000Z",
+      "summary": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress."
     }
   ]
 }
