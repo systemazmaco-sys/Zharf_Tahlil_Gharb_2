@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-10-17T09:51:43.718Z",
+  "updated_at": "2026-10-17T14:35:25.633Z",
   "items": [
     {
-      "title": "مدیرعامل انویدیا: هوش مصنوعی سراغ همه شرکت‌ها خواهد آمد",
-      "url": "https://digiato.com/artificial-intelligence/nvidia-boss-says-ai-is-coming-for-every-company",
+      "title": "هوش مصنوعی جدید Glimpse با عملکرد درخشان در استدلال بصری معرفی شد",
+      "url": "https://digiato.com/artificial-intelligence/elorian-visual-thinking-model",
       "source": "دیجیاتو",
       "lang": "fa",
-      "published": "2026-10-17T08:41:06.000Z",
-      "summary": "جنسن هوانگ می‌گوید همه صنایع تحت تأثیر هوش مصنوعی قرار می‌گیرند. The post مدیرعامل انویدیا: هوش مصنوعی سراغ همه شرکت‌ها خواهد آمد appeared first on دیجیاتو."
+      "published": "2026-10-17T13:40:00.000Z",
+      "summary": "مدل هوش مصنوعی Glimpse برخلاف مدل‌های رایج در بازار می‌تواند از پایه و اساس طبق داده‌های بصری خود استدلال انجام دهد. The post هوش مصنوعی جدید Glimpse با عملکرد درخشان در استدلال بصری معرفی شد appeared first on دیجیاتو."
     },
     {
-      "title": "ایجنت هوش مصنوعی به حذف فایل‌های یک مسابقه تلویزیونی در سوئد متهم شد",
-      "url": "https://digiato.com/artificial-intelligence/swedish-reality-show-season-deleted-ai-agent-claims",
+      "title": "قفل و قیچی؛ چرا هوش مصنوعی گاهی تصمیم‌گیری را سخت‌تر می‌کند؟ یادداشتی از محمدمهدی دوستی",
+      "url": "https://digiato.com/iran-technology-news/why-does-artificial-intelligence-sometimes-make-decision-making-more-difficult",
       "source": "دیجیاتو",
       "lang": "fa",
-      "published": "2026-10-17T07:09:00.000Z",
-      "summary": "هرچند برخی منابع به نقش هوش مصنوعی اشاره کرده‌اند، مدیر برنامه‌های شبکه TV4، مسئولیت ایجنت هوش مصنوعی را رد کرده است. The post ایجنت هوش مصنوعی به حذف فایل‌های یک مسابقه تلویزیونی در سوئد متهم شد appeared first on دیجیات"
+      "published": "2026-10-17T12:03:00.000Z",
+      "summary": "وقتی پاسخ بیشتر، تصمیم را سخت‌تر می‌کند The post قفل و قیچی؛ چرا هوش مصنوعی گاهی تصمیم‌گیری را سخت‌تر می‌کند؟ یادداشتی از محمدمهدی دوستی appeared first on دیجیاتو."
     },
     {
       "title": "Replit is no longer working with Anthropic, CEO says",
@@ -58,20 +58,20 @@
       "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, an"
     },
     {
-      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
-      "source": "OpenAI",
-      "lang": "en",
-      "published": "2026-10-16T00:00:00.000Z",
-      "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation."
-    },
-    {
       "title": "Benefit Street Partners answers questions faster with Codex",
       "url": "https://openai.com/index/benefit-street-partners",
       "source": "OpenAI",
       "lang": "en",
       "published": "2026-10-16T00:00:00.000Z",
       "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups."
+    },
+    {
+      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+      "source": "OpenAI",
+      "lang": "en",
+      "published": "2026-10-16T00:00:00.000Z",
+      "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation."
     },
     {
       "title": "Open models have real benefits. Do they outweigh the risks?",
