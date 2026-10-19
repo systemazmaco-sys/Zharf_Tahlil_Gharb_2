@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-18T19:49:33.236Z",
+  "updated_at": "2026-10-19T02:15:29.185Z",
   "items": [
     {
-      "title": "سقوط سنگین سهام بزرگان بازار تراشه؛ حباب هوش مصنوعی در حال ترکیدن است؟",
-      "url": "https://www.zoomit.ir/economics/469347-ai-chip-stocks-bubble-crash/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-10-18T17:45:00.000Z",
-      "summary": "افت سهام تراشه‌سازان بزرگ و هشدار تحلیلگران درباره بدهی دیتاسنترها، نگرانی‌ها از بازدهی سرمایه‌گذاری در حوزه هوش مصنوعی را تشدید کرده است."
+      "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+      "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-10-18T20:37:40.000Z",
+      "summary": "Anthropic said that it will commit 5% of its shares to the fund."
     },
     {
       "title": "Disney agrees to hire the majority of Character.AI’s workforce",
@@ -16,22 +16,6 @@
       "lang": "en",
       "published": "2026-10-18T16:30:00.000Z",
       "summary": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with a higher offer."
-    },
-    {
-      "title": "فتاحی: برای اصلاح مصوبه هوش مصنوعی هیچ بن‌بستی نداریم/ ظرف یک هفته آینده مصوبه را اصلاح می‌کنیم",
-      "url": "https://www.zoomit.ir/report/469371-ai-operators-regulation-private-sector-concerns-fattahi/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-10-18T12:50:00.000Z",
-      "summary": "رئیس رگولاتوری در واکنش به انتقادهای بخش خصوصی از مصوبه اپراتورهای هوش مصنوعی اعلام کرد که ابهام‌های این مصوبه بررسی و برای رفع آن‌ها اقدام خواهد شد."
-    },
-    {
-      "title": "عامل‌های سرکش هوش مصنوعی به شرکت‌های هندی نفوذ کردند",
-      "url": "https://www.zoomit.ir/ai-articles/469349-ai-models-breach-indian-systems/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-10-18T12:40:00.000Z",
-      "summary": "یک نهاد هندی از نفوذ خودسرانه و شناسایی‌نشده‌ی مدل‌های هوش مصنوعیِ در حال آزمایش به سامانه‌هایش خبر داد."
     },
     {
       "title": "فراخوان شرکت اعضای هئیت علمی و پژوهشگران در کارگاه اخلاق پژوهش، مالکیت فکری و انتشار مسئولانه یافته‌های علمی در عصر هوش مصنوعی | University News List",
@@ -56,14 +40,6 @@
       "lang": "en",
       "published": "2026-10-17T21:31:32.000Z",
       "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web."
-    },
-    {
-      "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
-      "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-10-17T20:21:19.000Z",
-      "summary": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year."
     },
     {
       "title": "How Itaú is building generative AI for its entire customer base",
@@ -96,6 +72,30 @@
       "lang": "en",
       "published": "2026-10-16T00:00:00.000Z",
       "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation."
+    },
+    {
+      "title": "Open models have real benefits. Do they outweigh the risks?",
+      "url": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
+      "source": "MIT Technology Review",
+      "lang": "en",
+      "published": "2026-10-13T10:00:00.000Z",
+      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here. Late last month, Anthropic re"
+    },
+    {
+      "title": "AI labs are buying data from dead startups to train their models",
+      "url": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/",
+      "source": "MIT Technology Review",
+      "lang": "en",
+      "published": "2026-10-13T09:00:00.000Z",
+      "summary": "When Keelan Miskell began winding down his crypto startup this year, he didn’t think its data was worth much: the users were anonymous, the company just a few years old. But he’s since turned the firm’s digital archives "
+    },
+    {
+      "title": "با هوش مصنوعی کل دیوار و ایسگا کردم😂(آدرسم لو رفت)",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE41N0ZONkhoNWx2eWhsMGRhM2xVbFNGOFlhRVFIbzJNTExhb090ZVpXR25taEdvUHJOUUhtRzJKSmIwdXE5Vm9qcW9Mcm5DMl9IZkJqYUFLd25VZU1S?oc=5",
+      "source": "YouTube",
+      "lang": "fa",
+      "published": "2026-09-26T07:00:00.000Z",
+      "summary": "با هوش مصنوعی کل دیوار و ایسگا کردم😂(آدرسم لو رفت) YouTube"
     }
   ]
 }
