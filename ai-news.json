@@ -1,13 +1,45 @@
 {
-  "updated_at": "2026-10-19T11:28:52.052Z",
+  "updated_at": "2026-10-19T17:54:31.506Z",
   "items": [
     {
-      "title": "اینتل فوتونیک سیلیکونی را برای تحول سیستم‌های هوش مصنوعی و HPC به کار می‌گیرد",
-      "url": "https://digiato.com/computers-hardware/intel-silicon-photonics-are-the-golden-hammer-of-next-gen-systems",
+      "title": "چگونه از ابزار تشخیص محتوای هوش مصنوعی SynthID گوگل استفاده کنیم؟",
+      "url": "https://digiato.com/artificial-intelligence/google-synthid-ai-detection-tool",
       "source": "دیجیاتو",
       "lang": "fa",
-      "published": "2026-10-19T10:14:00.000Z",
-      "summary": "اینتل با تولید انبوه ویفرهای ۳۰۰ میلی‌متری InP و ابزارهای یکپارچه‌سازی لیزر، روی فوتونیک سیلیکونی سرمایه‌گذاری می‌کند. The post اینتل فوتونیک سیلیکونی را برای تحول سیستم‌های هوش مصنوعی و HPC به کار می‌گیرد appeared first"
+      "published": "2026-10-19T16:30:00.000Z",
+      "summary": "در این مطلب با روش استفاده و محدودیت‌های ابزار SynthID Detector آشنا می‌شوید. The post چگونه از ابزار تشخیص محتوای هوش مصنوعی SynthID گوگل استفاده کنیم؟ appeared first on دیجیاتو."
+    },
+    {
+      "title": "People are using AI to make their smart TVs dumb again",
+      "url": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-10-19T16:13:22.000Z",
+      "summary": "Fed up with ads, tracking and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of their TVs."
+    },
+    {
+      "title": "Nvidia launches new open models to run agents in the enterprise and on PCs",
+      "url": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-10-19T15:37:09.000Z",
+      "summary": "Nvidia is leaning hard into the trend of enterprise companies wanting to run their own open models in their own data centers and also trying to make on-device, private AI agents a thing."
+    },
+    {
+      "title": "محققان: تصاویر و متن‌های هوش مصنوعی می‌توانند خاطرات جعلی در ذهن انسان بسازند",
+      "url": "https://digiato.com/artificial-intelligence/ai-generated-content-false-memories",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-10-19T15:30:00.000Z",
+      "summary": "پژوهشگران می‌گویند محتوای هوش مصنوعی می‌توانند خاطرات جعلی بسازند، قضاوت انسان را تغییر دهند و بر تصمیم‌گیری افراد اثر بگذارند. The post محققان: تصاویر و متن‌های هوش مصنوعی می‌توانند خاطرات جعلی در ذهن انسان بسازند appea"
+    },
+    {
+      "title": "هوش مصنوعی جدید MiniMax با عملکرد درخشان در امور ایجنتی و پیچیده معرفی شد",
+      "url": "https://digiato.com/artificial-intelligence/minimax-m31-flash-launch",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-10-19T14:13:13.000Z",
+      "summary": "مدل M3.1 Flash با سرعت تولید بیش از ۲۰۰ توکن در ثانیه از راه رسید. این مدل هزینه وظایف ایجنت‌محور را ۷۰ درصد کاهش می‌دهد. The post هوش مصنوعی جدید MiniMax با عملکرد درخشان در امور ایجنتی و پیچیده معرفی شد appeared first "
     },
     {
       "title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
@@ -18,36 +50,12 @@
       "summary": "What do AI agents do if you don’t tell them to do anything? The answer looks a lot like play. Researchers repeatedly stranded them alone on a virtual desert island for 30 hours in an experiment reminiscent of the movies "
     },
     {
-      "title": "آنتروپیک برای بررسی خطرات هوش مصنوعی به ارزیابان مستقل دسترسی مشابه کارمندان خود داد",
-      "url": "https://digiato.com/artificial-intelligence/anthropic-metr-independent-ai-safety-evaluators",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-10-19T08:33:54.000Z",
-      "summary": "آنتروپیک ارزیابان مستقل را با دسترسی به سخت‌افزار و سیستم‌های داخلی خود به کار گرفته است تا خطرات مدل‌های هوش مصنوعی را بررسی کنند. The post آنتروپیک برای بررسی خطرات هوش مصنوعی به ارزیابان مستقل دسترسی مشابه کارمندان خو"
-    },
-    {
-      "title": "fars | پشت‌پرده کمک هوش مصنوعی موساد به پهلوی",
-      "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxPUHRSMGRKRUY3eTJlVnhRb3ZBZ0pHbTcwRHZIeTFjTkxSbEtWRGt1bmJiNGJWWGxUcWNkeHRDbncwNTJRdW9XMEVsVEZBV29HUWtSdmZ1VE51N2QtVVdPZUp6Qmt3ZWJhR3dXTWluSlllZ19yOXE2TEZkdmpWSFZuT213SlprWUNQbk9fXzNsLUhGbEx3clo4TXlVSHdPN1RORDM3OC1PbXVmQWlIYXJZOUVPaGVsUzNuNDk1cEtHTzZCazVQVVJlZ2E4SEc3cklUZEVCaktVWlZVcVMyd1hIYTQ0TTNneFRVcGVLbXh2ZUtkWXRGb1AxOVBZaGJCM0tkVldPcUF4QUlKVDR0dGtBNVJHMkc4Rzk2RWc5QW5RelJHaFpYY0lOZmNDMG05anE3V2FveW13SThvdkZWc25yQ0ozVE03VkZyOUF0ZXRRRHVkUTZPdjgtRVVpVQ?oc=5",
-      "source": "Fars",
-      "lang": "fa",
-      "published": "2026-10-19T06:49:40.000Z",
-      "summary": "fars | پشت‌پرده کمک هوش مصنوعی موساد به پهلوی Fars"
-    },
-    {
       "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
       "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
       "source": "TechCrunch AI",
       "lang": "en",
       "published": "2026-10-18T20:37:40.000Z",
-      "summary": "Anthropic said that it will commit 5% of its shares to the fund."
-    },
-    {
-      "title": "Disney agrees to hire the majority of Character.AI’s workforce",
-      "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-10-18T16:30:00.000Z",
-      "summary": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with a higher offer."
+      "summary": "The company offered some broad-strokes ideas for how this money might actually be used, such as “large donations to traditional nonprofits or direct distributions to specific populations.”"
     },
     {
       "title": "فراخوان شرکت اعضای هئیت علمی و پژوهشگران در کارگاه اخلاق پژوهش، مالکیت فکری و انتشار مسئولانه یافته‌های علمی در عصر هوش مصنوعی | University News List",
@@ -64,14 +72,6 @@
       "lang": "fa",
       "published": "2026-10-18T05:46:57.000Z",
       "summary": "رویداد مسئله‌محور هوش مصنوعی در سلامت برگزار می‌شود دانشگاه لرستان"
-    },
-    {
-      "title": "Meta removes language that raised scraping and AI training concerns",
-      "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-10-17T21:31:32.000Z",
-      "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web."
     },
     {
       "title": "How Itaú is building generative AI for its entire customer base",
