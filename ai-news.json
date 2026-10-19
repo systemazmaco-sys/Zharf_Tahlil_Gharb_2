@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-10-19T17:54:31.506Z",
+  "updated_at": "2026-10-19T21:49:45.269Z",
   "items": [
+    {
+      "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
+      "url": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-10-19T20:09:24.000Z",
+      "summary": "Amazon wants to break Nvidia’s hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative chips like its own."
+    },
+    {
+      "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
+      "url": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-10-19T19:28:34.000Z",
+      "summary": "OpenCode is an open-source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users’ API keys, and the AI tools it turned to for"
+    },
+    {
+      "title": "Tolan snags $30M for its AI companion that helps users navigate life",
+      "url": "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-10-19T19:00:12.000Z",
+      "summary": "AI companion app Tolan has raised another $30 million after attracting more than 250,000 active users."
+    },
+    {
+      "title": "تله نظارت با هوش مصنوعی؛ چرا هرچه بیشتر کارمندان را زیر ذره‌بین بگذارید، کمتر کار می‌کنند؟",
+      "url": "https://digiato.com/artificial-intelligence/trap-of-monitoring-employees-with-ai-in-companies",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-10-19T18:30:00.000Z",
+      "summary": "خیلی از مدیران فکر می‌کنند با نرم‌افزارهای مانیتورینگ و ردیف کردن چک‌لیست‌های روزانه، بهره‌وری تیمشان بالا می‌رود اما واقعیت چیز دیگری است. The post تله نظارت با هوش مصنوعی؛ چرا هرچه بیشتر کارمندان را زیر ذره‌بین بگذارید"
+    },
+    {
+      "title": "Making the internet better for AI agents might make it worse for everyone else",
+      "url": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
+      "source": "MIT Technology Review",
+      "lang": "en",
+      "published": "2026-10-19T18:22:47.000Z",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Until recently, you could divide internet users into just two categories: bots and"
+    },
+    {
+      "title": "“We were looking at it wrong”: The explosive claim that’s upended the AI world",
+      "url": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
+      "source": "MIT Technology Review",
+      "lang": "en",
+      "published": "2026-10-19T17:45:55.000Z",
+      "summary": "“I think I have good news about the nature of neural networks.” With those simple words of optimism, Nick Cammarata, a researcher at the AI startup Goodfire, kicked off a 26,000-word blog post that has knocked the AI wor"
+    },
     {
       "title": "چگونه از ابزار تشخیص محتوای هوش مصنوعی SynthID گوگل استفاده کنیم؟",
       "url": "https://digiato.com/artificial-intelligence/google-synthid-ai-detection-tool",
@@ -8,22 +56,6 @@
       "lang": "fa",
       "published": "2026-10-19T16:30:00.000Z",
       "summary": "در این مطلب با روش استفاده و محدودیت‌های ابزار SynthID Detector آشنا می‌شوید. The post چگونه از ابزار تشخیص محتوای هوش مصنوعی SynthID گوگل استفاده کنیم؟ appeared first on دیجیاتو."
-    },
-    {
-      "title": "People are using AI to make their smart TVs dumb again",
-      "url": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-10-19T16:13:22.000Z",
-      "summary": "Fed up with ads, tracking and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of their TVs."
-    },
-    {
-      "title": "Nvidia launches new open models to run agents in the enterprise and on PCs",
-      "url": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-10-19T15:37:09.000Z",
-      "summary": "Nvidia is leaning hard into the trend of enterprise companies wanting to run their own open models in their own data centers and also trying to make on-device, private AI agents a thing."
     },
     {
       "title": "محققان: تصاویر و متن‌های هوش مصنوعی می‌توانند خاطرات جعلی در ذهن انسان بسازند",
@@ -34,28 +66,12 @@
       "summary": "پژوهشگران می‌گویند محتوای هوش مصنوعی می‌توانند خاطرات جعلی بسازند، قضاوت انسان را تغییر دهند و بر تصمیم‌گیری افراد اثر بگذارند. The post محققان: تصاویر و متن‌های هوش مصنوعی می‌توانند خاطرات جعلی در ذهن انسان بسازند appea"
     },
     {
-      "title": "هوش مصنوعی جدید MiniMax با عملکرد درخشان در امور ایجنتی و پیچیده معرفی شد",
-      "url": "https://digiato.com/artificial-intelligence/minimax-m31-flash-launch",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-10-19T14:13:13.000Z",
-      "summary": "مدل M3.1 Flash با سرعت تولید بیش از ۲۰۰ توکن در ثانیه از راه رسید. این مدل هزینه وظایف ایجنت‌محور را ۷۰ درصد کاهش می‌دهد. The post هوش مصنوعی جدید MiniMax با عملکرد درخشان در امور ایجنتی و پیچیده معرفی شد appeared first "
-    },
-    {
       "title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
       "url": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
       "source": "MIT Technology Review",
       "lang": "en",
       "published": "2026-10-19T09:08:05.000Z",
       "summary": "What do AI agents do if you don’t tell them to do anything? The answer looks a lot like play. Researchers repeatedly stranded them alone on a virtual desert island for 30 hours in an experiment reminiscent of the movies "
-    },
-    {
-      "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
-      "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-10-18T20:37:40.000Z",
-      "summary": "The company offered some broad-strokes ideas for how this money might actually be used, such as “large donations to traditional nonprofits or direct distributions to specific populations.”"
     },
     {
       "title": "فراخوان شرکت اعضای هئیت علمی و پژوهشگران در کارگاه اخلاق پژوهش، مالکیت فکری و انتشار مسئولانه یافته‌های علمی در عصر هوش مصنوعی | University News List",
@@ -80,22 +96,6 @@
       "lang": "en",
       "published": "2026-10-16T19:00:00.000Z",
       "summary": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors."
-    },
-    {
-      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
-      "url": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
-      "source": "MIT Technology Review",
-      "lang": "en",
-      "published": "2026-10-16T18:00:00.000Z",
-      "summary": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints f"
-    },
-    {
-      "title": "Benefit Street Partners answers questions faster with Codex",
-      "url": "https://openai.com/index/benefit-street-partners",
-      "source": "OpenAI",
-      "lang": "en",
-      "published": "2026-10-16T00:00:00.000Z",
-      "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups."
     }
   ]
 }
