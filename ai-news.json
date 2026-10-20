@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-10-20T10:34:43.430Z",
+  "updated_at": "2026-10-20T15:58:31.802Z",
   "items": [
+    {
+      "title": "حباب هوش مصنوعی روی لبه تیغ؛ مشکلات مالی CoreWeave تحلیلگران را نگران کرد",
+      "url": "https://digiato.com/finance-investment/coreweave-ai-debt-crisis",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-10-20T15:30:00.000Z",
+      "summary": "بدهی بیش از ۳۵ میلیارد دلاری CoreWeave، سرمایه‌گذاران را درباره پایداری مدل کسب‌وکار شرکت‌های زیرساختی هوش مصنوعی نگران کرده است. The post حباب هوش مصنوعی روی لبه تیغ؛ مشکلات مالی CoreWeave تحلیلگران را نگران کرد appeare"
+    },
+    {
+      "title": "The new economics of enterprise AI",
+      "url": "https://www.technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai/",
+      "source": "MIT Technology Review",
+      "lang": "en",
+      "published": "2026-10-20T15:20:25.000Z",
+      "summary": "Imagine your company just discovered electricity. At first only a few machines run on it, and nobody worries about efficiency — consumption is low and the value is obvious. But once electricity becomes infrastructure, ev"
+    },
+    {
+      "title": "Figma co-founder Dylan Field thinks MCP is not a perfect protocol",
+      "url": "https://techcrunch.com/2026/10/20/figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-protocol/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-10-20T14:13:32.000Z",
+      "summary": "Figma said it plans to support as many standards as possible without exposing all of its data"
+    },
+    {
+      "title": "US orders federal agencies to remove China’s DeepSeek AI from their systems",
+      "url": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-10-20T13:07:24.000Z",
+      "summary": "The US has ordered federal civilian agencies to remove DeepSeek products and third-party services built using its technology, citing national security concerns."
+    },
+    {
+      "title": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
+      "url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-10-20T13:00:00.000Z",
+      "summary": "Eka Robotics may be the first robotic arm that is actually good at picking a wide range of objects up, and it is so smooth and human-like, it is wowing the industry."
+    },
+    {
+      "title": "AI adoption by industry shows what other sectors can learn",
+      "url": "https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn/",
+      "source": "MIT Technology Review",
+      "lang": "en",
+      "published": "2026-10-20T12:00:00.000Z",
+      "summary": "The current narrative around artificial intelligence in the workplace is largely driven by Silicon Valley. But treating the tech sector as an island misses the actual trends in technology adoption–tech is just the first "
+    },
     {
       "title": "A visit to Samsung’s massive new semiconductor hub",
       "url": "https://www.technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub/",
@@ -8,46 +56,6 @@
       "lang": "en",
       "published": "2026-10-20T09:00:00.000Z",
       "summary": "Generative AI models run on powerful chips known as GPUs, which depend on stacks of specialized memory chips packaged with the processor. To meet growing demand for memory, Samsung is building a massive new semiconductor"
-    },
-    {
-      "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
-      "url": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-10-20T01:27:03.000Z",
-      "summary": "Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the public and put power back in their hands."
-    },
-    {
-      "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
-      "url": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-10-19T23:39:38.000Z",
-      "summary": "If the deal goes through, it would be the latest in a long string of giant compute deals Anthropic has struck over the past year."
-    },
-    {
-      "title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
-      "url": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-10-19T22:49:27.000Z",
-      "summary": "The idea of embedded evaluators — in which supposedly \"neutral\" third-party observers are placed inside AI organizations — has been popularized over the last several months, as AI labs grapple with a rash of safety incid"
-    },
-    {
-      "title": "Making the internet better for AI agents might make it worse for everyone else",
-      "url": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
-      "source": "MIT Technology Review",
-      "lang": "en",
-      "published": "2026-10-19T18:22:47.000Z",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Until recently, you could divide internet users into just two categories: bots and"
-    },
-    {
-      "title": "“We were looking at it wrong”: The explosive claim that’s upended the AI world",
-      "url": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
-      "source": "MIT Technology Review",
-      "lang": "en",
-      "published": "2026-10-19T17:45:55.000Z",
-      "summary": "“I think I have good news about the nature of neural networks.” With those simple words of optimism, Nick Cammarata, a researcher at the AI startup Goodfire, kicked off a 26,000-word blog post that has knocked the AI wor"
     },
     {
       "title": "Advancing coding in low‑resource programming languages",
@@ -88,14 +96,6 @@
       "lang": "en",
       "published": "2026-10-16T19:00:00.000Z",
       "summary": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors."
-    },
-    {
-      "title": "Benefit Street Partners answers questions faster with Codex",
-      "url": "https://openai.com/index/benefit-street-partners",
-      "source": "OpenAI",
-      "lang": "en",
-      "published": "2026-10-16T00:00:00.000Z",
-      "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups."
     }
   ]
 }
