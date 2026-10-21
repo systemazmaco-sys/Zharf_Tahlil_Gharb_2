@@ -1,29 +1,53 @@
 {
-  "updated_at": "2026-10-20T20:58:49.568Z",
+  "updated_at": "2026-10-21T02:23:49.093Z",
   "items": [
     {
-      "title": "SpaceX’s AI business is beating expectations",
-      "url": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
+      "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+      "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
       "source": "TechCrunch AI",
       "lang": "en",
-      "published": "2026-10-20T20:40:41.000Z",
-      "summary": "SpaceX hit profitably in the third-quarter, with net income of $4.4 billion. AI was the engine."
+      "published": "2026-10-20T23:01:23.000Z",
+      "summary": "The proposed policy seems to offer protections against AI run amok but actually forbids federal agencies from blocking a model's release without the permission of a judge."
     },
     {
-      "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
-      "url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
+      "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
+      "url": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
       "source": "TechCrunch AI",
       "lang": "en",
-      "published": "2026-10-20T20:35:10.000Z",
-      "summary": "OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that aims to help researchers plan experiments a"
+      "published": "2026-10-20T22:24:02.000Z",
+      "summary": "Before you share the Netflix documentary \"AI Gone Rogue\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate."
     },
     {
-      "title": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
-      "url": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
+      "title": "Anthropic’s cloud partnerships are getting messy",
+      "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
       "source": "TechCrunch AI",
       "lang": "en",
-      "published": "2026-10-20T18:38:24.000Z",
-      "summary": "Google has joined Amazon in releasing a developer tool that makes it easy for PyTorch users to move their apps off Nvidia GPUs."
+      "published": "2026-10-20T21:25:22.000Z",
+      "summary": "Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November IPO."
+    },
+    {
+      "title": "هوش مصنوعی مسیر کارآفرینی را هموار کرده، اما به چه قیمتی؟",
+      "url": "https://digiato.com/entrepreneurship/ai-paved-way-for-entrepreneurship-but-at-what-cost",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-10-20T18:30:00.000Z",
+      "summary": "آیا حذف موانع به معنای ساختن کارآفرین‌های توانمندتر است؟ The post هوش مصنوعی مسیر کارآفرینی را هموار کرده، اما به چه قیمتی؟ appeared first on دیجیاتو."
+    },
+    {
+      "title": "محققان:‌ مردان بیشتر از زنان وانمود می‌کنند درباره هوش مصنوعی اطلاعات دارند",
+      "url": "https://digiato.com/artificial-intelligence/men-overconfident-about-ai-knowledge",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-10-20T17:30:00.000Z",
+      "summary": "نظرسنجی بیش از ۵۴۰۰ آمریکایی نشان می‌دهد مردان بیشتر از زنان درباره دانش خود از هوش مصنوعی اطمینان دارند و کمتر پاسخ «مطمئن نیستم» می‌دهند. The post محققان:‌ مردان بیشتر از زنان وانمود می‌کنند درباره هوش مصنوعی اطلاعات د"
+    },
+    {
+      "title": "هوش مصنوعی جدید دانشمندان با تحلیل DNA می‌تواند ریسک سکته مغزی را پیش‌بینی کند",
+      "url": "https://digiato.com/artificial-intelligence/ai-predicts-stroke-risk-from-dna",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-10-20T16:30:00.000Z",
+      "summary": "پژوهشگران مدل هوش مصنوعی مبتنی بر ترنسفورمر، ۱۸ گونه ژنتیکی مرتبط با سکته مغزی ایسکمیک را شناسایی کرده‌اند. The post هوش مصنوعی جدید دانشمندان با تحلیل DNA می‌تواند ریسک سکته مغزی را پیش‌بینی کند appeared first on دیجیات"
     },
     {
       "title": "The new economics of enterprise AI",
@@ -58,44 +82,20 @@
       "summary": "Generative AI models run on powerful chips known as GPUs, which depend on stacks of specialized memory chips packaged with the processor. To meet growing demand for memory, Samsung is building a massive new semiconductor"
     },
     {
+      "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+      "url": "https://openai.com/index/terminal-x",
+      "source": "OpenAI",
+      "lang": "en",
+      "published": "2026-10-20T07:00:00.000Z",
+      "summary": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol."
+    },
+    {
       "title": "OpenAI acquires Orchestra Bio",
       "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
       "source": "OpenAI",
       "lang": "en",
       "published": "2026-10-20T00:00:00.000Z",
       "summary": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treatments."
-    },
-    {
-      "title": "Advancing coding in low‑resource programming languages",
-      "url": "https://openai.com/index/low-resource-programming-languages",
-      "source": "OpenAI",
-      "lang": "en",
-      "published": "2026-10-19T12:00:00.000Z",
-      "summary": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration."
-    },
-    {
-      "title": "جهان در آستانه فروپاشی .بحران هوش مصنوعی . دکتر فتوره چی",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1jb3Y3TVdEVkpoa1lqUnFvYTRzeGM2QUt3bHB1cm80WlppQUQyREYxS2F4UnVVSFUtZ1UzQ1RBaWt3VENyd1hQSUxvaG94MU1SZXV3Nkx0cV96bUFZ?oc=5",
-      "source": "YouTube",
-      "lang": "fa",
-      "published": "2026-10-18T13:46:09.000Z",
-      "summary": "جهان در آستانه فروپاشی .بحران هوش مصنوعی . دکتر فتوره چی YouTube"
-    },
-    {
-      "title": "Iranian Official Warns Gulf States Over Support for AI Firms Linked to Military Harm",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9TSm52dUVaYUpud3RIVWU0dDVVcGUzeVctSDctamtETy16N2p1enA0RklQSnhxZEQ1SjNQOTUyN2tUWTRBS25xMERaMXhOeHNENFd6WDdJbw?oc=5",
-      "source": "OECD AI Policy Observatory",
-      "lang": "fa",
-      "published": "2026-10-18T07:00:00.000Z",
-      "summary": "Iranian Official Warns Gulf States Over Support for AI Firms Linked to Military Harm OECD AI Policy Observatory"
-    },
-    {
-      "title": "فراخوان شرکت اعضای هئیت علمی و پژوهشگران در کارگاه اخلاق پژوهش، مالکیت فکری و انتشار مسئولانه یافته‌های علمی در عصر هوش مصنوعی | University News List",
-      "url": "https://news.google.com/rss/articles/CBMirgdBVV95cUxQMG9ha1NXQUJIQWs4eXVUU2o2Q3dpeERHSWhXWi1Cd1JlNmVNcFlCSk96blZ5aTJkcmpndTVrVXNtWWRDYjl6bFlFYWlSTTljaVdfb0ZZSXN5OGNqaWtxRVhNektOVUYxTHBKOHpyMWkyQjdIemQwUnFvOWRuRm0wRllKX2dBY0tuVXpsbG9UOF9DZ3pySnoxSHFBMm9yVU9SQ1FXYjFVbW9QdTVobEhfOTZxeldsUmFPZGpsSGwxWlFPUVFWb01nZjVZRzI5UFZvbGo3a3RvM1BFV0M0bEVvYWs1NDNTNW1aUnFuVWNsSFlqbUhzYUMyLWgyTWRrVEFJeUY3NVV1akhEbTRjZU9VNUx2NTJLU0hnUk9SeDBBalNCX0tXOGhCNDhwSlVvNHpKV3RZUFY5OVVVYlBWTnZEbnBJbU9QMm52OS0tdEZXUklpODJVa1ViLXRyd2F6TDFMU3FCTVc0ajBNWVQwdnJfNGVkUlBhOEN3c19sTm1sVENhNjFJemY2NDBDb0RiZG5vdHFjUUV3bkVFdjdzVDBOMVJvT181b2E3NmdUUUUxUnJFZWhpLXVONmtweVdsZDJQbm02X2VzUVJNQS1qc0hqci1wU0dVMTF1Vkh2dnRDWGswNVV5bk1fSVlrWHhtdTVsU2VDbkdWWlpjT2t0bDc1WlN3aHpDWXc5dmZRVk1tY0w4aXpvM2JiMlJINC11dlFOZ3g4cVpQR2x5Nktpb0xSRG51WnZhNnJDZG9WWXRacGVkMUMxWUpFLWdXdGlteEZVMERKTEF6dm5wNnVaaFE2MFZTa1dGdlN5Z3Nia2VyTUhwQ3dQMHpIbEdadWRtU0oxUTAxT3duMktTUFRDYWUxcHRfZ3dQWU9LTi1EaGdwNWMtTk1XTjVhTGdqNHFDck1ubTZiWkpscDVVbHRnLW1WRktQY3JSaFE5MlZLYTNUTkltMGRDOG1HcEJJX3VCOGZGaU1FS0tnSTJSUGxBN1dvQ3U2OUVGd0RRX1p2U2FJck91dlVSMU1Tc1NKMTF6eWFGWVNnMUZzeDhRbnZHQkZ3bmVOejlXZUtaLVA4MmhpS0dHYW1ja29rS3F4YW4wMTQ2NUtJVDJFVFFVNlFzYW92SVp5TFg4TzRqNEhkaU1RTGZDYjdtSlRPTXZpM3FMZk9IVTFmekVIRl85V3UxclA3NXMwOEVYNUFjZGpac09Kb0RBOE12VGprX3NzdHI1NkZJN2hlanFsOE1yY0FZVkE?oc=5",
-      "source": "دانشگاه لرستان",
-      "lang": "fa",
-      "published": "2026-10-18T05:46:58.000Z",
-      "summary": "فراخوان شرکت اعضای هئیت علمی و پژوهشگران در کارگاه اخلاق پژوهش، مالکیت فکری و انتشار مسئولانه یافته‌های علمی در عصر هوش مصنوعی | University News List دانشگاه لرستان"
     }
   ]
 }
