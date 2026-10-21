@@ -1,21 +1,69 @@
 {
-  "updated_at": "2026-10-21T16:15:51.882Z",
+  "updated_at": "2026-10-21T20:59:35.512Z",
   "items": [
     {
-      "title": "هوش مصنوعی اوپن‌ای‌آی پیش از هکرها حفره‌های بحرانی PHP را پیدا کرد",
-      "url": "https://www.zoomit.ir/ai-articles/469581-openai-patch-the-planet-php-vulnerabilities/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-10-21T15:39:31.000Z",
-      "summary": "یک مدل هوش مصنوعی حفره‌ای بحرانی در PHP یافت و ائتلافی جهانی پیش از افشای عمومی برای وصله‌کردن بخش بزرگی از وب به راه افتاد."
+      "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
+      "url": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-10-21T20:27:41.000Z",
+      "summary": "Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that improves itself."
     },
     {
-      "title": "هوش مصنوعی Perplexity حالا به‌صورت کاملا آفلاین روی مک اجرا می‌شود",
-      "url": "https://www.zoomit.ir/ai-articles/469531-perplexity-computer-local-mac-update/",
+      "title": "جنرال موتورز با هوش مصنوعی زمان توسعه خودروها را نصف می‌کند",
+      "url": "https://www.zoomit.ir/car/469585-gm-onward-ai-ev-battery-central-compute-autonomy/",
       "source": "زومیت",
       "lang": "fa",
-      "published": "2026-10-21T15:10:00.000Z",
-      "summary": "پرپلکسی با به‌روزرسانی ابزار Perplexity Computer، امکان اجرای کاملا آفلاین و محلی مدل‌های هوش مصنوعی را روی مک فراهم کرد."
+      "published": "2026-10-21T19:38:08.000Z",
+      "summary": "جنرال موتورز از کامپیوتر مرکزی ۴۰ برابر قوی‌تر، باتری LMR و رانندگی بدون نگاه برای خودروهایش گفت؛ اما آیا وعده‌ها سرانجام عملی می‌شوند؟"
+    },
+    {
+      "title": "این هوش مصنوعی با تحلیل عکس چهره شانس بقای بیماران سرطانی را تخمین می‌زند",
+      "url": "https://digiato.com/health/ai-face-photo-cancer-survival-prediction",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-10-21T19:30:00.000Z",
+      "summary": "پژوهشگران هوش مصنوعی FAHR-Face را توسعه دادند که با تحلیل عکس چهره، سن زیستی و احتمال بقای بیماران سرطانی را تخمین می‌زند. The post این هوش مصنوعی با تحلیل عکس چهره شانس بقای بیماران سرطانی را تخمین می‌زند appeared first"
+    },
+    {
+      "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
+      "url": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-10-21T19:30:00.000Z",
+      "summary": "As Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technology that lets AI agents make purchases on customers' behalf, with controls over spending and transacti"
+    },
+    {
+      "title": "اینتل و ای‌ام‌دی برای تسهیل توسعه هوش مصنوعی روی تراشه‌های x86 وارد همکاری شدند",
+      "url": "https://www.zoomit.ir/hardware/469535-intel-amd-x86-ai-collaboration/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-10-21T19:15:00.000Z",
+      "summary": "اینتل و AMD با همکاری یکدیگر، اجرای مدل‌های هوش مصنوعی روی پردازنده‌های x86 را تسهیل می‌کنند."
+    },
+    {
+      "title": "هوش مصنوعی درد را می‌فهمد؟ چرا نباید سر چت‌جی‌پی‌تی داد بزنیم؟",
+      "url": "https://digiato.com/artificial-intelligence/does-ai-experience-pain-and-have-consciousness",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-10-21T18:30:00.000Z",
+      "summary": "دانشمندان هشدار می‌دهند اگر این ماشین‌ها واقعاً درد را تجربه کنند، عواقب بی‌رحمی ما سنگین‌تر از چیزی خواهد بود که در فیلم‌های هالیوودی دیده‌ایم. The post هوش مصنوعی درد را می‌فهمد؟ چرا نباید سر چت‌جی‌پی‌تی داد بزنیم؟ app"
+    },
+    {
+      "title": "از جیمیل تا گوگل فوتوز؛ هوش مصنوعی جمنای به دستیار شخصی راننده‌ها تبدیل می‌شود",
+      "url": "https://www.zoomit.ir/ai-articles/469533-google-gemini-cars-personal-intelligence/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-10-21T17:10:00.000Z",
+      "summary": "گوگل دستیار هوش مصنوعی جمنای در خودروها را به قابلیت «هوش شخصی» مجهز کرد تا اطلاعات برنامه‌های کاربردی را یکپارچه کند."
+    },
+    {
+      "title": "How AT&T is rethinking in-house legal work with OpenAI",
+      "url": "https://openai.com/index/att-legal",
+      "source": "OpenAI",
+      "lang": "en",
+      "published": "2026-10-21T17:00:00.000Z",
+      "summary": "AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment."
     },
     {
       "title": "AI promises productivity, but for managers, it’s mostly a headache for now",
@@ -42,60 +90,12 @@
       "summary": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace."
     },
     {
-      "title": "استارتاپ آمریکایی با هوش مصنوعی زبان گیاهان را رمزگشایی می‌کند",
-      "url": "https://digiato.com/artificial-intelligence/electric-plant-ai-decodes-plant-signals",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-10-21T11:56:35.000Z",
-      "summary": "استارتاپ Electric Plant با توسعه مدل هوش مصنوعی Bombadil، سیگنال‌های الکتریکی بیش از ۱۲۵ گونه گیاهی را تحلیل می‌کند. The post استارتاپ آمریکایی با هوش مصنوعی زبان گیاهان را رمزگشایی می‌کند appeared first on دیجیاتو."
-    },
-    {
-      "title": "هوش مصنوعی با یک سلفی، احتمال بقای بیماران سرطانی را پیش‌بینی می‌کند",
-      "url": "https://www.zoomit.ir/health-medical/469500-ai-face-analysis-cancer-survival/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-10-21T09:50:00.000Z",
-      "summary": "پژوهشگران ابزار هوش مصنوعی جدیدی ساخته‌اند که با بررسی چهره افراد، سن زیستی آن‌ها را تخمین می‌زند و احتمال بقای بیماران سرطانی را پیش‌بینی می‌کند."
-    },
-    {
-      "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
-      "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
-      "source": "OpenAI",
-      "lang": "en",
-      "published": "2026-10-21T07:00:00.000Z",
-      "summary": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source."
-    },
-    {
-      "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
-      "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-10-20T23:01:23.000Z",
-      "summary": "The proposed policy seems to offer protections against AI running amok but actually forbids federal agencies from blocking a model's release without the permission of a judge."
-    },
-    {
-      "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
-      "url": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-10-20T22:24:02.000Z",
-      "summary": "Before you share the Netflix documentary \"AI Gone Rogue,\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate."
-    },
-    {
       "title": "The new economics of enterprise AI",
       "url": "https://www.technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai/",
       "source": "MIT Technology Review",
       "lang": "en",
       "published": "2026-10-20T15:20:25.000Z",
       "summary": "Imagine your company just discovered electricity. At first only a few machines run on it, and nobody worries about efficiency — consumption is low and the value is obvious. But once electricity becomes infrastructure, ev"
-    },
-    {
-      "title": "AI adoption by industry shows what other sectors can learn",
-      "url": "https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn/",
-      "source": "MIT Technology Review",
-      "lang": "en",
-      "published": "2026-10-20T12:00:00.000Z",
-      "summary": "The current narrative around artificial intelligence in the workplace is largely driven by Silicon Valley. But treating the tech sector as an island misses the actual trends in technology adoption–tech is just the first "
     }
   ]
 }
