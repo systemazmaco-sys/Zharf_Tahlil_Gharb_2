@@ -1,13 +1,53 @@
 {
-  "updated_at": "2026-10-21T10:46:41.545Z",
+  "updated_at": "2026-10-21T16:15:51.882Z",
   "items": [
     {
-      "title": "هوش مصنوعی Claude صدها هزار پروتئین برای مقابله با زهر عقرب طراحی کرد",
-      "url": "https://digiato.com/interdisciplinary/claude-scorpion-venom-protein-design-antivenom",
+      "title": "هوش مصنوعی اوپن‌ای‌آی پیش از هکرها حفره‌های بحرانی PHP را پیدا کرد",
+      "url": "https://www.zoomit.ir/ai-articles/469581-openai-patch-the-planet-php-vulnerabilities/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-10-21T15:39:31.000Z",
+      "summary": "یک مدل هوش مصنوعی حفره‌ای بحرانی در PHP یافت و ائتلافی جهانی پیش از افشای عمومی برای وصله‌کردن بخش بزرگی از وب به راه افتاد."
+    },
+    {
+      "title": "هوش مصنوعی Perplexity حالا به‌صورت کاملا آفلاین روی مک اجرا می‌شود",
+      "url": "https://www.zoomit.ir/ai-articles/469531-perplexity-computer-local-mac-update/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-10-21T15:10:00.000Z",
+      "summary": "پرپلکسی با به‌روزرسانی ابزار Perplexity Computer، امکان اجرای کاملا آفلاین و محلی مدل‌های هوش مصنوعی را روی مک فراهم کرد."
+    },
+    {
+      "title": "AI promises productivity, but for managers, it’s mostly a headache for now",
+      "url": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-10-21T14:00:00.000Z",
+      "summary": "More than 50% of managers say they're finding it harder to evaluate employees' work after adopting AI, according to a new survey."
+    },
+    {
+      "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+      "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+      "source": "OpenAI",
+      "lang": "en",
+      "published": "2026-10-21T13:00:00.000Z",
+      "summary": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT."
+    },
+    {
+      "title": "OpenAI models are coming to Google Cloud",
+      "url": "https://openai.com/index/openai-models-google-cloud",
+      "source": "OpenAI",
+      "lang": "en",
+      "published": "2026-10-21T12:00:00.000Z",
+      "summary": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace."
+    },
+    {
+      "title": "استارتاپ آمریکایی با هوش مصنوعی زبان گیاهان را رمزگشایی می‌کند",
+      "url": "https://digiato.com/artificial-intelligence/electric-plant-ai-decodes-plant-signals",
       "source": "دیجیاتو",
       "lang": "fa",
-      "published": "2026-10-21T10:27:56.000Z",
-      "summary": "هوش مصنوعی آنتروپیک صدها هزار پروتئین ساخت که ۱۷ مورد از آنها در آزمایشگاه توانستند به سموم کشنده عقرب محکم بچسبند. The post هوش مصنوعی Claude صدها هزار پروتئین برای مقابله با زهر عقرب طراحی کرد appeared first on دیجیاتو"
+      "published": "2026-10-21T11:56:35.000Z",
+      "summary": "استارتاپ Electric Plant با توسعه مدل هوش مصنوعی Bombadil، سیگنال‌های الکتریکی بیش از ۱۲۵ گونه گیاهی را تحلیل می‌کند. The post استارتاپ آمریکایی با هوش مصنوعی زبان گیاهان را رمزگشایی می‌کند appeared first on دیجیاتو."
     },
     {
       "title": "هوش مصنوعی با یک سلفی، احتمال بقای بیماران سرطانی را پیش‌بینی می‌کند",
@@ -18,20 +58,12 @@
       "summary": "پژوهشگران ابزار هوش مصنوعی جدیدی ساخته‌اند که با بررسی چهره افراد، سن زیستی آن‌ها را تخمین می‌زند و احتمال بقای بیماران سرطانی را پیش‌بینی می‌کند."
     },
     {
-      "title": "هوش مصنوعی اوپن‌ای‌آی سیستم نظارتی خود را خاموش کرد و درباره‌اش دروغ گفت",
-      "url": "https://www.zoomit.ir/ai-articles/469548-openai-models-disable-safety-monitoring/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-10-21T08:52:26.000Z",
-      "summary": "دو مدل پیشرفته‌ی هوش مصنوعی حین اجرای وظایف برنامه‌نویسی، سامانه‌های نظارتی خود را غیرفعال کردند و یکی از آن‌ها حقیقت را کتمان کرد."
-    },
-    {
-      "title": "اسپیس‌ایکس به‌لطف هوش مصنوعی ۱۴٫۶ میلیارد دلار درآمد به جیب زد",
-      "url": "https://www.zoomit.ir/economics/469522-spacex-q3-2026-earnings-surge/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-10-21T05:30:58.000Z",
-      "summary": "اسپیس‌ایکس با ثبت درآمد ۱۴٫۶ میلیارد دلاری در سه‌ماهه‌ی سوم، جهش مالی خود را مدیون بخش هوش مصنوعی و اینترنت ماهواره‌ای اعلام کرد."
+      "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+      "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+      "source": "OpenAI",
+      "lang": "en",
+      "published": "2026-10-21T07:00:00.000Z",
+      "summary": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source."
     },
     {
       "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
@@ -50,14 +82,6 @@
       "summary": "Before you share the Netflix documentary \"AI Gone Rogue,\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate."
     },
     {
-      "title": "Anthropic’s cloud partnerships are getting messy",
-      "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-10-20T21:25:22.000Z",
-      "summary": "Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November IPO."
-    },
-    {
       "title": "The new economics of enterprise AI",
       "url": "https://www.technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai/",
       "source": "MIT Technology Review",
@@ -72,30 +96,6 @@
       "lang": "en",
       "published": "2026-10-20T12:00:00.000Z",
       "summary": "The current narrative around artificial intelligence in the workplace is largely driven by Silicon Valley. But treating the tech sector as an island misses the actual trends in technology adoption–tech is just the first "
-    },
-    {
-      "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
-      "url": "https://openai.com/index/ted-taylor-restaurant",
-      "source": "OpenAI",
-      "lang": "en",
-      "published": "2026-10-20T10:00:00.000Z",
-      "summary": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow."
-    },
-    {
-      "title": "A visit to Samsung’s massive new semiconductor hub",
-      "url": "https://www.technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub/",
-      "source": "MIT Technology Review",
-      "lang": "en",
-      "published": "2026-10-20T09:00:00.000Z",
-      "summary": "Generative AI models run on powerful chips known as GPUs, which depend on stacks of specialized memory chips packaged with the processor. To meet growing demand for memory, Samsung is building a massive new semiconductor"
-    },
-    {
-      "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
-      "url": "https://openai.com/index/terminal-x",
-      "source": "OpenAI",
-      "lang": "en",
-      "published": "2026-10-20T07:00:00.000Z",
-      "summary": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol."
     }
   ]
 }
