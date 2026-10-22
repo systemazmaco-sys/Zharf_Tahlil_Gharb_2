@@ -1,13 +1,37 @@
 {
-  "updated_at": "2026-10-21T20:59:35.512Z",
+  "updated_at": "2026-10-22T02:19:14.775Z",
   "items": [
     {
-      "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
-      "url": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
+      "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
+      "url": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
       "source": "TechCrunch AI",
       "lang": "en",
-      "published": "2026-10-21T20:27:41.000Z",
-      "summary": "Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that improves itself."
+      "published": "2026-10-21T22:51:22.000Z",
+      "summary": "Blackstone’s AI head on why the PE giant isn't panicked by market jitters."
+    },
+    {
+      "title": "TechCrunch Founder Summit 2026: Everything you need to know",
+      "url": "https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-10-21T21:16:20.000Z",
+      "summary": "TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insights on building and scaling their compan"
+    },
+    {
+      "title": "Meta says Muse has over 10M users, with shopping a top activity",
+      "url": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-10-21T21:14:19.000Z",
+      "summary": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during Q3 earnings. The AI app now has over 10M users."
+    },
+    {
+      "title": "Broad access through consistent standards",
+      "url": "https://openai.com/index/broad-access-through-consistent-standards",
+      "source": "OpenAI",
+      "lang": "en",
+      "published": "2026-10-21T21:00:00.000Z",
+      "summary": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies."
     },
     {
       "title": "جنرال موتورز با هوش مصنوعی زمان توسعه خودروها را نصف می‌کند",
@@ -24,14 +48,6 @@
       "lang": "fa",
       "published": "2026-10-21T19:30:00.000Z",
       "summary": "پژوهشگران هوش مصنوعی FAHR-Face را توسعه دادند که با تحلیل عکس چهره، سن زیستی و احتمال بقای بیماران سرطانی را تخمین می‌زند. The post این هوش مصنوعی با تحلیل عکس چهره شانس بقای بیماران سرطانی را تخمین می‌زند appeared first"
-    },
-    {
-      "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
-      "url": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-10-21T19:30:00.000Z",
-      "summary": "As Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technology that lets AI agents make purchases on customers' behalf, with controls over spending and transacti"
     },
     {
       "title": "اینتل و ای‌ام‌دی برای تسهیل توسعه هوش مصنوعی روی تراشه‌های x86 وارد همکاری شدند",
@@ -66,28 +82,12 @@
       "summary": "AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment."
     },
     {
-      "title": "AI promises productivity, but for managers, it’s mostly a headache for now",
-      "url": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-10-21T14:00:00.000Z",
-      "summary": "More than 50% of managers say they're finding it harder to evaluate employees' work after adopting AI, according to a new survey."
-    },
-    {
       "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
       "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
       "source": "OpenAI",
       "lang": "en",
       "published": "2026-10-21T13:00:00.000Z",
       "summary": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT."
-    },
-    {
-      "title": "OpenAI models are coming to Google Cloud",
-      "url": "https://openai.com/index/openai-models-google-cloud",
-      "source": "OpenAI",
-      "lang": "en",
-      "published": "2026-10-21T12:00:00.000Z",
-      "summary": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace."
     },
     {
       "title": "The new economics of enterprise AI",
