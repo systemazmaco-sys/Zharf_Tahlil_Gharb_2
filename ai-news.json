@@ -1,6 +1,62 @@
 {
-  "updated_at": "2026-10-22T02:19:14.775Z",
+  "updated_at": "2026-10-22T10:48:02.477Z",
   "items": [
+    {
+      "title": "Making the case for context-aware AI",
+      "url": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
+      "source": "MIT Technology Review",
+      "lang": "en",
+      "published": "2026-10-22T10:00:00.000Z",
+      "summary": "Enterprise AI can generate recommendations, automate tasks, and help organizations make decisions faster. But without an understanding of how a business actually operates, even powerful models can miss the constraints an"
+    },
+    {
+      "title": "ساندار پیچای برای اداره گوگل از ایجنت‌های هوش مصنوعی کمک می‌گیرد",
+      "url": "https://digiato.com/artificial-intelligence/sundar-pichai-ai-agents-google-management",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-10-22T09:44:14.000Z",
+      "summary": "ایجنت‌های هوش مصنوعی با پایش منابع و خلاصه‌سازی داده‌ها روند نظارت را برای پیچای آسان‌تر می‌کنند. The post ساندار پیچای برای اداره گوگل از ایجنت‌های هوش مصنوعی کمک می‌گیرد appeared first on دیجیاتو."
+    },
+    {
+      "title": "چطور با هوش مصنوعی سبک هر عکسی را روی عکس خودمان اجرا کنیم؟",
+      "url": "https://www.zoomit.ir/ai-articles/469562-replicate-image-style-ai-json/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-10-22T09:30:00.000Z",
+      "summary": "با کمک ChatGPT و جمنای می‌توانید ویژگی‌های یک عکس یا تصویرسازی را استخراج کنید و از آن‌ها برای ساخت تصاویر جدید با سوژه‌های دلخواهتان کمک بگیرید."
+    },
+    {
+      "title": "پالانتیر: سامانه هوش مصنوعی ناتو کلید خاموشی ندارد",
+      "url": "https://www.zoomit.ir/ai-articles/469619-palantir-nato-maven-no-kill-switch/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-10-22T09:00:00.000Z",
+      "summary": "اختلال استارلینک در اوکراین، ترس اروپا از وابستگی به فناوری آمریکا را زنده کرد. پالانتیر در واکنش می‌گوید «مِیوِن» را نمی‌توان از راه دور خاموش کرد."
+    },
+    {
+      "title": "AI’s hidden storage bill: What inference leaves behind",
+      "url": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
+      "source": "MIT Technology Review",
+      "lang": "en",
+      "published": "2026-10-22T08:41:18.000Z",
+      "summary": "Ask most executives to picture the cost of AI and they’ll likely see GPUs—racks of accelerators with gigawatts of power—and a waitlist for silicon. But that picture leaves something out: Data storage costs. What happens "
+    },
+    {
+      "title": "کلاد دوئت رونمایی شد؛ عامل هوش مصنوعی قدرتمند آنتروپیک برای رقابت با «میوس» و «داتس»",
+      "url": "https://www.zoomit.ir/ai-articles/469593-anthropic-claude-duet-ai-agent/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-10-22T05:38:30.000Z",
+      "summary": "آنتروپیک از عامل هوش مصنوعی کلاد دوئت با توانایی اجرای خودکار وظایف کاری و اداری در پس‌زمینه و هماهنگی هوشمند با کاربر رونمایی کرد."
+    },
+    {
+      "title": "آنتروپیک از ایجنت هوش مصنوعی Claude Duet رونمایی کرد؛ رقیب Muse متا [تماشا کنید]",
+      "url": "https://digiato.com/artificial-intelligence/anthropic-claude-duet-ai-agent-announced",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-10-22T05:15:55.000Z",
+      "summary": "این ابزار بر پایه مدل زبانی قدرتمند Opus 5.5 طراحی شده و به ماشین مجازی و مرورگر اختصاصی برای انجام وظایف مجهز است. The post آنتروپیک از ایجنت هوش مصنوعی Claude Duet رونمایی کرد؛ رقیب Muse متا [تماشا کنید] appeared first"
+    },
     {
       "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
       "url": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
@@ -23,7 +79,7 @@
       "source": "TechCrunch AI",
       "lang": "en",
       "published": "2026-10-21T21:14:19.000Z",
-      "summary": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during Q3 earnings. The AI app now has over 10M users."
+      "summary": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during its Q3 earnings call. The AI app now has over 10M users."
     },
     {
       "title": "Broad access through consistent standards",
@@ -34,68 +90,12 @@
       "summary": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies."
     },
     {
-      "title": "جنرال موتورز با هوش مصنوعی زمان توسعه خودروها را نصف می‌کند",
-      "url": "https://www.zoomit.ir/car/469585-gm-onward-ai-ev-battery-central-compute-autonomy/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-10-21T19:38:08.000Z",
-      "summary": "جنرال موتورز از کامپیوتر مرکزی ۴۰ برابر قوی‌تر، باتری LMR و رانندگی بدون نگاه برای خودروهایش گفت؛ اما آیا وعده‌ها سرانجام عملی می‌شوند؟"
-    },
-    {
       "title": "این هوش مصنوعی با تحلیل عکس چهره شانس بقای بیماران سرطانی را تخمین می‌زند",
       "url": "https://digiato.com/health/ai-face-photo-cancer-survival-prediction",
       "source": "دیجیاتو",
       "lang": "fa",
       "published": "2026-10-21T19:30:00.000Z",
       "summary": "پژوهشگران هوش مصنوعی FAHR-Face را توسعه دادند که با تحلیل عکس چهره، سن زیستی و احتمال بقای بیماران سرطانی را تخمین می‌زند. The post این هوش مصنوعی با تحلیل عکس چهره شانس بقای بیماران سرطانی را تخمین می‌زند appeared first"
-    },
-    {
-      "title": "اینتل و ای‌ام‌دی برای تسهیل توسعه هوش مصنوعی روی تراشه‌های x86 وارد همکاری شدند",
-      "url": "https://www.zoomit.ir/hardware/469535-intel-amd-x86-ai-collaboration/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-10-21T19:15:00.000Z",
-      "summary": "اینتل و AMD با همکاری یکدیگر، اجرای مدل‌های هوش مصنوعی روی پردازنده‌های x86 را تسهیل می‌کنند."
-    },
-    {
-      "title": "هوش مصنوعی درد را می‌فهمد؟ چرا نباید سر چت‌جی‌پی‌تی داد بزنیم؟",
-      "url": "https://digiato.com/artificial-intelligence/does-ai-experience-pain-and-have-consciousness",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-10-21T18:30:00.000Z",
-      "summary": "دانشمندان هشدار می‌دهند اگر این ماشین‌ها واقعاً درد را تجربه کنند، عواقب بی‌رحمی ما سنگین‌تر از چیزی خواهد بود که در فیلم‌های هالیوودی دیده‌ایم. The post هوش مصنوعی درد را می‌فهمد؟ چرا نباید سر چت‌جی‌پی‌تی داد بزنیم؟ app"
-    },
-    {
-      "title": "از جیمیل تا گوگل فوتوز؛ هوش مصنوعی جمنای به دستیار شخصی راننده‌ها تبدیل می‌شود",
-      "url": "https://www.zoomit.ir/ai-articles/469533-google-gemini-cars-personal-intelligence/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-10-21T17:10:00.000Z",
-      "summary": "گوگل دستیار هوش مصنوعی جمنای در خودروها را به قابلیت «هوش شخصی» مجهز کرد تا اطلاعات برنامه‌های کاربردی را یکپارچه کند."
-    },
-    {
-      "title": "How AT&T is rethinking in-house legal work with OpenAI",
-      "url": "https://openai.com/index/att-legal",
-      "source": "OpenAI",
-      "lang": "en",
-      "published": "2026-10-21T17:00:00.000Z",
-      "summary": "AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment."
-    },
-    {
-      "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
-      "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
-      "source": "OpenAI",
-      "lang": "en",
-      "published": "2026-10-21T13:00:00.000Z",
-      "summary": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT."
-    },
-    {
-      "title": "The new economics of enterprise AI",
-      "url": "https://www.technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai/",
-      "source": "MIT Technology Review",
-      "lang": "en",
-      "published": "2026-10-20T15:20:25.000Z",
-      "summary": "Imagine your company just discovered electricity. At first only a few machines run on it, and nobody worries about efficiency — consumption is low and the value is obvious. But once electricity becomes infrastructure, ev"
     }
   ]
 }
