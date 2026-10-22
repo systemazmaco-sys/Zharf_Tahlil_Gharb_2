@@ -1,6 +1,86 @@
 {
-  "updated_at": "2026-10-22T10:48:02.477Z",
+  "updated_at": "2026-10-22T20:57:17.685Z",
   "items": [
+    {
+      "title": "عینک هوشمند GO3 با نمایشگر و پشتیبانی از هوش مصنوعی جمنای رونمایی شد",
+      "url": "https://www.zoomit.ir/wearables/469607-inmo-go3-smart-glasses-launch/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-10-22T19:50:00.000Z",
+      "summary": "عینک هوشمند INMO GO3 مجهز به دو نمایشگر مستقل و دستیار هوش مصنوعی با قیمت ۵۰۹ دلار معرفی شد."
+    },
+    {
+      "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
+      "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-10-22T19:07:09.000Z",
+      "summary": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts."
+    },
+    {
+      "title": "Build more responsive apps with the Decisions API",
+      "url": "https://openai.com/index/decisions-api",
+      "source": "OpenAI",
+      "lang": "en",
+      "published": "2026-10-22T19:00:00.000Z",
+      "summary": "Fast, focused, low-cost decisions for any application."
+    },
+    {
+      "title": "Canva releases its first image generation model",
+      "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-10-22T19:00:00.000Z",
+      "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs."
+    },
+    {
+      "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+      "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-10-22T19:00:00.000Z",
+      "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?"
+    },
+    {
+      "title": "بحران عجیب بانک‌های آمریکایی: ورود غیرقانونی هوش مصنوعی به حساب‌ها",
+      "url": "https://www.zoomit.ir/security/469654-unauthorized-ai-agents-us-bank-accounts/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-10-22T18:58:29.000Z",
+      "summary": "بانک‌های بزرگ آمریکا با عامل‌هایی هوشمند روبه‌رو شده‌اند که وارد حساب مشتریان می‌شوند و گاه فراتر از دستور کاربر عمل می‌کنند."
+    },
+    {
+      "title": "The Foundations of Scalable AI",
+      "url": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
+      "source": "MIT Technology Review",
+      "lang": "en",
+      "published": "2026-10-22T18:48:04.000Z",
+      "summary": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This session from MIT Technology Review’s EmTech Future conference explores "
+    },
+    {
+      "title": "هوش مصنوعی مایکروسافت پزشکان را در تشخیص بیماری پشت سر گذاشت",
+      "url": "https://www.zoomit.ir/health-medical/469650-microsoft-ai-outperforms-doctors-diagnosis/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-10-22T18:40:57.000Z",
+      "summary": "سامانه‌ی چندعاملی مایکروسافت در آزمون‌های پزشکی، دقیق‌تر و کم‌هزینه‌تر از پزشکان بود، اما هنوز اعتبارسنجی بالینی نشده است."
+    },
+    {
+      "title": "هوش مصنوعی وزن‌باز چیست؟ وقتی مغز مدل در لپ‌تاپ شماست",
+      "url": "https://digiato.com/artificial-intelligence/open-weight-ai-models-local-laptop",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-10-22T18:30:00.000Z",
+      "summary": "در این مطلب به شما می‌گوییم مزیت مدل‌های وزن‌باز در چیست و کدام مدل‌ها را می‌توانید روی لپ‌تاپ یا کامپیوتر خودتان اجرا کنید. The post هوش مصنوعی وزن‌باز چیست؟ وقتی مغز مدل در لپ‌تاپ شماست appeared first on دیجیاتو."
+    },
+    {
+      "title": "Beyond tree cover: mapping the world’s forest types",
+      "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
+      "source": "Google DeepMind",
+      "lang": "en",
+      "published": "2026-10-22T14:30:24.000Z",
+      "summary": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types."
+    },
     {
       "title": "Making the case for context-aware AI",
       "url": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
@@ -10,92 +90,12 @@
       "summary": "Enterprise AI can generate recommendations, automate tasks, and help organizations make decisions faster. But without an understanding of how a business actually operates, even powerful models can miss the constraints an"
     },
     {
-      "title": "ساندار پیچای برای اداره گوگل از ایجنت‌های هوش مصنوعی کمک می‌گیرد",
-      "url": "https://digiato.com/artificial-intelligence/sundar-pichai-ai-agents-google-management",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-10-22T09:44:14.000Z",
-      "summary": "ایجنت‌های هوش مصنوعی با پایش منابع و خلاصه‌سازی داده‌ها روند نظارت را برای پیچای آسان‌تر می‌کنند. The post ساندار پیچای برای اداره گوگل از ایجنت‌های هوش مصنوعی کمک می‌گیرد appeared first on دیجیاتو."
-    },
-    {
-      "title": "چطور با هوش مصنوعی سبک هر عکسی را روی عکس خودمان اجرا کنیم؟",
-      "url": "https://www.zoomit.ir/ai-articles/469562-replicate-image-style-ai-json/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-10-22T09:30:00.000Z",
-      "summary": "با کمک ChatGPT و جمنای می‌توانید ویژگی‌های یک عکس یا تصویرسازی را استخراج کنید و از آن‌ها برای ساخت تصاویر جدید با سوژه‌های دلخواهتان کمک بگیرید."
-    },
-    {
-      "title": "پالانتیر: سامانه هوش مصنوعی ناتو کلید خاموشی ندارد",
-      "url": "https://www.zoomit.ir/ai-articles/469619-palantir-nato-maven-no-kill-switch/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-10-22T09:00:00.000Z",
-      "summary": "اختلال استارلینک در اوکراین، ترس اروپا از وابستگی به فناوری آمریکا را زنده کرد. پالانتیر در واکنش می‌گوید «مِیوِن» را نمی‌توان از راه دور خاموش کرد."
-    },
-    {
       "title": "AI’s hidden storage bill: What inference leaves behind",
       "url": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
       "source": "MIT Technology Review",
       "lang": "en",
       "published": "2026-10-22T08:41:18.000Z",
       "summary": "Ask most executives to picture the cost of AI and they’ll likely see GPUs—racks of accelerators with gigawatts of power—and a waitlist for silicon. But that picture leaves something out: Data storage costs. What happens "
-    },
-    {
-      "title": "کلاد دوئت رونمایی شد؛ عامل هوش مصنوعی قدرتمند آنتروپیک برای رقابت با «میوس» و «داتس»",
-      "url": "https://www.zoomit.ir/ai-articles/469593-anthropic-claude-duet-ai-agent/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-10-22T05:38:30.000Z",
-      "summary": "آنتروپیک از عامل هوش مصنوعی کلاد دوئت با توانایی اجرای خودکار وظایف کاری و اداری در پس‌زمینه و هماهنگی هوشمند با کاربر رونمایی کرد."
-    },
-    {
-      "title": "آنتروپیک از ایجنت هوش مصنوعی Claude Duet رونمایی کرد؛ رقیب Muse متا [تماشا کنید]",
-      "url": "https://digiato.com/artificial-intelligence/anthropic-claude-duet-ai-agent-announced",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-10-22T05:15:55.000Z",
-      "summary": "این ابزار بر پایه مدل زبانی قدرتمند Opus 5.5 طراحی شده و به ماشین مجازی و مرورگر اختصاصی برای انجام وظایف مجهز است. The post آنتروپیک از ایجنت هوش مصنوعی Claude Duet رونمایی کرد؛ رقیب Muse متا [تماشا کنید] appeared first"
-    },
-    {
-      "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
-      "url": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-10-21T22:51:22.000Z",
-      "summary": "Blackstone’s AI head on why the PE giant isn't panicked by market jitters."
-    },
-    {
-      "title": "TechCrunch Founder Summit 2026: Everything you need to know",
-      "url": "https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-10-21T21:16:20.000Z",
-      "summary": "TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insights on building and scaling their compan"
-    },
-    {
-      "title": "Meta says Muse has over 10M users, with shopping a top activity",
-      "url": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-10-21T21:14:19.000Z",
-      "summary": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during its Q3 earnings call. The AI app now has over 10M users."
-    },
-    {
-      "title": "Broad access through consistent standards",
-      "url": "https://openai.com/index/broad-access-through-consistent-standards",
-      "source": "OpenAI",
-      "lang": "en",
-      "published": "2026-10-21T21:00:00.000Z",
-      "summary": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies."
-    },
-    {
-      "title": "این هوش مصنوعی با تحلیل عکس چهره شانس بقای بیماران سرطانی را تخمین می‌زند",
-      "url": "https://digiato.com/health/ai-face-photo-cancer-survival-prediction",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-10-21T19:30:00.000Z",
-      "summary": "پژوهشگران هوش مصنوعی FAHR-Face را توسعه دادند که با تحلیل عکس چهره، سن زیستی و احتمال بقای بیماران سرطانی را تخمین می‌زند. The post این هوش مصنوعی با تحلیل عکس چهره شانس بقای بیماران سرطانی را تخمین می‌زند appeared first"
     }
   ]
 }
