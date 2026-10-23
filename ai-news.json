@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-10-23T10:40:16.002Z",
+  "updated_at": "2026-10-23T16:04:05.700Z",
   "items": [
+    {
+      "title": "جنگ سرمایه در عصر هوش مصنوعی؛ دیپ‌سیک ۱۵ میلیارد دلار بودجه جدید دریافت کرد",
+      "url": "https://www.zoomit.ir/business/469621-deepseek-raises-15-billion-funding/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-10-23T11:10:00.000Z",
+      "summary": "استارتاپ چینی دیپ‌سیک در آستانه‌ی نهایی‌کردن دور جدید جذب سرمایه‌ی خود به ارزش تقریبی ۱۵ میلیارد دلار قرار دارد."
+    },
     {
       "title": "هوش مصنوعی جدید مایکروسافت در تشخیص بیماری‌های پیچیده از پزشکان بهتر عمل کرد",
       "url": "https://digiato.com/artificial-intelligence/microsoft-ai-diagnoses-complex-diseases-more-than-twice-as-accurately-as-general-practitioners",
@@ -18,28 +26,12 @@
       "summary": "پژوهش جدید آنتروپیک نشان داد هوش مصنوعی کلاد توانسته ۴۹۳ نقص امنیتی را در ۲۵ پروژه متن‌باز پرکاربرد از جمله اوپن‌اس‌اس‌اچ کشف کند."
     },
     {
-      "title": "مشاهده محققان MIT: ایجنت‌های هوش مصنوعی وقتی بیکار باشند، بازی می‌کنند",
-      "url": "https://digiato.com/artificial-intelligence/ai-agents-started-playing-cause-they-had-nothing-to-do",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-10-23T08:44:39.000Z",
-      "summary": "برخی از این ایجنت‌ها نیز روش‌های جدیدی برای تعامل با محیط کشف کردند. The post مشاهده محققان MIT: ایجنت‌های هوش مصنوعی وقتی بیکار باشند، بازی می‌کنند appeared first on دیجیاتو."
-    },
-    {
       "title": "انویدیا در استارتاپ هوش مصنوعی Higgsfield سرمایه‌گذاری کرد",
       "url": "https://www.zoomit.ir/business/469664-nvidia-tcv-invest-higgsfield-ai-video/",
       "source": "زومیت",
       "lang": "fa",
       "published": "2026-10-23T05:39:02.000Z",
       "summary": "Higgsfield با بیش از ۴۰ میلیون کاربر و پشتیبانی انویدیا، برای گسترش زیرساخت جهانی و عبور از درآمد سالانه‌ی یک میلیارد دلار آماده می‌شود."
-    },
-    {
-      "title": "جهش سود نوکیا با تکیه بر هوش مصنوعی",
-      "url": "https://www.zoomit.ir/economics/469613-nokia-q3-profit-ai-boost/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-10-23T04:15:00.000Z",
-      "summary": "تقاضای فزاینده برای خدمات هوش مصنوعی و رایانش ابری، سود عملیاتی نوکیا را در سه‌ماهه‌ی سوم به ۶۰۵ میلیون یورو رساند."
     },
     {
       "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
@@ -96,6 +88,14 @@
       "lang": "en",
       "published": "2026-10-22T18:48:04.000Z",
       "summary": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This session from MIT Technology Review’s EmTech Future conference explores "
+    },
+    {
+      "title": "Making the case for context-aware AI",
+      "url": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
+      "source": "MIT Technology Review",
+      "lang": "en",
+      "published": "2026-10-22T10:00:00.000Z",
+      "summary": "Enterprise AI can generate recommendations, automate tasks, and help organizations make decisions faster. But without an understanding of how a business actually operates, even powerful models can miss the constraints an"
     }
   ]
 }
