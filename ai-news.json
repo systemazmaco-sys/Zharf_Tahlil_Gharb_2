@@ -1,6 +1,30 @@
 {
-  "updated_at": "2026-10-22T20:57:17.685Z",
+  "updated_at": "2026-10-23T02:24:45.421Z",
   "items": [
+    {
+      "title": "Left alone with nothing to do, AI agents started playing",
+      "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-10-23T00:45:37.000Z",
+      "summary": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs."
+    },
+    {
+      "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+      "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-10-22T22:08:24.000Z",
+      "summary": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever."
+    },
+    {
+      "title": "Designing an AI serving harness built to last",
+      "url": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
+      "source": "MIT Technology Review",
+      "lang": "en",
+      "published": "2026-10-22T21:17:29.000Z",
+      "summary": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift. For the past several years, much of the AI conversation has center"
+    },
     {
       "title": "عینک هوشمند GO3 با نمایشگر و پشتیبانی از هوش مصنوعی جمنای رونمایی شد",
       "url": "https://www.zoomit.ir/wearables/469607-inmo-go3-smart-glasses-launch/",
@@ -24,22 +48,6 @@
       "lang": "en",
       "published": "2026-10-22T19:00:00.000Z",
       "summary": "Fast, focused, low-cost decisions for any application."
-    },
-    {
-      "title": "Canva releases its first image generation model",
-      "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-10-22T19:00:00.000Z",
-      "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs."
-    },
-    {
-      "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
-      "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-10-22T19:00:00.000Z",
-      "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?"
     },
     {
       "title": "بحران عجیب بانک‌های آمریکایی: ورود غیرقانونی هوش مصنوعی به حساب‌ها",
@@ -88,14 +96,6 @@
       "lang": "en",
       "published": "2026-10-22T10:00:00.000Z",
       "summary": "Enterprise AI can generate recommendations, automate tasks, and help organizations make decisions faster. But without an understanding of how a business actually operates, even powerful models can miss the constraints an"
-    },
-    {
-      "title": "AI’s hidden storage bill: What inference leaves behind",
-      "url": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
-      "source": "MIT Technology Review",
-      "lang": "en",
-      "published": "2026-10-22T08:41:18.000Z",
-      "summary": "Ask most executives to picture the cost of AI and they’ll likely see GPUs—racks of accelerators with gigawatts of power—and a waitlist for silicon. But that picture leaves something out: Data storage costs. What happens "
     }
   ]
 }
