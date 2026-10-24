@@ -1,69 +1,61 @@
 {
-  "updated_at": "2026-10-24T09:57:14.834Z",
+  "updated_at": "2026-10-24T19:57:01.564Z",
   "items": [
     {
-      "title": "اشتباه مهلک هوش مصنوعی؛ یک کاسه توله‌ببر بخورید!",
+      "title": "بیل گیتس: از کلاد پرسیدم چطور شغل‌ها را برای انسان نگه داریم؟ هوش مصنوعی سلاح اتمی را ناچیز جلوه می‌دهد",
+      "url": "https://www.zoomit.ir/ai-articles/469779-bill-gates-ai-risk-regulation-featured/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-10-24T19:30:00.000Z",
+      "summary": "بیل گیتس با هشدار درباره تبعات شتاب هوش مصنوعی بر امنیت و بازار کار تا سه سال آینده، مهار این فناوری را نیازمند مداخله مستقیم دولت‌ها دانست."
+    },
+    {
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-10-24T19:00:00.000Z",
+      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations."
+    },
+    {
+      "title": "یک بیمار برای اولین‌بار در جهان دارویی حاوی ویروس ساخت هوش مصنوعی دریافت کرد",
+      "url": "https://digiato.com/interdisciplinary/ai-designed-virus-first-human-treatment",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-10-24T17:00:00.000Z",
+      "summary": "وضعیت بیمار هنوز باید برای چندین ماه بررسی شود تا پزشکان نتایج این آزمایش را منتشر کنند. The post یک بیمار برای اولین‌بار در جهان دارویی حاوی ویروس ساخت هوش مصنوعی دریافت کرد appeared first on دیجیاتو."
+    },
+    {
+      "title": "Block’s new voice model sounds eerily human",
+      "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-10-24T16:00:00.000Z",
+      "summary": "Block said that the voice model can run locally on a MacBook M4 Max"
+    },
+    {
+      "title": "جایگزینی انسان با هوش مصنوعی؛ بانک بارکلیز ۵۰۰۰ شغل را حذف می‌کند",
+      "url": "https://www.zoomit.ir/business/469623-barclays-cuts-jobs-ai-efficiency/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-10-24T15:10:00.000Z",
+      "summary": "بانک بریتانیایی بارکلیز در راستای برنامه‌ی افزایش بهره‌وری با هوش مصنوعی، ۵ هزار موقعیت شغلی را تعدیل می‌کند."
+    },
+    {
+      "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+      "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-10-24T15:00:00.000Z",
+      "summary": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races."
+    },
+    {
+      "title": "اشتباه مهلک هوش مصنوعی در منو رستوران؛ یک کاسه توله‌ببر بخورید!",
       "url": "https://www.zoomit.ir/ai-articles/469764-just-eat-ai-food-image-error/",
       "source": "زومیت",
       "lang": "fa",
       "published": "2026-10-24T09:44:06.000Z",
       "summary": "پلتفرم جاست ایت به دلیل نمایش ناخواسته‌ی تصاویر هوش مصنوعی از توله‌ببر به جای غذا در منوی خود، ناچار به عذرخواهی از مشتریان شد."
-    },
-    {
-      "title": "OpenAI دسترسی مدل‌های پیشرفته هوش مصنوعی به اینترنت را هنگام آموزش قطع می‌کند",
-      "url": "https://digiato.com/articles/openai-cutting-off-internet-access-for-frontier-model-training",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-10-24T09:35:00.000Z",
-      "summary": "OpenAI با این کار سعی دارد از وقوع حوادثی مانند نفوذ ایجنت‌های هوش مصنوعی به سایر پلتفرم‌ها جلوگیری کند. The post OpenAI دسترسی مدل‌های پیشرفته هوش مصنوعی به اینترنت را هنگام آموزش قطع می‌کند appeared first on دیجیاتو."
-    },
-    {
-      "title": "حذف یک واژه کافی نبود؛ نگرانی ناشران از شروط تازه هوش مصنوعی متا",
-      "url": "https://www.zoomit.ir/ai-articles/469681-meta-ai-scraping-terms-concerns/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-10-24T09:30:00.000Z",
-      "summary": "متا شرایط تجاری خود را تغییر داده است، اما کارشناسان حقوقی معتقدند بندهای جدید همچنان اجازه‌ی استخراج اطلاعات رسانه‌ها را می‌دهد."
-    },
-    {
-      "title": "ترس از هوش مصنوعی برای نخستین‌بار در میان ۱۰ نگرانی بزرگ آمریکایی‌ها قرار گرفت",
-      "url": "https://www.zoomit.ir/human-science/469757-ai-top-ten-fears-americans/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-10-24T09:05:00.000Z",
-      "summary": "نتایج یک نظرسنجی جدید نشان می‌دهد که نیمی از آمریکایی‌ها از پیامدهای هوش مصنوعی بر نظام سیاسی و اقتصاد کشورشان می‌ترسند."
-    },
-    {
-      "title": "راهنمای کارگاه‌های باهم ۱۴۰۵؛ زیرساخت سازمان شما برای هوش مصنوعی آماده است؟",
-      "url": "https://digiato.com/iran-technology-news/is-your-organizations-infrastructure-ready-for-artificial-intelligence",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-10-24T08:52:59.000Z",
-      "summary": "با کارگاه‌ها و سمینارهای باهم۱۴۰۵ در حوزه زیرساخت ابری بیشتر آشنا شوید. The post راهنمای کارگاه‌های باهم ۱۴۰۵؛ زیرساخت سازمان شما برای هوش مصنوعی آماده است؟ appeared first on دیجیاتو."
-    },
-    {
-      "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
-      "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-10-23T23:05:49.000Z",
-      "summary": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work."
-    },
-    {
-      "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
-      "url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-10-23T21:59:19.000Z",
-      "summary": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command."
-    },
-    {
-      "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
-      "url": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-10-23T19:06:23.000Z",
-      "summary": "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, developing founder le"
     },
     {
       "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
@@ -96,6 +88,14 @@
       "lang": "en",
       "published": "2026-10-22T21:17:29.000Z",
       "summary": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift. For the past several years, much of the AI conversation has center"
+    },
+    {
+      "title": "The Foundations of Scalable AI",
+      "url": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
+      "source": "MIT Technology Review",
+      "lang": "en",
+      "published": "2026-10-22T18:48:04.000Z",
+      "summary": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This session from MIT Technology Review’s EmTech Future conference explores "
     }
   ]
 }
