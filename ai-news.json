@@ -1,6 +1,46 @@
 {
-  "updated_at": "2026-10-24T02:22:18.234Z",
+  "updated_at": "2026-10-24T09:57:14.834Z",
   "items": [
+    {
+      "title": "اشتباه مهلک هوش مصنوعی؛ یک کاسه توله‌ببر بخورید!",
+      "url": "https://www.zoomit.ir/ai-articles/469764-just-eat-ai-food-image-error/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-10-24T09:44:06.000Z",
+      "summary": "پلتفرم جاست ایت به دلیل نمایش ناخواسته‌ی تصاویر هوش مصنوعی از توله‌ببر به جای غذا در منوی خود، ناچار به عذرخواهی از مشتریان شد."
+    },
+    {
+      "title": "OpenAI دسترسی مدل‌های پیشرفته هوش مصنوعی به اینترنت را هنگام آموزش قطع می‌کند",
+      "url": "https://digiato.com/articles/openai-cutting-off-internet-access-for-frontier-model-training",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-10-24T09:35:00.000Z",
+      "summary": "OpenAI با این کار سعی دارد از وقوع حوادثی مانند نفوذ ایجنت‌های هوش مصنوعی به سایر پلتفرم‌ها جلوگیری کند. The post OpenAI دسترسی مدل‌های پیشرفته هوش مصنوعی به اینترنت را هنگام آموزش قطع می‌کند appeared first on دیجیاتو."
+    },
+    {
+      "title": "حذف یک واژه کافی نبود؛ نگرانی ناشران از شروط تازه هوش مصنوعی متا",
+      "url": "https://www.zoomit.ir/ai-articles/469681-meta-ai-scraping-terms-concerns/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-10-24T09:30:00.000Z",
+      "summary": "متا شرایط تجاری خود را تغییر داده است، اما کارشناسان حقوقی معتقدند بندهای جدید همچنان اجازه‌ی استخراج اطلاعات رسانه‌ها را می‌دهد."
+    },
+    {
+      "title": "ترس از هوش مصنوعی برای نخستین‌بار در میان ۱۰ نگرانی بزرگ آمریکایی‌ها قرار گرفت",
+      "url": "https://www.zoomit.ir/human-science/469757-ai-top-ten-fears-americans/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-10-24T09:05:00.000Z",
+      "summary": "نتایج یک نظرسنجی جدید نشان می‌دهد که نیمی از آمریکایی‌ها از پیامدهای هوش مصنوعی بر نظام سیاسی و اقتصاد کشورشان می‌ترسند."
+    },
+    {
+      "title": "راهنمای کارگاه‌های باهم ۱۴۰۵؛ زیرساخت سازمان شما برای هوش مصنوعی آماده است؟",
+      "url": "https://digiato.com/iran-technology-news/is-your-organizations-infrastructure-ready-for-artificial-intelligence",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-10-24T08:52:59.000Z",
+      "summary": "با کارگاه‌ها و سمینارهای باهم۱۴۰۵ در حوزه زیرساخت ابری بیشتر آشنا شوید. The post راهنمای کارگاه‌های باهم ۱۴۰۵؛ زیرساخت سازمان شما برای هوش مصنوعی آماده است؟ appeared first on دیجیاتو."
+    },
     {
       "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
       "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
@@ -34,36 +74,12 @@
       "summary": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT."
     },
     {
-      "title": "جنگ سرمایه در عصر هوش مصنوعی؛ دیپ‌سیک ۱۵ میلیارد دلار بودجه جدید دریافت کرد",
-      "url": "https://www.zoomit.ir/business/469621-deepseek-raises-15-billion-funding/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-10-23T11:10:00.000Z",
-      "summary": "استارتاپ چینی دیپ‌سیک در آستانه‌ی نهایی‌کردن دور جدید جذب سرمایه‌ی خود به ارزش تقریبی ۱۵ میلیارد دلار قرار دارد."
-    },
-    {
       "title": "Securing our frontier model training environment",
       "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
       "source": "OpenAI",
       "lang": "en",
       "published": "2026-10-23T10:00:00.000Z",
       "summary": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming."
-    },
-    {
-      "title": "هوش مصنوعی کلاد ۴۹۳ نقص امنیتی را در پروژه‌های متن‌باز کشف کرد",
-      "url": "https://www.zoomit.ir/ai-articles/469669-claude-ai-openssh-security-flaws/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-10-23T09:05:00.000Z",
-      "summary": "پژوهش جدید آنتروپیک نشان داد هوش مصنوعی کلاد توانسته ۴۹۳ نقص امنیتی را در ۲۵ پروژه متن‌باز پرکاربرد از جمله اوپن‌اس‌اس‌اچ کشف کند."
-    },
-    {
-      "title": "انویدیا در استارتاپ هوش مصنوعی Higgsfield سرمایه‌گذاری کرد",
-      "url": "https://www.zoomit.ir/business/469664-nvidia-tcv-invest-higgsfield-ai-video/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-10-23T05:39:02.000Z",
-      "summary": "Higgsfield با بیش از ۴۰ میلیون کاربر و پشتیبانی انویدیا، برای گسترش زیرساخت جهانی و عبور از درآمد سالانه‌ی یک میلیارد دلار آماده می‌شود."
     },
     {
       "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
@@ -80,22 +96,6 @@
       "lang": "en",
       "published": "2026-10-22T21:17:29.000Z",
       "summary": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift. For the past several years, much of the AI conversation has center"
-    },
-    {
-      "title": "The Foundations of Scalable AI",
-      "url": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
-      "source": "MIT Technology Review",
-      "lang": "en",
-      "published": "2026-10-22T18:48:04.000Z",
-      "summary": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This session from MIT Technology Review’s EmTech Future conference explores "
-    },
-    {
-      "title": "Beyond tree cover: mapping the world’s forest types",
-      "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
-      "source": "Google DeepMind",
-      "lang": "en",
-      "published": "2026-10-22T14:30:24.000Z",
-      "summary": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types."
     }
   ]
 }
