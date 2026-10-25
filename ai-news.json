@@ -1,6 +1,46 @@
 {
-  "updated_at": "2026-10-25T15:12:25.370Z",
+  "updated_at": "2026-10-25T20:06:45.048Z",
   "items": [
+    {
+      "title": "پیش‌بینی جسورانه کارکنان آنتروپیک: هوش مصنوعی تا سال ۲۰۳۰ برنده جایزه نوبل می‌شود",
+      "url": "https://www.zoomit.ir/ai-articles/469767-anthropic-survey-ai-nobel-discovery/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-10-25T18:00:00.000Z",
+      "summary": "نظرسنجی آنتروپیک نشان می‌دهد ۹۱ درصد از متخصصان این شرکت انتظار دارند هوش مصنوعی تا سال ۲۰۳۰ به کشفی در تراز جایزه‌ی نوبل دست پیدا کند."
+    },
+    {
+      "title": "گزارش عملکرد «بله»؛ بیش از ۶۴ میلیون کاربر و ۳۴۲ میلیون پاسخ هوش مصنوعی",
+      "url": "https://www.zoomit.ir/business/469774-bale-messenger-performance-report-ai/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-10-25T17:30:00.000Z",
+      "summary": "پیام‌رسان «بله» با انتشار کارنامه ۱۵ ماهه خود، از ثبت ۶۴ میلیون کاربر کل و پاسخ‌گویی هوش مصنوعی به ۳۴۲ میلیون پرسش خبر داد."
+    },
+    {
+      "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+      "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-10-25T16:57:32.000Z",
+      "summary": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\""
+    },
+    {
+      "title": "هوش مصنوعی با بررسی افراد هنگام خواب، نارسایی قلبی را ۱۰ سال زودتر پیش‌بینی می‌کند",
+      "url": "https://digiato.com/health/ai-sleep-ecg-predicts-heart-failure-risk",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-10-25T16:30:00.000Z",
+      "summary": "پژوهشگران با تحلیل نوار قلب هنگام خواب، روشی توسعه داده‌اند که می‌تواند خطر بی‌نظمی ضربان قلب، سکته مغزی و نارسایی قلبی را ارزیابی کند. The post هوش مصنوعی با بررسی افراد هنگام خواب، نارسایی قلبی را ۱۰ سال زودتر پیش‌بینی"
+    },
+    {
+      "title": "از حذف مشاغل تا خطرات سایبری و زیستی؛ ۵ نکته مهم مصاحبه جدید بیل گیتس درباره هوش مصنوعی",
+      "url": "https://digiato.com/artificial-intelligence/bill-gates-ai-interview-five-key-takeaways",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-10-25T15:30:00.000Z",
+      "summary": "بیل گیتس در مصاحبه جدید خود درباره آینده مشاغل، ریسک‌های سایبری و ضرورت نظارت دولت‌ها بر این فناوری صحبت کرد. The post از حذف مشاغل تا خطرات سایبری و زیستی؛ ۵ نکته مهم مصاحبه جدید بیل گیتس درباره هوش مصنوعی appeared firs"
+    },
     {
       "title": "The hottest AI wearables and gadgets you should know about",
       "url": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
@@ -18,36 +58,12 @@
       "summary": "ممنوعیت پروژه‌های هوش مصنوعی و کنارگذاشتن غیرانگلیسی‌زبان‌ها، یکی از انجمن‌های متن‌باز ردیت را با اعتراض گسترده روبه‌رو کرد."
     },
     {
-      "title": "فاجعه امنیتی در فلش‌مموری‌های SecZure؛ هوش مصنوعی رمزگذاری را در ۷ دقیقه شکست",
-      "url": "https://www.zoomit.ir/storage/469803-seczure-encrypted-usb-backdoor-flaw/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-10-25T07:07:47.000Z",
-      "summary": "پژوهشگران امنیتی از کشف در پشتی در فلش‌های رمزگذاری‌شده و نفوذ ۷ دقیقه‌ای هوش مصنوعی به سیستم حفاظتی آن‌ها خبر دادند."
-    },
-    {
-      "title": "پشت‌صحنه ساخت یک شرکت تک‌نفره با چهار عامل هوش مصنوعی!",
-      "url": "https://www.zoomit.ir/business/469700-ai-agents-replace-firm-staff/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-10-24T20:10:00.000Z",
-      "summary": "مالک یک شرکت استخدامی تخصصی در سیدنی تمام فرآیندهای کسب‌وکار خود را به چهار عامل هوش مصنوعی سپرد."
-    },
-    {
       "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
       "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
       "source": "TechCrunch AI",
       "lang": "en",
       "published": "2026-10-24T19:00:00.000Z",
       "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations."
-    },
-    {
-      "title": "Block’s new voice model sounds eerily human",
-      "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-10-24T16:00:00.000Z",
-      "summary": "Block said that the voice model can run locally on a MacBook M4 Max"
     },
     {
       "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
@@ -80,22 +96,6 @@
       "lang": "en",
       "published": "2026-10-22T21:17:29.000Z",
       "summary": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift. For the past several years, much of the AI conversation has center"
-    },
-    {
-      "title": "The Foundations of Scalable AI",
-      "url": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
-      "source": "MIT Technology Review",
-      "lang": "en",
-      "published": "2026-10-22T18:48:04.000Z",
-      "summary": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This session from MIT Technology Review’s EmTech Future conference explores "
-    },
-    {
-      "title": "Beyond tree cover: mapping the world’s forest types",
-      "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
-      "source": "Google DeepMind",
-      "lang": "en",
-      "published": "2026-10-22T14:30:24.000Z",
-      "summary": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types."
     }
   ]
 }
