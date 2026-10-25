@@ -1,6 +1,30 @@
 {
-  "updated_at": "2026-10-25T02:09:46.557Z",
+  "updated_at": "2026-10-25T10:19:56.702Z",
   "items": [
+    {
+      "title": "کارت گرافیک RTX 5090 هنوز در چین تولید می‌شود و به سرورهای هوش مصنوعی می‌رسد",
+      "url": "https://digiato.com/computers-hardware/rtx-5090s-are-entering-chinese-labs-where-they-are-turned-into-ai-gpus",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-10-25T09:30:00.000Z",
+      "summary": "در آزمایشگاه‌های چین، تراشه و ۳۲ گیگابایت حافظه RTX 5090 را برای سرورهای هوش مصنوعی جدا می‌کنند. The post کارت گرافیک RTX 5090 هنوز در چین تولید می‌شود و به سرورهای هوش مصنوعی می‌رسد appeared first on دیجیاتو."
+    },
+    {
+      "title": "مردی که به Claude گفته بود قصد حمله به یک مهدکودک را دارد، دستگیر شد",
+      "url": "https://digiato.com/artificial-intelligence/man-arrested-claude-threat-daycare-shooting",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-10-25T07:57:43.000Z",
+      "summary": "هنوز مشخص نیست که پلیس چگونه پیام‌های او با Claude را به‌دست آورده است. The post مردی که به Claude گفته بود قصد حمله به یک مهدکودک را دارد، دستگیر شد appeared first on دیجیاتو."
+    },
+    {
+      "title": "فاجعه امنیتی در فلش‌مموری‌های SecZure؛ هوش مصنوعی رمزگذاری را در ۷ دقیقه شکست",
+      "url": "https://www.zoomit.ir/storage/469803-seczure-encrypted-usb-backdoor-flaw/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-10-25T07:07:47.000Z",
+      "summary": "پژوهشگران امنیتی از کشف در پشتی در فلش‌های رمزگذاری‌شده و نفوذ ۷ دقیقه‌ای هوش مصنوعی به سیستم حفاظتی آن‌ها خبر دادند."
+    },
     {
       "title": "پشت‌صحنه ساخت یک شرکت تک‌نفره با چهار عامل هوش مصنوعی!",
       "url": "https://www.zoomit.ir/business/469700-ai-agents-replace-firm-staff/",
@@ -26,28 +50,12 @@
       "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations."
     },
     {
-      "title": "یک بیمار برای اولین‌بار در جهان دارویی حاوی ویروس ساخت هوش مصنوعی دریافت کرد",
-      "url": "https://digiato.com/interdisciplinary/ai-designed-virus-first-human-treatment",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-10-24T17:00:00.000Z",
-      "summary": "وضعیت بیمار هنوز باید برای چندین ماه بررسی شود تا پزشکان نتایج این آزمایش را منتشر کنند. The post یک بیمار برای اولین‌بار در جهان دارویی حاوی ویروس ساخت هوش مصنوعی دریافت کرد appeared first on دیجیاتو."
-    },
-    {
       "title": "Block’s new voice model sounds eerily human",
       "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
       "source": "TechCrunch AI",
       "lang": "en",
       "published": "2026-10-24T16:00:00.000Z",
       "summary": "Block said that the voice model can run locally on a MacBook M4 Max"
-    },
-    {
-      "title": "جایگزینی انسان با هوش مصنوعی؛ بانک بارکلیز ۵۰۰۰ شغل را حذف می‌کند",
-      "url": "https://www.zoomit.ir/business/469623-barclays-cuts-jobs-ai-efficiency/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-10-24T15:10:00.000Z",
-      "summary": "بانک بریتانیایی بارکلیز در راستای برنامه‌ی افزایش بهره‌وری با هوش مصنوعی، ۵ هزار موقعیت شغلی را تعدیل می‌کند."
     },
     {
       "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
@@ -88,14 +96,6 @@
       "lang": "en",
       "published": "2026-10-22T21:17:29.000Z",
       "summary": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift. For the past several years, much of the AI conversation has center"
-    },
-    {
-      "title": "The Foundations of Scalable AI",
-      "url": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
-      "source": "MIT Technology Review",
-      "lang": "en",
-      "published": "2026-10-22T18:48:04.000Z",
-      "summary": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This session from MIT Technology Review’s EmTech Future conference explores "
     }
   ]
 }
