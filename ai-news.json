@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-10-25T10:19:56.702Z",
+  "updated_at": "2026-10-25T15:12:25.370Z",
   "items": [
     {
-      "title": "کارت گرافیک RTX 5090 هنوز در چین تولید می‌شود و به سرورهای هوش مصنوعی می‌رسد",
-      "url": "https://digiato.com/computers-hardware/rtx-5090s-are-entering-chinese-labs-where-they-are-turned-into-ai-gpus",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-10-25T09:30:00.000Z",
-      "summary": "در آزمایشگاه‌های چین، تراشه و ۳۲ گیگابایت حافظه RTX 5090 را برای سرورهای هوش مصنوعی جدا می‌کنند. The post کارت گرافیک RTX 5090 هنوز در چین تولید می‌شود و به سرورهای هوش مصنوعی می‌رسد appeared first on دیجیاتو."
+      "title": "The hottest AI wearables and gadgets you should know about",
+      "url": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-10-25T14:10:00.000Z",
+      "summary": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more."
     },
     {
-      "title": "مردی که به Claude گفته بود قصد حمله به یک مهدکودک را دارد، دستگیر شد",
-      "url": "https://digiato.com/artificial-intelligence/man-arrested-claude-threat-daycare-shooting",
-      "source": "دیجیاتو",
+      "title": "اعتراضات گسترده در ردیت؛ انجمن r/opensource هوش مصنوعی و زبان‌های غیر از انگلیسی را ممنوع کرد",
+      "url": "https://www.zoomit.ir/software-news/469837-reddit-opensource-ai-ban-backlash/",
+      "source": "زومیت",
       "lang": "fa",
-      "published": "2026-10-25T07:57:43.000Z",
-      "summary": "هنوز مشخص نیست که پلیس چگونه پیام‌های او با Claude را به‌دست آورده است. The post مردی که به Claude گفته بود قصد حمله به یک مهدکودک را دارد، دستگیر شد appeared first on دیجیاتو."
+      "published": "2026-10-25T14:02:38.000Z",
+      "summary": "ممنوعیت پروژه‌های هوش مصنوعی و کنارگذاشتن غیرانگلیسی‌زبان‌ها، یکی از انجمن‌های متن‌باز ردیت را با اعتراض گسترده روبه‌رو کرد."
     },
     {
       "title": "فاجعه امنیتی در فلش‌مموری‌های SecZure؛ هوش مصنوعی رمزگذاری را در ۷ دقیقه شکست",
@@ -34,14 +34,6 @@
       "summary": "مالک یک شرکت استخدامی تخصصی در سیدنی تمام فرآیندهای کسب‌وکار خود را به چهار عامل هوش مصنوعی سپرد."
     },
     {
-      "title": "بیل گیتس: از کلاد پرسیدم چطور شغل‌ها را برای انسان نگه داریم؟ هوش مصنوعی سلاح اتمی را ناچیز جلوه می‌دهد",
-      "url": "https://www.zoomit.ir/ai-articles/469779-bill-gates-ai-risk-regulation-featured/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-10-24T19:30:00.000Z",
-      "summary": "بیل گیتس با هشدار درباره تبعات شتاب هوش مصنوعی بر امنیت و بازار کار تا سه سال آینده، مهار این فناوری را نیازمند مداخله مستقیم دولت‌ها دانست."
-    },
-    {
       "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
       "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
       "source": "TechCrunch AI",
@@ -56,14 +48,6 @@
       "lang": "en",
       "published": "2026-10-24T16:00:00.000Z",
       "summary": "Block said that the voice model can run locally on a MacBook M4 Max"
-    },
-    {
-      "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
-      "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-10-24T15:00:00.000Z",
-      "summary": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races."
     },
     {
       "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
@@ -96,6 +80,22 @@
       "lang": "en",
       "published": "2026-10-22T21:17:29.000Z",
       "summary": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift. For the past several years, much of the AI conversation has center"
+    },
+    {
+      "title": "The Foundations of Scalable AI",
+      "url": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
+      "source": "MIT Technology Review",
+      "lang": "en",
+      "published": "2026-10-22T18:48:04.000Z",
+      "summary": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This session from MIT Technology Review’s EmTech Future conference explores "
+    },
+    {
+      "title": "Beyond tree cover: mapping the world’s forest types",
+      "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
+      "source": "Google DeepMind",
+      "lang": "en",
+      "published": "2026-10-22T14:30:24.000Z",
+      "summary": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types."
     }
   ]
 }
