@@ -1,6 +1,30 @@
 {
-  "updated_at": "2026-10-26T17:49:46.991Z",
+  "updated_at": "2026-10-26T22:02:25.526Z",
   "items": [
+    {
+      "title": "هوش مصنوعی در فضا؛ ماه‌نورد رباتیک فلیپ مدل‌های زبانی بزرگ را به ماه می‌برد",
+      "url": "https://www.zoomit.ir/space/469910-astrolab-upcoming-rover-llms-on-moon/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-10-26T20:29:00.000Z",
+      "summary": "ماه‌نورد فلیپ با اجرای آزمایشی مدل‌های زبانی بزرگ روی ماه، امکان استقلال بیشتر کاوشگرهای فضایی در مأموریت‌های آتی را فراهم می‌کند."
+    },
+    {
+      "title": "هوش مصنوعی GPT-6.1 Terra با توانایی کنترل کامپیوتر و پیشرفت خیره‌کننده در کدنویسی از راه رسید",
+      "url": "https://www.zoomit.ir/ai-articles/469908-openai-gpt-6-1-terra-launch/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-10-26T18:57:44.000Z",
+      "summary": "مدل GPT-6.1 Terra با تمرکز بر کار با کامپیوتر، استدلال بصری و هزینه‌ی کمتر، برای خودکارسازی وظایف روزمره از راه رسید."
+    },
+    {
+      "title": "Will the real Anthropic please stand up",
+      "url": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
+      "source": "MIT Technology Review",
+      "lang": "en",
+      "published": "2026-10-26T17:45:43.000Z",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 3"
+    },
     {
       "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
       "url": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
@@ -15,7 +39,7 @@
       "source": "TechCrunch AI",
       "lang": "en",
       "published": "2026-10-26T16:46:36.000Z",
-      "summary": "SpaceX has locked in a binding commitment for roughly $40 billion in financing to pay for AI chips and related data center equipment, the company disclosed in a regulatory filing Monday. In a statement, SpaceX called it "
+      "summary": "The financing gives SpaceX another way to fund its rapidly expanding AI ambitions without relying solely on traditional debt markets."
     },
     {
       "title": "Anthropic officially files for its public debut",
@@ -42,12 +66,12 @@
       "summary": "متا برای تأمین هزینه‌های توسعه زیرساخت هوش مصنوعی و ابرهوش، قصد دارد ۹۵ میلیارد دلار از طریق عرضه سهام سرمایه جذب کند. The post متا برای توسعه زیرساخت هوش مصنوعی ۹۵ میلیارد دلار سرمایه جذب می‌کند appeared first on دیجیات"
     },
     {
-      "title": "ابزاری که بازسازی بازی‌های کلاسیک با هوش مصنوعی را آسان‌تر می‌کند",
-      "url": "https://www.zoomit.ir/software-news/469816-nvidia-rtx-remix-dlss-5/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-10-26T14:00:00.000Z",
-      "summary": "انویدیا با انتشار به‌روزرسانی RTX Remix 1.6 امکان افزودن فناوری DLSS 5 به بازی‌های کلاسیک را برای مادسازان فراهم کرد."
+      "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+      "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+      "source": "OpenAI",
+      "lang": "en",
+      "published": "2026-10-26T13:45:00.000Z",
+      "summary": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes."
     },
     {
       "title": "سوئد استفاده کارمندان دولت از ChatGPT و Claude را ممنوع کرد",
@@ -58,12 +82,12 @@
       "summary": "نگرانی از ذخیره‌سازی داده‌های حساس دولتی و خروج اطلاعات از مرزهای دیجیتال اروپا دلیل اصلی این تصمیم بوده است. The post سوئد استفاده کارمندان دولت از ChatGPT و Claude را ممنوع کرد appeared first on دیجیاتو."
     },
     {
-      "title": "صدای این هوش مصنوعی تقریبا هیچ تفاوتی با انسان ندارد و این نگران‌کننده است",
-      "url": "https://www.zoomit.ir/ai-articles/469814-block-unveils-dessa-voice-ai/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-10-26T12:50:00.000Z",
-      "summary": "شرکت بلاک با مدیریت جک دورسی از مدل صوتی شگفت‌انگیزی رونمایی کرد که توانایی شبیه‌سازی مکالمات واقعی انسانی را دارد."
+      "title": "ChatGPT’s expanding world of work",
+      "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
+      "source": "OpenAI",
+      "lang": "en",
+      "published": "2026-10-26T10:00:00.000Z",
+      "summary": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time."
     },
     {
       "title": "The focus on AI safety disasters ignores everyday harms",
@@ -72,30 +96,6 @@
       "lang": "en",
       "published": "2026-10-26T09:01:00.000Z",
       "summary": "Consider what passes for success in technology policy. An AI company promises that its chatbot will not encourage suicide. A social media platform makes it more difficult for children to buy fentanyl. These are important"
-    },
-    {
-      "title": "How Fanatics and OpenAI streamline the fan experience",
-      "url": "https://openai.com/index/fanatics-streamline-fan-experience",
-      "source": "OpenAI",
-      "lang": "en",
-      "published": "2026-10-26T07:00:00.000Z",
-      "summary": "Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement."
-    },
-    {
-      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
-      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
-      "source": "OpenAI",
-      "lang": "en",
-      "published": "2026-10-23T17:00:00.000Z",
-      "summary": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT."
-    },
-    {
-      "title": "Securing our frontier model training environment",
-      "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
-      "source": "OpenAI",
-      "lang": "en",
-      "published": "2026-10-23T10:00:00.000Z",
-      "summary": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming."
     }
   ]
 }
