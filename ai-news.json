@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-10-25T20:06:45.048Z",
+  "updated_at": "2026-10-26T02:10:18.048Z",
   "items": [
+    {
+      "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+      "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-10-25T21:31:16.000Z",
+      "summary": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest."
+    },
     {
       "title": "پیش‌بینی جسورانه کارکنان آنتروپیک: هوش مصنوعی تا سال ۲۰۳۰ برنده جایزه نوبل می‌شود",
       "url": "https://www.zoomit.ir/ai-articles/469767-anthropic-survey-ai-nobel-discovery/",
@@ -56,14 +64,6 @@
       "lang": "fa",
       "published": "2026-10-25T14:02:38.000Z",
       "summary": "ممنوعیت پروژه‌های هوش مصنوعی و کنارگذاشتن غیرانگلیسی‌زبان‌ها، یکی از انجمن‌های متن‌باز ردیت را با اعتراض گسترده روبه‌رو کرد."
-    },
-    {
-      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-      "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-10-24T19:00:00.000Z",
-      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations."
     },
     {
       "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
