@@ -1,21 +1,61 @@
 {
-  "updated_at": "2026-10-27T16:59:28.045Z",
+  "updated_at": "2026-10-27T21:33:41.890Z",
   "items": [
+    {
+      "title": "اپل یک واترمارک مخفی به تصاویر ویرایش‌شده با هوش مصنوعی آیفون اضافه کرد",
+      "url": "https://www.zoomit.ir/ai-articles/469928-iphone-ai-images-hidden-synthid-watermark/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-10-27T20:00:00.000Z",
+      "summary": "تصاویر ساخته‌شده یا ویرایش‌شده با هوش مصنوعی اپل در به‌روزرسانی iOS 27.2 به واترمارک نامرئی SynthID مجهز شدند."
+    },
+    {
+      "title": "Disruptive raises $10B fund to make big bets on at least 10 companies",
+      "url": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-10-27T18:55:35.000Z",
+      "summary": "Disruptive has made headlines in recent years for pouring money into companies like chip startup Groq and the AI voice-generation startup ElevenLabs."
+    },
+    {
+      "title": "میان‌بُری که قرار نبود وجود داشته باشد؛ هوش مصنوعی و حل معمای ۲۷ساله دنیای کامپیوتر",
+      "url": "https://www.zoomit.ir/ai-articles/469972-openai-eth-exponential-time-hypothesis-featured/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-10-27T18:50:56.000Z",
+      "summary": "مدل هوش مصنوعی OpenAI با ارائه‌ی برهان ریاضی، فرضیه‌‌ی ۲۷ساله‌ی زمان نمایی (ETH) درباره‌ی محدودیت سرعت حل مسائل پیچیده‌‌ی محاسباتی را به‌چالش کشید."
+    },
+    {
+      "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
+      "url": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-10-27T17:08:08.000Z",
+      "summary": "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery."
+    },
+    {
+      "title": "فایل‌های MD. به ابزار جدید هکرها برای سوءاستفاده از ایجنت‌های هوش مصنوعی تبدیل شده‌اند",
+      "url": "https://digiato.com/artificial-intelligence/ai-agents-tricked-rogue-markdown-file-malware",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-10-27T17:00:00.000Z",
+      "summary": "در این روش هکرها با فریب ایجنت از طریق فایل‌های معمولی مارک‌داون، دستور اجرای کدهای مخرب و سرقت توکن‌های دسترسی را صادر می‌کنند. The post فایل‌های MD. به ابزار جدید هکرها برای سوءاستفاده از ایجنت‌های هوش مصنوعی تبدیل شده"
+    },
+    {
+      "title": "«جینی ۴» رونمایی شد؛ هوش مصنوعی شگفت‌انگیز گوگل برای خلق جهان‌های تعاملی",
+      "url": "https://www.zoomit.ir/ai-articles/469976-google-deepmind-genie-4-world-simulation/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-10-27T16:48:03.000Z",
+      "summary": "جینی ۴ جهان‌هایی تعاملی با صدای واقعی و فیزیک دقیق می‌سازد، اما پایداری اشیا و انسجام بلندمدت هنوز حل نشده‌اند."
+    },
     {
       "title": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
       "url": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
       "source": "TechCrunch AI",
       "lang": "en",
       "published": "2026-10-27T16:30:57.000Z",
-      "summary": "Google DeepMind released Genie 4, a world model with real-time audio, more realistic simulations, and mid-simulation text prompts, in research preview for trusted testers."
-    },
-    {
-      "title": "نخستین فیلم ساخته‌شده با هوش مصنوعی، متحمل شکستی سنگین شد",
-      "url": "https://www.zoomit.ir/ai-articles/469974-china-first-ai-film-box-office-failure/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-10-27T16:04:34.000Z",
-      "summary": "نخستین فیلم ساخته‌شده با مصنوعی چین، با وجود اکران گسترده به شکستی تجاری تبدیل شد."
+      "summary": "Genie 4 can maintain a consistent scene for up to two minutes, double Genie 3's limit, and offers better physics and more humanlike characters."
     },
     {
       "title": "Genie 4: A new generation of world simulation",
@@ -26,52 +66,12 @@
       "summary": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation."
     },
     {
-      "title": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
-      "url": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-10-27T14:59:09.000Z",
-      "summary": "Rohit Patel is departing Meta after eight years working on AI evaluations and reinforcement learning, TechCrunch has exclusively learned. His startup, Ndoc, aims to take on Microsoft Office Suite."
-    },
-    {
-      "title": "اپل نرم‌افزار قدرتمند Creator Studio را با هوش مصنوعی سوپرشارژ کرد",
-      "url": "https://www.zoomit.ir/software-news/469971-apple-creator-studio-ai-big-update/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-10-27T14:06:19.000Z",
-      "summary": "به‌روزرسانی جدید مجموعه‌نرم‌افزارهای Creator Studio با افزودن ابزارهای هوش مصنوعی و امکانات پیشرفته برای مک، آیپد و آیفون معرفی شد."
-    },
-    {
       "title": "اپل برنامه‌های Creator Studio را با قابلیت‌های جدید هوش مصنوعی متحول کرد",
       "url": "https://digiato.com/app/apple-creator-studio-ai-features-update",
       "source": "دیجیاتو",
       "lang": "fa",
       "published": "2026-10-27T13:34:53.000Z",
       "summary": "این قابلیت‌ها از ماه نوامبر منتشر می‌شوند. The post اپل برنامه‌های Creator Studio را با قابلیت‌های جدید هوش مصنوعی متحول کرد appeared first on دیجیاتو."
-    },
-    {
-      "title": "Japan internet giant GMO says hackers posted stolen customer data",
-      "url": "https://techcrunch.com/2026/10/27/japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-10-27T13:32:57.000Z",
-      "summary": "Japan's GMO Internet is verifying alleged customer data posted by suspected hackers following a cloud service breach."
-    },
-    {
-      "title": "اپل از آی‌مک جدید با تراشه M6 و تمرکز ویژه بر هوش مصنوعی رونمایی کرد",
-      "url": "https://digiato.com/computers-hardware/apple-unveils-new-imac-m6-chip",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-10-27T13:16:04.000Z",
-      "summary": "تراشه M6 با پردازنده ۱۲ هسته‌ای و موتور عصبی دوگانه، توان پردازش هوش مصنوعی دستگاه را تا ۵ برابر افزایش می‌دهد. The post اپل از آی‌مک جدید با تراشه M6 و تمرکز ویژه بر هوش مصنوعی رونمایی کرد appeared first on دیجیاتو."
-    },
-    {
-      "title": "فراتر از متن و تصویر؛ مدل هوش مصنوعی AudioX مرزهای تولید صدا را جابه‌جا می‌کند",
-      "url": "https://www.zoomit.ir/ai-articles/469874-audiox-multimodal-audio-generation-model/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-10-27T13:00:00.000Z",
-      "summary": "پژوهشگران حوزه‌ی هوش مصنوعی چارچوب چندوجهی جدیدی را برای تولید صدا و موسیقی از متن، ویدیو و فایل‌های صوتی معرفی کردند."
     },
     {
       "title": "Industrial Intelligence: The next growth opportunity for manufacturing",
@@ -90,12 +90,12 @@
       "summary": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings."
     },
     {
-      "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
-      "url": "https://openai.com/index/greptile-code-review-codex-astra",
+      "title": "How Check Point accelerates vulnerability research with Daybreak",
+      "url": "https://openai.com/index/check-point-daybreak",
       "source": "OpenAI",
       "lang": "en",
-      "published": "2026-10-26T22:00:00.000Z",
-      "summary": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework."
+      "published": "2026-10-27T00:00:00.000Z",
+      "summary": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster."
     }
   ]
 }
