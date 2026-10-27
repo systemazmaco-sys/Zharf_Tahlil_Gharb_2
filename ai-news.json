@@ -1,53 +1,93 @@
 {
-  "updated_at": "2026-10-27T11:13:14.871Z",
+  "updated_at": "2026-10-27T16:59:28.045Z",
   "items": [
     {
-      "title": "ساخت پاورپوینت با هوش مصنوعی در چند دقیقه؛ آموزش تبدیل جزوه به اسلاید با جمنای نوت‌بوک",
-      "url": "https://www.zoomit.ir/ai-articles/469832-create-powerpoint-with-gemini-notebook/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-10-27T10:00:00.000Z",
-      "summary": "با ابزار جمنای نوت‌بوک گوگل می‌توانید جزوه، کتاب یا فایل‌های آموزشی را به اسلایدهای فارسی تبدیل کنید و خروجی پاورپوینت بگیرید."
+      "title": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
+      "url": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-10-27T16:30:57.000Z",
+      "summary": "Google DeepMind released Genie 4, a world model with real-time audio, more realistic simulations, and mid-simulation text prompts, in research preview for trusted testers."
     },
     {
-      "title": "اپل در iOS 27.2 به تصاویر تولیدشده با هوش مصنوعی واترمارک نامرئی گوگل اضافه می‌کند",
-      "url": "https://digiato.com/app/ios-27-2-apple-ai-images-google-synthid-watermark",
+      "title": "نخستین فیلم ساخته‌شده با هوش مصنوعی، متحمل شکستی سنگین شد",
+      "url": "https://www.zoomit.ir/ai-articles/469974-china-first-ai-film-box-office-failure/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-10-27T16:04:34.000Z",
+      "summary": "نخستین فیلم ساخته‌شده با مصنوعی چین، با وجود اکران گسترده به شکستی تجاری تبدیل شد."
+    },
+    {
+      "title": "Genie 4: A new generation of world simulation",
+      "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+      "source": "Google DeepMind",
+      "lang": "en",
+      "published": "2026-10-27T16:01:38.000Z",
+      "summary": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation."
+    },
+    {
+      "title": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
+      "url": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-10-27T14:59:09.000Z",
+      "summary": "Rohit Patel is departing Meta after eight years working on AI evaluations and reinforcement learning, TechCrunch has exclusively learned. His startup, Ndoc, aims to take on Microsoft Office Suite."
+    },
+    {
+      "title": "اپل نرم‌افزار قدرتمند Creator Studio را با هوش مصنوعی سوپرشارژ کرد",
+      "url": "https://www.zoomit.ir/software-news/469971-apple-creator-studio-ai-big-update/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-10-27T14:06:19.000Z",
+      "summary": "به‌روزرسانی جدید مجموعه‌نرم‌افزارهای Creator Studio با افزودن ابزارهای هوش مصنوعی و امکانات پیشرفته برای مک، آیپد و آیفون معرفی شد."
+    },
+    {
+      "title": "اپل برنامه‌های Creator Studio را با قابلیت‌های جدید هوش مصنوعی متحول کرد",
+      "url": "https://digiato.com/app/apple-creator-studio-ai-features-update",
       "source": "دیجیاتو",
       "lang": "fa",
-      "published": "2026-10-27T09:30:00.000Z",
-      "summary": "تصاویر تولیدشده با Image Playground و برخی عکس‌های ویرایش‌شده با هوش مصنوعی در iOS 27.2 واترمارک نامرئی SynthID گوگل خواهند داشت. The post اپل در iOS 27.2 به تصاویر تولیدشده با هوش مصنوعی واترمارک نامرئی گوگل اضافه می‌کن"
+      "published": "2026-10-27T13:34:53.000Z",
+      "summary": "این قابلیت‌ها از ماه نوامبر منتشر می‌شوند. The post اپل برنامه‌های Creator Studio را با قابلیت‌های جدید هوش مصنوعی متحول کرد appeared first on دیجیاتو."
     },
     {
-      "title": "یاسمین رضوی، مهندس ایرانی، در هیئت‌مدیره یکی از بزرگ‌ترین شرکت‌های هوش مصنوعی جهان",
-      "url": "https://www.zoomit.ir/business/469930-yasmin-razavi-joins-anthropic-board/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-10-27T06:14:21.000Z",
-      "summary": "یاسمین رضوی، شریک اسپارک کپیتال، به عنوان تنها سرمایه‌گذار خطرپذیر در هیئت‌مدیره‌ی شرکت هوش مصنوعی آنتروپیک حضور دارد."
-    },
-    {
-      "title": "هوش مصنوعی به جنگ سه معمای بزرگ علم رفت؛ ادعای شگفت‌انگیز اوپن‌ای‌آی",
-      "url": "https://www.zoomit.ir/ai-articles/469920-openai-three-ai-science-discoveries/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-10-27T05:22:10.000Z",
-      "summary": "اوپن‌ای‌آی سه دستاورد بزرگ در ریاضیات، علوم کامپیوتر و فیزیک معرفی کرد، اما شیوه‌ی انتشار و اعتبارسنجی آن‌ها به مسئله‌ای علمی بدل شده است."
-    },
-    {
-      "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
-      "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
+      "title": "Japan internet giant GMO says hackers posted stolen customer data",
+      "url": "https://techcrunch.com/2026/10/27/japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data/",
       "source": "TechCrunch AI",
       "lang": "en",
-      "published": "2026-10-27T02:00:00.000Z",
-      "summary": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent."
+      "published": "2026-10-27T13:32:57.000Z",
+      "summary": "Japan's GMO Internet is verifying alleged customer data posted by suspected hackers following a cloud service breach."
     },
     {
-      "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
-      "url": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
-      "source": "TechCrunch AI",
+      "title": "اپل از آی‌مک جدید با تراشه M6 و تمرکز ویژه بر هوش مصنوعی رونمایی کرد",
+      "url": "https://digiato.com/computers-hardware/apple-unveils-new-imac-m6-chip",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-10-27T13:16:04.000Z",
+      "summary": "تراشه M6 با پردازنده ۱۲ هسته‌ای و موتور عصبی دوگانه، توان پردازش هوش مصنوعی دستگاه را تا ۵ برابر افزایش می‌دهد. The post اپل از آی‌مک جدید با تراشه M6 و تمرکز ویژه بر هوش مصنوعی رونمایی کرد appeared first on دیجیاتو."
+    },
+    {
+      "title": "فراتر از متن و تصویر؛ مدل هوش مصنوعی AudioX مرزهای تولید صدا را جابه‌جا می‌کند",
+      "url": "https://www.zoomit.ir/ai-articles/469874-audiox-multimodal-audio-generation-model/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-10-27T13:00:00.000Z",
+      "summary": "پژوهشگران حوزه‌ی هوش مصنوعی چارچوب چندوجهی جدیدی را برای تولید صدا و موسیقی از متن، ویدیو و فایل‌های صوتی معرفی کردند."
+    },
+    {
+      "title": "Industrial Intelligence: The next growth opportunity for manufacturing",
+      "url": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/",
+      "source": "MIT Technology Review",
       "lang": "en",
-      "published": "2026-10-27T01:12:21.000Z",
-      "summary": "An AI model said it wouldn’t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it’s probably a training quirk and not espionage, the whole thing has people asking how mu"
+      "published": "2026-10-27T11:19:18.000Z",
+      "summary": "Every manufacturer has its own industrial intelligence. Some is documented, and some resides in the knowledge of experienced workers. Consider an experienced operator preparing to restart a line after a changeover. The m"
+    },
+    {
+      "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+      "url": "https://openai.com/index/oracle-apps-in-chatgpt",
+      "source": "OpenAI",
+      "lang": "en",
+      "published": "2026-10-27T07:00:00.000Z",
+      "summary": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings."
     },
     {
       "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
@@ -56,46 +96,6 @@
       "lang": "en",
       "published": "2026-10-26T22:00:00.000Z",
       "summary": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework."
-    },
-    {
-      "title": "Will the real Anthropic please stand up",
-      "url": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
-      "source": "MIT Technology Review",
-      "lang": "en",
-      "published": "2026-10-26T17:45:43.000Z",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 3"
-    },
-    {
-      "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
-      "url": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-10-26T16:49:42.000Z",
-      "summary": "Anthropic’s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling playbook reminiscent of Amazon that’s making enterprise customers stickier."
-    },
-    {
-      "title": "Working with academic communities to build scientific understanding",
-      "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
-      "source": "OpenAI",
-      "lang": "en",
-      "published": "2026-10-26T14:30:00.000Z",
-      "summary": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them."
-    },
-    {
-      "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
-      "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
-      "source": "OpenAI",
-      "lang": "en",
-      "published": "2026-10-26T13:45:00.000Z",
-      "summary": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes."
-    },
-    {
-      "title": "The focus on AI safety disasters ignores everyday harms",
-      "url": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/",
-      "source": "MIT Technology Review",
-      "lang": "en",
-      "published": "2026-10-26T09:01:00.000Z",
-      "summary": "Consider what passes for success in technology policy. An AI company promises that its chatbot will not encourage suicide. A social media platform makes it more difficult for children to buy fentanyl. These are important"
     }
   ]
 }
