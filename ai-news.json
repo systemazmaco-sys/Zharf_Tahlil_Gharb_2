@@ -1,6 +1,38 @@
 {
-  "updated_at": "2026-10-27T02:47:09.360Z",
+  "updated_at": "2026-10-27T11:13:14.871Z",
   "items": [
+    {
+      "title": "ساخت پاورپوینت با هوش مصنوعی در چند دقیقه؛ آموزش تبدیل جزوه به اسلاید با جمنای نوت‌بوک",
+      "url": "https://www.zoomit.ir/ai-articles/469832-create-powerpoint-with-gemini-notebook/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-10-27T10:00:00.000Z",
+      "summary": "با ابزار جمنای نوت‌بوک گوگل می‌توانید جزوه، کتاب یا فایل‌های آموزشی را به اسلایدهای فارسی تبدیل کنید و خروجی پاورپوینت بگیرید."
+    },
+    {
+      "title": "اپل در iOS 27.2 به تصاویر تولیدشده با هوش مصنوعی واترمارک نامرئی گوگل اضافه می‌کند",
+      "url": "https://digiato.com/app/ios-27-2-apple-ai-images-google-synthid-watermark",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-10-27T09:30:00.000Z",
+      "summary": "تصاویر تولیدشده با Image Playground و برخی عکس‌های ویرایش‌شده با هوش مصنوعی در iOS 27.2 واترمارک نامرئی SynthID گوگل خواهند داشت. The post اپل در iOS 27.2 به تصاویر تولیدشده با هوش مصنوعی واترمارک نامرئی گوگل اضافه می‌کن"
+    },
+    {
+      "title": "یاسمین رضوی، مهندس ایرانی، در هیئت‌مدیره یکی از بزرگ‌ترین شرکت‌های هوش مصنوعی جهان",
+      "url": "https://www.zoomit.ir/business/469930-yasmin-razavi-joins-anthropic-board/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-10-27T06:14:21.000Z",
+      "summary": "یاسمین رضوی، شریک اسپارک کپیتال، به عنوان تنها سرمایه‌گذار خطرپذیر در هیئت‌مدیره‌ی شرکت هوش مصنوعی آنتروپیک حضور دارد."
+    },
+    {
+      "title": "هوش مصنوعی به جنگ سه معمای بزرگ علم رفت؛ ادعای شگفت‌انگیز اوپن‌ای‌آی",
+      "url": "https://www.zoomit.ir/ai-articles/469920-openai-three-ai-science-discoveries/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-10-27T05:22:10.000Z",
+      "summary": "اوپن‌ای‌آی سه دستاورد بزرگ در ریاضیات، علوم کامپیوتر و فیزیک معرفی کرد، اما شیوه‌ی انتشار و اعتبارسنجی آن‌ها به مسئله‌ای علمی بدل شده است."
+    },
     {
       "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
       "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
@@ -24,22 +56,6 @@
       "lang": "en",
       "published": "2026-10-26T22:00:00.000Z",
       "summary": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework."
-    },
-    {
-      "title": "هوش مصنوعی در فضا؛ ماه‌نورد رباتیک فلیپ مدل‌های زبانی بزرگ را به ماه می‌برد",
-      "url": "https://www.zoomit.ir/space/469910-astrolab-upcoming-rover-llms-on-moon/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-10-26T20:29:00.000Z",
-      "summary": "ماه‌نورد فلیپ با اجرای آزمایشی مدل‌های زبانی بزرگ روی ماه، امکان استقلال بیشتر کاوشگرهای فضایی در مأموریت‌های آتی را فراهم می‌کند."
-    },
-    {
-      "title": "هوش مصنوعی GPT-6.1 Terra با توانایی کنترل کامپیوتر و پیشرفت خیره‌کننده در کدنویسی از راه رسید",
-      "url": "https://www.zoomit.ir/ai-articles/469908-openai-gpt-6-1-terra-launch/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-10-26T18:57:44.000Z",
-      "summary": "مدل GPT-6.1 Terra با تمرکز بر کار با کامپیوتر، استدلال بصری و هزینه‌ی کمتر، برای خودکارسازی وظایف روزمره از راه رسید."
     },
     {
       "title": "Will the real Anthropic please stand up",
@@ -66,22 +82,6 @@
       "summary": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them."
     },
     {
-      "title": "از علم تا اقتصاد؛ آنتروپیک می‌خواهد با هوش مصنوعی همه‌چیز را متحول کند",
-      "url": "https://www.zoomit.ir/business/469902-anthropic-ipo-filing-ant-nasdaq/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-10-26T14:29:52.000Z",
-      "summary": "پرونده‌ی عرضه‌ی سهام آنتروپیک از رشد درآمد، زیان عظیم و قراردادهای پردازشی سنگین پرده برمی‌دارد."
-    },
-    {
-      "title": "متا برای توسعه زیرساخت هوش مصنوعی ۹۵ میلیارد دلار سرمایه جذب می‌کند",
-      "url": "https://digiato.com/finance-investment/meta-95-billion-stock-offering-ai-expansion",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-10-26T14:13:45.000Z",
-      "summary": "متا برای تأمین هزینه‌های توسعه زیرساخت هوش مصنوعی و ابرهوش، قصد دارد ۹۵ میلیارد دلار از طریق عرضه سهام سرمایه جذب کند. The post متا برای توسعه زیرساخت هوش مصنوعی ۹۵ میلیارد دلار سرمایه جذب می‌کند appeared first on دیجیات"
-    },
-    {
       "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
       "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
       "source": "OpenAI",
@@ -90,12 +90,12 @@
       "summary": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes."
     },
     {
-      "title": "سوئد استفاده کارمندان دولت از ChatGPT و Claude را ممنوع کرد",
-      "url": "https://digiato.com/artificial-intelligence/sweden-bans-chatgpt-claude-government-security",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-10-26T13:39:37.000Z",
-      "summary": "نگرانی از ذخیره‌سازی داده‌های حساس دولتی و خروج اطلاعات از مرزهای دیجیتال اروپا دلیل اصلی این تصمیم بوده است. The post سوئد استفاده کارمندان دولت از ChatGPT و Claude را ممنوع کرد appeared first on دیجیاتو."
+      "title": "The focus on AI safety disasters ignores everyday harms",
+      "url": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/",
+      "source": "MIT Technology Review",
+      "lang": "en",
+      "published": "2026-10-26T09:01:00.000Z",
+      "summary": "Consider what passes for success in technology policy. An AI company promises that its chatbot will not encourage suicide. A social media platform makes it more difficult for children to buy fentanyl. These are important"
     }
   ]
 }
