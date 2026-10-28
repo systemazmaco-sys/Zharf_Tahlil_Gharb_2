@@ -1,6 +1,30 @@
 {
-  "updated_at": "2026-10-27T21:33:41.890Z",
+  "updated_at": "2026-10-28T02:55:12.113Z",
   "items": [
+    {
+      "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
+      "url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-10-28T01:15:28.000Z",
+      "summary": "Massive note conversions reveal the true extent of Amazon's ownership in Anthropic."
+    },
+    {
+      "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+      "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-10-27T23:34:27.000Z",
+      "summary": "A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February."
+    },
+    {
+      "title": "The data center boom has an upside: innovation for the US grid",
+      "url": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-10-27T22:55:41.000Z",
+      "summary": "As the AI boom stresses the existing power grid, all sorts of new opportunities for grid modernization are also emerging as a result, industry insiders say."
+    },
     {
       "title": "اپل یک واترمارک مخفی به تصاویر ویرایش‌شده با هوش مصنوعی آیفون اضافه کرد",
       "url": "https://www.zoomit.ir/ai-articles/469928-iphone-ai-images-hidden-synthid-watermark/",
@@ -10,28 +34,12 @@
       "summary": "تصاویر ساخته‌شده یا ویرایش‌شده با هوش مصنوعی اپل در به‌روزرسانی iOS 27.2 به واترمارک نامرئی SynthID مجهز شدند."
     },
     {
-      "title": "Disruptive raises $10B fund to make big bets on at least 10 companies",
-      "url": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-10-27T18:55:35.000Z",
-      "summary": "Disruptive has made headlines in recent years for pouring money into companies like chip startup Groq and the AI voice-generation startup ElevenLabs."
-    },
-    {
       "title": "میان‌بُری که قرار نبود وجود داشته باشد؛ هوش مصنوعی و حل معمای ۲۷ساله دنیای کامپیوتر",
       "url": "https://www.zoomit.ir/ai-articles/469972-openai-eth-exponential-time-hypothesis-featured/",
       "source": "زومیت",
       "lang": "fa",
       "published": "2026-10-27T18:50:56.000Z",
       "summary": "مدل هوش مصنوعی OpenAI با ارائه‌ی برهان ریاضی، فرضیه‌‌ی ۲۷ساله‌ی زمان نمایی (ETH) درباره‌ی محدودیت سرعت حل مسائل پیچیده‌‌ی محاسباتی را به‌چالش کشید."
-    },
-    {
-      "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
-      "url": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-10-27T17:08:08.000Z",
-      "summary": "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery."
     },
     {
       "title": "فایل‌های MD. به ابزار جدید هکرها برای سوءاستفاده از ایجنت‌های هوش مصنوعی تبدیل شده‌اند",
@@ -50,20 +58,20 @@
       "summary": "جینی ۴ جهان‌هایی تعاملی با صدای واقعی و فیزیک دقیق می‌سازد، اما پایداری اشیا و انسجام بلندمدت هنوز حل نشده‌اند."
     },
     {
-      "title": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
-      "url": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-10-27T16:30:57.000Z",
-      "summary": "Genie 4 can maintain a consistent scene for up to two minutes, double Genie 3's limit, and offers better physics and more humanlike characters."
-    },
-    {
       "title": "Genie 4: A new generation of world simulation",
       "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
       "source": "Google DeepMind",
       "lang": "en",
       "published": "2026-10-27T16:01:38.000Z",
       "summary": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation."
+    },
+    {
+      "title": "Retell uses OpenAI models to help power 100M monthly calls",
+      "url": "https://openai.com/index/retell-ai",
+      "source": "OpenAI",
+      "lang": "en",
+      "published": "2026-10-27T15:00:00.000Z",
+      "summary": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee."
     },
     {
       "title": "اپل برنامه‌های Creator Studio را با قابلیت‌های جدید هوش مصنوعی متحول کرد",
@@ -88,14 +96,6 @@
       "lang": "en",
       "published": "2026-10-27T07:00:00.000Z",
       "summary": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings."
-    },
-    {
-      "title": "How Check Point accelerates vulnerability research with Daybreak",
-      "url": "https://openai.com/index/check-point-daybreak",
-      "source": "OpenAI",
-      "lang": "en",
-      "published": "2026-10-27T00:00:00.000Z",
-      "summary": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster."
     }
   ]
 }
