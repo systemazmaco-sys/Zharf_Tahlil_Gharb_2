@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-28T21:58:24.683Z",
+  "updated_at": "2026-10-29T03:20:14.236Z",
   "items": [
+    {
+      "title": "انویدیا با میلیاردها دلار گلوگاه تراشه‌های هوش مصنوعی را می‌شکند",
+      "url": "https://www.zoomit.ir/business/469963-nvidia-billion-dollar-supply-chain-deals/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-10-28T23:15:00.000Z",
+      "summary": "انویدیا برای رفع گلوگاه‌های تولید تراشه‌های هوش مصنوعی، قراردادهای چند میلیارد دلاری بلندمدتی با شرکای بزرگ زنجیره تامین منعقد کرد."
+    },
+    {
+      "title": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
+      "url": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-10-28T21:58:32.000Z",
+      "summary": "Microsoft has never disclosed Azure's quarterly revenue in dollars. But for the first time, we can see just how close it is getting to besting the biggest competitor in the market, AWS."
+    },
     {
       "title": "Google expands AI Search ads globally as core ad growth slows",
       "url": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
@@ -16,14 +32,6 @@
       "lang": "en",
       "published": "2026-10-28T21:34:30.000Z",
       "summary": "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the still-enormous financial dependency of th"
-    },
-    {
-      "title": "Microsoft hits 10 quarters of record- breaking revenue in a row",
-      "url": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-10-28T21:25:30.000Z",
-      "summary": "Whatever the future of AI might be, the current situation is still very good for Microsoft. The tech giant reported yet another record for quarterly revenue on Wednesday: $92.3 billion, a 19% increase over the year-ago q"
     },
     {
       "title": "Creating AI value with enterprise context",
@@ -56,14 +64,6 @@
       "lang": "fa",
       "published": "2026-10-28T15:30:00.000Z",
       "summary": "آنتروپیک در گزارش رسمی ورود به بورس، از خطرات تکان‌دهنده‌ای مثل خودآگاهی کلاد، باج‌گیری هوش مصنوعی و تأثیر انقراض بشر بر سهامش می‌گوید."
-    },
-    {
-      "title": "شرط‌بندی روی پایان جهان؛ ریسک نابودی توسط هوش مصنوعی، فرصتی طلایی برای سرمایه‌گذاران است",
-      "url": "https://www.zoomit.ir/ai-articles/469945-anthropic-ipo-ai-existential-risk/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-10-28T15:15:00.000Z",
-      "summary": "پرونده‌ عرضه‌ی اولیه‌ی سهام آنتروپیک نشان می‌دهد هشدارهای مربوط به خطرات آخرالزمانی هوش مصنوعی پیامدهای اقتصادی عجیبی برای بازار سرمایه به همراه دارد."
     },
     {
       "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
