@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-10-29T03:20:14.236Z",
+  "updated_at": "2026-10-29T11:55:36.838Z",
   "items": [
+    {
+      "title": "هشدار رئیس اینستاگرام درباره موج فزاینده خشم از هوش مصنوعی",
+      "url": "https://www.zoomit.ir/ai-articles/470080-adam-mosseri-ai-backlash-warning/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-10-29T11:10:00.000Z",
+      "summary": "مدیر اینستاگرام اعلام کرد نارضایتی، اضطراب و خشم عمومی نسبت‌به هوش مصنوعی طی سال‌های آینده شدت خواهد یافت."
+    },
+    {
+      "title": "We urgently need to monitor AI agents’ actions in real time",
+      "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
+      "source": "MIT Technology Review",
+      "lang": "en",
+      "published": "2026-10-29T10:11:12.000Z",
+      "summary": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be grade"
+    },
+    {
+      "title": "از ثبت داده تا اقدام هوشمند؛ نسل نوین ERP در عصر هوش مصنوعی",
+      "url": "https://digiato.com/iran-technology-news/new-generation-of-erp-in-the-age-of-artificial-intelligence",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-10-29T08:43:53.000Z",
+      "summary": "گزارش دیجیاتو از سمینار «سفر به سازمان‌های هوشمند؛ از Co-Pilot تا Agentic ERP» را در ادامه ببینید. The post از ثبت داده تا اقدام هوشمند؛ نسل نوین ERP در عصر هوش مصنوعی appeared first on دیجیاتو."
+    },
+    {
+      "title": "بانک مرکزی: صوت منتسب به همتی درباره ورشکستگی ۴ بانک خصوصی، ساخته هوش مصنوعی است",
+      "url": "https://digiato.com/iran-technology-news/denial-of-audio-file-attributed-to-the-governor-of-the-central-bank",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-10-29T07:51:47.000Z",
+      "summary": "به‌گفته بانک مرکزی، نام هیچ‌یک از چهار بانک مطرح‌شده در فایل، در فهرست بانک‌های ناتراز قرار ندارد The post بانک مرکزی: صوت منتسب به همتی درباره ورشکستگی ۴ بانک خصوصی، ساخته هوش مصنوعی است appeared first on دیجیاتو."
+    },
+    {
+      "title": "هوش مصنوعی به جان درآمد گوگل افتاد؛ سقوط ۱۰ درصدی سهام آلفابت",
+      "url": "https://www.zoomit.ir/economics/470086-google-ad-revenue-ai-challenge/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-10-29T07:38:02.000Z",
+      "summary": "کند شدن رشد درآمد تبلیغات موتور جست‌وجو در پی تغییر رفتار کاربران با هوش مصنوعی، افت ۱۰ درصدی سهام شرکت آلفابت را به دنبال داشت."
+    },
+    {
+      "title": "دادگاه اپل و OpenAI در پرونده اتهام سرقت اسرار تجاری ژوئیه ۲۰۲۷ برگزار می‌شود",
+      "url": "https://digiato.com/growth-hacking/apple-openai-trade-secrets-lawsuit-trial-date",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-10-29T07:22:24.000Z",
+      "summary": "وکلای دو طرف موظف هستند تا پیش از محاکمه رسمی، شانس دستیابی به توافق را ارزیابی کنند. The post دادگاه اپل و OpenAI در پرونده اتهام سرقت اسرار تجاری ژوئیه ۲۰۲۷ برگزار می‌شود appeared first on دیجیاتو."
+    },
     {
       "title": "انویدیا با میلیاردها دلار گلوگاه تراشه‌های هوش مصنوعی را می‌شکند",
       "url": "https://www.zoomit.ir/business/469963-nvidia-billion-dollar-supply-chain-deals/",
@@ -42,60 +90,12 @@
       "summary": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one i"
     },
     {
-      "title": "هوش مصنوعی «جمنای ۴ کربن» رونمایی شد؛ هیولای جدید گوگل با تمرکز بر امنیت",
-      "url": "https://www.zoomit.ir/ai-articles/470052-google-gemini-4-carbon-launch/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-10-28T18:19:58.000Z",
-      "summary": "گوگل مدلی ساخته است که مأموریت‌های چندروزه را دنبال می‌کند، آسیب‌پذیری‌ها را می‌یابد و برای برطرف‌کردن ریشه‌ی خطا کد می‌نویسد."
-    },
-    {
-      "title": "Gemini 4 Carbon: Our next frontier model",
-      "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
-      "source": "Google DeepMind",
-      "lang": "en",
-      "published": "2026-10-28T17:00:58.000Z",
-      "summary": ""
-    },
-    {
-      "title": "گزارش آنتروپیک برای بورس: هوش مصنوعی ما شاید نسل بشر را منقرض کند و به سود سهام آسیب بزند!",
-      "url": "https://www.zoomit.ir/ai-articles/470021-anthropic-ipo-risk-factors-featured/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-10-28T15:30:00.000Z",
-      "summary": "آنتروپیک در گزارش رسمی ورود به بورس، از خطرات تکان‌دهنده‌ای مثل خودآگاهی کلاد، باج‌گیری هوش مصنوعی و تأثیر انقراض بشر بر سهامش می‌گوید."
-    },
-    {
       "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
       "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
       "source": "OpenAI",
       "lang": "en",
       "published": "2026-10-28T13:15:00.000Z",
       "summary": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex."
-    },
-    {
-      "title": "Pairing industrial AI autonomy and human control",
-      "url": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/",
-      "source": "MIT Technology Review",
-      "lang": "en",
-      "published": "2026-10-28T12:00:00.000Z",
-      "summary": ""
-    },
-    {
-      "title": "The future of the firm",
-      "url": "https://openai.com/index/the-future-of-the-firm",
-      "source": "OpenAI",
-      "lang": "en",
-      "published": "2026-10-28T10:00:00.000Z",
-      "summary": "How AI might enter the org chart—beneath, beside, and between us."
-    },
-    {
-      "title": "Legora is building the agentic operating system for legal work",
-      "url": "https://openai.com/index/legora",
-      "source": "OpenAI",
-      "lang": "en",
-      "published": "2026-10-28T09:30:00.000Z",
-      "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work."
     }
   ]
 }
