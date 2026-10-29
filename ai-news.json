@@ -1,6 +1,46 @@
 {
-  "updated_at": "2026-10-29T17:46:05.914Z",
+  "updated_at": "2026-10-29T22:10:41.727Z",
   "items": [
+    {
+      "title": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
+      "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-10-29T20:08:31.000Z",
+      "summary": "As AI transforms how people find information online, Reddit is rethinking its open-web roots to protect its audience and business."
+    },
+    {
+      "title": "Rivian expands joint venture with VW to include AI assistant",
+      "url": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-10-29T20:05:47.000Z",
+      "summary": "Rivian doesn't disclose if the value of its $5.8 billion joint venture will expand as a result."
+    },
+    {
+      "title": "OpenAI-backed Thrive Holdings acquires ADT",
+      "url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-10-29T19:56:19.000Z",
+      "summary": "OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business."
+    },
+    {
+      "title": "توصیه مرگبار هوش مصنوعی؛ زن جوان پس از مشورت با چت‌جی‌پی‌تی جان باخت",
+      "url": "https://www.zoomit.ir/health-medical/470072-openai-lawsuit-chatgpt-medical-advice-death/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-10-29T18:10:00.000Z",
+      "summary": "چت‌جی‌پی‌تی با وجود هشدارهای مکرر زن جوان درباره‌ی وضعیت سلامتی‌اش، او را به ادامه‌ی قطع داروی صرع تشویق کرد."
+    },
+    {
+      "title": "ریزن، برنامه شتاب‌دهی هوش مصنوعی گلرنگ ونچرز؛ یک میلیارد تومان و آزمایش محصول در محیط واقعی",
+      "url": "https://www.zoomit.ir/pr/470122-golrang-ventures-reason-ai-accelerator/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-10-29T18:06:39.000Z",
+      "summary": "REASON، نخستین برنامه شتاب‌دهی تخصصی هوش مصنوعی گلرنگ ونچرز از ۲ آبان ۱۴۰۵ ثبت درخواست تیم‌ها را آغاز می‌کند."
+    },
     {
       "title": "An updated Model Spec for more capable and beneficial AI",
       "url": "https://openai.com/index/updated-model-spec",
@@ -10,36 +50,12 @@
       "summary": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent."
     },
     {
-      "title": "US investigated Chinese spy plot aimed at Nvidia CEO",
-      "url": "https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-10-29T16:42:32.000Z",
-      "summary": "A top executive of a Singapore AI cloud company that was accused of illegally selling Nvidia chips to China could also have been a Chinese spy, sources have told the New York Times."
-    },
-    {
       "title": "تحقیق آنتروپیک: متخصصان هم متوجه نمی‌شوند هوش مصنوعی بر نظرشان تأثیر می‌گذارد",
       "url": "https://digiato.com/artificial-intelligence/ai-can-hack-expert-judgement",
       "source": "دیجیاتو",
       "lang": "fa",
       "published": "2026-10-29T16:30:00.000Z",
       "summary": "در آزمایشی با کمک کلاد، ۸۶ درصد شرکت‌کنندگان توصیه‌های هوش مصنوعی را پذیرفتند؛ اما تنها ۱۵ درصدشان نقش آن را در تصمیم‌گیری خود تشخیص دادند. The post تحقیق آنتروپیک: متخصصان هم متوجه نمی‌شوند هوش مصنوعی بر نظرشان تأثیر می"
-    },
-    {
-      "title": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
-      "url": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-10-29T16:21:00.000Z",
-      "summary": "Dream is grounded in real physics and construction standards. Just as LLMs learn from text, Dream's world model is trained on more than 100 million square feet of building data gathered from permit archives across the Un"
-    },
-    {
-      "title": "Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round",
-      "url": "https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-10-29T14:35:26.000Z",
-      "summary": "On Thursday, AI app Wabi, now describing itself as a \"personal agent,\" said it has raised $55 million at a $1.25 billion valuation."
     },
     {
       "title": "این شمع نه آتش دارد، نه دود؛ راز شعله‌های منحصربه‌فرد آن، هوش مصنوعی است",
@@ -58,14 +74,6 @@
       "summary": "OpenAI امکان ارسال پیام متنی، صوتی و عکس به ایجنت دات را از طریق آی‌مسیج و RCS برای کاربران نسخه پرو فراهم کرد. The post ایجنت OpenAI حالا می‌تواند از طریق پیامک دستورات کاربران را دریافت کند [تماشا کنید] appeared first "
     },
     {
-      "title": "هشدار رئیس اینستاگرام درباره موج فزاینده خشم از هوش مصنوعی",
-      "url": "https://www.zoomit.ir/ai-articles/470080-adam-mosseri-ai-backlash-warning/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-10-29T11:10:00.000Z",
-      "summary": "مدیر اینستاگرام اعلام کرد نارضایتی، اضطراب و خشم عمومی نسبت‌به هوش مصنوعی طی سال‌های آینده شدت خواهد یافت."
-    },
-    {
       "title": "We urgently need to monitor AI agents’ actions in real time",
       "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
       "source": "MIT Technology Review",
@@ -80,14 +88,6 @@
       "lang": "en",
       "published": "2026-10-29T09:00:00.000Z",
       "summary": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate."
-    },
-    {
-      "title": "هوش مصنوعی به جان درآمد گوگل افتاد؛ سقوط ۱۰ درصدی سهام آلفابت",
-      "url": "https://www.zoomit.ir/economics/470086-google-ad-revenue-ai-challenge/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-10-29T07:38:02.000Z",
-      "summary": "کند شدن رشد درآمد تبلیغات موتور جست‌وجو در پی تغییر رفتار کاربران با هوش مصنوعی، افت ۱۰ درصدی سهام شرکت آلفابت را به دنبال داشت."
     },
     {
       "title": "How Ropes & Gray is developing AI for transactional diligence",
