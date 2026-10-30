@@ -1,13 +1,61 @@
 {
-  "updated_at": "2026-10-30T11:49:19.294Z",
+  "updated_at": "2026-10-30T17:24:48.020Z",
   "items": [
     {
-      "title": "چت‌بات جمینای حالا می‌تواند مستقیماً فایل‌های PDF و داکس را ویرایش کند [تماشا کنید]",
-      "url": "https://digiato.com/app/generate-and-edit-google-docs-files-directly-in-gemini-chats",
+      "title": "Google’s first data center satellite is online and writing poetry",
+      "url": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-10-30T17:00:00.000Z",
+      "summary": "The first TPU in space is a running a Google DeepMind Gemma 4 model and writing cheesy poetry."
+    },
+    {
+      "title": "Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive people’",
+      "url": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-10-30T16:03:45.000Z",
+      "summary": "The cautionary Theranos tale takes on a new significance in the AI era, when companies that have never turned a profit are raising capital at trillion-dollar valuations."
+    },
+    {
+      "title": "پاپ لئو خواستار «خلع سلاح هوش مصنوعی» شد",
+      "url": "https://www.zoomit.ir/ai-articles/470185-pope-leo-ai-disarmament-autonomous-weapons/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-10-30T15:49:47.000Z",
+      "summary": "پاپ لئو با درخواست ممنوعیت سلاح‌های خودمختار، بر نظارت انسانی و پاسخ‌گویی حقوقی در عصر هوش مصنوعی تأکید کرد."
+    },
+    {
+      "title": "مدیرعامل ابرآمد: هوش مصنوعی سازمانی با زیرساخت امن و پایدار ارزش می‌آفریند",
+      "url": "https://digiato.com/iran-technology-news/abramad-enterprise-ai-cloud-baham-1405",
       "source": "دیجیاتو",
       "lang": "fa",
-      "published": "2026-10-30T09:40:35.000Z",
-      "summary": "برای ویرایش فایل‌هایی که با جمینای ایجاد می‌کنید، دیگر نیازی نیست از این اپلیکیشن خارج شوید. The post چت‌بات جمینای حالا می‌تواند مستقیماً فایل‌های PDF و داکس را ویرایش کند [تماشا کنید] appeared first on دیجیاتو."
+      "published": "2026-10-30T15:29:29.000Z",
+      "summary": "گزارش دیجیاتو از سمینار «آینده زیرساخت سازمان» در «باهم ۱۴۰۵» را می‌توانید در ادامه مطالعه کنید. The post مدیرعامل ابرآمد: هوش مصنوعی سازمانی با زیرساخت امن و پایدار ارزش می‌آفریند appeared first on دیجیاتو."
+    },
+    {
+      "title": "Skip the small talk: Make game-changing connections at TechCrunch Founder Summit with Braindate",
+      "url": "https://techcrunch.com/2026/10/30/skip-the-small-talk-make-game-changing-connections-at-techcrunch-founder-summit-with-braindate/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-10-30T14:00:00.000Z",
+      "summary": "At TechCrunch Founder Summit 2026, happening November 4 at SoWa Power Station in Boston, networking powered by Braindate is designed to make those conversations easier to find, whether they are in 1:1 or small-group on-s"
+    },
+    {
+      "title": "اپل شرکت Ascend.io را برای تقویت زیرساخت‌های هوش مصنوعی تصاحب کرد",
+      "url": "https://www.zoomit.ir/business/470179-apple-acquires-ai-startup-ascendio/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-10-30T13:35:51.000Z",
+      "summary": "اپل با هدف تقویت زیرساخت‌های مدیریت داده و هوش مصنوعی، استارتاپ کالیفرنیایی Ascend.io را به تصاحب خود درآورد."
+    },
+    {
+      "title": "Community safety report and new protections for teens",
+      "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+      "source": "OpenAI",
+      "lang": "en",
+      "published": "2026-10-30T09:00:00.000Z",
+      "summary": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting."
     },
     {
       "title": "«بنک آو امریکا» به مشتریانش هشدار داد: رمز عبور حساب خود را به هوش مصنوعی ندهید",
@@ -16,54 +64,6 @@
       "lang": "fa",
       "published": "2026-10-30T07:00:00.000Z",
       "summary": "بنک آو آمریکا با ارسال هشداری به مشتریان اعلام کرد اطلاعات ورود حساب‌های خود را در اختیار ابزارها و دستیارهای هوش مصنوعی قرار ندهند."
-    },
-    {
-      "title": "متا اپلیکیشن هوش مصنوعی Style Sketch را برای پرو مجازی لباس‌ها معرفی کرد",
-      "url": "https://digiato.com/app/meta-has-launched-style-sketch-ai-fashion-app",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-10-30T06:05:02.000Z",
-      "summary": "این اپلیکیشن به اینستاگرام متصل می‌شود و به کاربران در ترکیب لباس‌ها و ایجاد یک کمد لباس مجازی کمک می‌کند. The post متا اپلیکیشن هوش مصنوعی Style Sketch را برای پرو مجازی لباس‌ها معرفی کرد appeared first on دیجیاتو."
-    },
-    {
-      "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
-      "url": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-10-30T01:20:48.000Z",
-      "summary": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace."
-    },
-    {
-      "title": "AWS will be a $1T business, Jassy says — but first, it will spend big",
-      "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-10-29T23:42:22.000Z",
-      "summary": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday."
-    },
-    {
-      "title": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
-      "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-10-29T20:08:31.000Z",
-      "summary": "As AI transforms how people find information online, Reddit is rethinking its open-web roots to protect its audience and business."
-    },
-    {
-      "title": "توصیه مرگبار هوش مصنوعی؛ زن جوان پس از مشورت با چت‌جی‌پی‌تی جان باخت",
-      "url": "https://www.zoomit.ir/health-medical/470072-openai-lawsuit-chatgpt-medical-advice-death/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-10-29T18:10:00.000Z",
-      "summary": "چت‌جی‌پی‌تی با وجود هشدارهای مکرر زن جوان درباره‌ی وضعیت سلامتی‌اش، او را به ادامه‌ی قطع داروی صرع تشویق کرد."
-    },
-    {
-      "title": "ریزن، برنامه شتاب‌دهی هوش مصنوعی گلرنگ ونچرز؛ یک میلیارد تومان و آزمایش محصول در محیط واقعی",
-      "url": "https://www.zoomit.ir/pr/470122-golrang-ventures-reason-ai-accelerator/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-10-29T18:06:39.000Z",
-      "summary": "REASON، نخستین برنامه شتاب‌دهی تخصصی هوش مصنوعی گلرنگ ونچرز از ۲ آبان ۱۴۰۵ ثبت درخواست تیم‌ها را آغاز می‌کند."
     },
     {
       "title": "An updated Model Spec for more capable and beneficial AI",
@@ -90,12 +90,12 @@
       "summary": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate."
     },
     {
-      "title": "How Ropes & Gray is developing AI for transactional diligence",
-      "url": "https://openai.com/index/ropes-gray-ai-diligence",
-      "source": "OpenAI",
+      "title": "Creating AI value with enterprise context",
+      "url": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
+      "source": "MIT Technology Review",
       "lang": "en",
-      "published": "2026-10-29T07:00:00.000Z",
-      "summary": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients."
+      "published": "2026-10-28T20:32:02.000Z",
+      "summary": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one i"
     }
   ]
 }
