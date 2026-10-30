@@ -1,21 +1,37 @@
 {
-  "updated_at": "2026-10-30T17:24:48.020Z",
+  "updated_at": "2026-10-30T21:46:12.783Z",
   "items": [
     {
-      "title": "Google’s first data center satellite is online and writing poetry",
-      "url": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
+      "title": "Last-minute Halloween costumes for tech nerds",
+      "url": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
       "source": "TechCrunch AI",
       "lang": "en",
-      "published": "2026-10-30T17:00:00.000Z",
-      "summary": "The first TPU in space is a running a Google DeepMind Gemma 4 model and writing cheesy poetry."
+      "published": "2026-10-30T21:26:59.000Z",
+      "summary": "No Halloween costume? Just be a deceptively cute AI agent icon, a PHP vulnerability, or sleepy time Bryan Johnson."
     },
     {
-      "title": "Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive people’",
-      "url": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
+      "title": "Cracks are emerging in the AI spending boom",
+      "url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
       "source": "TechCrunch AI",
       "lang": "en",
-      "published": "2026-10-30T16:03:45.000Z",
-      "summary": "The cautionary Theranos tale takes on a new significance in the AI era, when companies that have never turned a profit are raising capital at trillion-dollar valuations."
+      "published": "2026-10-30T21:17:40.000Z",
+      "summary": "Big Tech is pouring billions into AI infrastructure, but mounting debt, negative cash flow, and growing investor skepticism are raising questions about the sustainability of the AI spending boom."
+    },
+    {
+      "title": "هوش مصنوعی فضایی گوگل فعال شد و برای ساکنان زمین شعر نوشت",
+      "url": "https://www.zoomit.ir/ai-articles/470189-google-suncatcher-ai-satellite-first-response/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-10-30T18:59:57.000Z",
+      "summary": "ماهواره‌ی آزمایشی گوگل پس از راه‌اندازی تراشه‌های هوش مصنوعی در مدار، نخستین پاسخ خود را به زمین فرستاد."
+    },
+    {
+      "title": "Zest’s new AI agent finds restaurants and books reservations over text",
+      "url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-10-30T17:47:12.000Z",
+      "summary": "Can't agree on where to eat? Zest's AI concierge can combine everyone's tastes, put restaurant options to a vote, and make the reservation."
     },
     {
       "title": "پاپ لئو خواستار «خلع سلاح هوش مصنوعی» شد",
@@ -34,14 +50,6 @@
       "summary": "گزارش دیجیاتو از سمینار «آینده زیرساخت سازمان» در «باهم ۱۴۰۵» را می‌توانید در ادامه مطالعه کنید. The post مدیرعامل ابرآمد: هوش مصنوعی سازمانی با زیرساخت امن و پایدار ارزش می‌آفریند appeared first on دیجیاتو."
     },
     {
-      "title": "Skip the small talk: Make game-changing connections at TechCrunch Founder Summit with Braindate",
-      "url": "https://techcrunch.com/2026/10/30/skip-the-small-talk-make-game-changing-connections-at-techcrunch-founder-summit-with-braindate/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-10-30T14:00:00.000Z",
-      "summary": "At TechCrunch Founder Summit 2026, happening November 4 at SoWa Power Station in Boston, networking powered by Braindate is designed to make those conversations easier to find, whether they are in 1:1 or small-group on-s"
-    },
-    {
       "title": "اپل شرکت Ascend.io را برای تقویت زیرساخت‌های هوش مصنوعی تصاحب کرد",
       "url": "https://www.zoomit.ir/business/470179-apple-acquires-ai-startup-ascendio/",
       "source": "زومیت",
@@ -50,20 +58,20 @@
       "summary": "اپل با هدف تقویت زیرساخت‌های مدیریت داده و هوش مصنوعی، استارتاپ کالیفرنیایی Ascend.io را به تصاحب خود درآورد."
     },
     {
+      "title": "Making it easier for websites to express AI training preferences",
+      "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+      "source": "OpenAI",
+      "lang": "en",
+      "published": "2026-10-30T09:30:00.000Z",
+      "summary": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers."
+    },
+    {
       "title": "Community safety report and new protections for teens",
       "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
       "source": "OpenAI",
       "lang": "en",
       "published": "2026-10-30T09:00:00.000Z",
       "summary": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting."
-    },
-    {
-      "title": "«بنک آو امریکا» به مشتریانش هشدار داد: رمز عبور حساب خود را به هوش مصنوعی ندهید",
-      "url": "https://www.zoomit.ir/security/469998-bank-of-america-ai-warning/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-10-30T07:00:00.000Z",
-      "summary": "بنک آو آمریکا با ارسال هشداری به مشتریان اعلام کرد اطلاعات ورود حساب‌های خود را در اختیار ابزارها و دستیارهای هوش مصنوعی قرار ندهند."
     },
     {
       "title": "An updated Model Spec for more capable and beneficial AI",
@@ -80,14 +88,6 @@
       "lang": "en",
       "published": "2026-10-29T10:11:12.000Z",
       "summary": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be grade"
-    },
-    {
-      "title": "How we detect frontier model misalignment",
-      "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
-      "source": "OpenAI",
-      "lang": "en",
-      "published": "2026-10-29T09:00:00.000Z",
-      "summary": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate."
     },
     {
       "title": "Creating AI value with enterprise context",
