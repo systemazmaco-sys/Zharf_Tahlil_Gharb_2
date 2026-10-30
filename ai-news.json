@@ -1,6 +1,30 @@
 {
-  "updated_at": "2026-10-30T03:22:13.229Z",
+  "updated_at": "2026-10-30T11:49:19.294Z",
   "items": [
+    {
+      "title": "چت‌بات جمینای حالا می‌تواند مستقیماً فایل‌های PDF و داکس را ویرایش کند [تماشا کنید]",
+      "url": "https://digiato.com/app/generate-and-edit-google-docs-files-directly-in-gemini-chats",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-10-30T09:40:35.000Z",
+      "summary": "برای ویرایش فایل‌هایی که با جمینای ایجاد می‌کنید، دیگر نیازی نیست از این اپلیکیشن خارج شوید. The post چت‌بات جمینای حالا می‌تواند مستقیماً فایل‌های PDF و داکس را ویرایش کند [تماشا کنید] appeared first on دیجیاتو."
+    },
+    {
+      "title": "«بنک آو امریکا» به مشتریانش هشدار داد: رمز عبور حساب خود را به هوش مصنوعی ندهید",
+      "url": "https://www.zoomit.ir/security/469998-bank-of-america-ai-warning/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-10-30T07:00:00.000Z",
+      "summary": "بنک آو آمریکا با ارسال هشداری به مشتریان اعلام کرد اطلاعات ورود حساب‌های خود را در اختیار ابزارها و دستیارهای هوش مصنوعی قرار ندهند."
+    },
+    {
+      "title": "متا اپلیکیشن هوش مصنوعی Style Sketch را برای پرو مجازی لباس‌ها معرفی کرد",
+      "url": "https://digiato.com/app/meta-has-launched-style-sketch-ai-fashion-app",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-10-30T06:05:02.000Z",
+      "summary": "این اپلیکیشن به اینستاگرام متصل می‌شود و به کاربران در ترکیب لباس‌ها و ایجاد یک کمد لباس مجازی کمک می‌کند. The post متا اپلیکیشن هوش مصنوعی Style Sketch را برای پرو مجازی لباس‌ها معرفی کرد appeared first on دیجیاتو."
+    },
     {
       "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
       "url": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
@@ -10,7 +34,7 @@
       "summary": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace."
     },
     {
-      "title": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
+      "title": "AWS will be a $1T business, Jassy says — but first, it will spend big",
       "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
       "source": "TechCrunch AI",
       "lang": "en",
@@ -48,30 +72,6 @@
       "lang": "en",
       "published": "2026-10-29T17:00:00.000Z",
       "summary": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent."
-    },
-    {
-      "title": "تحقیق آنتروپیک: متخصصان هم متوجه نمی‌شوند هوش مصنوعی بر نظرشان تأثیر می‌گذارد",
-      "url": "https://digiato.com/artificial-intelligence/ai-can-hack-expert-judgement",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-10-29T16:30:00.000Z",
-      "summary": "در آزمایشی با کمک کلاد، ۸۶ درصد شرکت‌کنندگان توصیه‌های هوش مصنوعی را پذیرفتند؛ اما تنها ۱۵ درصدشان نقش آن را در تصمیم‌گیری خود تشخیص دادند. The post تحقیق آنتروپیک: متخصصان هم متوجه نمی‌شوند هوش مصنوعی بر نظرشان تأثیر می"
-    },
-    {
-      "title": "این شمع نه آتش دارد، نه دود؛ راز شعله‌های منحصربه‌فرد آن، هوش مصنوعی است",
-      "url": "https://www.zoomit.ir/ai-articles/470113-ai-digital-candle-kevin-bates/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-10-29T14:05:37.000Z",
-      "summary": "کوین بیتس با بهره‌گیری از شبکه‌ی عصبی و ۱۴۴ چراغ ال‌ای‌دی، شمعی دیجیتالی ساخته که الگوی نور آن به‌صورت زنده و بدون تکرار تولید می‌شود."
-    },
-    {
-      "title": "ایجنت OpenAI حالا می‌تواند از طریق پیامک دستورات کاربران را دریافت کند [تماشا کنید]",
-      "url": "https://digiato.com/artificial-intelligence/openai-chatgpt-dot-agent-texting-imessage-rcs",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-10-29T13:38:43.000Z",
-      "summary": "OpenAI امکان ارسال پیام متنی، صوتی و عکس به ایجنت دات را از طریق آی‌مسیج و RCS برای کاربران نسخه پرو فراهم کرد. The post ایجنت OpenAI حالا می‌تواند از طریق پیامک دستورات کاربران را دریافت کند [تماشا کنید] appeared first "
     },
     {
       "title": "We urgently need to monitor AI agents’ actions in real time",
