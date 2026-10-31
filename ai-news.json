@@ -1,21 +1,29 @@
 {
-  "updated_at": "2026-10-30T21:46:12.783Z",
+  "updated_at": "2026-10-31T03:06:47.984Z",
   "items": [
     {
-      "title": "Last-minute Halloween costumes for tech nerds",
-      "url": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
+      "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+      "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
       "source": "TechCrunch AI",
       "lang": "en",
-      "published": "2026-10-30T21:26:59.000Z",
-      "summary": "No Halloween costume? Just be a deceptively cute AI agent icon, a PHP vulnerability, or sleepy time Bryan Johnson."
+      "published": "2026-10-31T01:20:05.000Z",
+      "summary": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan."
     },
     {
-      "title": "Cracks are emerging in the AI spending boom",
-      "url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
+      "title": "Ollie, a privacy-focused AI assistant, is shutting down",
+      "url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
       "source": "TechCrunch AI",
       "lang": "en",
-      "published": "2026-10-30T21:17:40.000Z",
-      "summary": "Big Tech is pouring billions into AI infrastructure, but mounting debt, negative cash flow, and growing investor skepticism are raising questions about the sustainability of the AI spending boom."
+      "published": "2026-10-30T22:56:13.000Z",
+      "summary": "As an increasing number of AI assistants flood the market, the founder of Ollie, an assistant that respected its users' privacy, says it will be shutting down in a week."
+    },
+    {
+      "title": "Intel’s stock crashes, knocking $12B from government’s stake",
+      "url": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-10-30T21:54:34.000Z",
+      "summary": "Intel is being hurt by PC sales as the AI industry gobbles memory and other components causing PC prices to rise."
     },
     {
       "title": "هوش مصنوعی فضایی گوگل فعال شد و برای ساکنان زمین شعر نوشت",
@@ -24,14 +32,6 @@
       "lang": "fa",
       "published": "2026-10-30T18:59:57.000Z",
       "summary": "ماهواره‌ی آزمایشی گوگل پس از راه‌اندازی تراشه‌های هوش مصنوعی در مدار، نخستین پاسخ خود را به زمین فرستاد."
-    },
-    {
-      "title": "Zest’s new AI agent finds restaurants and books reservations over text",
-      "url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-10-30T17:47:12.000Z",
-      "summary": "Can't agree on where to eat? Zest's AI concierge can combine everyone's tastes, put restaurant options to a vote, and make the reservation."
     },
     {
       "title": "پاپ لئو خواستار «خلع سلاح هوش مصنوعی» شد",
@@ -74,12 +74,12 @@
       "summary": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting."
     },
     {
-      "title": "An updated Model Spec for more capable and beneficial AI",
-      "url": "https://openai.com/index/updated-model-spec",
+      "title": "Fair use benefits everyone",
+      "url": "https://openai.com/index/fair-use-benefits-everyone",
       "source": "OpenAI",
       "lang": "en",
-      "published": "2026-10-29T17:00:00.000Z",
-      "summary": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent."
+      "published": "2026-10-30T00:00:00.000Z",
+      "summary": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation."
     },
     {
       "title": "We urgently need to monitor AI agents’ actions in real time",
