@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T16:28:11.087Z",
+  "updated_at": "2026-10-31T20:45:30.035Z",
   "items": [
     {
       "title": "OpenAI reportedly lowers funding target for new round",
@@ -16,14 +16,6 @@
       "lang": "fa",
       "published": "2026-10-31T14:13:58.000Z",
       "summary": "این کارمند می‌گوید واگذاری فرایند تفکر به ماشین، امکان رشد و عاملیت اخلاقی انسان را از بین می‌برد. The post کارمند دانشگاه کنتاکی با تکیه بر باورهای مذهبی خود از کار با هوش مصنوعی معاف شد appeared first on دیجیاتو."
-    },
-    {
-      "title": "پاپ لئو چهاردهم خواستار ممنوعیت سلاح‌های خودمختار مبتنی بر هوش مصنوعی شد",
-      "url": "https://digiato.com/artificial-intelligence/pope-leo-xiv-urges-autonomous-weapon-ban",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-10-31T13:40:24.000Z",
-      "summary": "رهبر کاتولیک‌های جهان یادآوری کرد که هوش مصنوعی موجودی خودآگاه نیست. The post پاپ لئو چهاردهم خواستار ممنوعیت سلاح‌های خودمختار مبتنی بر هوش مصنوعی شد appeared first on دیجیاتو."
     },
     {
       "title": "مدیرعامل ردیت: AI Mode گوگل دیگر برای ما ترافیک نمی‌سازد",
@@ -48,14 +40,6 @@
       "lang": "fa",
       "published": "2026-10-31T11:55:19.000Z",
       "summary": "سرمایه‌گذاران پس از سال‌ها تامین مالی آسان، حالا از پروژه‌های هوش مصنوعی درآمد روشن‌تر، وثیقه‌ی بیشتر و شرایط سخت‌تری می‌خواهند."
-    },
-    {
-      "title": "fars | تیزر هوش مصنوعی | نفت ۲۰۰ دلاری...",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5zbmREVTl0YTg5ZWRKRTNMblhRdzFlYUQzQVlxRUFEZmpXX2I5XzZpVkNzZWo2ZFI2aUcwdUxiRnFkeVV5RU1DVnlnQ0NsNGZqSWhRWDU1X2N6ZzRvYXc?oc=5",
-      "source": "خبرگزاری فارس",
-      "lang": "fa",
-      "published": "2026-10-31T11:11:45.000Z",
-      "summary": "fars | تیزر هوش مصنوعی | نفت ۲۰۰ دلاری... خبرگزاری فارس"
     },
     {
       "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
@@ -96,6 +80,22 @@
       "lang": "en",
       "published": "2026-10-30T00:00:00.000Z",
       "summary": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation."
+    },
+    {
+      "title": "We urgently need to monitor AI agents’ actions in real time",
+      "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
+      "source": "MIT Technology Review",
+      "lang": "en",
+      "published": "2026-10-29T10:11:12.000Z",
+      "summary": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be grade"
+    },
+    {
+      "title": "Creating AI value with enterprise context",
+      "url": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
+      "source": "MIT Technology Review",
+      "lang": "en",
+      "published": "2026-10-28T20:32:02.000Z",
+      "summary": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one i"
     }
   ]
 }
