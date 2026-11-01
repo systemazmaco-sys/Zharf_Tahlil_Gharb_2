@@ -1,6 +1,30 @@
 {
-  "updated_at": "2026-11-01T03:01:28.730Z",
+  "updated_at": "2026-11-01T12:14:39.600Z",
   "items": [
+    {
+      "title": "غول‌های هوش مصنوعی راه مشترک مقابله با خزنده‌های وب را پذیرفتند",
+      "url": "https://www.zoomit.ir/ai-articles/470206-ai-scraping-opt-out-standard/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-11-01T12:00:00.000Z",
+      "summary": "چهار شرکت اوپن‌ای‌آی، گوگل، مایکروسافت و آنتروپیک استاندارد جدیدی را برای مسدودسازی خزش محتوای وبسایت‌ها توسط هوش مصنوعی پذیرفتند."
+    },
+    {
+      "title": "دنیای واقعی در ابعاد مینیاتوری؛ این پرامپت هوش مصنوعی را امتحان کنید",
+      "url": "https://www.zoomit.ir/ai-articles/470238-ai-prompt-tilt-shift-miniature-photo/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-11-01T10:00:00.000Z",
+      "summary": "با یک پرامپت جذاب می‌توانید از خیابان‌ها، ساختمان‌ها و مناظر شهری عکس‌هایی بسازید که انگار همه‌چیز در آن‌ها به یک دنیای کوچک اسباب‌بازی تبدیل شده است."
+    },
+    {
+      "title": "هوش مصنوعی و کاهش ترافیک سایت‌ها؛ ردیت ۷ میلیارد دلار از ارزش خود را از دست داد",
+      "url": "https://www.zoomit.ir/economics/470290-reddit-stock-drops-google-ai/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-11-01T09:49:23.000Z",
+      "summary": "ارزش بازار ردیت در پی تغییر سازوکار جست‌وجوی گوگل بیش از هفت میلیارد دلار سقوط کرد."
+    },
     {
       "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
       "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
@@ -24,38 +48,6 @@
       "lang": "en",
       "published": "2026-10-31T21:17:03.000Z",
       "summary": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act."
-    },
-    {
-      "title": "کارمند دانشگاه کنتاکی با تکیه بر باورهای مذهبی خود از کار با هوش مصنوعی معاف شد",
-      "url": "https://digiato.com/artificial-intelligence/humanist-wins-religious-exemption-work-ai",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-10-31T14:13:58.000Z",
-      "summary": "این کارمند می‌گوید واگذاری فرایند تفکر به ماشین، امکان رشد و عاملیت اخلاقی انسان را از بین می‌برد. The post کارمند دانشگاه کنتاکی با تکیه بر باورهای مذهبی خود از کار با هوش مصنوعی معاف شد appeared first on دیجیاتو."
-    },
-    {
-      "title": "مدیرعامل ردیت: AI Mode گوگل دیگر برای ما ترافیک نمی‌سازد",
-      "url": "https://www.zoomit.ir/social-network/470153-reddit-ceo-google-ai-traffic/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-10-31T13:00:00.000Z",
-      "summary": "مدیرعامل ردیت اعلام کرد قابلیت‌های هوش مصنوعی گوگل ترافیک ورودی این پلتفرم را هفتگی بیش از یک میلیون بازدید کاهش داده‌اند."
-    },
-    {
-      "title": "نموداری که آینده‌ هوش مصنوعی را نگران‌کننده‌تر کرد",
-      "url": "https://www.zoomit.ir/ai-articles/470220-ai-recursive-self-improvement-anthropic/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-10-31T11:55:41.000Z",
-      "summary": "داده‌های جدید آنتروپیک نشان می‌دهد که مدل‌های هوش مصنوعی نقش پررنگ‌تری در توسعه و پژوهش نسل‌های آینده‌ی خود ایفا می‌کنند."
-    },
-    {
-      "title": "پول ارزان، گلوگاه تازه توسعه‌ی هوش مصنوعی در آمریکا",
-      "url": "https://www.zoomit.ir/economics/470228-ai-financing-wall-street-crunch/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-10-31T11:55:19.000Z",
-      "summary": "سرمایه‌گذاران پس از سال‌ها تامین مالی آسان، حالا از پروژه‌های هوش مصنوعی درآمد روشن‌تر، وثیقه‌ی بیشتر و شرایط سخت‌تری می‌خواهند."
     },
     {
       "title": "fars | تیزر هوش مصنوعی | نفت ۲۰۰ دلاری...",
@@ -96,6 +88,14 @@
       "lang": "en",
       "published": "2026-10-29T10:11:12.000Z",
       "summary": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be grade"
+    },
+    {
+      "title": "Creating AI value with enterprise context",
+      "url": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
+      "source": "MIT Technology Review",
+      "lang": "en",
+      "published": "2026-10-28T20:32:02.000Z",
+      "summary": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one i"
     }
   ]
 }
