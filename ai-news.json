@@ -1,13 +1,29 @@
 {
-  "updated_at": "2026-10-31T20:45:30.035Z",
+  "updated_at": "2026-11-01T03:01:28.730Z",
   "items": [
     {
-      "title": "OpenAI reportedly lowers funding target for new round",
-      "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+      "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+      "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
       "source": "TechCrunch AI",
       "lang": "en",
-      "published": "2026-10-31T16:12:55.000Z",
-      "summary": "OpenAI’s latest funding round doesn't seem to be living up to expectations."
+      "published": "2026-10-31T21:41:00.000Z",
+      "summary": "Apple's new CEO defended the company's current position in the AI landscape."
+    },
+    {
+      "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+      "url": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-10-31T21:36:07.000Z",
+      "summary": "On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your idea and startup. Regi"
+    },
+    {
+      "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+      "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-10-31T21:17:03.000Z",
+      "summary": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act."
     },
     {
       "title": "کارمند دانشگاه کنتاکی با تکیه بر باورهای مذهبی خود از کار با هوش مصنوعی معاف شد",
@@ -42,20 +58,12 @@
       "summary": "سرمایه‌گذاران پس از سال‌ها تامین مالی آسان، حالا از پروژه‌های هوش مصنوعی درآمد روشن‌تر، وثیقه‌ی بیشتر و شرایط سخت‌تری می‌خواهند."
     },
     {
-      "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
-      "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-10-31T01:20:05.000Z",
-      "summary": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan."
-    },
-    {
-      "title": "Ollie, a privacy-focused AI assistant, is shutting down",
-      "url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-10-30T22:56:13.000Z",
-      "summary": "As an increasing number of AI assistants flood the market, the founder of Ollie, an assistant that respected its users' privacy, says it will be shutting down in a week."
+      "title": "fars | تیزر هوش مصنوعی | نفت ۲۰۰ دلاری...",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5zbmREVTl0YTg5ZWRKRTNMblhRdzFlYUQzQVlxRUFEZmpXX2I5XzZpVkNzZWo2ZFI2aUcwdUxiRnFkeVV5RU1DVnlnQ0NsNGZqSWhRWDU1X2N6ZzRvYXc?oc=5",
+      "source": "خبرگزاری فارس",
+      "lang": "fa",
+      "published": "2026-10-31T11:11:45.000Z",
+      "summary": "fars | تیزر هوش مصنوعی | نفت ۲۰۰ دلاری... خبرگزاری فارس"
     },
     {
       "title": "Making it easier for websites to express AI training preferences",
@@ -88,14 +96,6 @@
       "lang": "en",
       "published": "2026-10-29T10:11:12.000Z",
       "summary": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be grade"
-    },
-    {
-      "title": "Creating AI value with enterprise context",
-      "url": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
-      "source": "MIT Technology Review",
-      "lang": "en",
-      "published": "2026-10-28T20:32:02.000Z",
-      "summary": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one i"
     }
   ]
 }
