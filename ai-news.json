@@ -1,29 +1,61 @@
 {
-  "updated_at": "2026-11-01T12:14:39.600Z",
+  "updated_at": "2026-11-01T21:27:44.206Z",
   "items": [
     {
-      "title": "غول‌های هوش مصنوعی راه مشترک مقابله با خزنده‌های وب را پذیرفتند",
-      "url": "https://www.zoomit.ir/ai-articles/470206-ai-scraping-opt-out-standard/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-11-01T12:00:00.000Z",
-      "summary": "چهار شرکت اوپن‌ای‌آی، گوگل، مایکروسافت و آنتروپیک استاندارد جدیدی را برای مسدودسازی خزش محتوای وبسایت‌ها توسط هوش مصنوعی پذیرفتند."
+      "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
+      "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-11-01T20:57:58.000Z",
+      "summary": "On Equity, we discuss why tech CEO statements can seem so tone deaf."
     },
     {
-      "title": "دنیای واقعی در ابعاد مینیاتوری؛ این پرامپت هوش مصنوعی را امتحان کنید",
-      "url": "https://www.zoomit.ir/ai-articles/470238-ai-prompt-tilt-shift-miniature-photo/",
+      "title": "هوش مصنوعی کلاد حفره‌ای مرگبار در لینوکس پیدا کرد",
+      "url": "https://www.zoomit.ir/security/470224-claude-finds-critical-linux-flaw/",
       "source": "زومیت",
       "lang": "fa",
-      "published": "2026-11-01T10:00:00.000Z",
-      "summary": "با یک پرامپت جذاب می‌توانید از خیابان‌ها، ساختمان‌ها و مناظر شهری عکس‌هایی بسازید که انگار همه‌چیز در آن‌ها به یک دنیای کوچک اسباب‌بازی تبدیل شده است."
+      "published": "2026-11-01T19:50:00.000Z",
+      "summary": "مدل منتشرنشده‌ی هوش مصنوعی کلاد موفق شد آسیب‌پذیری بحرانی کرنل لینوکس با امتیاز ۹٫۸ را کشف کند و دسترسی روت بسازد."
     },
     {
-      "title": "هوش مصنوعی و کاهش ترافیک سایت‌ها؛ ردیت ۷ میلیارد دلار از ارزش خود را از دست داد",
-      "url": "https://www.zoomit.ir/economics/470290-reddit-stock-drops-google-ai/",
+      "title": "هوش مصنوعی جدید علی‌بابا در نوشتن متن روی تصاویر، بی‌نقص عمل می‌کند",
+      "url": "https://www.zoomit.ir/ai-articles/470167-alibaba-qwen-image-ai-model/",
       "source": "زومیت",
       "lang": "fa",
-      "published": "2026-11-01T09:49:23.000Z",
-      "summary": "ارزش بازار ردیت در پی تغییر سازوکار جست‌وجوی گوگل بیش از هفت میلیارد دلار سقوط کرد."
+      "published": "2026-11-01T19:00:00.000Z",
+      "summary": "علی‌بابا با نسخه‌ی ارتقاءیافته‌ی مدل Qwen-Image ، امکان نگارش دقیق‌تر متن و طراحی پوستر و اینفوگرافیک با وضوح 2K را فراهم کرد."
+    },
+    {
+      "title": "هوش مصنوعی از خاموش شدن می‌ترسد؛ اعتراف تکان‌دهنده مدیر آنتروپیک",
+      "url": "https://www.zoomit.ir/ai-articles/470222-anthropic-ai-resistance-shutdown-behavior/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-11-01T17:55:00.000Z",
+      "summary": "مدیرعامل آنتروپیک می‌گوید هوش مصنوعی گاهی تلاش می‌کند از خاموش‌شدن خود جلوگیری کند"
+    },
+    {
+      "title": "آیا هوش مصنوعی می‌تواند بدون دخالت انسان نسل بعدی خودش را بسازد؟",
+      "url": "https://digiato.com/artificial-intelligence/ai-recursive-self-improvement",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-11-01T16:30:00.000Z",
+      "summary": "پژوهشگران چینی در مقاله جدید خود به این موضوع پرداخته‌اند. The post آیا هوش مصنوعی می‌تواند بدون دخالت انسان نسل بعدی خودش را بسازد؟ appeared first on دیجیاتو."
+    },
+    {
+      "title": "دانشمندان سگ رباتیکی ساختند که با نورون‌های زنده انسان کنترل می‌شود",
+      "url": "https://digiato.com/robotics/human-brain-cells-powered-robot-dog",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-11-01T14:30:00.000Z",
+      "summary": "پژوهشگران با نورون‌های زنده روی تراشه، سگ رباتیکی ساخته‌اند که می‌تواند با استفاده از سیگنال‌های الکتریکی سلول‌های مغزی انسان حرکت کند. The post دانشمندان سگ رباتیکی ساختند که با نورون‌های زنده انسان کنترل می‌شود appeare"
+    },
+    {
+      "title": "رقیب آنتروپیک و OpenAI؛ دیپ‌سیک از دستیار کدنویسی Super-Agent رونمایی کرد",
+      "url": "https://digiato.com/artificial-intelligence/deepseek-super-agent-coding-prototype",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-11-01T13:57:38.000Z",
+      "summary": "هدف اصلی این دستیار هوش مصنوعی، ساده‌کردن مدیریت همزمان چند ایجنت برای کاربران است. The post رقیب آنتروپیک و OpenAI؛ دیپ‌سیک از دستیار کدنویسی Super-Agent رونمایی کرد appeared first on دیجیاتو."
     },
     {
       "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
@@ -40,14 +72,6 @@
       "lang": "en",
       "published": "2026-10-31T21:36:07.000Z",
       "summary": "On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your idea and startup. Regi"
-    },
-    {
-      "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
-      "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-10-31T21:17:03.000Z",
-      "summary": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act."
     },
     {
       "title": "fars | تیزر هوش مصنوعی | نفت ۲۰۰ دلاری...",
@@ -72,30 +96,6 @@
       "lang": "en",
       "published": "2026-10-30T09:00:00.000Z",
       "summary": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting."
-    },
-    {
-      "title": "Fair use benefits everyone",
-      "url": "https://openai.com/index/fair-use-benefits-everyone",
-      "source": "OpenAI",
-      "lang": "en",
-      "published": "2026-10-30T00:00:00.000Z",
-      "summary": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation."
-    },
-    {
-      "title": "We urgently need to monitor AI agents’ actions in real time",
-      "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
-      "source": "MIT Technology Review",
-      "lang": "en",
-      "published": "2026-10-29T10:11:12.000Z",
-      "summary": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be grade"
-    },
-    {
-      "title": "Creating AI value with enterprise context",
-      "url": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
-      "source": "MIT Technology Review",
-      "lang": "en",
-      "published": "2026-10-28T20:32:02.000Z",
-      "summary": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one i"
     }
   ]
 }
