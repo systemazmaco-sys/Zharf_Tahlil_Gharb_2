@@ -1,6 +1,30 @@
 {
-  "updated_at": "2026-11-01T21:27:44.206Z",
+  "updated_at": "2026-11-02T03:12:14.108Z",
   "items": [
+    {
+      "title": "از هشدار تا اخراج؛ استفاده پنهانی از هوش مصنوعی، جایگاه یک مدیر دانشگاه را نابود کرد",
+      "url": "https://www.zoomit.ir/ai-articles/470227-dartmouth-provost-resigns-ai-paper/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-11-01T23:15:00.000Z",
+      "summary": "معاون علمی دانشگاه دارتموث پس از افشای استفاده‌ی گسترده از مدل‌های هوش مصنوعی در نگارش مقاله‌ی پژوهشی خود، از سمتش کناره‌گیری کرد."
+    },
+    {
+      "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+      "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-11-01T21:55:23.000Z",
+      "summary": "Data centers are deeply unpopular. But what if we called them something else?"
+    },
+    {
+      "title": "هندزفری جدید وان‌پلاس با پشتیبانی از هوش مصنوعی و شارژدهی طولانی عرضه شد",
+      "url": "https://www.zoomit.ir/headset/470241-oneplus-buds-pro-4-launch/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-11-01T21:40:00.000Z",
+      "summary": "وان‌پلاس بی‌سروصدا از هدفون پرچمدار بادز پرو ۴ با شارژدهی ۵۳ ساعته و سیستم صوتی مشترک با داین‌آدیو پرده برداشت."
+    },
     {
       "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
       "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
@@ -16,22 +40,6 @@
       "lang": "fa",
       "published": "2026-11-01T19:50:00.000Z",
       "summary": "مدل منتشرنشده‌ی هوش مصنوعی کلاد موفق شد آسیب‌پذیری بحرانی کرنل لینوکس با امتیاز ۹٫۸ را کشف کند و دسترسی روت بسازد."
-    },
-    {
-      "title": "هوش مصنوعی جدید علی‌بابا در نوشتن متن روی تصاویر، بی‌نقص عمل می‌کند",
-      "url": "https://www.zoomit.ir/ai-articles/470167-alibaba-qwen-image-ai-model/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-11-01T19:00:00.000Z",
-      "summary": "علی‌بابا با نسخه‌ی ارتقاءیافته‌ی مدل Qwen-Image ، امکان نگارش دقیق‌تر متن و طراحی پوستر و اینفوگرافیک با وضوح 2K را فراهم کرد."
-    },
-    {
-      "title": "هوش مصنوعی از خاموش شدن می‌ترسد؛ اعتراف تکان‌دهنده مدیر آنتروپیک",
-      "url": "https://www.zoomit.ir/ai-articles/470222-anthropic-ai-resistance-shutdown-behavior/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-11-01T17:55:00.000Z",
-      "summary": "مدیرعامل آنتروپیک می‌گوید هوش مصنوعی گاهی تلاش می‌کند از خاموش‌شدن خود جلوگیری کند"
     },
     {
       "title": "آیا هوش مصنوعی می‌تواند بدون دخالت انسان نسل بعدی خودش را بسازد؟",
@@ -64,14 +72,6 @@
       "lang": "en",
       "published": "2026-10-31T21:41:00.000Z",
       "summary": "Apple's new CEO defended the company's current position in the AI landscape."
-    },
-    {
-      "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
-      "url": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-10-31T21:36:07.000Z",
-      "summary": "On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your idea and startup. Regi"
     },
     {
       "title": "fars | تیزر هوش مصنوعی | نفت ۲۰۰ دلاری...",
