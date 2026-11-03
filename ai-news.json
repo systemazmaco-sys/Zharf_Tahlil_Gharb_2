@@ -1,29 +1,77 @@
 {
-  "updated_at": "2026-11-03T00:09:29.562Z",
+  "updated_at": "2026-11-03T13:12:08.988Z",
   "items": [
     {
-      "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
-      "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-11-02T23:13:53.000Z",
-      "summary": "The one-year-old startup is now valued at $300 million."
+      "title": "آنتروپیک رسماً محدودیت‌های جدید Claude برای مهندسی معکوس بازی‌ها را تأیید کرد",
+      "url": "https://digiato.com/artificial-intelligence/anthropic-confirms-claude-limits-game-cloning-reverse-engineering",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-11-03T11:59:30.000Z",
+      "summary": "آنتروپیک با افزودن محدودیت‌های تازه به Claude، بازسازی بازی‌ها و مهندسی معکوس نرم‌افزار را متوقف کرد. The post آنتروپیک رسماً محدودیت‌های جدید Claude برای مهندسی معکوس بازی‌ها را تأیید کرد appeared first on دیجیاتو."
     },
     {
-      "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
-      "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
-      "source": "TechCrunch AI",
+      "title": "How “reverse game theory” could keep AI agents in check",
+      "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
+      "source": "MIT Technology Review",
       "lang": "en",
-      "published": "2026-11-02T22:14:50.000Z",
-      "summary": "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return."
+      "published": "2026-11-03T10:43:41.000Z",
+      "summary": "A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules. As AI models become more capable, safety researchers are scrambling to en"
     },
     {
-      "title": "Web host Squarespace lays off 19% of its employees",
-      "url": "https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees/",
+      "title": "نیویورک تایمز از Brave به اتهام سرقت محتوا برای شرکت‌های هوش مصنوعی شکایت کرد",
+      "url": "https://digiato.com/internet-network/nyt-and-publishers-sue-brave-browser-ai-scraping",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-11-03T10:10:00.000Z",
+      "summary": "مرورگر Brave متهم شده که محتوای ناشران را استخراج کرده و به شرکت‌های هوش مصنوعی فروخته است. The post نیویورک تایمز از Brave به اتهام سرقت محتوا برای شرکت‌های هوش مصنوعی شکایت کرد appeared first on دیجیاتو."
+    },
+    {
+      "title": "نقشه تازه اپل برای پول‌سازی از هوش مصنوعی",
+      "url": "https://www.zoomit.ir/software-news/470389-apple-third-party-ai-apps-services-revenue/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-11-03T08:30:00.000Z",
+      "summary": "اپل از فرصت‌های درآمدی در اپلیکیشن‌های هوش مصنوعی متفرقه سخن گفت، اما جزئیاتی نداد. آیا ایجنت‌ها جای خالی کمیسیون‌های اپ استور را پر می‌کنند؟"
+    },
+    {
+      "title": "Heimstaden is changing residential real estate management with AI",
+      "url": "https://openai.com/index/heimstaden",
+      "source": "OpenAI",
+      "lang": "en",
+      "published": "2026-11-03T08:00:00.000Z",
+      "summary": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe."
+    },
+    {
+      "title": "Apple Watch’s AI features for rewinding and recapping conversations begin beta testing",
+      "url": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
       "source": "TechCrunch AI",
       "lang": "en",
-      "published": "2026-11-02T19:25:59.000Z",
-      "summary": "The website builder said that the job losses are part of a broader restructuring of its organization."
+      "published": "2026-11-03T07:20:00.000Z",
+      "summary": "Now in beta: Apple's new Audio Intelligence features can help you remember what someone said or take notes on conversations."
+    },
+    {
+      "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
+      "url": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/",
+      "source": "MIT Technology Review",
+      "lang": "en",
+      "published": "2026-11-03T04:18:47.000Z",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. At the end of September, President Trump signed an executive order that contained "
+    },
+    {
+      "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
+      "url": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-11-03T03:30:00.000Z",
+      "summary": "Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages."
+    },
+    {
+      "title": "Apple may try to increase revenue by doing…something with third-party AI apps",
+      "url": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-11-03T01:49:52.000Z",
+      "summary": "Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call."
     },
     {
       "title": "دیتاسنترهای AI که برق شهرها را می‌بلعند، حالا قرار است در روزهای بحرانی به داد مردم برسند",
@@ -34,68 +82,20 @@
       "summary": "اوپن‌ای‌آی می‌گوید دیتاسنتر جورجیا در هنگام بحران، برق مصرفی معادل نیاز سرمایشی حدود ۷۰۰ هزار خانه را آزاد می‌کند."
     },
     {
-      "title": "نفوذ به حساب‌های ChatGPT تنها با باز کردن یک لینک اشتراکی",
-      "url": "https://www.zoomit.ir/security/470274-chatgpt-account-takeover-vulnerability-fixed/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-11-02T17:50:00.000Z",
-      "summary": "پژوهشگران امنیتی نقصی در چت‌جی‌پی‌تی کشف کردند که تنها با باز کردن یک لینک، امکان دسترسی کامل به حساب کاربران را فراهم می‌کرد."
-    },
-    {
-      "title": "Raising the quality of insights in agentic analytics",
-      "url": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
-      "source": "MIT Technology Review",
-      "lang": "en",
-      "published": "2026-11-02T17:00:00.000Z",
-      "summary": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automating entire workflow"
-    },
-    {
-      "title": "درخشش جمنای ۴ کربن؛ هوش مصنوعی پرقدرت گوگل تقریبا هم‌سطح کلاد اما بسیار ارزان‌تر است",
-      "url": "https://www.zoomit.ir/ai-articles/470366-gemini-4-carbon-gdpx-benchmark-value/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-11-02T16:43:17.000Z",
-      "summary": "بر اساس بنچمارک‌های رسمی، جمنای ۴ کربن با فاصله‌ای اندک از کلاد اپوس ۵٫۵، هزینه‌ی هر پردازش را به کمتر از یک‌سوم می‌رساند."
-    },
-    {
-      "title": "Scaling Git at OpenAI",
-      "url": "https://openai.com/index/scaling-git-at-openai",
+      "title": "Rewarding defenders with bigger bug bounties",
+      "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
       "source": "OpenAI",
       "lang": "en",
-      "published": "2026-11-02T15:30:00.000Z",
-      "summary": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible."
+      "published": "2026-11-02T18:00:00.000Z",
+      "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers."
     },
     {
-      "title": "Introducing the Grid Protectors Program",
-      "url": "https://openai.com/index/grid-protectors-program",
+      "title": "Preparing our next security sprint to harden OpenAI",
+      "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
       "source": "OpenAI",
       "lang": "en",
-      "published": "2026-11-02T15:00:00.000Z",
-      "summary": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs."
-    },
-    {
-      "title": "Stop counting tokens, start counting what ships",
-      "url": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
-      "source": "MIT Technology Review",
-      "lang": "en",
-      "published": "2026-11-02T13:10:32.000Z",
-      "summary": "When a developer gives an AI agent a coding task, the agent does more than answer once. It plans, generates code, runs tests, and repeats the process to correct errors. A single task can use 10 to 50 times more tokens th"
-    },
-    {
-      "title": "The agentic web is here",
-      "url": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/",
-      "source": "MIT Technology Review",
-      "lang": "en",
-      "published": "2026-11-02T09:35:19.000Z",
-      "summary": "In 2001, a decade after he invented the World Wide Web, Tim Berners-Lee articulated a new vision. Together with two colleagues, he published an article in the magazine Scientific American in which he outlined what he cal"
-    },
-    {
-      "title": "LifeVal",
-      "url": "https://openai.com/index/lifeval",
-      "source": "OpenAI",
-      "lang": "en",
-      "published": "2026-11-02T09:00:00.000Z",
-      "summary": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork."
+      "published": "2026-11-02T18:00:00.000Z",
+      "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI."
     }
   ]
 }
