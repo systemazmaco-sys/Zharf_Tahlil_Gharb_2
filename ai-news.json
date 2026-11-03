@@ -1,13 +1,77 @@
 {
-  "updated_at": "2026-11-02T14:05:08.957Z",
+  "updated_at": "2026-11-03T00:09:29.562Z",
   "items": [
     {
-      "title": "OpenAI is finally merging ChatGPT’s chat and Work tabs",
-      "url": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
+      "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
+      "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
       "source": "TechCrunch AI",
       "lang": "en",
-      "published": "2026-11-02T13:57:53.000Z",
-      "summary": "OpenAI said that ChatGPT and Codex will draw usage from the same allocation pool after this change."
+      "published": "2026-11-02T23:13:53.000Z",
+      "summary": "The one-year-old startup is now valued at $300 million."
+    },
+    {
+      "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
+      "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-11-02T22:14:50.000Z",
+      "summary": "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return."
+    },
+    {
+      "title": "Web host Squarespace lays off 19% of its employees",
+      "url": "https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-11-02T19:25:59.000Z",
+      "summary": "The website builder said that the job losses are part of a broader restructuring of its organization."
+    },
+    {
+      "title": "دیتاسنترهای AI که برق شهرها را می‌بلعند، حالا قرار است در روزهای بحرانی به داد مردم برسند",
+      "url": "https://www.zoomit.ir/ai-articles/470367-openai-grid-protectors-program/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-11-02T18:42:18.000Z",
+      "summary": "اوپن‌ای‌آی می‌گوید دیتاسنتر جورجیا در هنگام بحران، برق مصرفی معادل نیاز سرمایشی حدود ۷۰۰ هزار خانه را آزاد می‌کند."
+    },
+    {
+      "title": "نفوذ به حساب‌های ChatGPT تنها با باز کردن یک لینک اشتراکی",
+      "url": "https://www.zoomit.ir/security/470274-chatgpt-account-takeover-vulnerability-fixed/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-11-02T17:50:00.000Z",
+      "summary": "پژوهشگران امنیتی نقصی در چت‌جی‌پی‌تی کشف کردند که تنها با باز کردن یک لینک، امکان دسترسی کامل به حساب کاربران را فراهم می‌کرد."
+    },
+    {
+      "title": "Raising the quality of insights in agentic analytics",
+      "url": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
+      "source": "MIT Technology Review",
+      "lang": "en",
+      "published": "2026-11-02T17:00:00.000Z",
+      "summary": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automating entire workflow"
+    },
+    {
+      "title": "درخشش جمنای ۴ کربن؛ هوش مصنوعی پرقدرت گوگل تقریبا هم‌سطح کلاد اما بسیار ارزان‌تر است",
+      "url": "https://www.zoomit.ir/ai-articles/470366-gemini-4-carbon-gdpx-benchmark-value/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-11-02T16:43:17.000Z",
+      "summary": "بر اساس بنچمارک‌های رسمی، جمنای ۴ کربن با فاصله‌ای اندک از کلاد اپوس ۵٫۵، هزینه‌ی هر پردازش را به کمتر از یک‌سوم می‌رساند."
+    },
+    {
+      "title": "Scaling Git at OpenAI",
+      "url": "https://openai.com/index/scaling-git-at-openai",
+      "source": "OpenAI",
+      "lang": "en",
+      "published": "2026-11-02T15:30:00.000Z",
+      "summary": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible."
+    },
+    {
+      "title": "Introducing the Grid Protectors Program",
+      "url": "https://openai.com/index/grid-protectors-program",
+      "source": "OpenAI",
+      "lang": "en",
+      "published": "2026-11-02T15:00:00.000Z",
+      "summary": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs."
     },
     {
       "title": "Stop counting tokens, start counting what ships",
@@ -18,46 +82,6 @@
       "summary": "When a developer gives an AI agent a coding task, the agent does more than answer once. It plans, generates code, runs tests, and repeats the process to correct errors. A single task can use 10 to 50 times more tokens th"
     },
     {
-      "title": "هوش مصنوعی به کلاهبرداران کمک کرد ۲۰۰ میلیون دلار وام دانشجویی بدزدند",
-      "url": "https://www.zoomit.ir/ai-articles/470269-doj-ai-student-loan-fraud/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-11-02T13:10:00.000Z",
-      "summary": "وزارت دادگستری آمریکا نخستین نتایج عملیات بزرگ ضدکلاهبرداری دانشجویی را با کیفرخواست پنج متهم اعلام کرد."
-    },
-    {
-      "title": "واترمارک متنی آنتروپیک از فردا به مدل‌های قدیمی Claude اضافه خواهد شد",
-      "url": "https://digiato.com/artificial-intelligence/anthropic-expands-text-watermarking-older-claude-versions",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-11-02T13:03:00.000Z",
-      "summary": "این ویژگی بر پایه الگوی انتخاب کلمات کار می‌کند و هویت کاربران را مشخص نمی‌سازد. The post واترمارک متنی آنتروپیک از فردا به مدل‌های قدیمی Claude اضافه خواهد شد appeared first on دیجیاتو."
-    },
-    {
-      "title": "امضای قراردادهای جدید امارات و OpenAI؛ هوش مصنوعی امور دولت و بخش انرژی را متحول می‌کند",
-      "url": "https://digiato.com/finance-investment/openai-abu-dhabi-energy-government-investment-deals",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-11-02T12:37:07.000Z",
-      "summary": "اوپن‌ای‌آی با امضای توافق‌هایی در حوزه انرژی، سرمایه‌گذاری و دولت، همکاری‌های خود با نهادهای ابوظبی را گسترش داد. The post امضای قراردادهای جدید امارات و OpenAI؛ هوش مصنوعی امور دولت و بخش انرژی را متحول می‌کند appeared "
-    },
-    {
-      "title": "آسیب‌پذیری خطرناک ChatGPT چت‌های کاربر را از طریق لینک اشتراک‌گذاری فاش می‌کرد",
-      "url": "https://digiato.com/security/chatgpt-flaw-shared-links-private-chats",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-11-02T11:20:00.000Z",
-      "summary": "شرکت OpenAI این باگ را برطرف و ۵۰۰۰ دلار پاداش به پژوهشگران کشف‌کننده آن اهدا کرده است. The post آسیب‌پذیری خطرناک ChatGPT چت‌های کاربر را از طریق لینک اشتراک‌گذاری فاش می‌کرد appeared first on دیجیاتو."
-    },
-    {
-      "title": "تنظیم شکواییه به هوش مصنوعی بخش خصوصی واگذار شد؛ ۱۰ میلیون دادنامه در اختیار سکوها",
-      "url": "https://www.zoomit.ir/iran-news/470346-iran-judiciary-private-sector-ai/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-11-02T10:00:00.000Z",
-      "summary": "تنظیم و ارسال اظهارنامه و لایحه قضایی بدون نیاز به مراجعه حضوری به سکوهای بخش خصوصی واگذار شد."
-    },
-    {
       "title": "The agentic web is here",
       "url": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/",
       "source": "MIT Technology Review",
@@ -66,36 +90,12 @@
       "summary": "In 2001, a decade after he invented the World Wide Web, Tim Berners-Lee articulated a new vision. Together with two colleagues, he published an article in the magazine Scientific American in which he outlined what he cal"
     },
     {
-      "title": "از هشدار تا اخراج؛ استفاده پنهانی از هوش مصنوعی، جایگاه یک مدیر دانشگاه را نابود کرد",
-      "url": "https://www.zoomit.ir/ai-articles/470227-dartmouth-provost-resigns-ai-paper/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-11-01T23:15:00.000Z",
-      "summary": "معاون علمی دانشگاه دارتموث پس از افشای استفاده‌ی گسترده از مدل‌های هوش مصنوعی در نگارش مقاله‌ی پژوهشی خود، از سمتش کناره‌گیری کرد."
-    },
-    {
-      "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
-      "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
-      "source": "TechCrunch AI",
+      "title": "LifeVal",
+      "url": "https://openai.com/index/lifeval",
+      "source": "OpenAI",
       "lang": "en",
-      "published": "2026-11-01T21:55:23.000Z",
-      "summary": "Data centers are deeply unpopular. But what if we called them something else?"
-    },
-    {
-      "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
-      "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-11-01T20:57:58.000Z",
-      "summary": "On Equity, we discuss why tech CEO statements can seem so tone deaf."
-    },
-    {
-      "title": "fars | تیزر هوش مصنوعی | نفت ۲۰۰ دلاری...",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5zbmREVTl0YTg5ZWRKRTNMblhRdzFlYUQzQVlxRUFEZmpXX2I5XzZpVkNzZWo2ZFI2aUcwdUxiRnFkeVV5RU1DVnlnQ0NsNGZqSWhRWDU1X2N6ZzRvYXc?oc=5",
-      "source": "خبرگزاری فارس",
-      "lang": "fa",
-      "published": "2026-10-31T11:11:45.000Z",
-      "summary": "fars | تیزر هوش مصنوعی | نفت ۲۰۰ دلاری... خبرگزاری فارس"
+      "published": "2026-11-02T09:00:00.000Z",
+      "summary": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork."
     }
   ]
 }
