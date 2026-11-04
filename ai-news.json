@@ -1,6 +1,78 @@
 {
-  "updated_at": "2026-11-04T13:25:56.664Z",
+  "updated_at": "2026-11-04T22:58:24.226Z",
   "items": [
+    {
+      "title": "AI PACs spent millions trying to shape Congress. Here’s how they fared.",
+      "url": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-11-04T22:45:09.000Z",
+      "summary": "AI industry PACs spent millions influencing the 2026 midterms, with mixed results. Political groups are already looking toward the next election cycle."
+    },
+    {
+      "title": "Nothing CEO says company’s mysterious AI-first device is dropping next month",
+      "url": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-11-04T22:13:16.000Z",
+      "summary": "While it's not yet clear what kind of product the smartphone startup is cooking up, Nothing's CEO said the product is designed to leverage AI for productivity gains."
+    },
+    {
+      "title": "Almost no one uses AI agents to book their Uber, company says",
+      "url": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-11-04T21:56:01.000Z",
+      "summary": "During its busiest week last quarter, Uber said only four people booked a ride using an AI agent."
+    },
+    {
+      "title": "از نیروگاه‌ها تا شبکه‌های حیاتی؛ هشدار بریتانیا درباره نسل تازه حملات سایبری با هوش مصنوعی",
+      "url": "https://www.zoomit.ir/security/470413-ai-ransomware-threat-uk-infrastructure/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-11-04T20:00:00.000Z",
+      "summary": "مرکز ملی امنیت سایبری بریتانیا هشدار داد بدافزارهای مجهز به هوش مصنوعی تا سال ۲۰۲۸ زیرساخت‌های حیاتی آن کشور را هدف خواهند گرفت."
+    },
+    {
+      "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
+      "url": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
+      "source": "MIT Technology Review",
+      "lang": "en",
+      "published": "2026-11-04T18:50:55.000Z",
+      "summary": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech’s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat James Talarico won th"
+    },
+    {
+      "title": "شرکت‌های هوش مصنوعی برای تأمین برق دیتاسنترها به سراغ موتورهای جت قدیمی رفتند",
+      "url": "https://digiato.com/artificial-intelligence/ai-data-centers-jet-engines",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-11-04T17:30:00.000Z",
+      "summary": "کمبود برق باعث شده شرکت‌های بزرگی مانند xAI و OpenAI برای تأمین انرژی مراکز داده خود از موتورهای جت بازسازی‌شده هواپیماهای بازنشسته استفاده کنند. The post شرکت‌های هوش مصنوعی برای تأمین برق دیتاسنترها به سراغ موتورهای جت"
+    },
+    {
+      "title": "از هوش مصنوعی تا اینترنت اشیا؛ همکاران سیستم در رویداد باهم ۱۴۰۵ چه فناوری‌هایی معرفی کرد؟",
+      "url": "https://www.zoomit.ir/report/470493-system-group-ai-iot-enterprise/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-11-04T15:30:00.000Z",
+      "summary": "همکاران سیستم در رویداد باهم ۱۴۰۵ از نقش هوش مصنوعی، اینترنت اشیا و زیرساخت ابری در آینده کسب‌وکارها گفت."
+    },
+    {
+      "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+      "url": "https://openai.com/index/openai-to-acquire-pierre",
+      "source": "OpenAI",
+      "lang": "en",
+      "published": "2026-11-04T14:30:00.000Z",
+      "summary": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code."
+    },
+    {
+      "title": "گزارش حضور هلیکس‌ورلد در نمایشگاه مدیا اکسپو؛ پلتفرمی برای ساخت کسب‌وکارهای یک نفره با هوش مصنوعی",
+      "url": "https://digiato.com/iran-technology-news/helix-world-ai-platform-media-expo-1405",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-11-04T13:29:56.000Z",
+      "summary": "آنچه هلیکس‌ورلد را متمایز می‌کند، تمرکز بر توانمندسازی افراد برای راهبری کسب‌وکار شخصی است. The post گزارش حضور هلیکس‌ورلد در نمایشگاه مدیا اکسپو؛ پلتفرمی برای ساخت کسب‌وکارهای یک نفره با هوش مصنوعی appeared first on دیج"
+    },
     {
       "title": "Securing the agentic enterprise with data lineage",
       "url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
@@ -8,14 +80,6 @@
       "lang": "en",
       "published": "2026-11-04T13:00:00.000Z",
       "summary": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks accurate to the age"
-    },
-    {
-      "title": "TechCrunch Founder Summit 2026: Doors open at 9 a.m. ET in Boston",
-      "url": "https://techcrunch.com/2026/11/04/techcrunch-founder-summit-2026-todays-the-day/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-11-04T13:00:00.000Z",
-      "summary": "Today is the day to join TechCrunch Founder Summit 2026 in Boston's SoWa Power Station. Register now to join this founder-focused conference today."
     },
     {
       "title": "آسمان در تسخیر ماهواره‌ها؛ این عکس تکان‌دهنده انگار ساخت هوش مصنوعی است",
@@ -26,76 +90,12 @@
       "summary": "برندان لارسن با ترکیب صدها عکس از آسمان شب، تصویری شگفت‌انگیز از رد ماهواره‌ها ثبت کرد که بسیاری آن را ساخته هوش مصنوعی می‌دانند."
     },
     {
-      "title": "گوگل مدارس مخالف هوش مصنوعی را از موتور جستجوی خود محروم می‌کند",
-      "url": "https://digiato.com/artificial-intelligence/google-search-ai-schools-ban",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-11-04T11:17:06.000Z",
-      "summary": "گوگل دسترسی دانش‌آموزان مدارس مخالف هوش مصنوعی به موتور جستجوی خود را مسدود می‌کند؛ تصمیمی که با انتقاد مقام‌های آمریکایی همراه شده است. The post گوگل مدارس مخالف هوش مصنوعی را از موتور جستجوی خود محروم می‌کند appeared f"
-    },
-    {
-      "title": "راه‌اندازی شعب تخصصی جرایم رایانه‌ای؛ قضات به مباحث هوش مصنوعی و رمزارز مسلط هستند",
-      "url": "https://www.zoomit.ir/iran-news/470487-iran-cybercrime-digital-business-court/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-11-04T10:50:20.000Z",
-      "summary": "شعب تخصصی رسیدگی به جرایم سایبری و پرونده‌های اقتصاد دیجیتال با حضور مسئولان قضایی و وزیر ارتباطات در مجتمع قدس تهران آغاز به کار کرد."
-    },
-    {
-      "title": "آنتروپیک می‌خواهد هویت مدل‌های هوش مصنوعی را اثبات‌پذیر کند",
-      "url": "https://www.zoomit.ir/ai-articles/470468-anthropic-unveils-flashprove-system/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-11-04T06:39:36.000Z",
-      "summary": "آنتروپیک با معرفی سیستمی متن‌باز به نام FlashProve، امکان راستی‌آزمایی ریاضی خروجی‌های مدل‌های هوش مصنوعی را فراهم کرد."
-    },
-    {
-      "title": "Anthropic is working on a system to prove AI models’ identity",
-      "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-11-03T22:41:03.000Z",
-      "summary": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from."
-    },
-    {
-      "title": "Data centers are turning to old jet engines as the wait for power grows",
-      "url": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-11-03T22:19:53.000Z",
-      "summary": "The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less-efficient and less environmentally friendly solution: once-discarded jet engines."
-    },
-    {
-      "title": "Agentic cheminformatics with Google Antigravity",
-      "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
-      "source": "Google DeepMind",
-      "lang": "en",
-      "published": "2026-11-03T17:01:49.000Z",
-      "summary": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles."
-    },
-    {
-      "title": "Accelerating engineering for the physical world",
-      "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+      "title": "A thousand fewer paths to root",
+      "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
       "source": "OpenAI",
       "lang": "en",
-      "published": "2026-11-03T12:00:00.000Z",
-      "summary": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world."
-    },
-    {
-      "title": "How “reverse game theory” could keep AI agents in check",
-      "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
-      "source": "MIT Technology Review",
-      "lang": "en",
-      "published": "2026-11-03T10:43:41.000Z",
-      "summary": "A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules. As AI models become more capable, safety researchers are scrambling to en"
-    },
-    {
-      "title": "How Cisco defends at machine speed with OpenAI",
-      "url": "https://openai.com/index/cisco-cyber",
-      "source": "OpenAI",
-      "lang": "en",
-      "published": "2026-11-03T08:00:00.000Z",
-      "summary": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses."
+      "published": "2026-11-04T08:00:00.000Z",
+      "summary": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel."
     }
   ]
 }
