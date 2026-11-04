@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-11-04T03:46:22.563Z",
+  "updated_at": "2026-11-04T13:25:56.664Z",
   "items": [
+    {
+      "title": "Securing the agentic enterprise with data lineage",
+      "url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
+      "source": "MIT Technology Review",
+      "lang": "en",
+      "published": "2026-11-04T13:00:00.000Z",
+      "summary": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks accurate to the age"
+    },
+    {
+      "title": "TechCrunch Founder Summit 2026: Doors open at 9 a.m. ET in Boston",
+      "url": "https://techcrunch.com/2026/11/04/techcrunch-founder-summit-2026-todays-the-day/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-11-04T13:00:00.000Z",
+      "summary": "Today is the day to join TechCrunch Founder Summit 2026 in Boston's SoWa Power Station. Register now to join this founder-focused conference today."
+    },
+    {
+      "title": "آسمان در تسخیر ماهواره‌ها؛ این عکس تکان‌دهنده انگار ساخت هوش مصنوعی است",
+      "url": "https://www.zoomit.ir/space/470456-photographer-captures-satellites-night-sky/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-11-04T11:40:00.000Z",
+      "summary": "برندان لارسن با ترکیب صدها عکس از آسمان شب، تصویری شگفت‌انگیز از رد ماهواره‌ها ثبت کرد که بسیاری آن را ساخته هوش مصنوعی می‌دانند."
+    },
+    {
+      "title": "گوگل مدارس مخالف هوش مصنوعی را از موتور جستجوی خود محروم می‌کند",
+      "url": "https://digiato.com/artificial-intelligence/google-search-ai-schools-ban",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-11-04T11:17:06.000Z",
+      "summary": "گوگل دسترسی دانش‌آموزان مدارس مخالف هوش مصنوعی به موتور جستجوی خود را مسدود می‌کند؛ تصمیمی که با انتقاد مقام‌های آمریکایی همراه شده است. The post گوگل مدارس مخالف هوش مصنوعی را از موتور جستجوی خود محروم می‌کند appeared f"
+    },
+    {
+      "title": "راه‌اندازی شعب تخصصی جرایم رایانه‌ای؛ قضات به مباحث هوش مصنوعی و رمزارز مسلط هستند",
+      "url": "https://www.zoomit.ir/iran-news/470487-iran-cybercrime-digital-business-court/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-11-04T10:50:20.000Z",
+      "summary": "شعب تخصصی رسیدگی به جرایم سایبری و پرونده‌های اقتصاد دیجیتال با حضور مسئولان قضایی و وزیر ارتباطات در مجتمع قدس تهران آغاز به کار کرد."
+    },
+    {
+      "title": "آنتروپیک می‌خواهد هویت مدل‌های هوش مصنوعی را اثبات‌پذیر کند",
+      "url": "https://www.zoomit.ir/ai-articles/470468-anthropic-unveils-flashprove-system/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-11-04T06:39:36.000Z",
+      "summary": "آنتروپیک با معرفی سیستمی متن‌باز به نام FlashProve، امکان راستی‌آزمایی ریاضی خروجی‌های مدل‌های هوش مصنوعی را فراهم کرد."
+    },
     {
       "title": "Anthropic is working on a system to prove AI models’ identity",
       "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
@@ -16,38 +64,6 @@
       "lang": "en",
       "published": "2026-11-03T22:19:53.000Z",
       "summary": "The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less-efficient and less environmentally friendly solution: once-discarded jet engines."
-    },
-    {
-      "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
-      "url": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-11-03T21:43:08.000Z",
-      "summary": "Cybersecurity-focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle."
-    },
-    {
-      "title": "مردم برای طلاق از هوش مصنوعی مشاوره می‌گیرند و وکلا را به ستوه آورده‌اند",
-      "url": "https://www.zoomit.ir/ai-articles/470441-people-using-ai-divorce-advice-featured/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-11-03T19:30:00.000Z",
-      "summary": "جایگزینی وکیل طلاق با اشتراک بیست دلاری چت‌جی‌پی‌تی وسوسه‌انگیز به نظر می‌رسد؛ اما توهمات حقوقی هوش مصنوعی، روند دادگاه‌های خانواده را فلج می‌کند."
-    },
-    {
-      "title": "پایان انحصار گوگل نزدیک است؟ آمار خیره‌کننده از محبوبیت ChatGPT",
-      "url": "https://www.zoomit.ir/ai-articles/470446-chatgpt-search-volume-20-percent-of-google/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-11-03T18:42:22.000Z",
-      "summary": "حجم جست‌وجو در ChatGPT به ۲۰ درصد گوگل رسید؛ این در حالی است که بینگ پس از یک دهه تلاش تنها حدود ۳ درصد از بازار را به دست آورده بود."
-    },
-    {
-      "title": "یا هوش مصنوعی یا هیچ؛ شرط تازه‌ گوگل برای مدارس!",
-      "url": "https://www.zoomit.ir/ai-articles/470443-google-disables-search-schools-reject-ai/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-11-03T17:35:21.000Z",
-      "summary": "گوگل به مدارس اختیار داد هوش مصنوعی را خاموش کنند؛ اما با خاموشی جمنای، جست‌وجوی گوگل هم برای دانش‌آموزان از دسترس خارج می‌شود."
     },
     {
       "title": "Agentic cheminformatics with Google Antigravity",
@@ -80,22 +96,6 @@
       "lang": "en",
       "published": "2026-11-03T08:00:00.000Z",
       "summary": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses."
-    },
-    {
-      "title": "Heimstaden is changing residential real estate management with AI",
-      "url": "https://openai.com/index/heimstaden",
-      "source": "OpenAI",
-      "lang": "en",
-      "published": "2026-11-03T08:00:00.000Z",
-      "summary": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe."
-    },
-    {
-      "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
-      "url": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/",
-      "source": "MIT Technology Review",
-      "lang": "en",
-      "published": "2026-11-03T04:18:47.000Z",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. At the end of September, President Trump signed an executive order that contained "
     }
   ]
 }
