@@ -1,6 +1,78 @@
 {
-  "updated_at": "2026-11-05T04:04:13.297Z",
+  "updated_at": "2026-11-05T13:40:17.722Z",
   "items": [
+    {
+      "title": "A YC startup is putting $1M behind five unsolved materials science problems for AI",
+      "url": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-11-05T13:00:00.000Z",
+      "summary": "Discovered Materials, a months-old YC startup that uses AI to find chip materials, is offering $200,000 for each solution to five open materials science problems."
+    },
+    {
+      "title": "رئیس OpenAI: هوش مصنوعی شاید در آینده مرگ را به گزینه‌ای اختیاری تبدیل کند",
+      "url": "https://digiato.com/artificial-intelligence/greg-brockman-openai-ai-death-choice-longevity",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-11-05T12:36:39.000Z",
+      "summary": "براکمن همچنین تأکید کرده که هوش مصنوعی طی ۱۲ تا ۱۸ ماه آینده کشفیات چشمگیری در حوزه‌های سلامت و درمان بیماری‌ها رقم خواهد زد. The post رئیس OpenAI: هوش مصنوعی شاید در آینده مرگ را به گزینه‌ای اختیاری تبدیل کند appeared f"
+    },
+    {
+      "title": "Agility is the first pure humanoid robot company on the stock market. Are you buying?",
+      "url": "https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-11-05T12:00:00.000Z",
+      "summary": "Agility arrives on the Nasdaq today as the first publicly-traded pure-play humanoid robotics company."
+    },
+    {
+      "title": "مدل سایبری OpenAI موفق به کشف ۹۴۸ آسیب‌پذیری در هسته لینوکس شد",
+      "url": "https://digiato.com/security/openai-cyber-model-linux-kernel-vulnerabilities",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-11-05T10:39:46.000Z",
+      "summary": "پژوهشگران با صرف ۱.۲۱ میلیون دلار اعتبار هوش مصنوعی موفق شدند شیوه‌های بهره‌برداری جدیدی را در ایمن‌ترین بخش‌های هسته لینوکس بازسازی کنند. The post مدل سایبری OpenAI موفق به کشف ۹۴۸ آسیب‌پذیری در هسته لینوکس شد appeared "
+    },
+    {
+      "title": "هوش مصنوعی، مردم را هم گرفتار گرانی کرد؛ رشد نرخ بهره استرالیا به بالاترین سطح در ۱۸ سال اخیر",
+      "url": "https://www.zoomit.ir/economics/470405-australia-hikes-rates-ai-inflation/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-11-05T09:00:00.000Z",
+      "summary": "بانک مرکزی استرالیا در تصمیمی تازه، نرخ بهره را با جهشی ۲۵ صدم درصدی به ۴٫۸۵ درصد افزایش داد."
+    },
+    {
+      "title": "چرخش بزرگ کوالکام از بازار موبایل به دیتاسنترهای هوش مصنوعی",
+      "url": "https://www.zoomit.ir/processor/470520-qualcomm-ai-data-center-revenue-plan/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-11-05T08:30:00.000Z",
+      "summary": "افت ۲۰ درصدی فروش گوشی، کوالکام را به بازاری کشانده است که می‌تواند تا سال ۲۰۲۹ درآمدی ۱۵ میلیارد دلاری ایجاد کند."
+    },
+    {
+      "title": "اولین گجت هوش مصنوعی ناتینگ ماه آینده معرفی می‌شود",
+      "url": "https://digiato.com/gadgets/nothing-first-ai-product-december-launch",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-11-05T07:45:39.000Z",
+      "summary": "دستگاه آینده ناتینگ صفحه‌نمایش مجزایی نخواهد داشت و به‌صورت یک ابزار ویژه برای بهره‌وری عرضه می‌شود. The post اولین گجت هوش مصنوعی ناتینگ ماه آینده معرفی می‌شود appeared first on دیجیاتو."
+    },
+    {
+      "title": "دستور صرفه‌جویی در اپل؛ بودجه روزانه هوش مصنوعی برخی مهندسان کاهش یافت",
+      "url": "https://www.zoomit.ir/business/470518-apple-limits-employee-ai-budget/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-11-05T06:00:00.000Z",
+      "summary": "اپل بودجه‌ی روزانه مهندسان و کارکنان خود را برای استفاده از ابزارهای هوش مصنوعی با هدف مدیریت هزینه‌ها کاهش داد."
+    },
+    {
+      "title": "Setting a new standard for responsible AI infrastructure",
+      "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
+      "source": "OpenAI",
+      "lang": "en",
+      "published": "2026-11-05T02:00:00.000Z",
+      "summary": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development."
+    },
     {
       "title": "Apple is reportedly cutting budgets for its internal AI usage",
       "url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
@@ -8,30 +80,6 @@
       "lang": "en",
       "published": "2026-11-05T01:26:22.000Z",
       "summary": "The company is said to be significantly dropping the amount it's spending on AI for its engineering teams."
-    },
-    {
-      "title": "After the midterms, a bigger clash over data centers could be coming",
-      "url": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-11-05T01:02:14.000Z",
-      "summary": "Data center opposition crossed party lines in Tuesday’s midterms."
-    },
-    {
-      "title": "AI PACs spent millions trying to shape Congress — here’s how they fared",
-      "url": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-11-04T22:45:09.000Z",
-      "summary": "AI industry PACs spent millions influencing the 2026 midterms, with mixed results. Political groups are already looking toward the next election cycle."
-    },
-    {
-      "title": "از نیروگاه‌ها تا شبکه‌های حیاتی؛ هشدار بریتانیا درباره نسل تازه حملات سایبری با هوش مصنوعی",
-      "url": "https://www.zoomit.ir/security/470413-ai-ransomware-threat-uk-infrastructure/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-11-04T20:00:00.000Z",
-      "summary": "مرکز ملی امنیت سایبری بریتانیا هشدار داد بدافزارهای مجهز به هوش مصنوعی تا سال ۲۰۲۸ زیرساخت‌های حیاتی آن کشور را هدف خواهند گرفت."
     },
     {
       "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
@@ -42,60 +90,12 @@
       "summary": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech’s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat James Talarico won th"
     },
     {
-      "title": "شرکت‌های هوش مصنوعی برای تأمین برق دیتاسنترها به سراغ موتورهای جت قدیمی رفتند",
-      "url": "https://digiato.com/artificial-intelligence/ai-data-centers-jet-engines",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-11-04T17:30:00.000Z",
-      "summary": "کمبود برق باعث شده شرکت‌های بزرگی مانند xAI و OpenAI برای تأمین انرژی مراکز داده خود از موتورهای جت بازسازی‌شده هواپیماهای بازنشسته استفاده کنند. The post شرکت‌های هوش مصنوعی برای تأمین برق دیتاسنترها به سراغ موتورهای جت"
-    },
-    {
-      "title": "از هوش مصنوعی تا اینترنت اشیا؛ همکاران سیستم در رویداد باهم ۱۴۰۵ چه فناوری‌هایی معرفی کرد؟",
-      "url": "https://www.zoomit.ir/report/470493-system-group-ai-iot-enterprise/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-11-04T15:30:00.000Z",
-      "summary": "همکاران سیستم در رویداد باهم ۱۴۰۵ از نقش هوش مصنوعی، اینترنت اشیا و زیرساخت ابری در آینده کسب‌وکارها گفت."
-    },
-    {
       "title": "OpenAI to acquire Pierre Computer Company, Inc.",
       "url": "https://openai.com/index/openai-to-acquire-pierre",
       "source": "OpenAI",
       "lang": "en",
       "published": "2026-11-04T14:30:00.000Z",
       "summary": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code."
-    },
-    {
-      "title": "گزارش حضور هلیکس‌ورلد در نمایشگاه مدیا اکسپو؛ پلتفرمی برای ساخت کسب‌وکارهای یک نفره با هوش مصنوعی",
-      "url": "https://digiato.com/iran-technology-news/helix-world-ai-platform-media-expo-1405",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-11-04T13:29:56.000Z",
-      "summary": "آنچه هلیکس‌ورلد را متمایز می‌کند، تمرکز بر توانمندسازی افراد برای راهبری کسب‌وکار شخصی است. The post گزارش حضور هلیکس‌ورلد در نمایشگاه مدیا اکسپو؛ پلتفرمی برای ساخت کسب‌وکارهای یک نفره با هوش مصنوعی appeared first on دیج"
-    },
-    {
-      "title": "Securing the agentic enterprise with data lineage",
-      "url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
-      "source": "MIT Technology Review",
-      "lang": "en",
-      "published": "2026-11-04T13:00:00.000Z",
-      "summary": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks accurate to the age"
-    },
-    {
-      "title": "آسمان در تسخیر ماهواره‌ها؛ این عکس تکان‌دهنده انگار ساخت هوش مصنوعی است",
-      "url": "https://www.zoomit.ir/space/470456-photographer-captures-satellites-night-sky/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-11-04T11:40:00.000Z",
-      "summary": "برندان لارسن با ترکیب صدها عکس از آسمان شب، تصویری شگفت‌انگیز از رد ماهواره‌ها ثبت کرد که بسیاری آن را ساخته هوش مصنوعی می‌دانند."
-    },
-    {
-      "title": "A thousand fewer paths to root",
-      "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
-      "source": "OpenAI",
-      "lang": "en",
-      "published": "2026-11-04T08:00:00.000Z",
-      "summary": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel."
     }
   ]
 }
