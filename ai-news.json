@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T22:59:44.237Z",
+  "updated_at": "2026-11-06T04:01:42.211Z",
   "items": [
     {
       "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
@@ -8,6 +8,14 @@
       "lang": "en",
       "published": "2026-11-05T22:40:55.000Z",
       "summary": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay."
+    },
+    {
+      "title": "Cult.fit builds operational muscle with Codex",
+      "url": "https://openai.com/index/cultfit-builds-with-codex",
+      "source": "OpenAI",
+      "lang": "en",
+      "published": "2026-11-05T20:00:00.000Z",
+      "summary": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done."
     },
     {
       "title": "Meta says US users can now video chat with their Muse AI avatar",
@@ -32,6 +40,22 @@
       "lang": "fa",
       "published": "2026-11-05T18:56:33.000Z",
       "summary": "GPT-6 Cyber آسیب‌پذیری‌های بیشتری پیدا می‌کند و کمتر از مسیر تعیین‌شده منحرف می‌شود، اما آگاهی مدل از ارزیابی، همچنان نگرانی می‌آفریند."
+    },
+    {
+      "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+      "url": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
+      "source": "Google DeepMind",
+      "lang": "en",
+      "published": "2026-11-05T17:05:16.000Z",
+      "summary": ""
+    },
+    {
+      "title": "Australian universities are creating AI-native graduates",
+      "url": "https://openai.com/index/australian-universities-ai-native-graduates",
+      "source": "OpenAI",
+      "lang": "en",
+      "published": "2026-11-05T17:00:00.000Z",
+      "summary": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce."
     },
     {
       "title": "رئیس OpenAI: هوش مصنوعی شاید در آینده مرگ را به گزینه‌ای اختیاری تبدیل کند",
@@ -66,36 +90,12 @@
       "summary": "افت ۲۰ درصدی فروش گوشی، کوالکام را به بازاری کشانده است که می‌تواند تا سال ۲۰۲۹ درآمدی ۱۵ میلیارد دلاری ایجاد کند."
     },
     {
-      "title": "Setting a new standard for responsible AI infrastructure",
-      "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
-      "source": "OpenAI",
-      "lang": "en",
-      "published": "2026-11-05T02:00:00.000Z",
-      "summary": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development."
-    },
-    {
       "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
       "url": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
       "source": "MIT Technology Review",
       "lang": "en",
       "published": "2026-11-04T18:50:55.000Z",
       "summary": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech’s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat James Talarico won th"
-    },
-    {
-      "title": "OpenAI to acquire Pierre Computer Company, Inc.",
-      "url": "https://openai.com/index/openai-to-acquire-pierre",
-      "source": "OpenAI",
-      "lang": "en",
-      "published": "2026-11-04T14:30:00.000Z",
-      "summary": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code."
-    },
-    {
-      "title": "Securing the agentic enterprise with data lineage",
-      "url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
-      "source": "MIT Technology Review",
-      "lang": "en",
-      "published": "2026-11-04T13:00:00.000Z",
-      "summary": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks accurate to the age"
     }
   ]
 }
