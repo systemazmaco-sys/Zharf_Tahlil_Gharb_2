@@ -1,6 +1,46 @@
 {
-  "updated_at": "2026-11-07T03:37:47.412Z",
+  "updated_at": "2026-11-07T12:02:08.134Z",
   "items": [
+    {
+      "title": "سم آلتمن: اگر کنترل هوش مصنوعی را از دست بدهیم شاید دیگر آن را پس نگیریم",
+      "url": "https://digiato.com/artificial-intelligence/altman-warns-losing-control-ai-future",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-11-07T10:57:00.000Z",
+      "summary": "مدیرعامل OpenAI دو سناریوی فاجعه‌بار را پیش‌بینی کرده است: واگذاری برگشت‌ناپذیر کنترل آینده به ماشین‌ها یا انحصار قدرت توسط یک شرکت یا دولت. The post سم آلتمن: اگر کنترل هوش مصنوعی را از دست بدهیم شاید دیگر آن را پس نگیر"
+    },
+    {
+      "title": "کشف آسیب‌پذیری ChatGPT که در حالت Lockdown سرقت تاریخچه چت‌ها را ممکن می‌کرد",
+      "url": "https://digiato.com/security/chatgpt-lockdown-mode-bypassed-steal-chat-history",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-11-07T10:30:00.000Z",
+      "summary": "OpenAI این باگ مهم را برطرف کرده و پژوهشگران نیز با تکرار آزمایش، برطرف شدن آن را تأیید کرده‌اند. The post کشف آسیب‌پذیری ChatGPT که در حالت Lockdown سرقت تاریخچه چت‌ها را ممکن می‌کرد appeared first on دیجیاتو."
+    },
+    {
+      "title": "هوش مصنوعی زیر فشار، دونات‌فروشی روی دور سود؛ ماجرای عجیب سقوط انویدیا در بورس آمریکا",
+      "url": "https://www.zoomit.ir/business/470623-nvidia-stock-drop-krispy-kreme/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-11-07T09:40:00.000Z",
+      "summary": "ارزش بازار انویدیا پس از انتخابات میان‌دوره‌ای آمریکا بیش از یک تریلیون دلار کاهش یافت و بازدهی سالانه‌اش از شرکت Krispy Kreme عقب افتاد."
+    },
+    {
+      "title": "هوش مصنوعی زیر ذره‌بین دموکرات‌ها؛ آیا دیتاسنترها در آمریکا با بن‌بست مواجه می‌شوند؟",
+      "url": "https://www.zoomit.ir/ai-articles/470609-democrats-midterm-victory-ai-future-featured/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-11-07T09:30:00.000Z",
+      "summary": "تغییر موازنه قدرت در واشنگتن، غول‌های هوش مصنوعی و رمزارز را مقابل قانون‌گذارانی قرار داده که دوران توسعه بی‌ضابطه فناوری را تمام‌شده می‌دانند."
+    },
+    {
+      "title": "خداحافظی با دردسرهای برنامه‌ریزی سفر؛ دستیار هوش مصنوعی Airbnb در راه است",
+      "url": "https://www.zoomit.ir/ai-articles/470577-airbnb-ai-travel-agent-plans/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-11-07T09:00:00.000Z",
+      "summary": "ایربی‌ان‌بی قصد دارد در نیمه نخست سال ۲۰۲۷ از یک عامل هوش مصنوعی برای برنامه‌ریزی و رزرو سفر رونمایی کند."
+    },
     {
       "title": "Crusoe sells troubled Wyoming data center project to Google",
       "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
@@ -10,36 +50,12 @@
       "summary": "The deal highlights the challenges of developing massive AI data centers."
     },
     {
-      "title": "هوش مصنوعی جدیدی که راز ساخت هر ویدئویی را فاش می‌کند؛ ابزاری برای مهندسی معکوس ویدئو",
-      "url": "https://www.zoomit.ir/ai-articles/470548-rea-video-reverse-engineering-tool/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-11-06T23:15:00.000Z",
-      "summary": "پروژه متن‌باز rea-video با بررسی صحنه‌به‌صحنه ویدئوها، نوع فیلم‌برداری، تدوین و پرامپت‌های احتمالی تولید با هوش مصنوعی را مشخص می‌کند."
-    },
-    {
       "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
       "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
       "source": "TechCrunch AI",
       "lang": "en",
       "published": "2026-11-06T22:53:46.000Z",
       "summary": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks."
-    },
-    {
-      "title": "تویوتا وارد دنیای رباتیک می‌شود",
-      "url": "https://www.zoomit.ir/robotics-smart-machines/470542-toyota-forms-robotics-department/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-11-06T21:40:00.000Z",
-      "summary": "تویوتا با راه‌اندازی دپارتمانی اختصاصی، به جمع خودروسازانی پیوست که ساخت و توسعه‌ی فناوری‌های پیشرفته‌ی رباتیک را دنبال می‌کنند."
-    },
-    {
-      "title": "حتی اگر از هوش مصنوعی استفاده نکنید، ممکن است هزینه‌اش را بپردازید!",
-      "url": "https://www.zoomit.ir/ai-articles/469587-ai-brace-for-impact-featured/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-11-06T19:00:00.000Z",
-      "summary": "با سرازیر شدن حق بیمه عمر و پس‌انداز میلیون‌ها شهروند به بازار تاریک اعتبارات خصوصی، ترکیدن حباب هوش مصنوعی، زندگی روزمره‌ی مردم را هدف می‌گیرد."
     },
     {
       "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
@@ -80,22 +96,6 @@
       "lang": "en",
       "published": "2026-11-05T20:00:00.000Z",
       "summary": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done."
-    },
-    {
-      "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
-      "url": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
-      "source": "MIT Technology Review",
-      "lang": "en",
-      "published": "2026-11-04T18:50:55.000Z",
-      "summary": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech’s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat James Talarico won th"
-    },
-    {
-      "title": "Securing the agentic enterprise with data lineage",
-      "url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
-      "source": "MIT Technology Review",
-      "lang": "en",
-      "published": "2026-11-04T13:00:00.000Z",
-      "summary": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks accurate to the age"
     }
   ]
 }
