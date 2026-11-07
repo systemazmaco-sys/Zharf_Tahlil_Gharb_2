@@ -1,6 +1,30 @@
 {
-  "updated_at": "2026-11-06T22:29:32.330Z",
+  "updated_at": "2026-11-07T03:37:47.412Z",
   "items": [
+    {
+      "title": "Crusoe sells troubled Wyoming data center project to Google",
+      "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-11-07T01:40:28.000Z",
+      "summary": "The deal highlights the challenges of developing massive AI data centers."
+    },
+    {
+      "title": "هوش مصنوعی جدیدی که راز ساخت هر ویدئویی را فاش می‌کند؛ ابزاری برای مهندسی معکوس ویدئو",
+      "url": "https://www.zoomit.ir/ai-articles/470548-rea-video-reverse-engineering-tool/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-11-06T23:15:00.000Z",
+      "summary": "پروژه متن‌باز rea-video با بررسی صحنه‌به‌صحنه ویدئوها، نوع فیلم‌برداری، تدوین و پرامپت‌های احتمالی تولید با هوش مصنوعی را مشخص می‌کند."
+    },
+    {
+      "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+      "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-11-06T22:53:46.000Z",
+      "summary": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks."
+    },
     {
       "title": "تویوتا وارد دنیای رباتیک می‌شود",
       "url": "https://www.zoomit.ir/robotics-smart-machines/470542-toyota-forms-robotics-department/",
@@ -24,30 +48,6 @@
       "lang": "en",
       "published": "2026-11-06T18:44:38.000Z",
       "summary": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool."
-    },
-    {
-      "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
-      "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-11-06T18:44:20.000Z",
-      "summary": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers."
-    },
-    {
-      "title": "How a Blue Wave midterm might reshape the AI industry",
-      "url": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-11-06T18:00:00.000Z",
-      "summary": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to im"
-    },
-    {
-      "title": "هوش مصنوعی گراک ۵ ایلان ماسک می‌تواند در بازی لیگ آو لجندز بر انسان غلبه کند؟",
-      "url": "https://www.zoomit.ir/ai-articles/470590-elon-musk-grok-5-t1-challenge/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-11-06T12:00:00.000Z",
-      "summary": "ایلان ماسک اعلام کرد مدل هوش مصنوعی گراک ۵ در سال ۲۰۲۶ با محدودیت‌های کاملا انسانی با قهرمانان بازی League of Legends رقابت خواهد کرد."
     },
     {
       "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
@@ -82,20 +82,20 @@
       "summary": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done."
     },
     {
-      "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
-      "url": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
-      "source": "Google DeepMind",
-      "lang": "en",
-      "published": "2026-11-05T17:05:16.000Z",
-      "summary": ""
-    },
-    {
       "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
       "url": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
       "source": "MIT Technology Review",
       "lang": "en",
       "published": "2026-11-04T18:50:55.000Z",
       "summary": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech’s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat James Talarico won th"
+    },
+    {
+      "title": "Securing the agentic enterprise with data lineage",
+      "url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
+      "source": "MIT Technology Review",
+      "lang": "en",
+      "published": "2026-11-04T13:00:00.000Z",
+      "summary": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks accurate to the age"
     }
   ]
 }
