@@ -1,45 +1,37 @@
 {
-  "updated_at": "2026-11-07T12:02:08.134Z",
+  "updated_at": "2026-11-07T21:11:34.209Z",
   "items": [
     {
-      "title": "سم آلتمن: اگر کنترل هوش مصنوعی را از دست بدهیم شاید دیگر آن را پس نگیریم",
-      "url": "https://digiato.com/artificial-intelligence/altman-warns-losing-control-ai-future",
+      "title": "اسب رباتیک چینی با حرکاتی شبیه اسب واقعی؛ محصول جدید دیپ رباتیکس",
+      "url": "https://www.zoomit.ir/robotics-smart-machines/470595-deep-robotics-robotic-horse/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-11-07T17:50:00.000Z",
+      "summary": "دیپ رباتیکس رباتی با الهام از اسب طراحی کرده است که با حسگر لایدار، سرعت ۱۸ کیلومتربرساعت و توان حمل ۵۰ کیلوگرم بار به‌نمایش درآمد."
+    },
+    {
+      "title": "کودکانی که به هوش مصنوعی پناه می‌برند، مشکلات روانی بیشتری دارند",
+      "url": "https://www.zoomit.ir/health-medical/470665-ai-chatbots-kids-mental-health/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-11-07T15:50:00.000Z",
+      "summary": "نظرسنجی جدید نشان می‌دهد کودکانی که هنگام ناراحتی به هوش مصنوعی پناه می‌برند، بیشتر با مشکلات سلامت روان و افکار خودکشی روبه‌رو هستند."
+    },
+    {
+      "title": "پیروزی دموکرات‌ها در کنگره چگونه باعث سقوط سهام غول‌های فناوری و هوش مصنوعی شد؟",
+      "url": "https://digiato.com/finance-investment/us-midterms-ai-stock-selloff",
       "source": "دیجیاتو",
       "lang": "fa",
-      "published": "2026-11-07T10:57:00.000Z",
-      "summary": "مدیرعامل OpenAI دو سناریوی فاجعه‌بار را پیش‌بینی کرده است: واگذاری برگشت‌ناپذیر کنترل آینده به ماشین‌ها یا انحصار قدرت توسط یک شرکت یا دولت. The post سم آلتمن: اگر کنترل هوش مصنوعی را از دست بدهیم شاید دیگر آن را پس نگیر"
+      "published": "2026-11-07T15:30:00.000Z",
+      "summary": "کنترل دموکرات‌ها بر کنگره و وعده توقف ساخت مراکز داده، با تشدید نگرانی‌ها پیرامون مصرف انرژی و قوانین جدید، سهام غول‌های فناوری را زمین‌گیر کرد. The post پیروزی دموکرات‌ها در کنگره چگونه باعث سقوط سهام غول‌های فناوری و ه"
     },
     {
-      "title": "کشف آسیب‌پذیری ChatGPT که در حالت Lockdown سرقت تاریخچه چت‌ها را ممکن می‌کرد",
-      "url": "https://digiato.com/security/chatgpt-lockdown-mode-bypassed-steal-chat-history",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-11-07T10:30:00.000Z",
-      "summary": "OpenAI این باگ مهم را برطرف کرده و پژوهشگران نیز با تکرار آزمایش، برطرف شدن آن را تأیید کرده‌اند. The post کشف آسیب‌پذیری ChatGPT که در حالت Lockdown سرقت تاریخچه چت‌ها را ممکن می‌کرد appeared first on دیجیاتو."
-    },
-    {
-      "title": "هوش مصنوعی زیر فشار، دونات‌فروشی روی دور سود؛ ماجرای عجیب سقوط انویدیا در بورس آمریکا",
-      "url": "https://www.zoomit.ir/business/470623-nvidia-stock-drop-krispy-kreme/",
+      "title": "آموزش ساخت کتاب داستان با هوش مصنوعی؛ فرزندتان را به شخصیت اصلی قصه تبدیل کنید",
+      "url": "https://www.zoomit.ir/ai-articles/470660-create-children-story-book-gemini-ai/",
       "source": "زومیت",
       "lang": "fa",
-      "published": "2026-11-07T09:40:00.000Z",
-      "summary": "ارزش بازار انویدیا پس از انتخابات میان‌دوره‌ای آمریکا بیش از یک تریلیون دلار کاهش یافت و بازدهی سالانه‌اش از شرکت Krispy Kreme عقب افتاد."
-    },
-    {
-      "title": "هوش مصنوعی زیر ذره‌بین دموکرات‌ها؛ آیا دیتاسنترها در آمریکا با بن‌بست مواجه می‌شوند؟",
-      "url": "https://www.zoomit.ir/ai-articles/470609-democrats-midterm-victory-ai-future-featured/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-11-07T09:30:00.000Z",
-      "summary": "تغییر موازنه قدرت در واشنگتن، غول‌های هوش مصنوعی و رمزارز را مقابل قانون‌گذارانی قرار داده که دوران توسعه بی‌ضابطه فناوری را تمام‌شده می‌دانند."
-    },
-    {
-      "title": "خداحافظی با دردسرهای برنامه‌ریزی سفر؛ دستیار هوش مصنوعی Airbnb در راه است",
-      "url": "https://www.zoomit.ir/ai-articles/470577-airbnb-ai-travel-agent-plans/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-11-07T09:00:00.000Z",
-      "summary": "ایربی‌ان‌بی قصد دارد در نیمه نخست سال ۲۰۲۷ از یک عامل هوش مصنوعی برای برنامه‌ریزی و رزرو سفر رونمایی کند."
+      "published": "2026-11-07T13:48:56.000Z",
+      "summary": "با هوش مصنوعی جمنای می‌توانید کتاب داستانی مصور بسازید که فرزندتان شخصیت اصلی آن باشد. در این آموزش، مراحل ساخت کتاب و پرامپت‌ها را بررسی می‌کنیم."
     },
     {
       "title": "Crusoe sells troubled Wyoming data center project to Google",
@@ -96,6 +88,14 @@
       "lang": "en",
       "published": "2026-11-05T20:00:00.000Z",
       "summary": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done."
+    },
+    {
+      "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+      "url": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
+      "source": "Google DeepMind",
+      "lang": "en",
+      "published": "2026-11-05T17:05:16.000Z",
+      "summary": ""
     }
   ]
 }
