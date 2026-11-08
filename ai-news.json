@@ -1,13 +1,29 @@
 {
-  "updated_at": "2026-11-08T12:23:16.160Z",
+  "updated_at": "2026-11-08T21:26:49.492Z",
   "items": [
     {
-      "title": "اجرای جدی‌تر قوانین جدید آنتروپیک از ۲۱ آبان؛ دسترسی به Claude برای ایرانی‌ها سخت‌تر می‌شود؟",
-      "url": "https://digiato.com/artificial-intelligence/claude-new-usage-policy",
+      "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
+      "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-11-08T21:00:11.000Z",
+      "summary": "In a memo to the company, Huang admitted that he had an affair."
+    },
+    {
+      "title": "جادوی هوش مصنوعی چینی؛ Qwen 4 بازی ماینکرفت را از صفر ساخت",
+      "url": "https://www.zoomit.ir/ai-articles/470686-qwen-4-ai-builds-minecraft-clone/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-11-08T17:50:00.000Z",
+      "summary": "نسخه پیش‌نمایش مدل هوش مصنوعی Qwen 4 علی‌بابا توانست با ابزار Qwen Code، یک بازی سه‌بعدی با دنیای بی‌انتها را در کمتر از ۳ ساعت برنامه‌نویسی کند."
+    },
+    {
+      "title": "دانشمندان با هوش مصنوعی واکسنی علیه سویه‌های مختلف آنفلوانزای پرندگان ساختند",
+      "url": "https://digiato.com/health/ai-broad-spectrum-bird-flu-vaccine",
       "source": "دیجیاتو",
       "lang": "fa",
-      "published": "2026-11-08T10:40:54.000Z",
-      "summary": "قوانین جدید آنتروپیک با شفاف‌سازی محدودیت‌های جغرافیایی و ضوابط تسلیحاتی از پنجشنبه این هفته اجرا می‌شوند. The post اجرای جدی‌تر قوانین جدید آنتروپیک از ۲۱ آبان؛ دسترسی به Claude برای ایرانی‌ها سخت‌تر می‌شود؟ appeared fi"
+      "published": "2026-11-08T17:30:00.000Z",
+      "summary": "دانشمندان دانشگاه کمبریج با کمک هوش مصنوعی واکسنی برای مقابله با طیف گسترده‌ای از سویه‌های آنفلوانزای پرندگان طراحی کردند. The post دانشمندان با هوش مصنوعی واکسنی علیه سویه‌های مختلف آنفلوانزای پرندگان ساختند appeared fi"
     },
     {
       "title": "دانشگاه تهران: یک سامانه هوش مصنوعی ایرانی در تشخیص گفتار از گوگل پیشی گرفت",
@@ -18,28 +34,12 @@
       "summary": "یک سامانه بومی تشخیص گفتار فارسی با دقتی بالاتر از سرویس گوگل، برای هوشمندسازی مراکز تماس تلفنی توسعه یافته است."
     },
     {
-      "title": "مهندس آنتروپیک: واگذاری کارها به هوش مصنوعی مهارت‌های ذهنی را تضعیف می‌کند",
-      "url": "https://digiato.com/artificial-intelligence/anthropic-engineer-warns-ai-cognitive-surrender",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-11-08T09:01:00.000Z",
-      "summary": "مهندس آنتروپیک هشدار می‌دهد واگذاری بیش‌ازحد کارها به هوش مصنوعی می‌تواند مهارت‌های تفکر انتقادی را تضعیف و بدهی شناختی ایجاد کند. The post مهندس آنتروپیک: واگذاری کارها به هوش مصنوعی مهارت‌های ذهنی را تضعیف می‌کند appea"
-    },
-    {
       "title": "کسب رتبه اول و دوم هوش مصنوعی تلکام توسط ایرانسل",
       "url": "https://www.zoomit.ir/iran-news/470711-irancell-ai-telecom-awards/",
       "source": "زومیت",
       "lang": "fa",
       "published": "2026-11-08T08:30:00.000Z",
       "summary": "ایرانسل با ارائه دو طرح مبتنی بر هوش مصنوعی در حوزه شبکه‌های مخابراتی، رتبه اول و دوم رویداد تخصصی «هوش مصنوعی در تلکام» را کسب کرد."
-    },
-    {
-      "title": "موج بسته شدن دامنه به «هوشا» رسید؛ دسترسی به این پلتفرم هوش مصنوعی با آدرس جدید",
-      "url": "https://www.zoomit.ir/iran-news/470713-hoosha-domain-disruption-new-address/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-11-08T07:52:11.000Z",
-      "summary": "پلتفرم هوش مصنوعی هوشا در پی اختلال دامنه دات‌کام به آدرس جدید منتقل شده است؛ هوشا تاکید می‌کند که اطلاعات و پروژه‌های کاربران کاملا امن و محفوظ است."
     },
     {
       "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
@@ -56,14 +56,6 @@
       "lang": "en",
       "published": "2026-11-07T21:17:08.000Z",
       "summary": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO."
-    },
-    {
-      "title": "Crusoe sells troubled Wyoming data center project to Google",
-      "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-11-07T01:40:28.000Z",
-      "summary": "The deal highlights the challenges of developing massive AI data centers."
     },
     {
       "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
@@ -96,6 +88,14 @@
       "lang": "en",
       "published": "2026-11-05T20:00:00.000Z",
       "summary": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done."
+    },
+    {
+      "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+      "url": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
+      "source": "Google DeepMind",
+      "lang": "en",
+      "published": "2026-11-05T17:05:16.000Z",
+      "summary": ""
     }
   ]
 }
