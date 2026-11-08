@@ -1,6 +1,38 @@
 {
-  "updated_at": "2026-11-07T21:11:34.209Z",
+  "updated_at": "2026-11-08T03:09:35.976Z",
   "items": [
+    {
+      "title": "هوش مصنوعی جدیدی که خودش فرضیه می‌سازد و مقاله می‌نویسد؛ تکنولوژی در نقش دانشمندان",
+      "url": "https://www.zoomit.ir/ai-articles/470594-sakana-ai-scientist-v2-paper/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-11-08T02:30:00.000Z",
+      "summary": "نسخه‌ی جدید هوش مصنوعی ساکانا توانست بدون دخالت انسان یک پژوهش علمی را انجام دهد و در داوری کارگاه کنفرانس معتبر نمره قبولی بگیرد"
+    },
+    {
+      "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
+      "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-11-07T22:07:22.000Z",
+      "summary": "On Equity, we unpacked what the midterms mean for the tech industry."
+    },
+    {
+      "title": "بحران تازه در صنعت هوش مصنوعی؛ این‌بار مشکل فقط کمبود تراشه نیست",
+      "url": "https://www.zoomit.ir/hardware/470596-advanced-chip-packaging-ai-race/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-11-07T21:40:00.000Z",
+      "summary": "تقاضای فزاینده برای پردازنده‌های هوش مصنوعی، موجی از سرمایه‌گذاری‌های میلیارد دلاری را به سمت فرآیند تولید پیشرفته‌ی تراشه‌ها کشانده است."
+    },
+    {
+      "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+      "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-11-07T21:17:08.000Z",
+      "summary": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO."
+    },
     {
       "title": "اسب رباتیک چینی با حرکاتی شبیه اسب واقعی؛ محصول جدید دیپ رباتیکس",
       "url": "https://www.zoomit.ir/robotics-smart-machines/470595-deep-robotics-robotic-horse/",
@@ -8,14 +40,6 @@
       "lang": "fa",
       "published": "2026-11-07T17:50:00.000Z",
       "summary": "دیپ رباتیکس رباتی با الهام از اسب طراحی کرده است که با حسگر لایدار، سرعت ۱۸ کیلومتربرساعت و توان حمل ۵۰ کیلوگرم بار به‌نمایش درآمد."
-    },
-    {
-      "title": "کودکانی که به هوش مصنوعی پناه می‌برند، مشکلات روانی بیشتری دارند",
-      "url": "https://www.zoomit.ir/health-medical/470665-ai-chatbots-kids-mental-health/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-11-07T15:50:00.000Z",
-      "summary": "نظرسنجی جدید نشان می‌دهد کودکانی که هنگام ناراحتی به هوش مصنوعی پناه می‌برند، بیشتر با مشکلات سلامت روان و افکار خودکشی روبه‌رو هستند."
     },
     {
       "title": "پیروزی دموکرات‌ها در کنگره چگونه باعث سقوط سهام غول‌های فناوری و هوش مصنوعی شد؟",
@@ -26,36 +50,12 @@
       "summary": "کنترل دموکرات‌ها بر کنگره و وعده توقف ساخت مراکز داده، با تشدید نگرانی‌ها پیرامون مصرف انرژی و قوانین جدید، سهام غول‌های فناوری را زمین‌گیر کرد. The post پیروزی دموکرات‌ها در کنگره چگونه باعث سقوط سهام غول‌های فناوری و ه"
     },
     {
-      "title": "آموزش ساخت کتاب داستان با هوش مصنوعی؛ فرزندتان را به شخصیت اصلی قصه تبدیل کنید",
-      "url": "https://www.zoomit.ir/ai-articles/470660-create-children-story-book-gemini-ai/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-11-07T13:48:56.000Z",
-      "summary": "با هوش مصنوعی جمنای می‌توانید کتاب داستانی مصور بسازید که فرزندتان شخصیت اصلی آن باشد. در این آموزش، مراحل ساخت کتاب و پرامپت‌ها را بررسی می‌کنیم."
-    },
-    {
       "title": "Crusoe sells troubled Wyoming data center project to Google",
       "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
       "source": "TechCrunch AI",
       "lang": "en",
       "published": "2026-11-07T01:40:28.000Z",
       "summary": "The deal highlights the challenges of developing massive AI data centers."
-    },
-    {
-      "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
-      "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-11-06T22:53:46.000Z",
-      "summary": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks."
-    },
-    {
-      "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
-      "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-11-06T18:44:38.000Z",
-      "summary": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool."
     },
     {
       "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
@@ -90,12 +90,12 @@
       "summary": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done."
     },
     {
-      "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
-      "url": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
-      "source": "Google DeepMind",
+      "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
+      "url": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
+      "source": "MIT Technology Review",
       "lang": "en",
-      "published": "2026-11-05T17:05:16.000Z",
-      "summary": ""
+      "published": "2026-11-04T18:50:55.000Z",
+      "summary": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech’s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat James Talarico won th"
     }
   ]
 }
