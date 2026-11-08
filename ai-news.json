@@ -1,13 +1,45 @@
 {
-  "updated_at": "2026-11-08T03:09:35.976Z",
+  "updated_at": "2026-11-08T12:23:16.160Z",
   "items": [
     {
-      "title": "هوش مصنوعی جدیدی که خودش فرضیه می‌سازد و مقاله می‌نویسد؛ تکنولوژی در نقش دانشمندان",
-      "url": "https://www.zoomit.ir/ai-articles/470594-sakana-ai-scientist-v2-paper/",
+      "title": "اجرای جدی‌تر قوانین جدید آنتروپیک از ۲۱ آبان؛ دسترسی به Claude برای ایرانی‌ها سخت‌تر می‌شود؟",
+      "url": "https://digiato.com/artificial-intelligence/claude-new-usage-policy",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-11-08T10:40:54.000Z",
+      "summary": "قوانین جدید آنتروپیک با شفاف‌سازی محدودیت‌های جغرافیایی و ضوابط تسلیحاتی از پنجشنبه این هفته اجرا می‌شوند. The post اجرای جدی‌تر قوانین جدید آنتروپیک از ۲۱ آبان؛ دسترسی به Claude برای ایرانی‌ها سخت‌تر می‌شود؟ appeared fi"
+    },
+    {
+      "title": "دانشگاه تهران: یک سامانه هوش مصنوعی ایرانی در تشخیص گفتار از گوگل پیشی گرفت",
+      "url": "https://www.zoomit.ir/iran-news/470704-persian-speech-recognition-ai-beats-google/",
       "source": "زومیت",
       "lang": "fa",
-      "published": "2026-11-08T02:30:00.000Z",
-      "summary": "نسخه‌ی جدید هوش مصنوعی ساکانا توانست بدون دخالت انسان یک پژوهش علمی را انجام دهد و در داوری کارگاه کنفرانس معتبر نمره قبولی بگیرد"
+      "published": "2026-11-08T10:38:45.000Z",
+      "summary": "یک سامانه بومی تشخیص گفتار فارسی با دقتی بالاتر از سرویس گوگل، برای هوشمندسازی مراکز تماس تلفنی توسعه یافته است."
+    },
+    {
+      "title": "مهندس آنتروپیک: واگذاری کارها به هوش مصنوعی مهارت‌های ذهنی را تضعیف می‌کند",
+      "url": "https://digiato.com/artificial-intelligence/anthropic-engineer-warns-ai-cognitive-surrender",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-11-08T09:01:00.000Z",
+      "summary": "مهندس آنتروپیک هشدار می‌دهد واگذاری بیش‌ازحد کارها به هوش مصنوعی می‌تواند مهارت‌های تفکر انتقادی را تضعیف و بدهی شناختی ایجاد کند. The post مهندس آنتروپیک: واگذاری کارها به هوش مصنوعی مهارت‌های ذهنی را تضعیف می‌کند appea"
+    },
+    {
+      "title": "کسب رتبه اول و دوم هوش مصنوعی تلکام توسط ایرانسل",
+      "url": "https://www.zoomit.ir/iran-news/470711-irancell-ai-telecom-awards/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-11-08T08:30:00.000Z",
+      "summary": "ایرانسل با ارائه دو طرح مبتنی بر هوش مصنوعی در حوزه شبکه‌های مخابراتی، رتبه اول و دوم رویداد تخصصی «هوش مصنوعی در تلکام» را کسب کرد."
+    },
+    {
+      "title": "موج بسته شدن دامنه به «هوشا» رسید؛ دسترسی به این پلتفرم هوش مصنوعی با آدرس جدید",
+      "url": "https://www.zoomit.ir/iran-news/470713-hoosha-domain-disruption-new-address/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-11-08T07:52:11.000Z",
+      "summary": "پلتفرم هوش مصنوعی هوشا در پی اختلال دامنه دات‌کام به آدرس جدید منتقل شده است؛ هوشا تاکید می‌کند که اطلاعات و پروژه‌های کاربران کاملا امن و محفوظ است."
     },
     {
       "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
@@ -18,36 +50,12 @@
       "summary": "On Equity, we unpacked what the midterms mean for the tech industry."
     },
     {
-      "title": "بحران تازه در صنعت هوش مصنوعی؛ این‌بار مشکل فقط کمبود تراشه نیست",
-      "url": "https://www.zoomit.ir/hardware/470596-advanced-chip-packaging-ai-race/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-11-07T21:40:00.000Z",
-      "summary": "تقاضای فزاینده برای پردازنده‌های هوش مصنوعی، موجی از سرمایه‌گذاری‌های میلیارد دلاری را به سمت فرآیند تولید پیشرفته‌ی تراشه‌ها کشانده است."
-    },
-    {
       "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
       "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
       "source": "TechCrunch AI",
       "lang": "en",
       "published": "2026-11-07T21:17:08.000Z",
       "summary": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO."
-    },
-    {
-      "title": "اسب رباتیک چینی با حرکاتی شبیه اسب واقعی؛ محصول جدید دیپ رباتیکس",
-      "url": "https://www.zoomit.ir/robotics-smart-machines/470595-deep-robotics-robotic-horse/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-11-07T17:50:00.000Z",
-      "summary": "دیپ رباتیکس رباتی با الهام از اسب طراحی کرده است که با حسگر لایدار، سرعت ۱۸ کیلومتربرساعت و توان حمل ۵۰ کیلوگرم بار به‌نمایش درآمد."
-    },
-    {
-      "title": "پیروزی دموکرات‌ها در کنگره چگونه باعث سقوط سهام غول‌های فناوری و هوش مصنوعی شد؟",
-      "url": "https://digiato.com/finance-investment/us-midterms-ai-stock-selloff",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-11-07T15:30:00.000Z",
-      "summary": "کنترل دموکرات‌ها بر کنگره و وعده توقف ساخت مراکز داده، با تشدید نگرانی‌ها پیرامون مصرف انرژی و قوانین جدید، سهام غول‌های فناوری را زمین‌گیر کرد. The post پیروزی دموکرات‌ها در کنگره چگونه باعث سقوط سهام غول‌های فناوری و ه"
     },
     {
       "title": "Crusoe sells troubled Wyoming data center project to Google",
@@ -88,14 +96,6 @@
       "lang": "en",
       "published": "2026-11-05T20:00:00.000Z",
       "summary": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done."
-    },
-    {
-      "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
-      "url": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
-      "source": "MIT Technology Review",
-      "lang": "en",
-      "published": "2026-11-04T18:50:55.000Z",
-      "summary": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech’s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat James Talarico won th"
     }
   ]
 }
