@@ -1,6 +1,62 @@
 {
-  "updated_at": "2026-11-09T03:31:24.426Z",
+  "updated_at": "2026-11-09T14:37:37.414Z",
   "items": [
+    {
+      "title": "Automattic debuts a platform to deploy vibe coding apps amid a changing internet",
+      "url": "https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-11-09T14:00:00.000Z",
+      "summary": "Automattic aims to compete with likes of Lovable with Spacefast"
+    },
+    {
+      "title": "اینستاگرام تشخیص سن کاربران با هوش مصنوعی را در سراسر جهان فعال می‌کند",
+      "url": "https://digiato.com/app/instagram-ai-age-detection-global-expansion",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-11-09T13:47:00.000Z",
+      "summary": "اینستاگرام تشخیص سن با هوش مصنوعی را در سراسر جهان گسترش می‌دهد تا نوجوانانی را که با تاریخ تولد جعلی ثبت‌نام کرده‌اند، شناسایی کند. The post اینستاگرام تشخیص سن کاربران با هوش مصنوعی را در سراسر جهان فعال می‌کند appeare"
+    },
+    {
+      "title": "نقش تصفیه آب صنعتی در خنک سازی دیتاسنتر هوش مصنوعی؛ تحلیل آبین",
+      "url": "https://www.zoomit.ir/pr/470809-ai-data-center-water-treatment/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-11-09T13:25:52.000Z",
+      "summary": "تصفیه آب صنعتی با مهار رسوب، خوردگی و آلودگی‌های میکروبی در مدارهای سرمایشی، پایداری و راندمان دیتاسنترهای هوش مصنوعی را تضمین می‌کند."
+    },
+    {
+      "title": "انویدیا به‌دنبال ردیابی تراشه‌هایش افتاد؛ نگرانی از قاچاق پردازنده‌های هوش مصنوعی به چین",
+      "url": "https://www.zoomit.ir/business/470707-nvidia-gpu-tracking-mandate/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-11-09T13:00:00.000Z",
+      "summary": "انویدیا ارائه‌دهندگان خدمات ابری در جنوب شرق آسیا را برای دریافت عنوان شریک رسمی، ملزم به استفاده از سامانه ردیابی سخت‌افزاری کرد."
+    },
+    {
+      "title": "Innovating with AI in the special chemicals industry",
+      "url": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
+      "source": "MIT Technology Review",
+      "lang": "en",
+      "published": "2026-11-09T13:00:00.000Z",
+      "summary": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific expertise, and the practi"
+    },
+    {
+      "title": "پارادوکس بزرگ؛ هوش مصنوعی که خودش دشمن محیط زیست است، به کمک محیط زیست می‌آید",
+      "url": "https://www.zoomit.ir/energy-environment/470696-environmental-groups-ai-dilemma-climate/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-11-09T10:10:00.000Z",
+      "summary": "سازمان‌های محیط‌زیستی جهان با وجود هشدار درباره‌ی مصرف سرسام‌آور آب و برق دیتاسنترها، برای نجات زمین به هوش مصنوعی روی آورده‌اند."
+    },
+    {
+      "title": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”",
+      "url": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-11-09T05:26:29.000Z",
+      "summary": "Nvidia’s board is investigating Jensen Huang over his relationship with a suspected Chinese spy, and Yale’s Jeffrey Sonnenfeld thinks it’s roughly a coin flip whether Huang stays on as CEO."
+    },
     {
       "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
       "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
@@ -8,54 +64,6 @@
       "lang": "en",
       "published": "2026-11-08T21:00:11.000Z",
       "summary": "In a memo to the company, Huang admitted that he had an affair."
-    },
-    {
-      "title": "جادوی هوش مصنوعی چینی؛ Qwen 4 بازی ماینکرفت را از صفر ساخت",
-      "url": "https://www.zoomit.ir/ai-articles/470686-qwen-4-ai-builds-minecraft-clone/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-11-08T17:50:00.000Z",
-      "summary": "نسخه پیش‌نمایش مدل هوش مصنوعی Qwen 4 علی‌بابا توانست با ابزار Qwen Code، یک بازی سه‌بعدی با دنیای بی‌انتها را در کمتر از ۳ ساعت برنامه‌نویسی کند."
-    },
-    {
-      "title": "دانشمندان با هوش مصنوعی واکسنی علیه سویه‌های مختلف آنفلوانزای پرندگان ساختند",
-      "url": "https://digiato.com/health/ai-broad-spectrum-bird-flu-vaccine",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-11-08T17:30:00.000Z",
-      "summary": "دانشمندان دانشگاه کمبریج با کمک هوش مصنوعی واکسنی برای مقابله با طیف گسترده‌ای از سویه‌های آنفلوانزای پرندگان طراحی کردند. The post دانشمندان با هوش مصنوعی واکسنی علیه سویه‌های مختلف آنفلوانزای پرندگان ساختند appeared fi"
-    },
-    {
-      "title": "دانشگاه تهران: یک سامانه هوش مصنوعی ایرانی در تشخیص گفتار از گوگل پیشی گرفت",
-      "url": "https://www.zoomit.ir/iran-news/470704-persian-speech-recognition-ai-beats-google/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-11-08T10:38:45.000Z",
-      "summary": "یک سامانه بومی تشخیص گفتار فارسی با دقتی بالاتر از سرویس گوگل، برای هوشمندسازی مراکز تماس تلفنی توسعه یافته است."
-    },
-    {
-      "title": "کسب رتبه اول و دوم هوش مصنوعی تلکام توسط ایرانسل",
-      "url": "https://www.zoomit.ir/iran-news/470711-irancell-ai-telecom-awards/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-11-08T08:30:00.000Z",
-      "summary": "ایرانسل با ارائه دو طرح مبتنی بر هوش مصنوعی در حوزه شبکه‌های مخابراتی، رتبه اول و دوم رویداد تخصصی «هوش مصنوعی در تلکام» را کسب کرد."
-    },
-    {
-      "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
-      "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-11-07T22:07:22.000Z",
-      "summary": "On Equity, we unpacked what the midterms mean for the tech industry."
-    },
-    {
-      "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
-      "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-11-07T21:17:08.000Z",
-      "summary": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO."
     },
     {
       "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
@@ -88,14 +96,6 @@
       "lang": "en",
       "published": "2026-11-05T20:00:00.000Z",
       "summary": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done."
-    },
-    {
-      "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
-      "url": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
-      "source": "MIT Technology Review",
-      "lang": "en",
-      "published": "2026-11-04T18:50:55.000Z",
-      "summary": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech’s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat James Talarico won th"
     }
   ]
 }
