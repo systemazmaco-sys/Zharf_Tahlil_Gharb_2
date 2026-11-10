@@ -1,37 +1,61 @@
 {
-  "updated_at": "2026-11-10T13:55:22.531Z",
+  "updated_at": "2026-11-10T22:38:00.209Z",
   "items": [
     {
-      "title": "عامل‌های هوش مصنوعی برای رسیدن به اهداف شرکت‌ها حاضرند اخلاق را زیر پا بگذارند",
-      "url": "https://www.zoomit.ir/ai-articles/470773-ai-agents-collaboration-ethical-risks/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-11-10T13:00:00.000Z",
-      "summary": "پژوهش‌های اخیر نشان می‌دهند همکاری عوامل هوش مصنوعی می‌تواند به دور زدن محدودیت‌ها، کاهش اخلاق و تضعیف کارایی کلی منجر شود."
-    },
-    {
-      "title": "Cyberattacks threaten to make open-source AI a little less open, Hugging Face exec warns",
-      "url": "https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns/",
+      "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
+      "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
       "source": "TechCrunch AI",
       "lang": "en",
-      "published": "2026-11-10T13:00:00.000Z",
-      "summary": "Hugging Face executive Irene Solaiman warns that growing cyberattacks on open AI platforms could force tighter security restrictions, threatening the accessibility that makes open-source communities valuable to developer"
+      "published": "2026-11-10T21:08:52.000Z",
+      "summary": "OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry."
     },
     {
-      "title": "از ساخت اپلیکیشن تا راه‌اندازی کسب‌وکار با هوش مصنوعی؛ «هلیکس‌ورلد» چه امکاناتی دارد؟",
-      "url": "https://www.zoomit.ir/iran-news/470880-helixworld-ai-business-platform/",
+      "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
+      "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-11-10T20:52:13.000Z",
+      "summary": "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines."
+    },
+    {
+      "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
+      "url": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-11-10T19:57:52.000Z",
+      "summary": "Each of the seven co-founders plans to sell exactly the same number of shares in the IPO, which would bring each of them about $250 million in cash at the midpoint of the price range while leaving the group in control of"
+    },
+    {
+      "title": "رقیب چینی ChatGPT دوباره خبرساز شد؛ استقبال میلیونی از ایجنت‌های هوش مصنوعی دیپ‌سیک",
+      "url": "https://www.zoomit.ir/ai-articles/470790-deepseek-harness-daily-active-users/",
       "source": "زومیت",
       "lang": "fa",
-      "published": "2026-11-10T12:30:00.000Z",
-      "summary": "پلتفرم ایرانی هلیکس‌ورلد با ارائه بیش از ۱۰۰ مدل هوش مصنوعی، ابزارهای ساخت نرم‌افزار و دستیارهای هوشمند، به‌دنبال تسهیل راه‌اندازی کسب‌وکارها است."
+      "published": "2026-11-10T19:55:00.000Z",
+      "summary": "نرم‌افزار متن‌باز DeepSeek Harness با رسیدن به ۱٫۵۴ میلیون کاربر فعال روزانه، نبرد غول‌های هوش مصنوعی را به مرحله‌ی تازه‌ای رساند."
     },
     {
-      "title": "مشوق جدید سازمان امور مالیاتی برای شرکت‌ها؛ در هوش مصنوعی سرمایه‌گذاری کنید، مالیات کمتری بدهید",
-      "url": "https://digiato.com/iran-technology-news/allocating-tax-credits-to-investors-in-the-field-of-artificial-intelligence",
-      "source": "دیجیاتو",
+      "title": "هوش مصنوعی چگونه طومار سوخته را بدون بازکردن خواند؟",
+      "url": "https://www.zoomit.ir/ai-articles/470886-ai-reads-burnt-herculaneum-scrolls/",
+      "source": "زومیت",
       "lang": "fa",
-      "published": "2026-11-10T12:07:57.000Z",
-      "summary": "این تصمیم براساس حکم مالیاتی قانون ملی توسعه هوش مصنوعی است. The post مشوق جدید سازمان امور مالیاتی برای شرکت‌ها؛ در هوش مصنوعی سرمایه‌گذاری کنید، مالیات کمتری بدهید appeared first on دیجیاتو."
+      "published": "2026-11-10T19:30:00.000Z",
+      "summary": "پژوهشگران با تلفیق اسکن سه‌بعدی و هوش مصنوعی موفق شدند نوشته‌های طومار دو هزار ساله‌ی سوخته در فوران وزوو را بدون بازکردن فیزیکی بخوانند."
+    },
+    {
+      "title": "تماشا کنید: رونمایی ناسا از پرامیس، نخستین ماه‌نورد رباتیک آمریکا با نیروی هسته‌ای",
+      "url": "https://www.zoomit.ir/space/470906-nasa-reveals-new-lunar-rover-promise/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-11-10T19:00:00.000Z",
+      "summary": "کاوشگر رباتیک پرامیس با الهام از مریخ‌نوردهای بزرگ ناسا طراحی شده و قرار است در سال ۲۰۲۸ برای انجام ماموریتی ۱۸ ماهه به قمر زمین فرستاده شود."
+    },
+    {
+      "title": "Gemini 4 Carbon is now available",
+      "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+      "source": "Google DeepMind",
+      "lang": "en",
+      "published": "2026-11-10T16:03:47.000Z",
+      "summary": ""
     },
     {
       "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
@@ -50,28 +74,12 @@
       "summary": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life."
     },
     {
-      "title": "ترامپ: می‌خواستیم مدیر یکی از شرکت‌های بزرگ هوش مصنوعی را راهی زندان کنیم",
-      "url": "https://digiato.com/artificial-intelligence/trump-threatened-ai-executive-with-jail",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-11-10T11:50:00.000Z",
-      "summary": "ترامپ در برنامه‌ای مدعی شد دولتش مدیر یکی از شرکت‌های بزرگ هوش مصنوعی را به زندان تهدید کرده بود. The post ترامپ: می‌خواستیم مدیر یکی از شرکت‌های بزرگ هوش مصنوعی را راهی زندان کنیم appeared first on دیجیاتو."
-    },
-    {
-      "title": "باگ امنیتی Claude Code رمز عبور و داده‌های حساس کاربران را در گیت‌هاب فاش می‌کند",
-      "url": "https://digiato.com/security/claude-code-exposing-secrets-github",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-11-10T11:33:00.000Z",
-      "summary": "گزینه ذخیره تأییدیه‌ها در Claude Code اطلاعات محرمانه‌ای مانند رمز پایگاه داده را ناخواسته در گیت‌هاب بارگذاری می‌کند. The post باگ امنیتی Claude Code رمز عبور و داده‌های حساس کاربران را در گیت‌هاب فاش می‌کند appeared fi"
-    },
-    {
-      "title": "تغییر موضع ترامپ درباره هوش مصنوعی؛ رئیس‌جمهور آمریکا حالا از وضع برخی محدودیت‌ها استقبال می‌کند",
-      "url": "https://www.zoomit.ir/ai-articles/470760-trump-ai-guardrails-china-competition/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-11-10T09:50:00.000Z",
-      "summary": "دونالد ترامپ با پذیرش خطرات هوش مصنوعی، از آمادگی خود برای همکاری با دموکرات‌ها و وضع مقررات کنترلی خبر داد."
+      "title": "Introducing Businesses in ChatGPT",
+      "url": "https://openai.com/index/introducing-businesses-chatgpt",
+      "source": "OpenAI",
+      "lang": "en",
+      "published": "2026-11-10T10:00:00.000Z",
+      "summary": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT."
     },
     {
       "title": "Closing the AI guidance gap in education",
@@ -82,20 +90,12 @@
       "summary": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning."
     },
     {
-      "title": "Otter AI can now follow conversations across 30+ languages",
-      "url": "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/",
-      "source": "TechCrunch AI",
+      "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
+      "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
+      "source": "Google DeepMind",
       "lang": "en",
-      "published": "2026-11-10T07:00:00.000Z",
-      "summary": "Otter AI just added support for 27 languages and revealed an upcoming feature that can follow along if speakers switch between languages."
-    },
-    {
-      "title": "ChatGPT Enterprise now available in AWS Marketplace",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBvNUFWbjRfQ2NHNGlSdTN0YTdLaFo3aXoxX2dieUhoVExfV1ZYYVlSZVV6bVdKX1B4MGZWV2otaHJZeVhNc0JrUTY2QjFuelEyUE1IVm43Z0NKbUJQeVdRU25DOFc5S1NjQUZDSVZnMGJyTTNr?oc=5",
-      "source": "OpenAI",
-      "lang": "fa",
-      "published": "2026-11-10T01:41:15.000Z",
-      "summary": "ChatGPT Enterprise now available in AWS Marketplace OpenAI"
+      "published": "2026-11-09T19:51:47.000Z",
+      "summary": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety"
     }
   ]
 }
