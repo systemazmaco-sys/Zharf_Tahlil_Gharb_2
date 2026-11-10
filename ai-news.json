@@ -1,13 +1,93 @@
 {
-  "updated_at": "2026-11-09T14:37:37.414Z",
+  "updated_at": "2026-11-10T00:57:14.870Z",
   "items": [
     {
-      "title": "Automattic debuts a platform to deploy vibe coding apps amid a changing internet",
-      "url": "https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/",
+      "title": "Jensen Huang reportedly engaged a PR firm with a history of handling high-profile sex scandals a year ago",
+      "url": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/",
       "source": "TechCrunch AI",
       "lang": "en",
-      "published": "2026-11-09T14:00:00.000Z",
-      "summary": "Automattic aims to compete with likes of Lovable with Spacefast"
+      "published": "2026-11-09T23:28:37.000Z",
+      "summary": "The PR firm was enlisted shortly after an October 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported."
+    },
+    {
+      "title": "هوش مصنوعی قرار بود شغل کارمندان را بگیرد؛ اما آمار جدید چیز دیگری می‌گوید",
+      "url": "https://www.zoomit.ir/business/470715-ai-white-collar-jobs-growth/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-11-09T23:15:00.000Z",
+      "summary": "گزارش جدید وزارت کار آمریکا نشان می‌دهد برخلاف نگرانی‌ها، مشاغل دفتری و علمی در ماه گذشته رشد چشمگیری تجربه کرده‌اند."
+    },
+    {
+      "title": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
+      "url": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-11-09T22:46:09.000Z",
+      "summary": "Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese executive."
+    },
+    {
+      "title": "The race is on to sue Nvidia",
+      "url": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-11-09T22:23:42.000Z",
+      "summary": "Nvidia’s stock slid more than 4% after its board opened an investigation into Jensen Huang’s relationship with a suspected Chinese spy, and one securities law expert says the company’s earlier insistence that it was all "
+    },
+    {
+      "title": "از حل مسئله سیاه‌چاله تا ساخت سیستم‌عامل؛ نسخه‌های جدید هوش مصنوعی کلاد معرفی شدند",
+      "url": "https://www.zoomit.ir/ai-articles/470829-anthropic-claude-fable-mythos-5-2/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-11-09T21:06:17.000Z",
+      "summary": "آنتروپیک از مدل‌های Fable 5.2 و Mythos 5.2 با توانایی چشمگیر در حل مسائل پیچیده، امنیت سایبری و هماهنگی عامل‌ها رونمایی کرد."
+    },
+    {
+      "title": "رؤیای تریلیون‌دلاری سازنده کلاد در خطر است؟ آمریکایی‌ها علیه دیتاسنترهای هوش مصنوعی موضع گرفتند",
+      "url": "https://www.zoomit.ir/business/470714-anthropic-historic-nasdaq-ipo-valuation/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-11-09T20:00:00.000Z",
+      "summary": "آنتروپیک، توسعه‌دهنده‌ی مدل هوش مصنوعی کلاد، با وجود افت بازار فناوری و بدبینی شدید افکار عمومی، آماده‌ی عرضه‌ی عمومی سهام در بورس نزدک می‌شود."
+    },
+    {
+      "title": "The backlash about data centers might really just be about electricity",
+      "url": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
+      "source": "MIT Technology Review",
+      "lang": "en",
+      "published": "2026-11-09T19:35:33.000Z",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. As voters went to the polls across the US last week, I was in Ashburn, Virginia, p"
+    },
+    {
+      "title": "یافته‌ای برخلاف پیش‌بینی‌ها:‌ کاربران هوش مصنوعی روزانه تا ۹۰ دقیقه بیشتر کار می‌کنند",
+      "url": "https://digiato.com/artificial-intelligence/ai-users-work-longer-hours",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-11-09T19:30:00.000Z",
+      "summary": "این درحالی است که حامیان هوش مصنوعی می‌گفتند این فناوری می‌تواند ساعات کاری انسان‌ها را کاهش دهد. The post یافته‌ای برخلاف پیش‌بینی‌ها:‌ کاربران هوش مصنوعی روزانه تا ۹۰ دقیقه بیشتر کار می‌کنند appeared first on دیجیاتو."
+    },
+    {
+      "title": "ChatGPT Enterprise now available in AWS Marketplace",
+      "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+      "source": "OpenAI",
+      "lang": "en",
+      "published": "2026-11-09T19:00:00.000Z",
+      "summary": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships."
+    },
+    {
+      "title": "استفاده انویدیا از تفلون برای حل بحران سیگنال در سرورهای هوش مصنوعی! | سیلیکن",
+      "url": "https://digiato.com/silicon/silicon-e53",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-11-09T17:30:00.000Z",
+      "summary": "از ترفند تفلونی انویدیا و اعتراضات آمستردام تا شگفتی‌سازی موتورولا و حواشی آیفون تاشو The post استفاده انویدیا از تفلون برای حل بحران سیگنال در سرورهای هوش مصنوعی! | سیلیکن appeared first on دیجیاتو."
+    },
+    {
+      "title": "Nancy Pelosi’s replacement is ready to regulate AI",
+      "url": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
+      "source": "MIT Technology Review",
+      "lang": "en",
+      "published": "2026-11-09T17:05:43.000Z",
+      "summary": "As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a tight congressional race for former Speaker of the House Nancy Pelosi’s open San Francisco "
     },
     {
       "title": "اینستاگرام تشخیص سن کاربران با هوش مصنوعی را در سراسر جهان فعال می‌کند",
@@ -16,86 +96,6 @@
       "lang": "fa",
       "published": "2026-11-09T13:47:00.000Z",
       "summary": "اینستاگرام تشخیص سن با هوش مصنوعی را در سراسر جهان گسترش می‌دهد تا نوجوانانی را که با تاریخ تولد جعلی ثبت‌نام کرده‌اند، شناسایی کند. The post اینستاگرام تشخیص سن کاربران با هوش مصنوعی را در سراسر جهان فعال می‌کند appeare"
-    },
-    {
-      "title": "نقش تصفیه آب صنعتی در خنک سازی دیتاسنتر هوش مصنوعی؛ تحلیل آبین",
-      "url": "https://www.zoomit.ir/pr/470809-ai-data-center-water-treatment/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-11-09T13:25:52.000Z",
-      "summary": "تصفیه آب صنعتی با مهار رسوب، خوردگی و آلودگی‌های میکروبی در مدارهای سرمایشی، پایداری و راندمان دیتاسنترهای هوش مصنوعی را تضمین می‌کند."
-    },
-    {
-      "title": "انویدیا به‌دنبال ردیابی تراشه‌هایش افتاد؛ نگرانی از قاچاق پردازنده‌های هوش مصنوعی به چین",
-      "url": "https://www.zoomit.ir/business/470707-nvidia-gpu-tracking-mandate/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-11-09T13:00:00.000Z",
-      "summary": "انویدیا ارائه‌دهندگان خدمات ابری در جنوب شرق آسیا را برای دریافت عنوان شریک رسمی، ملزم به استفاده از سامانه ردیابی سخت‌افزاری کرد."
-    },
-    {
-      "title": "Innovating with AI in the special chemicals industry",
-      "url": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
-      "source": "MIT Technology Review",
-      "lang": "en",
-      "published": "2026-11-09T13:00:00.000Z",
-      "summary": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific expertise, and the practi"
-    },
-    {
-      "title": "پارادوکس بزرگ؛ هوش مصنوعی که خودش دشمن محیط زیست است، به کمک محیط زیست می‌آید",
-      "url": "https://www.zoomit.ir/energy-environment/470696-environmental-groups-ai-dilemma-climate/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-11-09T10:10:00.000Z",
-      "summary": "سازمان‌های محیط‌زیستی جهان با وجود هشدار درباره‌ی مصرف سرسام‌آور آب و برق دیتاسنترها، برای نجات زمین به هوش مصنوعی روی آورده‌اند."
-    },
-    {
-      "title": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”",
-      "url": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-11-09T05:26:29.000Z",
-      "summary": "Nvidia’s board is investigating Jensen Huang over his relationship with a suspected Chinese spy, and Yale’s Jeffrey Sonnenfeld thinks it’s roughly a coin flip whether Huang stays on as CEO."
-    },
-    {
-      "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
-      "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-11-08T21:00:11.000Z",
-      "summary": "In a memo to the company, Huang admitted that he had an affair."
-    },
-    {
-      "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
-      "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
-      "source": "MIT Technology Review",
-      "lang": "en",
-      "published": "2026-11-06T10:00:00.000Z",
-      "summary": "I’m not the sort of person who typically pays for a house cleaner. I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser. But when I saw an X post about a new humanoid-r"
-    },
-    {
-      "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
-      "url": "https://openai.com/index/partnering-with-hacktron",
-      "source": "OpenAI",
-      "lang": "en",
-      "published": "2026-11-06T08:00:00.000Z",
-      "summary": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI."
-    },
-    {
-      "title": "Measuring how AI agents handle everyday wet-lab science",
-      "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
-      "source": "OpenAI",
-      "lang": "en",
-      "published": "2026-11-06T00:00:00.000Z",
-      "summary": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science."
-    },
-    {
-      "title": "Cult.fit builds operational muscle with Codex",
-      "url": "https://openai.com/index/cultfit-builds-with-codex",
-      "source": "OpenAI",
-      "lang": "en",
-      "published": "2026-11-05T20:00:00.000Z",
-      "summary": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done."
     }
   ]
 }
