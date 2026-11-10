@@ -1,101 +1,101 @@
 {
-  "updated_at": "2026-11-10T00:57:14.870Z",
+  "updated_at": "2026-11-10T13:55:22.531Z",
   "items": [
     {
-      "title": "Jensen Huang reportedly engaged a PR firm with a history of handling high-profile sex scandals a year ago",
-      "url": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-11-09T23:28:37.000Z",
-      "summary": "The PR firm was enlisted shortly after an October 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported."
-    },
-    {
-      "title": "هوش مصنوعی قرار بود شغل کارمندان را بگیرد؛ اما آمار جدید چیز دیگری می‌گوید",
-      "url": "https://www.zoomit.ir/business/470715-ai-white-collar-jobs-growth/",
+      "title": "عامل‌های هوش مصنوعی برای رسیدن به اهداف شرکت‌ها حاضرند اخلاق را زیر پا بگذارند",
+      "url": "https://www.zoomit.ir/ai-articles/470773-ai-agents-collaboration-ethical-risks/",
       "source": "زومیت",
       "lang": "fa",
-      "published": "2026-11-09T23:15:00.000Z",
-      "summary": "گزارش جدید وزارت کار آمریکا نشان می‌دهد برخلاف نگرانی‌ها، مشاغل دفتری و علمی در ماه گذشته رشد چشمگیری تجربه کرده‌اند."
+      "published": "2026-11-10T13:00:00.000Z",
+      "summary": "پژوهش‌های اخیر نشان می‌دهند همکاری عوامل هوش مصنوعی می‌تواند به دور زدن محدودیت‌ها، کاهش اخلاق و تضعیف کارایی کلی منجر شود."
     },
     {
-      "title": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
-      "url": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/",
+      "title": "Cyberattacks threaten to make open-source AI a little less open, Hugging Face exec warns",
+      "url": "https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns/",
       "source": "TechCrunch AI",
       "lang": "en",
-      "published": "2026-11-09T22:46:09.000Z",
-      "summary": "Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese executive."
+      "published": "2026-11-10T13:00:00.000Z",
+      "summary": "Hugging Face executive Irene Solaiman warns that growing cyberattacks on open AI platforms could force tighter security restrictions, threatening the accessibility that makes open-source communities valuable to developer"
     },
     {
-      "title": "The race is on to sue Nvidia",
-      "url": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-11-09T22:23:42.000Z",
-      "summary": "Nvidia’s stock slid more than 4% after its board opened an investigation into Jensen Huang’s relationship with a suspected Chinese spy, and one securities law expert says the company’s earlier insistence that it was all "
-    },
-    {
-      "title": "از حل مسئله سیاه‌چاله تا ساخت سیستم‌عامل؛ نسخه‌های جدید هوش مصنوعی کلاد معرفی شدند",
-      "url": "https://www.zoomit.ir/ai-articles/470829-anthropic-claude-fable-mythos-5-2/",
+      "title": "از ساخت اپلیکیشن تا راه‌اندازی کسب‌وکار با هوش مصنوعی؛ «هلیکس‌ورلد» چه امکاناتی دارد؟",
+      "url": "https://www.zoomit.ir/iran-news/470880-helixworld-ai-business-platform/",
       "source": "زومیت",
       "lang": "fa",
-      "published": "2026-11-09T21:06:17.000Z",
-      "summary": "آنتروپیک از مدل‌های Fable 5.2 و Mythos 5.2 با توانایی چشمگیر در حل مسائل پیچیده، امنیت سایبری و هماهنگی عامل‌ها رونمایی کرد."
+      "published": "2026-11-10T12:30:00.000Z",
+      "summary": "پلتفرم ایرانی هلیکس‌ورلد با ارائه بیش از ۱۰۰ مدل هوش مصنوعی، ابزارهای ساخت نرم‌افزار و دستیارهای هوشمند، به‌دنبال تسهیل راه‌اندازی کسب‌وکارها است."
     },
     {
-      "title": "رؤیای تریلیون‌دلاری سازنده کلاد در خطر است؟ آمریکایی‌ها علیه دیتاسنترهای هوش مصنوعی موضع گرفتند",
-      "url": "https://www.zoomit.ir/business/470714-anthropic-historic-nasdaq-ipo-valuation/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-11-09T20:00:00.000Z",
-      "summary": "آنتروپیک، توسعه‌دهنده‌ی مدل هوش مصنوعی کلاد، با وجود افت بازار فناوری و بدبینی شدید افکار عمومی، آماده‌ی عرضه‌ی عمومی سهام در بورس نزدک می‌شود."
-    },
-    {
-      "title": "The backlash about data centers might really just be about electricity",
-      "url": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
-      "source": "MIT Technology Review",
-      "lang": "en",
-      "published": "2026-11-09T19:35:33.000Z",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. As voters went to the polls across the US last week, I was in Ashburn, Virginia, p"
-    },
-    {
-      "title": "یافته‌ای برخلاف پیش‌بینی‌ها:‌ کاربران هوش مصنوعی روزانه تا ۹۰ دقیقه بیشتر کار می‌کنند",
-      "url": "https://digiato.com/artificial-intelligence/ai-users-work-longer-hours",
+      "title": "مشوق جدید سازمان امور مالیاتی برای شرکت‌ها؛ در هوش مصنوعی سرمایه‌گذاری کنید، مالیات کمتری بدهید",
+      "url": "https://digiato.com/iran-technology-news/allocating-tax-credits-to-investors-in-the-field-of-artificial-intelligence",
       "source": "دیجیاتو",
       "lang": "fa",
-      "published": "2026-11-09T19:30:00.000Z",
-      "summary": "این درحالی است که حامیان هوش مصنوعی می‌گفتند این فناوری می‌تواند ساعات کاری انسان‌ها را کاهش دهد. The post یافته‌ای برخلاف پیش‌بینی‌ها:‌ کاربران هوش مصنوعی روزانه تا ۹۰ دقیقه بیشتر کار می‌کنند appeared first on دیجیاتو."
+      "published": "2026-11-10T12:07:57.000Z",
+      "summary": "این تصمیم براساس حکم مالیاتی قانون ملی توسعه هوش مصنوعی است. The post مشوق جدید سازمان امور مالیاتی برای شرکت‌ها؛ در هوش مصنوعی سرمایه‌گذاری کنید، مالیات کمتری بدهید appeared first on دیجیاتو."
+    },
+    {
+      "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+      "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+      "source": "Google DeepMind",
+      "lang": "en",
+      "published": "2026-11-10T12:02:28.000Z",
+      "summary": "AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption."
+    },
+    {
+      "title": "Helping caregivers use AI in everyday life",
+      "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+      "source": "OpenAI",
+      "lang": "en",
+      "published": "2026-11-10T12:00:00.000Z",
+      "summary": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life."
+    },
+    {
+      "title": "ترامپ: می‌خواستیم مدیر یکی از شرکت‌های بزرگ هوش مصنوعی را راهی زندان کنیم",
+      "url": "https://digiato.com/artificial-intelligence/trump-threatened-ai-executive-with-jail",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-11-10T11:50:00.000Z",
+      "summary": "ترامپ در برنامه‌ای مدعی شد دولتش مدیر یکی از شرکت‌های بزرگ هوش مصنوعی را به زندان تهدید کرده بود. The post ترامپ: می‌خواستیم مدیر یکی از شرکت‌های بزرگ هوش مصنوعی را راهی زندان کنیم appeared first on دیجیاتو."
+    },
+    {
+      "title": "باگ امنیتی Claude Code رمز عبور و داده‌های حساس کاربران را در گیت‌هاب فاش می‌کند",
+      "url": "https://digiato.com/security/claude-code-exposing-secrets-github",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-11-10T11:33:00.000Z",
+      "summary": "گزینه ذخیره تأییدیه‌ها در Claude Code اطلاعات محرمانه‌ای مانند رمز پایگاه داده را ناخواسته در گیت‌هاب بارگذاری می‌کند. The post باگ امنیتی Claude Code رمز عبور و داده‌های حساس کاربران را در گیت‌هاب فاش می‌کند appeared fi"
+    },
+    {
+      "title": "تغییر موضع ترامپ درباره هوش مصنوعی؛ رئیس‌جمهور آمریکا حالا از وضع برخی محدودیت‌ها استقبال می‌کند",
+      "url": "https://www.zoomit.ir/ai-articles/470760-trump-ai-guardrails-china-competition/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-11-10T09:50:00.000Z",
+      "summary": "دونالد ترامپ با پذیرش خطرات هوش مصنوعی، از آمادگی خود برای همکاری با دموکرات‌ها و وضع مقررات کنترلی خبر داد."
+    },
+    {
+      "title": "Closing the AI guidance gap in education",
+      "url": "https://openai.com/index/closing-ai-guidance-gap-education",
+      "source": "OpenAI",
+      "lang": "en",
+      "published": "2026-11-10T09:00:00.000Z",
+      "summary": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning."
+    },
+    {
+      "title": "Otter AI can now follow conversations across 30+ languages",
+      "url": "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-11-10T07:00:00.000Z",
+      "summary": "Otter AI just added support for 27 languages and revealed an upcoming feature that can follow along if speakers switch between languages."
     },
     {
       "title": "ChatGPT Enterprise now available in AWS Marketplace",
-      "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBvNUFWbjRfQ2NHNGlSdTN0YTdLaFo3aXoxX2dieUhoVExfV1ZYYVlSZVV6bVdKX1B4MGZWV2otaHJZeVhNc0JrUTY2QjFuelEyUE1IVm43Z0NKbUJQeVdRU25DOFc5S1NjQUZDSVZnMGJyTTNr?oc=5",
       "source": "OpenAI",
-      "lang": "en",
-      "published": "2026-11-09T19:00:00.000Z",
-      "summary": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships."
-    },
-    {
-      "title": "استفاده انویدیا از تفلون برای حل بحران سیگنال در سرورهای هوش مصنوعی! | سیلیکن",
-      "url": "https://digiato.com/silicon/silicon-e53",
-      "source": "دیجیاتو",
       "lang": "fa",
-      "published": "2026-11-09T17:30:00.000Z",
-      "summary": "از ترفند تفلونی انویدیا و اعتراضات آمستردام تا شگفتی‌سازی موتورولا و حواشی آیفون تاشو The post استفاده انویدیا از تفلون برای حل بحران سیگنال در سرورهای هوش مصنوعی! | سیلیکن appeared first on دیجیاتو."
-    },
-    {
-      "title": "Nancy Pelosi’s replacement is ready to regulate AI",
-      "url": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
-      "source": "MIT Technology Review",
-      "lang": "en",
-      "published": "2026-11-09T17:05:43.000Z",
-      "summary": "As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a tight congressional race for former Speaker of the House Nancy Pelosi’s open San Francisco "
-    },
-    {
-      "title": "اینستاگرام تشخیص سن کاربران با هوش مصنوعی را در سراسر جهان فعال می‌کند",
-      "url": "https://digiato.com/app/instagram-ai-age-detection-global-expansion",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-11-09T13:47:00.000Z",
-      "summary": "اینستاگرام تشخیص سن با هوش مصنوعی را در سراسر جهان گسترش می‌دهد تا نوجوانانی را که با تاریخ تولد جعلی ثبت‌نام کرده‌اند، شناسایی کند. The post اینستاگرام تشخیص سن کاربران با هوش مصنوعی را در سراسر جهان فعال می‌کند appeare"
+      "published": "2026-11-10T01:41:15.000Z",
+      "summary": "ChatGPT Enterprise now available in AWS Marketplace OpenAI"
     }
   ]
 }
