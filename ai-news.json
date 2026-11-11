@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T03:38:13.580Z",
+  "updated_at": "2026-11-11T13:08:09.217Z",
   "items": [
     {
       "title": "Gilbert + Tobin rethinks the business of law with AI",
@@ -8,6 +8,46 @@
       "lang": "en",
       "published": "2026-11-12T00:00:00.000Z",
       "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin."
+    },
+    {
+      "title": "۵۶ ایجنت هوش مصنوعی گزارش بازاریابی دیجیتال ایران را به چالش کشیدند",
+      "url": "https://www.zoomit.ir/iran-news/470956-ai-agents-iran-digital-marketing-report/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-11-11T12:00:00.000Z",
+      "summary": "بیش از هزار کاربر گزارش بازاریابی دیجیتال ایران ۱۴۰۴ را بررسی کردند و ۵۶ ایجنت هوش مصنوعی نیز پاسخ‌های آن را آزمودند."
+    },
+    {
+      "title": "دردسر امنیتی تازه برای غول‌های هوش مصنوعی؛ شرکت مورد حمایت انویدیا دوباره هک شد",
+      "url": "https://www.zoomit.ir/security/470852-fireworks-ai-security-breach-customers/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-11-11T11:45:00.000Z",
+      "summary": "استارتاپ Fireworks AI از وقوع دومین رخنه‌ی امنیتی طی چند هفته‌ی گذشته و دسترسی غیرمجاز به داده‌های مشتریان خبر داد."
+    },
+    {
+      "title": "شارژ خودرو برقی بدون دخالت راننده؛ بازوی رباتیک بی‌وای‌دی در دبی رونمایی شد",
+      "url": "https://www.zoomit.ir/car/470801-byd-robotic-ev-charger-uae/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-11-11T08:40:00.000Z",
+      "summary": "بی‌وای‌دی از بازوی رباتیک شارژ سریع خودروهای برقی با توان ۱۰۰۰ کیلووات در امارات متحده‌ی عربی رونمایی کرد."
+    },
+    {
+      "title": "ChatGPT Plus for veterans and servicemembers",
+      "url": "https://openai.com/index/chatgpt-plus-for-veterans",
+      "source": "OpenAI",
+      "lang": "en",
+      "published": "2026-11-11T08:00:00.000Z",
+      "summary": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers."
+    },
+    {
+      "title": "Nvidia’s crisis has corporate governance experts reaching for the popcorn",
+      "url": "https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-11-11T07:30:51.000Z",
+      "summary": "The governance experts we talked to say nobody has seen anything like what's unfolding right now."
     },
     {
       "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
@@ -26,52 +66,12 @@
       "summary": "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines."
     },
     {
-      "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
-      "url": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-11-10T19:57:52.000Z",
-      "summary": "Each of the seven co-founders plans to sell exactly the same number of shares in the IPO, which would bring each of them about $250 million in cash at the midpoint of the price range while leaving the group in control of"
-    },
-    {
-      "title": "رقیب چینی ChatGPT دوباره خبرساز شد؛ استقبال میلیونی از ایجنت‌های هوش مصنوعی دیپ‌سیک",
-      "url": "https://www.zoomit.ir/ai-articles/470790-deepseek-harness-daily-active-users/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-11-10T19:55:00.000Z",
-      "summary": "نرم‌افزار متن‌باز DeepSeek Harness با رسیدن به ۱٫۵۴ میلیون کاربر فعال روزانه، نبرد غول‌های هوش مصنوعی را به مرحله‌ی تازه‌ای رساند."
-    },
-    {
-      "title": "هوش مصنوعی چگونه طومار سوخته را بدون بازکردن خواند؟",
-      "url": "https://www.zoomit.ir/ai-articles/470886-ai-reads-burnt-herculaneum-scrolls/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-11-10T19:30:00.000Z",
-      "summary": "پژوهشگران با تلفیق اسکن سه‌بعدی و هوش مصنوعی موفق شدند نوشته‌های طومار دو هزار ساله‌ی سوخته در فوران وزوو را بدون بازکردن فیزیکی بخوانند."
-    },
-    {
-      "title": "تماشا کنید: رونمایی ناسا از پرامیس، نخستین ماه‌نورد رباتیک آمریکا با نیروی هسته‌ای",
-      "url": "https://www.zoomit.ir/space/470906-nasa-reveals-new-lunar-rover-promise/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-11-10T19:00:00.000Z",
-      "summary": "کاوشگر رباتیک پرامیس با الهام از مریخ‌نوردهای بزرگ ناسا طراحی شده و قرار است در سال ۲۰۲۸ برای انجام ماموریتی ۱۸ ماهه به قمر زمین فرستاده شود."
-    },
-    {
       "title": "Helping caregivers use AI in everyday life",
       "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
       "source": "OpenAI",
       "lang": "en",
       "published": "2026-11-10T12:00:00.000Z",
       "summary": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life."
-    },
-    {
-      "title": "Introducing Businesses in ChatGPT",
-      "url": "https://openai.com/index/introducing-businesses-chatgpt",
-      "source": "OpenAI",
-      "lang": "en",
-      "published": "2026-11-10T10:00:00.000Z",
-      "summary": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT."
     },
     {
       "title": "The backlash about data centers might really just be about electricity",
