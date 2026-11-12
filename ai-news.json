@@ -1,6 +1,30 @@
 {
-  "updated_at": "2026-11-11T23:48:24.881Z",
+  "updated_at": "2026-11-12T04:46:19.110Z",
   "items": [
+    {
+      "title": "اپل و سامسونگ برای رقابت با هواوی به هوش مصنوعی چینی روی آوردند",
+      "url": "https://www.zoomit.ir/ai-articles/470932-apple-samsung-china-ai-partnerships/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-11-12T04:15:00.000Z",
+      "summary": "اپل و سامسونگ برای تداوم حضور در بازار چین، خدمات هوش مصنوعی خود را به غول‌های فناوری آن کشور متکی کرده‌اند."
+    },
+    {
+      "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
+      "url": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-11-12T03:13:10.000Z",
+      "summary": "Nvidia has no succession plan and a CEO in hot water, so we’ve drafted a shortlist."
+    },
+    {
+      "title": "گوگل هوش مصنوعی پیشرفته جمنای را وارد گوشی پیکسل ۱۰ کرد",
+      "url": "https://www.zoomit.ir/mobile/470927-google-pixel-drop-gemini-features/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-11-12T02:30:00.000Z",
+      "summary": "گوگل به‌روزرسانی ماه نوامبر پیکسل را همراه با قابلیت‌های هوش مصنوعی جمنای اینتلیجنس برای گوشی‌های سازگار منتشر کرد."
+    },
     {
       "title": "Gilbert + Tobin rethinks the business of law with AI",
       "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
@@ -8,6 +32,14 @@
       "lang": "en",
       "published": "2026-11-12T00:00:00.000Z",
       "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin."
+    },
+    {
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "url": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-11-11T23:50:00.000Z",
+      "summary": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure."
     },
     {
       "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
@@ -18,52 +50,12 @@
       "summary": "As soon as Wednesday evening, Nvidia's board could decide to remove its founder and CEO of 33 years."
     },
     {
-      "title": "Jensen Huang accused of having another affair — with a Nvidia exec",
-      "url": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-11-11T23:17:05.000Z",
-      "summary": "Jensen Huang, who has come under fire for admitting to an affair with a woman accused of being a Chinese intelligence agent, has been accused of having a separate affair with an Nvidia subordinate."
-    },
-    {
-      "title": "Why the data center you dread might never even be built",
-      "url": "https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-11-11T20:15:15.000Z",
-      "summary": "The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity. Before those challenges even come into play, though, there’s a more"
-    },
-    {
       "title": "در تصمیم‌گیری مشکل دارید؟ ۲۵۰ میلی‌ثانیه از زمان‌تان را به هوش مصنوعی جدید گوگل بدهید!",
       "url": "https://www.zoomit.ir/ai-articles/470976-google-gemini-decision-1-decisions-api-launch/",
       "source": "زومیت",
       "lang": "fa",
       "published": "2026-11-11T19:17:25.000Z",
       "summary": "گوگل مدل Gemini Decision 1 را معرفی کرد؛ هوش مصنوعی تازه‌ای که می‌تواند تا هزار سؤال درباره‌ی متن، تصویر و ویدیو را به سرعت ارزیابی کند."
-    },
-    {
-      "title": "هوش مصنوعی جدید گوگل برای کشف راز بیماری‌ها معرفی شد",
-      "url": "https://www.zoomit.ir/ai-articles/470973-google-alphagenome-2-ai-genetic-disease-research/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-11-11T19:02:55.000Z",
-      "summary": "گوگل از آلفاژنوم ۲ رونمایی کرد؛ هوش مصنوعی جدیدی که می‌تواند به شناخت ریشه‌ی بیماری‌ها کمک کند."
-    },
-    {
-      "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
-      "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
-      "source": "Google DeepMind",
-      "lang": "en",
-      "published": "2026-11-11T15:00:15.000Z",
-      "summary": "Predicting how DNA sequences and their variations impact specific human cell types and disease."
-    },
-    {
-      "title": "استرالیا به جنگ هوش مصنوعی سرکش می‌رود",
-      "url": "https://www.zoomit.ir/ai-articles/470857-australia-ai-safety-regulator-penalties/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-11-11T14:00:00.000Z",
-      "summary": "استرالیا نهاد ناظر جدیدی برای ایمنی هوش مصنوعی با اختیارات گسترده جهت اعمال جریمه‌های سنگین علیه شرکت‌های متخلف تأسیس می‌کند."
     },
     {
       "title": "ChatGPT Plus for veterans and servicemembers",
@@ -82,20 +74,28 @@
       "summary": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production."
     },
     {
-      "title": "Gemini 4 Carbon is now available",
-      "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
-      "source": "Google DeepMind",
+      "title": "The backlash about data centers might really just be about electricity",
+      "url": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
+      "source": "MIT Technology Review",
       "lang": "en",
-      "published": "2026-11-10T16:03:47.000Z",
-      "summary": ""
+      "published": "2026-11-09T19:35:33.000Z",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. As voters went to the polls across the US last week, I was in Ashburn, Virginia, p"
     },
     {
-      "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
-      "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
-      "source": "Google DeepMind",
+      "title": "Nancy Pelosi’s replacement is ready to regulate AI",
+      "url": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
+      "source": "MIT Technology Review",
       "lang": "en",
-      "published": "2026-11-10T12:02:28.000Z",
-      "summary": "AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption."
+      "published": "2026-11-09T17:05:43.000Z",
+      "summary": "As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a tight congressional race for former Speaker of the House Nancy Pelosi’s open San Francisco "
+    },
+    {
+      "title": "Innovating with AI in the special chemicals industry",
+      "url": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
+      "source": "MIT Technology Review",
+      "lang": "en",
+      "published": "2026-11-09T13:00:00.000Z",
+      "summary": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific expertise, and the practi"
     }
   ]
 }
