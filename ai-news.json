@@ -1,6 +1,70 @@
 {
-  "updated_at": "2026-11-12T14:11:15.688Z",
+  "updated_at": "2026-11-12T22:56:58.296Z",
   "items": [
+    {
+      "title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
+      "url": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-11-12T22:42:51.000Z",
+      "summary": "This Congressional investigation into Nvidia's China sales and its dealings with Trump is the second one, so far, since news of the alleged spy affair broke."
+    },
+    {
+      "title": "Muse can now place calls to U.S. businesses — if you pay",
+      "url": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-11-12T22:22:28.000Z",
+      "summary": "Muse's AI can now place outbound calls to US businesses — but it's not free."
+    },
+    {
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "url": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-11-12T21:35:00.000Z",
+      "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure."
+    },
+    {
+      "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
+      "url": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
+      "source": "MIT Technology Review",
+      "lang": "en",
+      "published": "2026-11-12T20:16:24.000Z",
+      "summary": "Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security Act, Foster told MIT Technology Review i"
+    },
+    {
+      "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+      "url": "https://openai.com/index/amplitude",
+      "source": "OpenAI",
+      "lang": "en",
+      "published": "2026-11-12T20:00:00.000Z",
+      "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact."
+    },
+    {
+      "title": "Introducing Gemini 4 Hydrogen",
+      "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+      "source": "Google DeepMind",
+      "lang": "en",
+      "published": "2026-11-12T18:00:50.000Z",
+      "summary": ""
+    },
+    {
+      "title": "بنیاد آیه برای مراقبت از مددجویان از هوش مصنوعی کمک می‌گیرد",
+      "url": "https://digiato.com/iran-technology-news/ayeh-charity-ai-assisted-care",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-11-12T17:49:23.000Z",
+      "summary": "قرار است ابزارهای پوشیدنی هوشمند برای ثبت مستمر علائم حیاتی مددجویان، از جمله ضربان قلب و میزان اکسیژن خون، به کار گرفته شود. The post بنیاد آیه برای مراقبت از مددجویان از هوش مصنوعی کمک می‌گیرد appeared first on دیجیاتو"
+    },
+    {
+      "title": "سقوط معمار هوش مصنوعی؛ مدیرعامل انویدیا استعفا داد",
+      "url": "https://www.zoomit.ir/business/471017-jensen-huang-resigns-nvidia-ceo/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-11-12T14:08:50.000Z",
+      "summary": "جنسن هوانگ در پی افشای روابط شخصی از جمله ارتباط با یک مظنون به جاسوسی برای چین، از مدیرعاملی انویدیا کناره‌گیری کرد."
+    },
     {
       "title": "مدیرعامل مایکروسافت: هوش مصنوعی برای برخی کارکنان بحران هویت ایجاد می‌کند",
       "url": "https://digiato.com/artificial-intelligence/satya-nadella-ai-era-psychological-challenge-professional-identity",
@@ -8,14 +72,6 @@
       "lang": "fa",
       "published": "2026-11-12T13:31:28.000Z",
       "summary": "مطالعات جدید نشان می‌دهند که ۴۶ درصد از کارکنان از تقلید سریع مهارت‌های تخصصی توسط هوش مصنوعی احساس سرخوردگی دارند. The post مدیرعامل مایکروسافت: هوش مصنوعی برای برخی کارکنان بحران هویت ایجاد می‌کند appeared first on دیج"
-    },
-    {
-      "title": "Nine Korean startups vie for a spot in Disrupt 2027’s Startup Battlefield 200 competition",
-      "url": "https://techcrunch.com/2026/11/12/nine-korean-startups-vie-for-a-spot-in-disrupt-2027s-startup-battlefield-200-competition/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-11-12T13:26:25.000Z",
-      "summary": "The startups work across the deep tech sector, including healthcare, fintech, energy, semiconductors, and AI. All nine are looking to enter the US."
     },
     {
       "title": "رسوایی مدیرعامل انویدیا بازار تراشه‌های هوش مصنوعی در چین را آشفته کرد",
@@ -40,62 +96,6 @@
       "lang": "fa",
       "published": "2026-11-12T12:59:56.000Z",
       "summary": "با کمک هوش مصنوعی می‌توانید ساختار محتوای صفحات رقیب را بررسی کنید، موضوعات مشترک را پیدا کنید و با هوش مصنوعی بریف محتوایی بسازید."
-    },
-    {
-      "title": "مدیرعامل آنتروپیک: هوش مصنوعی تا ۱۰ سال آینده سرطان و آلزایمر را ریشه‌کن می‌کند",
-      "url": "https://digiato.com/health/anthropic-ceo-dario-amodei-ai-cure-cancer-alzheimers-backlash",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-11-12T10:15:14.000Z",
-      "summary": "ادعای «داریو آمودی» که پیش از عرضه اولیه سهام آنتروپیک مطرح شده، با واکنش تند جامعه پزشکی همراه بوده است. The post مدیرعامل آنتروپیک: هوش مصنوعی تا ۱۰ سال آینده سرطان و آلزایمر را ریشه‌کن می‌کند appeared first on دیجیاتو"
-    },
-    {
-      "title": "Holiday Extras is rethinking what it can build with Codex",
-      "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
-      "source": "OpenAI",
-      "lang": "en",
-      "published": "2026-11-12T09:30:00.000Z",
-      "summary": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth."
-    },
-    {
-      "title": "بحران انویدیا بزرگ‌تر از یک رسوایی شخصی است؛ نگرانی از آینده رونق جهانی هوش مصنوعی",
-      "url": "https://www.zoomit.ir/business/470936-nvidia-jensen-huang-china-investigation/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-11-12T09:15:00.000Z",
-      "summary": "اعتراف مدیرعامل انویدیا به رابطه‌ای خارج از ازدواج با فردی مظنون به جاسوسی برای چین، پای او را به تحقیقات کنگره و افت ارزش سهام این شرکت باز کرد."
-    },
-    {
-      "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
-      "url": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-11-12T03:13:10.000Z",
-      "summary": "Nvidia has no succession plan and a CEO in hot water, so we’ve drafted a shortlist."
-    },
-    {
-      "title": "Supporting research on AI and children’s safety",
-      "url": "https://openai.com/index/children-first-declaration",
-      "source": "OpenAI",
-      "lang": "en",
-      "published": "2026-11-12T00:00:00.000Z",
-      "summary": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people."
-    },
-    {
-      "title": "Gilbert + Tobin rethinks the business of law with AI",
-      "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
-      "source": "OpenAI",
-      "lang": "en",
-      "published": "2026-11-12T00:00:00.000Z",
-      "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin."
-    },
-    {
-      "title": "The unfolding Jensen Huang scandal: a timeline",
-      "url": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-11-11T23:50:00.000Z",
-      "summary": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure."
     }
   ]
 }
