@@ -1,13 +1,69 @@
 {
-  "updated_at": "2026-11-12T04:46:19.110Z",
+  "updated_at": "2026-11-12T14:11:15.688Z",
   "items": [
     {
-      "title": "اپل و سامسونگ برای رقابت با هواوی به هوش مصنوعی چینی روی آوردند",
-      "url": "https://www.zoomit.ir/ai-articles/470932-apple-samsung-china-ai-partnerships/",
+      "title": "مدیرعامل مایکروسافت: هوش مصنوعی برای برخی کارکنان بحران هویت ایجاد می‌کند",
+      "url": "https://digiato.com/artificial-intelligence/satya-nadella-ai-era-psychological-challenge-professional-identity",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-11-12T13:31:28.000Z",
+      "summary": "مطالعات جدید نشان می‌دهند که ۴۶ درصد از کارکنان از تقلید سریع مهارت‌های تخصصی توسط هوش مصنوعی احساس سرخوردگی دارند. The post مدیرعامل مایکروسافت: هوش مصنوعی برای برخی کارکنان بحران هویت ایجاد می‌کند appeared first on دیج"
+    },
+    {
+      "title": "Nine Korean startups vie for a spot in Disrupt 2027’s Startup Battlefield 200 competition",
+      "url": "https://techcrunch.com/2026/11/12/nine-korean-startups-vie-for-a-spot-in-disrupt-2027s-startup-battlefield-200-competition/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-11-12T13:26:25.000Z",
+      "summary": "The startups work across the deep tech sector, including healthcare, fintech, energy, semiconductors, and AI. All nine are looking to enter the US."
+    },
+    {
+      "title": "رسوایی مدیرعامل انویدیا بازار تراشه‌های هوش مصنوعی در چین را آشفته کرد",
+      "url": "https://digiato.com/computers-hardware/chinese-ai-firms-rush-nvidia-chip-capacity-spy-scandal",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-11-12T13:01:02.000Z",
+      "summary": "نگرانی از بسته شدن خلأ قانونی دسترسی ابری به تراشه‌های انویدیا، شرکت‌های چینی را به تکاپو برای رزرو سرور در جنوب شرق آسیا انداخته است. The post رسوایی مدیرعامل انویدیا بازار تراشه‌های هوش مصنوعی در چین را آشفته کرد appea"
+    },
+    {
+      "title": "اپل در حال آزمایش برنامه‌ای است که مک‌های خانگی را به سرور هوش مصنوعی تبدیل می‌کند",
+      "url": "https://www.zoomit.ir/ai-articles/470940-apple-tests-harbor-ai-app/",
       "source": "زومیت",
       "lang": "fa",
-      "published": "2026-11-12T04:15:00.000Z",
-      "summary": "اپل و سامسونگ برای تداوم حضور در بازار چین، خدمات هوش مصنوعی خود را به غول‌های فناوری آن کشور متکی کرده‌اند."
+      "published": "2026-11-12T13:00:00.000Z",
+      "summary": "کلاریس، زیرمجموعه‌ی اپل، برنامه‌ای به نام Harbor را برای تبدیل مک‌ها به سرور هوش مصنوعی آزمایش می‌کند."
+    },
+    {
+      "title": "تحقیق سئو با هوش مصنوعی؛ از بررسی محتوای رقبا تا ساخت بریف محتوایی",
+      "url": "https://www.zoomit.ir/ai-tutorials/470676-seo-content-brief-ai/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-11-12T12:59:56.000Z",
+      "summary": "با کمک هوش مصنوعی می‌توانید ساختار محتوای صفحات رقیب را بررسی کنید، موضوعات مشترک را پیدا کنید و با هوش مصنوعی بریف محتوایی بسازید."
+    },
+    {
+      "title": "مدیرعامل آنتروپیک: هوش مصنوعی تا ۱۰ سال آینده سرطان و آلزایمر را ریشه‌کن می‌کند",
+      "url": "https://digiato.com/health/anthropic-ceo-dario-amodei-ai-cure-cancer-alzheimers-backlash",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-11-12T10:15:14.000Z",
+      "summary": "ادعای «داریو آمودی» که پیش از عرضه اولیه سهام آنتروپیک مطرح شده، با واکنش تند جامعه پزشکی همراه بوده است. The post مدیرعامل آنتروپیک: هوش مصنوعی تا ۱۰ سال آینده سرطان و آلزایمر را ریشه‌کن می‌کند appeared first on دیجیاتو"
+    },
+    {
+      "title": "Holiday Extras is rethinking what it can build with Codex",
+      "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
+      "source": "OpenAI",
+      "lang": "en",
+      "published": "2026-11-12T09:30:00.000Z",
+      "summary": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth."
+    },
+    {
+      "title": "بحران انویدیا بزرگ‌تر از یک رسوایی شخصی است؛ نگرانی از آینده رونق جهانی هوش مصنوعی",
+      "url": "https://www.zoomit.ir/business/470936-nvidia-jensen-huang-china-investigation/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-11-12T09:15:00.000Z",
+      "summary": "اعتراف مدیرعامل انویدیا به رابطه‌ای خارج از ازدواج با فردی مظنون به جاسوسی برای چین، پای او را به تحقیقات کنگره و افت ارزش سهام این شرکت باز کرد."
     },
     {
       "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
@@ -18,12 +74,12 @@
       "summary": "Nvidia has no succession plan and a CEO in hot water, so we’ve drafted a shortlist."
     },
     {
-      "title": "گوگل هوش مصنوعی پیشرفته جمنای را وارد گوشی پیکسل ۱۰ کرد",
-      "url": "https://www.zoomit.ir/mobile/470927-google-pixel-drop-gemini-features/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-11-12T02:30:00.000Z",
-      "summary": "گوگل به‌روزرسانی ماه نوامبر پیکسل را همراه با قابلیت‌های هوش مصنوعی جمنای اینتلیجنس برای گوشی‌های سازگار منتشر کرد."
+      "title": "Supporting research on AI and children’s safety",
+      "url": "https://openai.com/index/children-first-declaration",
+      "source": "OpenAI",
+      "lang": "en",
+      "published": "2026-11-12T00:00:00.000Z",
+      "summary": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people."
     },
     {
       "title": "Gilbert + Tobin rethinks the business of law with AI",
@@ -40,62 +96,6 @@
       "lang": "en",
       "published": "2026-11-11T23:50:00.000Z",
       "summary": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure."
-    },
-    {
-      "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
-      "url": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-11-11T23:28:45.000Z",
-      "summary": "As soon as Wednesday evening, Nvidia's board could decide to remove its founder and CEO of 33 years."
-    },
-    {
-      "title": "در تصمیم‌گیری مشکل دارید؟ ۲۵۰ میلی‌ثانیه از زمان‌تان را به هوش مصنوعی جدید گوگل بدهید!",
-      "url": "https://www.zoomit.ir/ai-articles/470976-google-gemini-decision-1-decisions-api-launch/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-11-11T19:17:25.000Z",
-      "summary": "گوگل مدل Gemini Decision 1 را معرفی کرد؛ هوش مصنوعی تازه‌ای که می‌تواند تا هزار سؤال درباره‌ی متن، تصویر و ویدیو را به سرعت ارزیابی کند."
-    },
-    {
-      "title": "ChatGPT Plus for veterans and servicemembers",
-      "url": "https://openai.com/index/chatgpt-plus-for-veterans",
-      "source": "OpenAI",
-      "lang": "en",
-      "published": "2026-11-11T08:00:00.000Z",
-      "summary": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers."
-    },
-    {
-      "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
-      "url": "https://openai.com/index/jiostar-vijay-seshadri",
-      "source": "OpenAI",
-      "lang": "en",
-      "published": "2026-11-11T00:00:00.000Z",
-      "summary": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production."
-    },
-    {
-      "title": "The backlash about data centers might really just be about electricity",
-      "url": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
-      "source": "MIT Technology Review",
-      "lang": "en",
-      "published": "2026-11-09T19:35:33.000Z",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. As voters went to the polls across the US last week, I was in Ashburn, Virginia, p"
-    },
-    {
-      "title": "Nancy Pelosi’s replacement is ready to regulate AI",
-      "url": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
-      "source": "MIT Technology Review",
-      "lang": "en",
-      "published": "2026-11-09T17:05:43.000Z",
-      "summary": "As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a tight congressional race for former Speaker of the House Nancy Pelosi’s open San Francisco "
-    },
-    {
-      "title": "Innovating with AI in the special chemicals industry",
-      "url": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
-      "source": "MIT Technology Review",
-      "lang": "en",
-      "published": "2026-11-09T13:00:00.000Z",
-      "summary": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific expertise, and the practi"
     }
   ]
 }
