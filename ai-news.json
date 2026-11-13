@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-12T22:56:58.296Z",
+  "updated_at": "2026-11-13T03:57:29.378Z",
   "items": [
+    {
+      "title": "وقتی مانیتور اتفاقات بازی را می‌فهمد؛ محصول جدید MSI با تراشه هوش مصنوعی معرفی شد",
+      "url": "https://www.zoomit.ir/monitor/470995-msi-meg-x-qd-oled-launched/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-11-13T02:30:00.000Z",
+      "summary": "ام‌اس‌آی مانیتور گیمینگ ۳۴ اینچی MEG X را با پنل QD-OLED نسل پنجم سامسونگ، نرخ نوسازی ۳۶۰ هرتز و پردازشگر اختصاصی هوش مصنوعی معرفی کرد."
+    },
+    {
+      "title": "هوش مصنوعی می‌تواند پروازها را پیدا کند، اما اجازه خرید بلیت ندارد؛ تصمیم تازه یونایتد ایرلاینز",
+      "url": "https://www.zoomit.ir/business/470994-united-blocks-ai-flight-booking/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-11-12T23:15:00.000Z",
+      "summary": "یونایتد ایرلاینز فرآیند رزرو و پرداخت نهایی بلیت توسط عامل‌های هوش مصنوعی شخصی مسافران را به دلایل امنیتی مسدود کرد."
+    },
     {
       "title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
       "url": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
@@ -10,12 +26,12 @@
       "summary": "This Congressional investigation into Nvidia's China sales and its dealings with Trump is the second one, so far, since news of the alleged spy affair broke."
     },
     {
-      "title": "Muse can now place calls to U.S. businesses — if you pay",
+      "title": "Muse can now place calls to US businesses — if you pay",
       "url": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
       "source": "TechCrunch AI",
       "lang": "en",
       "published": "2026-11-12T22:22:28.000Z",
-      "summary": "Muse's AI can now place outbound calls to US businesses — but it's not free."
+      "summary": "Muse's AI can now place outbound calls to U.S. businesses — but it's not free."
     },
     {
       "title": "The unfolding Jensen Huang scandal: a timeline",
@@ -35,7 +51,7 @@
     },
     {
       "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
-      "url": "https://openai.com/index/amplitude",
+      "url": "https://openai.com/business/customer-stories/amplitude",
       "source": "OpenAI",
       "lang": "en",
       "published": "2026-11-12T20:00:00.000Z",
@@ -80,22 +96,6 @@
       "lang": "fa",
       "published": "2026-11-12T13:01:02.000Z",
       "summary": "نگرانی از بسته شدن خلأ قانونی دسترسی ابری به تراشه‌های انویدیا، شرکت‌های چینی را به تکاپو برای رزرو سرور در جنوب شرق آسیا انداخته است. The post رسوایی مدیرعامل انویدیا بازار تراشه‌های هوش مصنوعی در چین را آشفته کرد appea"
-    },
-    {
-      "title": "اپل در حال آزمایش برنامه‌ای است که مک‌های خانگی را به سرور هوش مصنوعی تبدیل می‌کند",
-      "url": "https://www.zoomit.ir/ai-articles/470940-apple-tests-harbor-ai-app/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-11-12T13:00:00.000Z",
-      "summary": "کلاریس، زیرمجموعه‌ی اپل، برنامه‌ای به نام Harbor را برای تبدیل مک‌ها به سرور هوش مصنوعی آزمایش می‌کند."
-    },
-    {
-      "title": "تحقیق سئو با هوش مصنوعی؛ از بررسی محتوای رقبا تا ساخت بریف محتوایی",
-      "url": "https://www.zoomit.ir/ai-tutorials/470676-seo-content-brief-ai/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-11-12T12:59:56.000Z",
-      "summary": "با کمک هوش مصنوعی می‌توانید ساختار محتوای صفحات رقیب را بررسی کنید، موضوعات مشترک را پیدا کنید و با هوش مصنوعی بریف محتوایی بسازید."
     }
   ]
 }
