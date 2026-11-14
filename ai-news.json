@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T22:58:58.315Z",
+  "updated_at": "2026-11-14T03:56:00.723Z",
   "items": [
     {
       "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
@@ -74,6 +74,14 @@
       "summary": "استعفای جنسن هوانگ نگرانی‌هایی درباره آینده سرمایه‌گذاری‌ها و سیاست‌های انویدیا در حوزه هوش مصنوعی و نرم‌افزارهای متن‌باز ایجاد کرده است. The post خروج جنسن هوانگ از انویدیا زنگ خطری برای آینده هوش مصنوعی متن‌باز خواهد ب"
     },
     {
+      "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+      "url": "https://openai.com/business/customer-stories/shield",
+      "source": "OpenAI",
+      "lang": "en",
+      "published": "2026-11-13T08:00:00.000Z",
+      "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment."
+    },
+    {
       "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
       "url": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
       "source": "MIT Technology Review",
@@ -88,14 +96,6 @@
       "lang": "en",
       "published": "2026-11-12T20:00:00.000Z",
       "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact."
-    },
-    {
-      "title": "Introducing Gemini 4 Hydrogen",
-      "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
-      "source": "Google DeepMind",
-      "lang": "en",
-      "published": "2026-11-12T18:00:50.000Z",
-      "summary": ""
     }
   ]
 }
