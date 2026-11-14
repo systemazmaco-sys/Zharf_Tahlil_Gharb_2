@@ -1,6 +1,38 @@
 {
-  "updated_at": "2026-11-14T03:56:00.723Z",
+  "updated_at": "2026-11-14T12:40:12.405Z",
   "items": [
+    {
+      "title": "اولین نشست هوش مصنوعی رهبران اتحادیه اروپا با هدف رقابت با آمریکا و چین برگزار شد",
+      "url": "https://digiato.com/artificial-intelligence/eu-leaders-first-ai-summit-dublin",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-11-14T11:52:00.000Z",
+      "summary": "این نشست در شرایطی برگزار می‌شود که اروپا برای افزایش سهم بازار تراشه و ساخت ابرکارخانه‌های هوش مصنوعی با موانع بودجه‌ای روبه‌روست. The post اولین نشست هوش مصنوعی رهبران اتحادیه اروپا با هدف رقابت با آمریکا و چین برگزار "
+    },
+    {
+      "title": "آینده امپراتوری انویدیا بدون جنسن هوانگ؛ چه بر سر هوش مصنوعی می‌آید؟",
+      "url": "https://www.zoomit.ir/ai-articles/471027-jensen-huang-resigns-ai-industry-featured/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-11-14T10:00:00.000Z",
+      "summary": "جنسن هوانگ پس از ۳۳سال از رهبری شرکتش کناره‌گیری کرد و حالا بزرگ‌ترین چالش انویدیا سرنوشت پولی است که صنعت هوش مصنوعی را زنده نگه می‌دارد."
+    },
+    {
+      "title": "در صورت بن شدن اکانت Claude چیکار کنیم؟",
+      "url": "https://www.zoomit.ir/pr/471110-claude-account-banned-gateway-solution/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-11-14T08:28:46.000Z",
+      "summary": "آنتروپیک دسترسی کاربران ایرانی به کلود را محدود می‌کند، اما با تنظیم گیت‌وی واسط می‌توان بدون نیاز به اکانت مستقیم به کار با برنامه ادامه داد."
+    },
+    {
+      "title": "برای خودتان کارمند هوش مصنوعی بسازید؛ آشنایی با ابزار OpenBot",
+      "url": "https://www.zoomit.ir/ai-articles/471054-openbot-personal-ai-agent-builder/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-11-14T06:40:00.000Z",
+      "summary": "پروژه متن‌باز اوپن‌بات به کاربران امکان می‌دهد بدون نیاز به کدنویسی، عامل‌های هوش مصنوعی مستقل را روی سیستم شخصی خود بسازند و اجرا کنند."
+    },
     {
       "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
       "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
@@ -8,14 +40,6 @@
       "lang": "en",
       "published": "2026-11-13T22:43:00.000Z",
       "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations."
-    },
-    {
-      "title": "انویدیا به بانک مرکزی هوش مصنوعی تبدیل شده است؛ خطری که اقتصاد جهان را تهدید می‌کند",
-      "url": "https://www.zoomit.ir/economics/471007-nvidia-financial-network-ai-risks/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-11-13T20:00:00.000Z",
-      "summary": "حواشی اخیر پیرامون مدیرعامل انویدیا نگرانی‌ها درباره‌ی سرایت بحران این غول فناوری به شبکه‌ی مالی هوش مصنوعی را افزایش داد."
     },
     {
       "title": "AI agent startup LangChain hits $3B valuation",
@@ -26,14 +50,6 @@
       "summary": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith."
     },
     {
-      "title": "اگر هوش مصنوعی نیمی از مشاغل را حذف کند، جهان وارد بحران می‌شود؛ هشدار مدیرعامل ANZ",
-      "url": "https://www.zoomit.ir/ai-articles/471006-anz-ceo-ai-crisis-warning/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-11-13T19:00:00.000Z",
-      "summary": "مدیرعامل گروه بانکی ANZ هشدار داد که گسترش کنترل‌نشده هوش مصنوعی می‌تواند به تعدیل گسترده نیروها و بحرانی بین‌المللی منجر شود."
-    },
-    {
       "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
       "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
       "source": "TechCrunch AI",
@@ -42,36 +58,12 @@
       "summary": "New research shows the most advanced AI models from China were trained on banned Nvidia chips."
     },
     {
-      "title": "هوش مصنوعی، عصر شرکت‌های بدون کارمند را شروع کرد!",
-      "url": "https://www.zoomit.ir/business/471005-ai-agents-single-person-startups/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-11-13T17:40:00.000Z",
-      "summary": "کارگزاران پیشرفته هوش مصنوعی مدل سنتی استارتاپ‌ها را دگرگون کرده و امکان راه‌اندازی کسب‌وکارهای پیچیده را بدون جذب سرمایه یا استخدام کارمند فراهم ساخته‌اند."
-    },
-    {
       "title": "Introducing ChatGPT Wallet",
       "url": "https://openai.com/index/introducing-chatgpt-wallet",
       "source": "OpenAI",
       "lang": "en",
       "published": "2026-11-13T15:00:00.000Z",
       "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections."
-    },
-    {
-      "title": "برکناری جنسن هوانگ از انویدیا چگونه می‌تواند به صنعت هوش مصنوعی آسیب بزند؟",
-      "url": "https://digiato.com/artificial-intelligence/how-jensen-huangs-resignation-can-impact-ai-industry",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-11-13T13:51:45.000Z",
-      "summary": "هوانگ یکی از مهم‌ترین حامیان مدل‌های هوش مصنوعی با وزن‌های باز، خودتنظیمی امنیتی و توسعه کامپیوترهای شخصی بود. The post برکناری جنسن هوانگ از انویدیا چگونه می‌تواند به صنعت هوش مصنوعی آسیب بزند؟ appeared first on دیجیاتو"
-    },
-    {
-      "title": "خروج جنسن هوانگ از انویدیا زنگ خطری برای آینده هوش مصنوعی متن‌باز خواهد بود",
-      "url": "https://digiato.com/app/jensen-huang-resignation-raises-concerns-over-nvidia-open-source-future",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-11-13T13:32:36.000Z",
-      "summary": "استعفای جنسن هوانگ نگرانی‌هایی درباره آینده سرمایه‌گذاری‌ها و سیاست‌های انویدیا در حوزه هوش مصنوعی و نرم‌افزارهای متن‌باز ایجاد کرده است. The post خروج جنسن هوانگ از انویدیا زنگ خطری برای آینده هوش مصنوعی متن‌باز خواهد ب"
     },
     {
       "title": "Shield helps technicians hand off legacy portal work with OpenAI",
@@ -96,6 +88,14 @@
       "lang": "en",
       "published": "2026-11-12T20:00:00.000Z",
       "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact."
+    },
+    {
+      "title": "Introducing Gemini 4 Hydrogen",
+      "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+      "source": "Google DeepMind",
+      "lang": "en",
+      "published": "2026-11-12T18:00:50.000Z",
+      "summary": ""
     }
   ]
 }
