@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-15T03:39:53.208Z",
+  "updated_at": "2026-11-15T13:06:17.068Z",
   "items": [
+    {
+      "title": "مشاوره پزشکی با هوش مصنوعی؛ کجا قابل اعتماد است؟",
+      "url": "https://www.zoomit.ir/pr/471179-ai-chatbots-medical-advice-risks/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-11-15T10:30:00.000Z",
+      "summary": "چت‌بات‌ها برای درک اصطلاحات و آمادگی ویزیت مفیدند، اما به دلیل خطر توهم و ناتوانی در معاینه، نباید برای تشخیص و درمان به کار روند."
+    },
     {
       "title": "هشدار چهره سرشناس بیت‌کوین درباره حملات هوش مصنوعی؛ بازگشت به امنیت آفلاین",
       "url": "https://www.zoomit.ir/cryptocurrency/471093-blockstream-thales-bitcoin-custody-solution/",
@@ -26,14 +34,6 @@
       "summary": "The petition had attracted more than 115,000 signatures as of Saturday afternoon."
     },
     {
-      "title": "چرا هوش مصنوعی هنوز نمی‌تواند یک فنجان چای دستمان بدهد؟",
-      "url": "https://digiato.com/artificial-intelligence/why-ai-still-can-not-do-anything-in-real-world",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-11-14T18:30:00.000Z",
-      "summary": "با وجود پیشرفت‌های بزرگ هوش مصنوعی در دنیای دیجیتال، این فناوری هنوز نتوانسته است در جهان واقعی کار زیادی از پیش ببرد. The post چرا هوش مصنوعی هنوز نمی‌تواند یک فنجان چای دستمان بدهد؟ appeared first on دیجیاتو."
-    },
-    {
       "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
       "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
       "source": "TechCrunch AI",
@@ -48,14 +48,6 @@
       "lang": "fa",
       "published": "2026-11-14T10:00:00.000Z",
       "summary": "جنسن هوانگ پس از ۳۳سال از رهبری شرکتش کناره‌گیری کرد و حالا بزرگ‌ترین چالش انویدیا سرنوشت پولی است که صنعت هوش مصنوعی را زنده نگه می‌دارد."
-    },
-    {
-      "title": "در صورت بن شدن اکانت Claude چیکار کنیم؟",
-      "url": "https://www.zoomit.ir/pr/471110-claude-account-banned-gateway-solution/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-11-14T08:28:46.000Z",
-      "summary": "آنتروپیک دسترسی کاربران ایرانی به کلود را محدود می‌کند، اما با تنظیم گیت‌وی واسط می‌توان بدون نیاز به اکانت مستقیم به کار با برنامه ادامه داد."
     },
     {
       "title": "Introducing ChatGPT Wallet",
@@ -96,6 +88,14 @@
       "lang": "en",
       "published": "2026-11-12T18:00:50.000Z",
       "summary": ""
+    },
+    {
+      "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+      "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
+      "source": "Google DeepMind",
+      "lang": "en",
+      "published": "2026-11-11T15:00:15.000Z",
+      "summary": "Predicting how DNA sequences and their variations impact specific human cell types and disease."
     }
   ]
 }
