@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-14T21:46:50.584Z",
+  "updated_at": "2026-11-15T03:39:53.208Z",
   "items": [
+    {
+      "title": "هشدار چهره سرشناس بیت‌کوین درباره حملات هوش مصنوعی؛ بازگشت به امنیت آفلاین",
+      "url": "https://www.zoomit.ir/cryptocurrency/471093-blockstream-thales-bitcoin-custody-solution/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-11-15T02:30:00.000Z",
+      "summary": "بلاک‌استریم با همکاری گروه تالس سامانه‌ی جدیدی برای نگهداری امن دارایی‌های دیجیتال نهادی مبتنی بر ماژول‌های سخت‌افزاری آفلاین معرفی کرد."
+    },
+    {
+      "title": "Where was Nvidia’s security team?",
+      "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-11-15T00:08:07.000Z",
+      "summary": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intellig"
+    },
     {
       "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
       "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
@@ -26,14 +42,6 @@
       "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations."
     },
     {
-      "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
-      "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-11-14T16:34:15.000Z",
-      "summary": "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations."
-    },
-    {
       "title": "آینده امپراتوری انویدیا بدون جنسن هوانگ؛ چه بر سر هوش مصنوعی می‌آید؟",
       "url": "https://www.zoomit.ir/ai-articles/471027-jensen-huang-resigns-ai-industry-featured/",
       "source": "زومیت",
@@ -48,14 +56,6 @@
       "lang": "fa",
       "published": "2026-11-14T08:28:46.000Z",
       "summary": "آنتروپیک دسترسی کاربران ایرانی به کلود را محدود می‌کند، اما با تنظیم گیت‌وی واسط می‌توان بدون نیاز به اکانت مستقیم به کار با برنامه ادامه داد."
-    },
-    {
-      "title": "برای خودتان کارمند هوش مصنوعی بسازید؛ آشنایی با ابزار OpenBot",
-      "url": "https://www.zoomit.ir/ai-articles/471054-openbot-personal-ai-agent-builder/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-11-14T06:40:00.000Z",
-      "summary": "پروژه متن‌باز اوپن‌بات به کاربران امکان می‌دهد بدون نیاز به کدنویسی، عامل‌های هوش مصنوعی مستقل را روی سیستم شخصی خود بسازند و اجرا کنند."
     },
     {
       "title": "Introducing ChatGPT Wallet",
@@ -90,12 +90,12 @@
       "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact."
     },
     {
-      "title": "The backlash about data centers might really just be about electricity",
-      "url": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
-      "source": "MIT Technology Review",
+      "title": "Introducing Gemini 4 Hydrogen",
+      "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+      "source": "Google DeepMind",
       "lang": "en",
-      "published": "2026-11-09T19:35:33.000Z",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. As voters went to the polls across the US last week, I was in Ashburn, Virginia, p"
+      "published": "2026-11-12T18:00:50.000Z",
+      "summary": ""
     }
   ]
 }
