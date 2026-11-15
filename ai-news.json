@@ -1,21 +1,53 @@
 {
-  "updated_at": "2026-11-15T13:06:17.068Z",
+  "updated_at": "2026-11-15T22:15:04.668Z",
   "items": [
     {
-      "title": "مشاوره پزشکی با هوش مصنوعی؛ کجا قابل اعتماد است؟",
-      "url": "https://www.zoomit.ir/pr/471179-ai-chatbots-medical-advice-risks/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-11-15T10:30:00.000Z",
-      "summary": "چت‌بات‌ها برای درک اصطلاحات و آمادگی ویزیت مفیدند، اما به دلیل خطر توهم و ناتوانی در معاینه، نباید برای تشخیص و درمان به کار روند."
+      "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
+      "url": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-11-15T21:56:35.000Z",
+      "summary": "\"Jensen is Nvidia, right? And so much of this economy is riding on Nvidia.\""
     },
     {
-      "title": "هشدار چهره سرشناس بیت‌کوین درباره حملات هوش مصنوعی؛ بازگشت به امنیت آفلاین",
-      "url": "https://www.zoomit.ir/cryptocurrency/471093-blockstream-thales-bitcoin-custody-solution/",
+      "title": "مدیرعامل پالانتیر: هوش مصنوعی می‌تواند تمام دارایی‌های شما را شناسایی و ارزش‌گذاری کند",
+      "url": "https://www.zoomit.ir/ai-articles/471112-palantir-ceo-wealth-tax-surveillance/",
       "source": "زومیت",
       "lang": "fa",
-      "published": "2026-11-15T02:30:00.000Z",
-      "summary": "بلاک‌استریم با همکاری گروه تالس سامانه‌ی جدیدی برای نگهداری امن دارایی‌های دیجیتال نهادی مبتنی بر ماژول‌های سخت‌افزاری آفلاین معرفی کرد."
+      "published": "2026-11-15T21:40:00.000Z",
+      "summary": "مدیرعامل پالانتیر مدعی شد وضع مالیات بر ثروت به نظارت همه‌جانبه‌ی هوش مصنوعی بر زندگی خصوصی تمام شهروندان منجر خواهد شد."
+    },
+    {
+      "title": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
+      "url": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-11-15T20:20:57.000Z",
+      "summary": "While awkward, creepy tech executives have become a recurring theme on Saturday Night Live, this week’s episode gave the cast a chance to show off all their impressions at once."
+    },
+    {
+      "title": "هشدار بانک مرکزی آمریکا درباره هوش مصنوعی؛ ۳ تریلیون دلار تعهد مالی زیر ذره‌بین",
+      "url": "https://www.zoomit.ir/economics/471111-fed-flags-ai-financial-risk/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-11-15T20:00:00.000Z",
+      "summary": "گزارش جدید فدرال رزرو نشان می‌دهد خطرات ناشی از هوش مصنوعی و سرمایه‌گذاری‌های سنگین، به بزرگ‌ترین نگرانی ثبات مالی تبدیل شده است."
+    },
+    {
+      "title": "گورستان بزرگ هوش مصنوعی: از گجتی که می‌خواست قاتل آیفون باشد تا عقب‌نشینی OpenAI و اپل",
+      "url": "https://www.zoomit.ir/ai-articles/471201-ai-graveyard-projects-startups-featured/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-11-15T16:30:00.000Z",
+      "summary": "بیش از چهل درصد پروژه‌های هوش مصنوعی به‌دلیل هزینه‌های سنگین، چالش‌های فنی و نبود تقاضای کافی توسط سازندگان متوقف می‌شوند."
+    },
+    {
+      "title": "سرقت ۱۰۰ میلیون یورویی از بانک بزرگ فرانسوی؛ پای هوش مصنوعی در میان است؟",
+      "url": "https://digiato.com/security/french-bank-cyberattack-ai-100-million-euros",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-11-15T14:13:00.000Z",
+      "summary": "رئیس بانک احتمال نقش هوش مصنوعی در این حمله را مطرح کرده است. The post سرقت ۱۰۰ میلیون یورویی از بانک بزرگ فرانسوی؛ پای هوش مصنوعی در میان است؟ appeared first on دیجیاتو."
     },
     {
       "title": "Where was Nvidia’s security team?",
@@ -24,30 +56,6 @@
       "lang": "en",
       "published": "2026-11-15T00:08:07.000Z",
       "summary": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intellig"
-    },
-    {
-      "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
-      "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-11-14T21:41:22.000Z",
-      "summary": "The petition had attracted more than 115,000 signatures as of Saturday afternoon."
-    },
-    {
-      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-      "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-11-14T17:30:00.000Z",
-      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations."
-    },
-    {
-      "title": "آینده امپراتوری انویدیا بدون جنسن هوانگ؛ چه بر سر هوش مصنوعی می‌آید؟",
-      "url": "https://www.zoomit.ir/ai-articles/471027-jensen-huang-resigns-ai-industry-featured/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-11-14T10:00:00.000Z",
-      "summary": "جنسن هوانگ پس از ۳۳سال از رهبری شرکتش کناره‌گیری کرد و حالا بزرگ‌ترین چالش انویدیا سرنوشت پولی است که صنعت هوش مصنوعی را زنده نگه می‌دارد."
     },
     {
       "title": "Introducing ChatGPT Wallet",
@@ -82,20 +90,12 @@
       "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact."
     },
     {
-      "title": "Introducing Gemini 4 Hydrogen",
-      "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
-      "source": "Google DeepMind",
+      "title": "The backlash about data centers might really just be about electricity",
+      "url": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
+      "source": "MIT Technology Review",
       "lang": "en",
-      "published": "2026-11-12T18:00:50.000Z",
-      "summary": ""
-    },
-    {
-      "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
-      "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
-      "source": "Google DeepMind",
-      "lang": "en",
-      "published": "2026-11-11T15:00:15.000Z",
-      "summary": "Predicting how DNA sequences and their variations impact specific human cell types and disease."
+      "published": "2026-11-09T19:35:33.000Z",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. As voters went to the polls across the US last week, I was in Ashburn, Virginia, p"
     }
   ]
 }
