@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-11-16T03:39:01.368Z",
+  "updated_at": "2026-11-16T14:13:19.425Z",
   "items": [
+    {
+      "title": "Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM",
+      "url": "https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-11-16T12:30:00.000Z",
+      "summary": "Dreamteam has signed up more than 100 customers across 13 countries, with some businesses switching from established CRMs."
+    },
+    {
+      "title": "از ChatGPT Wallet تا بانک‌های ایران؛ آیا زیرساخت پرداخت با هوش مصنوعی فراهم است؟",
+      "url": "https://digiato.com/iran-technology-news/is-payment-infrastructure-artificial-intelligence-in-place",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-11-16T11:40:00.000Z",
+      "summary": "چالش‌های خرید و پرداخت از طریق ایجنت هوش مصنوعی را در گفتگو با مدیرکل بانکداری خرد بانک ملی بررسی کردیم. The post از ChatGPT Wallet تا بانک‌های ایران؛ آیا زیرساخت پرداخت با هوش مصنوعی فراهم است؟ appeared first on دیجیاتو"
+    },
+    {
+      "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
+      "url": "https://openai.com/index/lvmh-media-division-partnership",
+      "source": "OpenAI",
+      "lang": "en",
+      "published": "2026-11-16T09:00:00.000Z",
+      "summary": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT."
+    },
+    {
+      "title": "دیجی‌کالا از «دیا» رونمایی کرد؛ دستیار هوش مصنوعی خرید با شبکه‌ای از ایجنت‌ها",
+      "url": "https://www.zoomit.ir/report/471252-digikala-unveils-dia-ai-shopping-assistant/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-11-16T08:33:01.000Z",
+      "summary": "دیجی‌کالا با معرفی «دیا»، دستیار هوش مصنوعی خرید، به‌دنبال ورود به نسل جدید تجارت الکترونیک است."
+    },
+    {
+      "title": "رایتل با راهکارهای 5G و هوش مصنوعی به \"ایران متافو\" ۱۴۰۵ می‌آید",
+      "url": "https://www.zoomit.ir/iran-news/471239-rightel-5g-ai-iran-metafo/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-11-16T06:45:44.000Z",
+      "summary": "رایتل در بیست‌وسومین نمایشگاه ایران متافو، تازه‌ترین زیرساخت‌ها و راهکارهای ارتباطی و هوشمند خود را برای توسعه تحول دیجیتال در صنایع معرفی می‌کند."
+    },
+    {
+      "title": "از ساخت بازی تا تلاش برای کشف دارو؛ هوش مصنوعی قدرتمند Qwen4-Max معرفی شد",
+      "url": "https://www.zoomit.ir/ai-articles/471227-alibaba-unveils-qwen4-max-ai-model/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-11-16T05:40:37.000Z",
+      "summary": "علی‌بابا با معرفی مدل ۲٫۴ تریلیون پارامتری Qwen4-Max، هوش مصنوعی را برای اجرای خودکار پروژه‌های بازی‌سازی، مهندسی و پزشکی ارتقا داد."
+    },
     {
       "title": "Apple launches new app to study how people use AI for health",
       "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
@@ -8,6 +56,14 @@
       "lang": "en",
       "published": "2026-11-16T01:30:00.000Z",
       "summary": "Apple's new app for a study will answer everyday medical questions"
+    },
+    {
+      "title": "The King’s Trust and OpenAI launch £1m partnership",
+      "url": "https://openai.com/index/the-kings-trust-and-openai",
+      "source": "OpenAI",
+      "lang": "en",
+      "published": "2026-11-16T00:00:00.000Z",
+      "summary": "The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work."
     },
     {
       "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
@@ -24,62 +80,6 @@
       "lang": "en",
       "published": "2026-11-15T22:00:01.000Z",
       "summary": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof."
-    },
-    {
-      "title": "Our new blog for science",
-      "url": "https://openai.com/index/our-new-blog-for-science",
-      "source": "OpenAI",
-      "lang": "en",
-      "published": "2026-11-15T22:00:00.000Z",
-      "summary": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery."
-    },
-    {
-      "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
-      "url": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-11-15T21:56:35.000Z",
-      "summary": "\"Jensen is Nvidia, right? And so much of this economy is riding on Nvidia.\""
-    },
-    {
-      "title": "مدیرعامل پالانتیر: هوش مصنوعی می‌تواند تمام دارایی‌های شما را شناسایی و ارزش‌گذاری کند",
-      "url": "https://www.zoomit.ir/ai-articles/471112-palantir-ceo-wealth-tax-surveillance/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-11-15T21:40:00.000Z",
-      "summary": "مدیرعامل پالانتیر مدعی شد وضع مالیات بر ثروت به نظارت همه‌جانبه‌ی هوش مصنوعی بر زندگی خصوصی تمام شهروندان منجر خواهد شد."
-    },
-    {
-      "title": "هشدار بانک مرکزی آمریکا درباره هوش مصنوعی؛ ۳ تریلیون دلار تعهد مالی زیر ذره‌بین",
-      "url": "https://www.zoomit.ir/economics/471111-fed-flags-ai-financial-risk/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-11-15T20:00:00.000Z",
-      "summary": "گزارش جدید فدرال رزرو نشان می‌دهد خطرات ناشی از هوش مصنوعی و سرمایه‌گذاری‌های سنگین، به بزرگ‌ترین نگرانی ثبات مالی تبدیل شده است."
-    },
-    {
-      "title": "گورستان بزرگ هوش مصنوعی: از گجتی که می‌خواست قاتل آیفون باشد تا عقب‌نشینی OpenAI و اپل",
-      "url": "https://www.zoomit.ir/ai-articles/471201-ai-graveyard-projects-startups-featured/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-11-15T16:30:00.000Z",
-      "summary": "بیش از چهل درصد پروژه‌های هوش مصنوعی به‌دلیل هزینه‌های سنگین، چالش‌های فنی و نبود تقاضای کافی توسط سازندگان متوقف می‌شوند."
-    },
-    {
-      "title": "سرقت ۱۰۰ میلیون یورویی از بانک بزرگ فرانسوی؛ پای هوش مصنوعی در میان است؟",
-      "url": "https://digiato.com/security/french-bank-cyberattack-ai-100-million-euros",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-11-15T14:13:00.000Z",
-      "summary": "رئیس بانک احتمال نقش هوش مصنوعی در این حمله را مطرح کرده است. The post سرقت ۱۰۰ میلیون یورویی از بانک بزرگ فرانسوی؛ پای هوش مصنوعی در میان است؟ appeared first on دیجیاتو."
-    },
-    {
-      "title": "Introducing ChatGPT Wallet",
-      "url": "https://openai.com/index/introducing-chatgpt-wallet",
-      "source": "OpenAI",
-      "lang": "en",
-      "published": "2026-11-13T15:00:00.000Z",
-      "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections."
     },
     {
       "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
