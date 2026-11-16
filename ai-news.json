@@ -1,6 +1,38 @@
 {
-  "updated_at": "2026-11-15T22:15:04.668Z",
+  "updated_at": "2026-11-16T03:39:01.368Z",
   "items": [
+    {
+      "title": "Apple launches new app to study how people use AI for health",
+      "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-11-16T01:30:00.000Z",
+      "summary": "Apple's new app for a study will answer everyday medical questions"
+    },
+    {
+      "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+      "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-11-15T23:30:00.000Z",
+      "summary": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics."
+    },
+    {
+      "title": "A step toward defining the Standard Model on a lattice",
+      "url": "https://openai.com/index/step-toward-defining-the-standard-model",
+      "source": "OpenAI",
+      "lang": "en",
+      "published": "2026-11-15T22:00:01.000Z",
+      "summary": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof."
+    },
+    {
+      "title": "Our new blog for science",
+      "url": "https://openai.com/index/our-new-blog-for-science",
+      "source": "OpenAI",
+      "lang": "en",
+      "published": "2026-11-15T22:00:00.000Z",
+      "summary": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery."
+    },
     {
       "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
       "url": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
@@ -16,14 +48,6 @@
       "lang": "fa",
       "published": "2026-11-15T21:40:00.000Z",
       "summary": "مدیرعامل پالانتیر مدعی شد وضع مالیات بر ثروت به نظارت همه‌جانبه‌ی هوش مصنوعی بر زندگی خصوصی تمام شهروندان منجر خواهد شد."
-    },
-    {
-      "title": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
-      "url": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-11-15T20:20:57.000Z",
-      "summary": "While awkward, creepy tech executives have become a recurring theme on Saturday Night Live, this week’s episode gave the cast a chance to show off all their impressions at once."
     },
     {
       "title": "هشدار بانک مرکزی آمریکا درباره هوش مصنوعی؛ ۳ تریلیون دلار تعهد مالی زیر ذره‌بین",
@@ -50,28 +74,12 @@
       "summary": "رئیس بانک احتمال نقش هوش مصنوعی در این حمله را مطرح کرده است. The post سرقت ۱۰۰ میلیون یورویی از بانک بزرگ فرانسوی؛ پای هوش مصنوعی در میان است؟ appeared first on دیجیاتو."
     },
     {
-      "title": "Where was Nvidia’s security team?",
-      "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-11-15T00:08:07.000Z",
-      "summary": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intellig"
-    },
-    {
       "title": "Introducing ChatGPT Wallet",
       "url": "https://openai.com/index/introducing-chatgpt-wallet",
       "source": "OpenAI",
       "lang": "en",
       "published": "2026-11-13T15:00:00.000Z",
       "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections."
-    },
-    {
-      "title": "Shield helps technicians hand off legacy portal work with OpenAI",
-      "url": "https://openai.com/business/customer-stories/shield",
-      "source": "OpenAI",
-      "lang": "en",
-      "published": "2026-11-13T08:00:00.000Z",
-      "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment."
     },
     {
       "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
@@ -82,20 +90,12 @@
       "summary": "Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security Act, Foster told MIT Technology Review i"
     },
     {
-      "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
-      "url": "https://openai.com/business/customer-stories/amplitude",
-      "source": "OpenAI",
+      "title": "Introducing Gemini 4 Hydrogen",
+      "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+      "source": "Google DeepMind",
       "lang": "en",
-      "published": "2026-11-12T20:00:00.000Z",
-      "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact."
-    },
-    {
-      "title": "The backlash about data centers might really just be about electricity",
-      "url": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
-      "source": "MIT Technology Review",
-      "lang": "en",
-      "published": "2026-11-09T19:35:33.000Z",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. As voters went to the polls across the US last week, I was in Ashburn, Virginia, p"
+      "published": "2026-11-12T18:00:50.000Z",
+      "summary": ""
     }
   ]
 }
