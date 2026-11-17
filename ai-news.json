@@ -1,37 +1,93 @@
 {
-  "updated_at": "2026-11-17T01:15:15.976Z",
+  "updated_at": "2026-11-17T15:05:52.189Z",
   "items": [
     {
-      "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
-      "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
+      "title": "Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials",
+      "url": "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/",
       "source": "TechCrunch AI",
       "lang": "en",
-      "published": "2026-11-16T23:32:32.000Z",
-      "summary": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA."
+      "published": "2026-11-17T14:50:58.000Z",
+      "summary": "Isomorphic Labs, the AI drug-discovery platform that was spun out of Google’s DeepMind in 2021, has raised $5 Billion in a Series C funding round."
     },
     {
-      "title": "All the questions Nvidia should answer on Tuesday — but probably won’t",
-      "url": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/",
+      "title": "Research Reports",
+      "url": "https://www.technologyreview.com/2026/11/17/1148203/research-reports/",
+      "source": "MIT Technology Review",
+      "lang": "en",
+      "published": "2026-11-17T14:39:46.000Z",
+      "summary": "To access a report, click on the corresponding image below."
+    },
+    {
+      "title": "Science Corporation’s brain tech is worth $3.5 billion after new funding",
+      "url": "https://techcrunch.com/2026/11/17/science-corporations-brain-tech-is-worth-3-5-billion-after-new-funding/",
       "source": "TechCrunch AI",
       "lang": "en",
-      "published": "2026-11-16T22:03:02.000Z",
-      "summary": "Nvidia interim CEO and longtime CFO Colette Kress is about to have one of the biggest days of her career on Tuesday when the company reports its third-quarter results. Given the turmoil Nvidia is in, there are a number o"
+      "published": "2026-11-17T14:26:46.000Z",
+      "summary": "Science Corp raised a $400 million Series D to scale up its anti-blindness business."
     },
     {
-      "title": "هوش مصنوعی به خط قرمز روابط عاشقانه تبدیل شد؛ موج مخالفت با AI در سان‌فرانسیسکو",
-      "url": "https://www.zoomit.ir/ai-articles/471167-san-francisco-dating-ai-backlash/",
+      "title": "Nvidia’s first big move after Jensen Huang’s exit targets national security",
+      "url": "https://techcrunch.com/2026/11/17/nvidias-first-big-move-after-jensen-huangs-exit-targets-national-security/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-11-17T14:05:30.000Z",
+      "summary": "The new standing committee will give board-level oversight of national security policies, export control compliance, and global trade risks, the company said."
+    },
+    {
+      "title": "آمریکا در واکنش به جنجال انویدیا، صادرات تراشه‌های هوش مصنوعی را محدودتر می‌کند",
+      "url": "https://www.zoomit.ir/business/471220-congress-tightens-ai-chip-exports/",
       "source": "زومیت",
       "lang": "fa",
-      "published": "2026-11-16T21:40:00.000Z",
-      "summary": "پایتخت هوش مصنوعی جهان با موج جدیدی از مخالفت‌های اجتماعی روبه‌رو شده که روابط عاطفی و قوانین شهری را تحت تاثیر قرار داده است."
+      "published": "2026-11-17T14:00:00.000Z",
+      "summary": "کنگره آمریکا در پی رسوایی ارتباط مدیرعامل سابق انویدیا با مظنون به جاسوسی، به‌دنبال اعمال محدودیت‌های شدیدتر بر صادرات تراشه‌های هوش مصنوعی است."
     },
     {
-      "title": "California state AG sues OpenAI over rogue agent incidents",
-      "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
-      "source": "TechCrunch AI",
+      "title": "معرفی بوت‌کمپ‌های هوش مصنوعی استارکوچ",
+      "url": "https://digiato.com/iran-technology-news/starcoach-ai-bootcamps",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-11-17T12:51:20.000Z",
+      "summary": "استارکوچ چهار بوت‌کمپ تخصصی در حوزه هوش مصنوعی برگزار می‌کند. با جزئیات آن‌ها در این مطلب آشنا شوید The post معرفی بوت‌کمپ‌های هوش مصنوعی استارکوچ appeared first on دیجیاتو."
+    },
+    {
+      "title": "OpenAI با ابزار و سیاست‌های جدید به جنگ دیپ‌فیک‌های آزار کودکان می‌رود",
+      "url": "https://digiato.com/artificial-intelligence/openai-ai-tool-detect-csam-deepfakes",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-11-17T12:28:00.000Z",
+      "summary": "ابزار جدید OpenAI با تشخیص تصاویر جعلی هوش مصنوعی، خطاهای کاذب در شناسایی محتوای آزار کودکان را ۴۸ درصد کاهش می‌دهد. The post OpenAI با ابزار و سیاست‌های جدید به جنگ دیپ‌فیک‌های آزار کودکان می‌رود appeared first on دیجیا"
+    },
+    {
+      "title": "تقی‌پور: باید در جمع ۱۰ کشور برتر جهان در حوزه هوش مصنوعی قرار بگیریم",
+      "url": "https://www.zoomit.ir/iran-news/471337-iran-ai-data-governance-development/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-11-17T11:11:08.000Z",
+      "summary": "رضا تقی‌پور با اشاره به عقب‌ماندگی پنج‌ساله کشور در حوزه AI، بر ضرویت تسریع تشکیل سازمان ملی هوش مصنوعی و تقویت حکمرانی داده تاکید کرد."
+    },
+    {
+      "title": "توافق ۱۰ کشور برای حفاظت از اسرار هوش مصنوعی؛ آمریکا به‌دنبال محدودکردن نفوذ چین",
+      "url": "https://www.zoomit.ir/ai-articles/471245-us-allies-ai-supply-chain-pact/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-11-17T09:55:00.000Z",
+      "summary": "ایالات متحده و ۹ کشور دیگر با امضای پیمانی راهبردی، حفاظت از زیرساخت‌های حیاتی و زنجیره تامین هوش مصنوعی را در برابر چین آغاز کردند."
+    },
+    {
+      "title": "Strengthening NATO and allied cyber defenses with AI",
+      "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+      "source": "OpenAI",
       "lang": "en",
-      "published": "2026-11-16T20:07:13.000Z",
-      "summary": "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident."
+      "published": "2026-11-17T00:00:00.000Z",
+      "summary": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems."
+    },
+    {
+      "title": "Introducing OpenAI for Chile",
+      "url": "https://openai.com/index/introducing-openai-for-chile",
+      "source": "OpenAI",
+      "lang": "en",
+      "published": "2026-11-17T00:00:00.000Z",
+      "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications."
     },
     {
       "title": "The open-source movement wants Jensen Huang back",
@@ -40,62 +96,6 @@
       "lang": "en",
       "published": "2026-11-16T18:38:47.000Z",
       "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. On Friday, a petition to reinstate Jensen Huang as CEO of Nvidia began circulating"
-    },
-    {
-      "title": "هکرها با سرقت کلیدهای هوش مصنوعی، هزینه حملات بعدی خود را از جیب قربانیان می‌دهند",
-      "url": "https://www.zoomit.ir/security/471162-amazon-madpot-exposes-artex-attacks/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-11-16T17:40:00.000Z",
-      "summary": "شبکه‌ی تله‌های سایبری آمازون عملیات‌های نفوذ خودکار هکرهای مجهز به چارچوب‌های عامل‌محور هوش مصنوعی را شناسایی و رهگیری کرد."
-    },
-    {
-      "title": "Broadening access to AI for scientists",
-      "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
-      "source": "OpenAI",
-      "lang": "en",
-      "published": "2026-11-16T17:00:00.000Z",
-      "summary": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models."
-    },
-    {
-      "title": "Strengthening the fight against online child sexual abuse with new tools and support",
-      "url": "https://openai.com/index/strengthening-online-child-safety",
-      "source": "OpenAI",
-      "lang": "en",
-      "published": "2026-11-16T17:00:00.000Z",
-      "summary": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse."
-    },
-    {
-      "title": "Building trustworthy AI by fencing it in, not predicting it",
-      "url": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
-      "source": "MIT Technology Review",
-      "lang": "en",
-      "published": "2026-11-16T16:04:28.000Z",
-      "summary": "In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them. One muted its own safety alerts after misreading an instruction not to send messages; the other removed"
-    },
-    {
-      "title": "اف‌بی‌آی درباره سوءاستفاده هکرها از ابزار هوش مصنوعی ARTEX هشدار داد",
-      "url": "https://digiato.com/security/fbi-warning-artex-ai-cyberattacks",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-11-16T15:30:00.000Z",
-      "summary": "اف‌بی‌آی می‌گوید هکرها از ابزار هوش مصنوعی ARTEX برای خودکارسازی حملات سایبری علیه سازمان‌ها استفاده می‌کنند. The post اف‌بی‌آی درباره سوءاستفاده هکرها از ابزار هوش مصنوعی ARTEX هشدار داد appeared first on دیجیاتو."
-    },
-    {
-      "title": "پژوهشگران به کمک هوش مصنوعی، اعتبار نخستین عکس سیاه‌چاله را تایید کردند",
-      "url": "https://www.zoomit.ir/space/471211-m87-black-hole-image-confirmed/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-11-16T15:25:00.000Z",
-      "summary": "مطالعه‌ای جدید با استفاده از هوش مصنوعی و روش‌های مستقل، ساختار حلقه‌ای نخستین تصویر سیاه‌چاله را تأیید کرد و به اختلاف‌نظرها درباره آن پاسخ داد."
-    },
-    {
-      "title": "Building AI that can work across the enterprise",
-      "url": "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/",
-      "source": "MIT Technology Review",
-      "lang": "en",
-      "published": "2026-11-16T13:00:00.000Z",
-      "summary": "For years, enterprises have approached AI as a series of discrete experiments. Now, as AI agents begin to move into the workflows that run the business, that model is starting to look inadequate. Organizations moving fro"
     }
   ]
 }
