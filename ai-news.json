@@ -1,45 +1,77 @@
 {
-  "updated_at": "2026-11-18T14:44:36.563Z",
+  "updated_at": "2026-11-18T23:40:40.445Z",
   "items": [
     {
-      "title": "فروش تراشه‌های پیشرفته هوش مصنوعی انویدیا به چین متوقف شد",
-      "url": "https://www.zoomit.ir/business/471424-nvidia-halts-china-ai-chips/",
+      "title": "Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’",
+      "url": "https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-11-18T23:25:17.000Z",
+      "summary": "“I don’t think [Huang is] disloyal to the United States,\" Musk said."
+    },
+    {
+      "title": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit",
+      "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-11-18T23:17:28.000Z",
+      "summary": "Microsoft CEO Satya Nadella expressed confidence in Jensen Huang's successor Colette Kress, who is serving as Nvidia's interim CEO."
+    },
+    {
+      "title": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
+      "url": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-11-18T22:58:11.000Z",
+      "summary": "Microsoft's CEO says AI agents could disrupt advertising-driven business models, forcing companies like Amazon to rethink how they compete for customers."
+    },
+    {
+      "title": "Introducing Gemini 4 Neon",
+      "url": "https://deepmind.google/blog/introducing-gemini-4-neon/",
+      "source": "Google DeepMind",
+      "lang": "en",
+      "published": "2026-11-18T21:35:43.000Z",
+      "summary": ""
+    },
+    {
+      "title": "فقط ۹ کشور به توافق زیست‌محیطی هوش مصنوعی سازمان ملل پیوستند",
+      "url": "https://www.zoomit.ir/energy-environment/471422-ai-climate-pledge-few-countries/",
       "source": "زومیت",
       "lang": "fa",
-      "published": "2026-11-18T14:30:00.000Z",
-      "summary": "انویدیا با تغییری آشکار در سیاست‌های تجاری خود، صادرات تراشه‌های پیشرفته‌ی هوش مصنوعی H200 به چین را متوقف کرد."
+      "published": "2026-11-18T18:15:00.000Z",
+      "summary": "با وجود افزایش ۵۰ درصدی مصرف برق مراکز داده هوش مصنوعی، فقط ۹ کشور به توافق جهانی کاهش آسیب‌های زیست‌محیطی این فناوری پیوسته‌اند."
     },
     {
-      "title": "انویدیا فروش تراشه به چین را متوقف کرد؛ استراتژی هوش مصنوعی متن‌باز حفظ خواهد شد",
-      "url": "https://digiato.com/business/nvidia-halts-china-chip-sales-keeps-open-source-ai",
-      "source": "دیجیاتو",
+      "title": "Genie 4 is now available",
+      "url": "https://deepmind.google/blog/genie-4-is-now-available/",
+      "source": "Google DeepMind",
+      "lang": "en",
+      "published": "2026-11-18T18:13:42.000Z",
+      "summary": ""
+    },
+    {
+      "title": "دنیا در انتظار برای GTA 6 زیرورو شد؛ از آیفون 5s و اینترنت 3G تا فراگیری هوش مصنوعی",
+      "url": "https://www.zoomit.ir/gaming/471341-tech-changes-gta-5-to-gta-6/",
+      "source": "زومیت",
       "lang": "fa",
-      "published": "2026-11-18T13:34:35.000Z",
-      "summary": "خرید ۱۲.۹ میلیارد دلاری Hugging Face و حمایت از مدل‌های متن‌باز، برخلاف تغییرات مدیریتی اخیر همچنان طبق برنامه پیش می‌رود. The post انویدیا فروش تراشه به چین را متوقف کرد؛ استراتژی هوش مصنوعی متن‌باز حفظ خواهد شد appeare"
+      "published": "2026-11-18T17:00:00.000Z",
+      "summary": "در فاصله‌ی طولانی میان عرضه‌ی GTA 5 تا GTA 6، دنیای فناوری با تحول موبایل‌ها، ورود 5G، فراگیری هوش مصنوعی و پیدایش پلتفرم‌هایی چون تیک‌تاک دگرگون شد."
     },
     {
-      "title": "Nvidia clarifies when it will — and won’t —keep financing neoclouds",
-      "url": "https://techcrunch.com/2026/11/18/nvidia-clarifies-when-it-will-and-wont-keep-financing-neoclouds/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-11-18T13:00:00.000Z",
-      "summary": "If Nvidia is backstopping a data center loan, it won't be on the hook unless the neocould has independent financing and gets the facility built, with Nvidia gear installed, interim CEO Colette Kress explained."
+      "title": "شاسی‌بلند ۵٫۲ متری با کابین پنج‌نفره و هوش مصنوعی؛ جیلی گلکسی M8 در راه است",
+      "url": "https://www.zoomit.ir/car/471318-geely-galaxy-m8-suv-unveiled/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-11-18T16:30:00.000Z",
+      "summary": "جیلی گلکسی تصاویر رسمی شاسی‌بلند پرچمدار گلکسی M8 را منتشر کرد که قرار است در سه‌ماهه‌ی چهارم سال جاری وارد بازار شود."
     },
     {
-      "title": "Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents",
-      "url": "https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents/",
-      "source": "TechCrunch AI",
+      "title": "The AI Hype Index: AI is everywhere",
+      "url": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/",
+      "source": "MIT Technology Review",
       "lang": "en",
-      "published": "2026-11-18T12:00:00.000Z",
-      "summary": "With a team of just seven, Unsiloed AI plans to compete with tech giants and specialized startups in the crowded AI document-processing market."
-    },
-    {
-      "title": "India’s Humyn Labs raises $47M to feed U.S. robotics companies the data they need",
-      "url": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-11-18T11:30:00.000Z",
-      "summary": "Founded in February, Humyn Labs competes with startups including Mecka AI and XDOF, with about 90% of its revenue coming from the U.S."
+      "published": "2026-11-18T14:42:44.000Z",
+      "summary": "Like a nasty rash, AI seems to spread everywhere. Google crams AI Overviews down your throat even though it costs the company billions of dollars in lost ad revenue. Leave your apartment, and you might pass two people he"
     },
     {
       "title": "This smell startup says its AI nose is as good as a human’s",
@@ -50,52 +82,20 @@
       "summary": "In a lab near Newark Airport in New Jersey, a team of around 30 experienced human sniffers are slowly working their way through every odor on Earth. Their careful notes—“nutty,” “peachy,” “marine”—are cross-referenced wi"
     },
     {
-      "title": "مدیرعامل مایکروسافت به هوش مصنوعی انسان‌گونه باور دارد؛ اما کلاد را موجودی خودآگاه نمی‌داند",
-      "url": "https://www.zoomit.ir/ai-articles/471390-satya-nadella-agi-monopoly-warning/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-11-18T07:45:00.000Z",
-      "summary": "ساتیا نادلا نسبت به خطرات انحصار یک مدل هوش مصنوعی عمومی بر اقتصاد جهانی و تهدید دموکراسی هشدار داد."
-    },
-    {
-      "title": "هوش مصنوعی جدید OpenAI، ده‌ها حفره امنیتی در آیفون و مک کشف کرد",
-      "url": "https://www.zoomit.ir/ai-articles/471380-openai-gpt-cyber-apple-vulnerabilities/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-11-18T06:00:00.000Z",
-      "summary": "هوش مصنوعی جدید OpenAI حدود ۳۵ آسیب‌پذیری در محصولات اپل کشف کرد که برخی از آن‌ها امکان کنترل آیفون و مک را فراهم می‌کنند."
-    },
-    {
-      "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
-      "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+      "title": "The Silent Consensus",
+      "url": "https://openai.com/index/the-silent-consensus",
       "source": "OpenAI",
       "lang": "en",
-      "published": "2026-11-18T00:00:00.000Z",
-      "summary": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories."
+      "published": "2026-11-18T10:00:00.000Z",
+      "summary": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions."
     },
     {
-      "title": "Introducing GPT-6.2 Astra and Sol",
-      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+      "title": "Research acceleration: The jagged frontier",
+      "url": "https://openai.com/index/research-acceleration-jagged-frontier",
       "source": "OpenAI",
       "lang": "en",
-      "published": "2026-11-17T17:45:00.000Z",
-      "summary": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API."
-    },
-    {
-      "title": "Research Reports",
-      "url": "https://www.technologyreview.com/2026/11/17/1148203/research-reports/",
-      "source": "MIT Technology Review",
-      "lang": "en",
-      "published": "2026-11-17T14:39:46.000Z",
-      "summary": "To access a report, click on the corresponding image below."
-    },
-    {
-      "title": "Introducing ChatGPT for Sales",
-      "url": "https://openai.com/index/introducing-chatgpt-for-sales",
-      "source": "OpenAI",
-      "lang": "en",
-      "published": "2026-11-17T08:00:00.000Z",
-      "summary": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward."
+      "published": "2026-11-18T08:00:00.000Z",
+      "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement."
     }
   ]
 }
