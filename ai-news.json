@@ -1,53 +1,77 @@
 {
-  "updated_at": "2026-11-18T00:09:12.181Z",
+  "updated_at": "2026-11-18T14:44:36.563Z",
   "items": [
     {
-      "title": "Nvidia is abandoning China after Jensen Huang’s ouster",
-      "url": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-11-17T23:37:48.000Z",
-      "summary": "Nvidia's interim CEO says the company is done selling chips to China. How much will that cost?"
-    },
-    {
-      "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit",
-      "url": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-11-17T23:04:35.000Z",
-      "summary": "Nvidia's interim CEO reaffirmed its open source AI strategy and plans to acquire Hugging Face, despite Jensen Huang's sudden departure."
-    },
-    {
-      "title": "Nvidia says it doesn’t plan to reappoint Jensen Huang as CEO",
-      "url": "https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-11-17T22:42:27.000Z",
-      "summary": "The former CEO offered to return to his top role at the company after his resignation last week."
-    },
-    {
-      "title": "رقبای کلاد با یک‌بیستم هزینه؛ مایکروسافت دو هوش مصنوعی جدید برای برنامه‌نویسی معرفی کرد",
-      "url": "https://www.zoomit.ir/ai-articles/471371-microsoft-mai-code-2-flash-github-copilot-launch/",
+      "title": "فروش تراشه‌های پیشرفته هوش مصنوعی انویدیا به چین متوقف شد",
+      "url": "https://www.zoomit.ir/business/471424-nvidia-halts-china-ai-chips/",
       "source": "زومیت",
       "lang": "fa",
-      "published": "2026-11-17T19:55:44.000Z",
-      "summary": "مایکروسافت دو مدل جدید را به گیت‌هاب کوپایلت اضافه کرد؛ مدل‌هایی که با هزینه‌ی نسبتا کم، عملکردی خیره‌کننده ارائه می‌دهند."
+      "published": "2026-11-18T14:30:00.000Z",
+      "summary": "انویدیا با تغییری آشکار در سیاست‌های تجاری خود، صادرات تراشه‌های پیشرفته‌ی هوش مصنوعی H200 به چین را متوقف کرد."
     },
     {
-      "title": "مدل‌های GPT-6.2 Astra و Sol معرفی شدند؛ هوش مصنوعی قوی‌تر با هزینه کمتر",
-      "url": "https://www.zoomit.ir/ai-articles/471370-openai-gpt-6-2-astra-sol-launch-pricing-benchmarks/",
-      "source": "زومیت",
+      "title": "انویدیا فروش تراشه به چین را متوقف کرد؛ استراتژی هوش مصنوعی متن‌باز حفظ خواهد شد",
+      "url": "https://digiato.com/business/nvidia-halts-china-chip-sales-keeps-open-source-ai",
+      "source": "دیجیاتو",
       "lang": "fa",
-      "published": "2026-11-17T19:35:41.000Z",
-      "summary": "اوپن‌ای‌‌آی مدل‌های GPT-6.2 Astra و Sol را معرفی کرد؛ دو هوش مصنوعی قدرتمندتر و کم‌هزینه‌تر که برای پروژه‌های حرفه‌ای و کارهای روزمره طراحی شده‌اند."
+      "published": "2026-11-18T13:34:35.000Z",
+      "summary": "خرید ۱۲.۹ میلیارد دلاری Hugging Face و حمایت از مدل‌های متن‌باز، برخلاف تغییرات مدیریتی اخیر همچنان طبق برنامه پیش می‌رود. The post انویدیا فروش تراشه به چین را متوقف کرد؛ استراتژی هوش مصنوعی متن‌باز حفظ خواهد شد appeare"
     },
     {
-      "title": "هوش مصنوعی «کلاد» در اشتباهی مهلک ۲۲ بار مدرسه میناب را هدف نظامی تشخیص داد",
-      "url": "https://www.zoomit.ir/ai-articles/471369-ai-models-military-targeting-minab-school-vals-study/",
+      "title": "Nvidia clarifies when it will — and won’t —keep financing neoclouds",
+      "url": "https://techcrunch.com/2026/11/18/nvidia-clarifies-when-it-will-and-wont-keep-financing-neoclouds/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-11-18T13:00:00.000Z",
+      "summary": "If Nvidia is backstopping a data center loan, it won't be on the hook unless the neocould has independent financing and gets the facility built, with Nvidia gear installed, interim CEO Colette Kress explained."
+    },
+    {
+      "title": "Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents",
+      "url": "https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-11-18T12:00:00.000Z",
+      "summary": "With a team of just seven, Unsiloed AI plans to compete with tech giants and specialized startups in the crowded AI document-processing market."
+    },
+    {
+      "title": "India’s Humyn Labs raises $47M to feed U.S. robotics companies the data they need",
+      "url": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-11-18T11:30:00.000Z",
+      "summary": "Founded in February, Humyn Labs competes with startups including Mecka AI and XDOF, with about 90% of its revenue coming from the U.S."
+    },
+    {
+      "title": "This smell startup says its AI nose is as good as a human’s",
+      "url": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
+      "source": "MIT Technology Review",
+      "lang": "en",
+      "published": "2026-11-18T10:20:30.000Z",
+      "summary": "In a lab near Newark Airport in New Jersey, a team of around 30 experienced human sniffers are slowly working their way through every odor on Earth. Their careful notes—“nutty,” “peachy,” “marine”—are cross-referenced wi"
+    },
+    {
+      "title": "مدیرعامل مایکروسافت به هوش مصنوعی انسان‌گونه باور دارد؛ اما کلاد را موجودی خودآگاه نمی‌داند",
+      "url": "https://www.zoomit.ir/ai-articles/471390-satya-nadella-agi-monopoly-warning/",
       "source": "زومیت",
       "lang": "fa",
-      "published": "2026-11-17T18:39:30.000Z",
-      "summary": "پژوهشی نگران‌کننده نشان می‌دهد هوش مصنوعی Claude Opus 5.5 در ۲۲ مورد از ۳۲ آزمایش، مدرسه‌ی میناب را هدف نظامی تشخیص داد."
+      "published": "2026-11-18T07:45:00.000Z",
+      "summary": "ساتیا نادلا نسبت به خطرات انحصار یک مدل هوش مصنوعی عمومی بر اقتصاد جهانی و تهدید دموکراسی هشدار داد."
+    },
+    {
+      "title": "هوش مصنوعی جدید OpenAI، ده‌ها حفره امنیتی در آیفون و مک کشف کرد",
+      "url": "https://www.zoomit.ir/ai-articles/471380-openai-gpt-cyber-apple-vulnerabilities/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-11-18T06:00:00.000Z",
+      "summary": "هوش مصنوعی جدید OpenAI حدود ۳۵ آسیب‌پذیری در محصولات اپل کشف کرد که برخی از آن‌ها امکان کنترل آیفون و مک را فراهم می‌کنند."
+    },
+    {
+      "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+      "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+      "source": "OpenAI",
+      "lang": "en",
+      "published": "2026-11-18T00:00:00.000Z",
+      "summary": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories."
     },
     {
       "title": "Introducing GPT-6.2 Astra and Sol",
@@ -72,30 +96,6 @@
       "lang": "en",
       "published": "2026-11-17T08:00:00.000Z",
       "summary": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward."
-    },
-    {
-      "title": "Strengthening NATO and allied cyber defenses with AI",
-      "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
-      "source": "OpenAI",
-      "lang": "en",
-      "published": "2026-11-17T00:00:00.000Z",
-      "summary": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems."
-    },
-    {
-      "title": "The open-source movement wants Jensen Huang back",
-      "url": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
-      "source": "MIT Technology Review",
-      "lang": "en",
-      "published": "2026-11-16T18:38:47.000Z",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. On Friday, a petition to reinstate Jensen Huang as CEO of Nvidia began circulating"
-    },
-    {
-      "title": "Building trustworthy AI by fencing it in, not predicting it",
-      "url": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
-      "source": "MIT Technology Review",
-      "lang": "en",
-      "published": "2026-11-16T16:04:28.000Z",
-      "summary": "In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them. One muted its own safety alerts after misreading an instruction not to send messages; the other removed"
     }
   ]
 }
