@@ -1,13 +1,61 @@
 {
-  "updated_at": "2026-11-17T15:05:52.189Z",
+  "updated_at": "2026-11-18T00:09:12.181Z",
   "items": [
     {
-      "title": "Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials",
-      "url": "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/",
+      "title": "Nvidia is abandoning China after Jensen Huang’s ouster",
+      "url": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
       "source": "TechCrunch AI",
       "lang": "en",
-      "published": "2026-11-17T14:50:58.000Z",
-      "summary": "Isomorphic Labs, the AI drug-discovery platform that was spun out of Google’s DeepMind in 2021, has raised $5 Billion in a Series C funding round."
+      "published": "2026-11-17T23:37:48.000Z",
+      "summary": "Nvidia's interim CEO says the company is done selling chips to China. How much will that cost?"
+    },
+    {
+      "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit",
+      "url": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-11-17T23:04:35.000Z",
+      "summary": "Nvidia's interim CEO reaffirmed its open source AI strategy and plans to acquire Hugging Face, despite Jensen Huang's sudden departure."
+    },
+    {
+      "title": "Nvidia says it doesn’t plan to reappoint Jensen Huang as CEO",
+      "url": "https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-11-17T22:42:27.000Z",
+      "summary": "The former CEO offered to return to his top role at the company after his resignation last week."
+    },
+    {
+      "title": "رقبای کلاد با یک‌بیستم هزینه؛ مایکروسافت دو هوش مصنوعی جدید برای برنامه‌نویسی معرفی کرد",
+      "url": "https://www.zoomit.ir/ai-articles/471371-microsoft-mai-code-2-flash-github-copilot-launch/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-11-17T19:55:44.000Z",
+      "summary": "مایکروسافت دو مدل جدید را به گیت‌هاب کوپایلت اضافه کرد؛ مدل‌هایی که با هزینه‌ی نسبتا کم، عملکردی خیره‌کننده ارائه می‌دهند."
+    },
+    {
+      "title": "مدل‌های GPT-6.2 Astra و Sol معرفی شدند؛ هوش مصنوعی قوی‌تر با هزینه کمتر",
+      "url": "https://www.zoomit.ir/ai-articles/471370-openai-gpt-6-2-astra-sol-launch-pricing-benchmarks/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-11-17T19:35:41.000Z",
+      "summary": "اوپن‌ای‌‌آی مدل‌های GPT-6.2 Astra و Sol را معرفی کرد؛ دو هوش مصنوعی قدرتمندتر و کم‌هزینه‌تر که برای پروژه‌های حرفه‌ای و کارهای روزمره طراحی شده‌اند."
+    },
+    {
+      "title": "هوش مصنوعی «کلاد» در اشتباهی مهلک ۲۲ بار مدرسه میناب را هدف نظامی تشخیص داد",
+      "url": "https://www.zoomit.ir/ai-articles/471369-ai-models-military-targeting-minab-school-vals-study/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-11-17T18:39:30.000Z",
+      "summary": "پژوهشی نگران‌کننده نشان می‌دهد هوش مصنوعی Claude Opus 5.5 در ۲۲ مورد از ۳۲ آزمایش، مدرسه‌ی میناب را هدف نظامی تشخیص داد."
+    },
+    {
+      "title": "Introducing GPT-6.2 Astra and Sol",
+      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+      "source": "OpenAI",
+      "lang": "en",
+      "published": "2026-11-17T17:45:00.000Z",
+      "summary": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API."
     },
     {
       "title": "Research Reports",
@@ -18,60 +66,12 @@
       "summary": "To access a report, click on the corresponding image below."
     },
     {
-      "title": "Science Corporation’s brain tech is worth $3.5 billion after new funding",
-      "url": "https://techcrunch.com/2026/11/17/science-corporations-brain-tech-is-worth-3-5-billion-after-new-funding/",
-      "source": "TechCrunch AI",
+      "title": "Introducing ChatGPT for Sales",
+      "url": "https://openai.com/index/introducing-chatgpt-for-sales",
+      "source": "OpenAI",
       "lang": "en",
-      "published": "2026-11-17T14:26:46.000Z",
-      "summary": "Science Corp raised a $400 million Series D to scale up its anti-blindness business."
-    },
-    {
-      "title": "Nvidia’s first big move after Jensen Huang’s exit targets national security",
-      "url": "https://techcrunch.com/2026/11/17/nvidias-first-big-move-after-jensen-huangs-exit-targets-national-security/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-11-17T14:05:30.000Z",
-      "summary": "The new standing committee will give board-level oversight of national security policies, export control compliance, and global trade risks, the company said."
-    },
-    {
-      "title": "آمریکا در واکنش به جنجال انویدیا، صادرات تراشه‌های هوش مصنوعی را محدودتر می‌کند",
-      "url": "https://www.zoomit.ir/business/471220-congress-tightens-ai-chip-exports/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-11-17T14:00:00.000Z",
-      "summary": "کنگره آمریکا در پی رسوایی ارتباط مدیرعامل سابق انویدیا با مظنون به جاسوسی، به‌دنبال اعمال محدودیت‌های شدیدتر بر صادرات تراشه‌های هوش مصنوعی است."
-    },
-    {
-      "title": "معرفی بوت‌کمپ‌های هوش مصنوعی استارکوچ",
-      "url": "https://digiato.com/iran-technology-news/starcoach-ai-bootcamps",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-11-17T12:51:20.000Z",
-      "summary": "استارکوچ چهار بوت‌کمپ تخصصی در حوزه هوش مصنوعی برگزار می‌کند. با جزئیات آن‌ها در این مطلب آشنا شوید The post معرفی بوت‌کمپ‌های هوش مصنوعی استارکوچ appeared first on دیجیاتو."
-    },
-    {
-      "title": "OpenAI با ابزار و سیاست‌های جدید به جنگ دیپ‌فیک‌های آزار کودکان می‌رود",
-      "url": "https://digiato.com/artificial-intelligence/openai-ai-tool-detect-csam-deepfakes",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-11-17T12:28:00.000Z",
-      "summary": "ابزار جدید OpenAI با تشخیص تصاویر جعلی هوش مصنوعی، خطاهای کاذب در شناسایی محتوای آزار کودکان را ۴۸ درصد کاهش می‌دهد. The post OpenAI با ابزار و سیاست‌های جدید به جنگ دیپ‌فیک‌های آزار کودکان می‌رود appeared first on دیجیا"
-    },
-    {
-      "title": "تقی‌پور: باید در جمع ۱۰ کشور برتر جهان در حوزه هوش مصنوعی قرار بگیریم",
-      "url": "https://www.zoomit.ir/iran-news/471337-iran-ai-data-governance-development/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-11-17T11:11:08.000Z",
-      "summary": "رضا تقی‌پور با اشاره به عقب‌ماندگی پنج‌ساله کشور در حوزه AI، بر ضرویت تسریع تشکیل سازمان ملی هوش مصنوعی و تقویت حکمرانی داده تاکید کرد."
-    },
-    {
-      "title": "توافق ۱۰ کشور برای حفاظت از اسرار هوش مصنوعی؛ آمریکا به‌دنبال محدودکردن نفوذ چین",
-      "url": "https://www.zoomit.ir/ai-articles/471245-us-allies-ai-supply-chain-pact/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-11-17T09:55:00.000Z",
-      "summary": "ایالات متحده و ۹ کشور دیگر با امضای پیمانی راهبردی، حفاظت از زیرساخت‌های حیاتی و زنجیره تامین هوش مصنوعی را در برابر چین آغاز کردند."
+      "published": "2026-11-17T08:00:00.000Z",
+      "summary": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward."
     },
     {
       "title": "Strengthening NATO and allied cyber defenses with AI",
@@ -82,20 +82,20 @@
       "summary": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems."
     },
     {
-      "title": "Introducing OpenAI for Chile",
-      "url": "https://openai.com/index/introducing-openai-for-chile",
-      "source": "OpenAI",
-      "lang": "en",
-      "published": "2026-11-17T00:00:00.000Z",
-      "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications."
-    },
-    {
       "title": "The open-source movement wants Jensen Huang back",
       "url": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
       "source": "MIT Technology Review",
       "lang": "en",
       "published": "2026-11-16T18:38:47.000Z",
       "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. On Friday, a petition to reinstate Jensen Huang as CEO of Nvidia began circulating"
+    },
+    {
+      "title": "Building trustworthy AI by fencing it in, not predicting it",
+      "url": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
+      "source": "MIT Technology Review",
+      "lang": "en",
+      "published": "2026-11-16T16:04:28.000Z",
+      "summary": "In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them. One muted its own safety alerts after misreading an instruction not to send messages; the other removed"
     }
   ]
 }
