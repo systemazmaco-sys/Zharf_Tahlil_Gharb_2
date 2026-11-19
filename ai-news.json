@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-18T23:40:40.445Z",
+  "updated_at": "2026-11-19T04:54:51.354Z",
   "items": [
+    {
+      "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
+      "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-11-19T00:42:56.000Z",
+      "summary": "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massive layoff. The short an"
+    },
+    {
+      "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
+      "url": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-11-18T23:45:00.000Z",
+      "summary": "The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world."
+    },
     {
       "title": "Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’",
       "url": "https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/",
@@ -10,44 +26,12 @@
       "summary": "“I don’t think [Huang is] disloyal to the United States,\" Musk said."
     },
     {
-      "title": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit",
-      "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-11-18T23:17:28.000Z",
-      "summary": "Microsoft CEO Satya Nadella expressed confidence in Jensen Huang's successor Colette Kress, who is serving as Nvidia's interim CEO."
-    },
-    {
-      "title": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
-      "url": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-11-18T22:58:11.000Z",
-      "summary": "Microsoft's CEO says AI agents could disrupt advertising-driven business models, forcing companies like Amazon to rethink how they compete for customers."
-    },
-    {
-      "title": "Introducing Gemini 4 Neon",
-      "url": "https://deepmind.google/blog/introducing-gemini-4-neon/",
-      "source": "Google DeepMind",
-      "lang": "en",
-      "published": "2026-11-18T21:35:43.000Z",
-      "summary": ""
-    },
-    {
       "title": "فقط ۹ کشور به توافق زیست‌محیطی هوش مصنوعی سازمان ملل پیوستند",
       "url": "https://www.zoomit.ir/energy-environment/471422-ai-climate-pledge-few-countries/",
       "source": "زومیت",
       "lang": "fa",
       "published": "2026-11-18T18:15:00.000Z",
       "summary": "با وجود افزایش ۵۰ درصدی مصرف برق مراکز داده هوش مصنوعی، فقط ۹ کشور به توافق جهانی کاهش آسیب‌های زیست‌محیطی این فناوری پیوسته‌اند."
-    },
-    {
-      "title": "Genie 4 is now available",
-      "url": "https://deepmind.google/blog/genie-4-is-now-available/",
-      "source": "Google DeepMind",
-      "lang": "en",
-      "published": "2026-11-18T18:13:42.000Z",
-      "summary": ""
     },
     {
       "title": "دنیا در انتظار برای GTA 6 زیرورو شد؛ از آیفون 5s و اینترنت 3G تا فراگیری هوش مصنوعی",
@@ -96,6 +80,22 @@
       "lang": "en",
       "published": "2026-11-18T08:00:00.000Z",
       "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement."
+    },
+    {
+      "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+      "url": "https://openai.com/business/customer-stories/sumitomo-life",
+      "source": "OpenAI",
+      "lang": "en",
+      "published": "2026-11-18T08:00:00.000Z",
+      "summary": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption."
+    },
+    {
+      "title": "Research Reports",
+      "url": "https://www.technologyreview.com/2026/11/17/1148203/research-reports/",
+      "source": "MIT Technology Review",
+      "lang": "en",
+      "published": "2026-11-17T14:39:46.000Z",
+      "summary": "To access a report, click on the corresponding image below."
     }
   ]
 }
