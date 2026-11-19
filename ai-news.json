@@ -1,6 +1,46 @@
 {
-  "updated_at": "2026-11-19T04:54:51.354Z",
+  "updated_at": "2026-11-19T14:51:45.639Z",
   "items": [
+    {
+      "title": "Superhuman pushes its Go assistant everywhere",
+      "url": "https://techcrunch.com/2026/11/19/superhuman-pushes-its-go-assistant-everywhere/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-11-19T14:00:00.000Z",
+      "summary": "Superhuman is making Go its central agent and making it available in Docs and Mail"
+    },
+    {
+      "title": "جنگ سایبری تازه در شبکه بیت‌کوین با کمک هوش مصنوعی",
+      "url": "https://www.zoomit.ir/cryptocurrency/471236-luxor-ai-cyberattack-bitcoin-mining/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-11-19T13:00:00.000Z",
+      "summary": "پلتفرم مدیریت استخراج بیت‌کوین لوکسور هدف حمله‌ی سایبری مبتنی‌بر هوش مصنوعی قرار گرفت و توان پردازشی مشتریان به استخر دیگری منتقل شد."
+    },
+    {
+      "title": "صادرات کره جنوبی با تکیه بر تراشه‌های هوش مصنوعی از یک تریلیون دلار عبور کرد",
+      "url": "https://digiato.com/finance-investment/south-korea-hits-1-trillion-exports-ai-chip-boom",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-11-19T12:52:49.000Z",
+      "summary": "رشد ۱۸۴ درصدی صادرات نیمه‌رساناها در سال ۲۰۲۶، سهم این بخش را به ۴۲ درصد از کل صادرات کره جنوبی رساند. The post صادرات کره جنوبی با تکیه بر تراشه‌های هوش مصنوعی از یک تریلیون دلار عبور کرد appeared first on دیجیاتو."
+    },
+    {
+      "title": "مدیرعامل OpenAI: تصور صنعت هوش مصنوعی بدون جنسن هوانگ دشوار است",
+      "url": "https://digiato.com/artificial-intelligence/sam-altman-hard-imagine-ai-industry-without-jensen-huang",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-11-19T09:54:48.000Z",
+      "summary": "مدیران ارشد OpenAI در اجلاس نیویورک‌تایمز، ضمن تأیید گفت‌وگوی خصوصی با مدیرعامل سابق انویدیا، از گمانه‌زنی درباره آینده او خودداری کردند. The post مدیرعامل OpenAI: تصور صنعت هوش مصنوعی بدون جنسن هوانگ دشوار است appeared "
+    },
+    {
+      "title": "جمنای ۴ نئون رونمایی شد؛ هوش مصنوعی پرسرعت و قدرتمند گوگل",
+      "url": "https://www.zoomit.ir/ai-articles/471445-google-gemini-4-neon-announcement/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-11-19T05:29:01.000Z",
+      "summary": "گوگل مدل جمنای ۴ نئون را با پنجره کانتکست یک میلیون توکنی معرفی کرد تا سرعت بالا و استدلال عمیق را با هزینه‌ای کمتر در اختیار کاربران بگذارد."
+    },
     {
       "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
       "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
@@ -18,12 +58,12 @@
       "summary": "The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world."
     },
     {
-      "title": "Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’",
-      "url": "https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/",
-      "source": "TechCrunch AI",
+      "title": "Introducing Gemini 4 Neon",
+      "url": "https://deepmind.google/blog/introducing-gemini-4-neon/",
+      "source": "Google DeepMind",
       "lang": "en",
-      "published": "2026-11-18T23:25:17.000Z",
-      "summary": "“I don’t think [Huang is] disloyal to the United States,\" Musk said."
+      "published": "2026-11-18T21:35:43.000Z",
+      "summary": ""
     },
     {
       "title": "فقط ۹ کشور به توافق زیست‌محیطی هوش مصنوعی سازمان ملل پیوستند",
@@ -34,20 +74,12 @@
       "summary": "با وجود افزایش ۵۰ درصدی مصرف برق مراکز داده هوش مصنوعی، فقط ۹ کشور به توافق جهانی کاهش آسیب‌های زیست‌محیطی این فناوری پیوسته‌اند."
     },
     {
-      "title": "دنیا در انتظار برای GTA 6 زیرورو شد؛ از آیفون 5s و اینترنت 3G تا فراگیری هوش مصنوعی",
-      "url": "https://www.zoomit.ir/gaming/471341-tech-changes-gta-5-to-gta-6/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-11-18T17:00:00.000Z",
-      "summary": "در فاصله‌ی طولانی میان عرضه‌ی GTA 5 تا GTA 6، دنیای فناوری با تحول موبایل‌ها، ورود 5G، فراگیری هوش مصنوعی و پیدایش پلتفرم‌هایی چون تیک‌تاک دگرگون شد."
-    },
-    {
-      "title": "شاسی‌بلند ۵٫۲ متری با کابین پنج‌نفره و هوش مصنوعی؛ جیلی گلکسی M8 در راه است",
-      "url": "https://www.zoomit.ir/car/471318-geely-galaxy-m8-suv-unveiled/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-11-18T16:30:00.000Z",
-      "summary": "جیلی گلکسی تصاویر رسمی شاسی‌بلند پرچمدار گلکسی M8 را منتشر کرد که قرار است در سه‌ماهه‌ی چهارم سال جاری وارد بازار شود."
+      "title": "Genie 4 is now available",
+      "url": "https://deepmind.google/blog/genie-4-is-now-available/",
+      "source": "Google DeepMind",
+      "lang": "en",
+      "published": "2026-11-18T18:13:42.000Z",
+      "summary": ""
     },
     {
       "title": "The AI Hype Index: AI is everywhere",
@@ -64,38 +96,6 @@
       "lang": "en",
       "published": "2026-11-18T10:20:30.000Z",
       "summary": "In a lab near Newark Airport in New Jersey, a team of around 30 experienced human sniffers are slowly working their way through every odor on Earth. Their careful notes—“nutty,” “peachy,” “marine”—are cross-referenced wi"
-    },
-    {
-      "title": "The Silent Consensus",
-      "url": "https://openai.com/index/the-silent-consensus",
-      "source": "OpenAI",
-      "lang": "en",
-      "published": "2026-11-18T10:00:00.000Z",
-      "summary": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions."
-    },
-    {
-      "title": "Research acceleration: The jagged frontier",
-      "url": "https://openai.com/index/research-acceleration-jagged-frontier",
-      "source": "OpenAI",
-      "lang": "en",
-      "published": "2026-11-18T08:00:00.000Z",
-      "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement."
-    },
-    {
-      "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
-      "url": "https://openai.com/business/customer-stories/sumitomo-life",
-      "source": "OpenAI",
-      "lang": "en",
-      "published": "2026-11-18T08:00:00.000Z",
-      "summary": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption."
-    },
-    {
-      "title": "Research Reports",
-      "url": "https://www.technologyreview.com/2026/11/17/1148203/research-reports/",
-      "source": "MIT Technology Review",
-      "lang": "en",
-      "published": "2026-11-17T14:39:46.000Z",
-      "summary": "To access a report, click on the corresponding image below."
     }
   ]
 }
