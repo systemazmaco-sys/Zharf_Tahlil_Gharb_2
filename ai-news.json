@@ -1,13 +1,37 @@
 {
-  "updated_at": "2026-11-19T14:51:45.639Z",
+  "updated_at": "2026-11-19T23:59:31.225Z",
   "items": [
     {
-      "title": "Superhuman pushes its Go assistant everywhere",
-      "url": "https://techcrunch.com/2026/11/19/superhuman-pushes-its-go-assistant-everywhere/",
+      "title": "Meta’s new Muse Charm device may cost $300",
+      "url": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
       "source": "TechCrunch AI",
       "lang": "en",
-      "published": "2026-11-19T14:00:00.000Z",
-      "summary": "Superhuman is making Go its central agent and making it available in Docs and Mail"
+      "published": "2026-11-19T21:58:06.000Z",
+      "summary": "Meta hasn't denied the reporting from The Information, saying only that it will \"have more to share soon\" about its upcoming AI wearable."
+    },
+    {
+      "title": "These tech outages are giving Y2K, AI agent style",
+      "url": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-11-19T21:42:31.000Z",
+      "summary": "Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidence? There's actually likely something deeper going on, cybersecurity experts say."
+    },
+    {
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "url": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-11-19T20:18:49.000Z",
+      "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure."
+    },
+    {
+      "title": "جایگزینی گزارشگران مسابقات بازی The Finals با هوش مصنوعی جنجال به پا کرد",
+      "url": "https://www.zoomit.ir/gaming/471399-embark-studios-ai-commentary-controversy/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-11-19T17:45:00.000Z",
+      "summary": "استودیوی Embark پس از حذف صدای گزارشگران واقعی مسابقات بازی The Finals و جایگزینی آن‌ها با هوش مصنوعی، ناچار به حذف ویدیوی رسمی و عذرخواهی شد."
     },
     {
       "title": "جنگ سایبری تازه در شبکه بیت‌کوین با کمک هوش مصنوعی",
@@ -26,12 +50,12 @@
       "summary": "رشد ۱۸۴ درصدی صادرات نیمه‌رساناها در سال ۲۰۲۶، سهم این بخش را به ۴۲ درصد از کل صادرات کره جنوبی رساند. The post صادرات کره جنوبی با تکیه بر تراشه‌های هوش مصنوعی از یک تریلیون دلار عبور کرد appeared first on دیجیاتو."
     },
     {
-      "title": "مدیرعامل OpenAI: تصور صنعت هوش مصنوعی بدون جنسن هوانگ دشوار است",
-      "url": "https://digiato.com/artificial-intelligence/sam-altman-hard-imagine-ai-industry-without-jensen-huang",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-11-19T09:54:48.000Z",
-      "summary": "مدیران ارشد OpenAI در اجلاس نیویورک‌تایمز، ضمن تأیید گفت‌وگوی خصوصی با مدیرعامل سابق انویدیا، از گمانه‌زنی درباره آینده او خودداری کردند. The post مدیرعامل OpenAI: تصور صنعت هوش مصنوعی بدون جنسن هوانگ دشوار است appeared "
+      "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+      "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+      "source": "OpenAI",
+      "lang": "en",
+      "published": "2026-11-19T08:00:00.000Z",
+      "summary": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast."
     },
     {
       "title": "جمنای ۴ نئون رونمایی شد؛ هوش مصنوعی پرسرعت و قدرتمند گوگل",
@@ -42,44 +66,20 @@
       "summary": "گوگل مدل جمنای ۴ نئون را با پنجره کانتکست یک میلیون توکنی معرفی کرد تا سرعت بالا و استدلال عمیق را با هزینه‌ای کمتر در اختیار کاربران بگذارد."
     },
     {
-      "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
-      "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
-      "source": "TechCrunch AI",
+      "title": "Explore the Codex Security Plugin",
+      "url": "https://openai.com/business/learn/codex-security-plugin-demo",
+      "source": "OpenAI",
       "lang": "en",
-      "published": "2026-11-19T00:42:56.000Z",
-      "summary": "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massive layoff. The short an"
+      "published": "2026-11-19T00:00:00.000Z",
+      "summary": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording."
     },
     {
-      "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
-      "url": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
-      "source": "TechCrunch AI",
+      "title": "See PR scans in action",
+      "url": "https://openai.com/business/learn/pr-scans-demo",
+      "source": "OpenAI",
       "lang": "en",
-      "published": "2026-11-18T23:45:00.000Z",
-      "summary": "The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world."
-    },
-    {
-      "title": "Introducing Gemini 4 Neon",
-      "url": "https://deepmind.google/blog/introducing-gemini-4-neon/",
-      "source": "Google DeepMind",
-      "lang": "en",
-      "published": "2026-11-18T21:35:43.000Z",
-      "summary": ""
-    },
-    {
-      "title": "فقط ۹ کشور به توافق زیست‌محیطی هوش مصنوعی سازمان ملل پیوستند",
-      "url": "https://www.zoomit.ir/energy-environment/471422-ai-climate-pledge-few-countries/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-11-18T18:15:00.000Z",
-      "summary": "با وجود افزایش ۵۰ درصدی مصرف برق مراکز داده هوش مصنوعی، فقط ۹ کشور به توافق جهانی کاهش آسیب‌های زیست‌محیطی این فناوری پیوسته‌اند."
-    },
-    {
-      "title": "Genie 4 is now available",
-      "url": "https://deepmind.google/blog/genie-4-is-now-available/",
-      "source": "Google DeepMind",
-      "lang": "en",
-      "published": "2026-11-18T18:13:42.000Z",
-      "summary": ""
+      "published": "2026-11-19T00:00:00.000Z",
+      "summary": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow."
     },
     {
       "title": "The AI Hype Index: AI is everywhere",
