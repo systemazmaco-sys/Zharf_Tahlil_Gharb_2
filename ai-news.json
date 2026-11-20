@@ -1,6 +1,46 @@
 {
-  "updated_at": "2026-11-20T05:58:51.949Z",
+  "updated_at": "2026-11-20T14:55:56.892Z",
   "items": [
+    {
+      "title": "The fallout from Nvidia’s Jensen Huang scandal continues",
+      "url": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-11-20T14:55:44.000Z",
+      "summary": "In the midst of dealing with the fallout from its ouster of CEO Jensen Huang, Nvidia delivered its latest earnings report this week, with healthy growth and promises that the good times will continue. At the same time, t"
+    },
+    {
+      "title": "Six AI-powered gadgets that could make your home office smarter",
+      "url": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-11-20T14:00:00.000Z",
+      "summary": "From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace."
+    },
+    {
+      "title": "سیگنال برای مقابله با جاسوسی ایجنت‌های هوش مصنوعی، اسکرین‌شات را محدود می‌کند",
+      "url": "https://digiato.com/app/signal-blocks-screenshots-to-protect-chats-from-ai-agents",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-11-20T13:03:47.000Z",
+      "summary": "سیگنال برای جلوگیری از دسترسی ایجنت‌های هوش مصنوعی به گفتگوهای کاربران، محدودیت‌های تازه‌ای برای ثبت اسکرین‌شات اعمال می‌کند. The post سیگنال برای مقابله با جاسوسی ایجنت‌های هوش مصنوعی، اسکرین‌شات را محدود می‌کند appeare"
+    },
+    {
+      "title": "کره شمالی از چت‌بات هوش مصنوعی اختصاصی خود با نام «چشمه خرد» رونمایی کرد",
+      "url": "https://digiato.com/artificial-intelligence/north-korea-shows-off-an-ai-chatbot",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-11-20T12:32:04.000Z",
+      "summary": "این چت‌بات طراحی شبیه به ChatGPT دارد و به پرسش‌های علمی و فناوری به زبان‌های کره‌ای و انگلیسی پاسخ می‌دهد. The post کره شمالی از چت‌بات هوش مصنوعی اختصاصی خود با نام «چشمه خرد» رونمایی کرد appeared first on دیجیاتو."
+    },
+    {
+      "title": "کمیسیون اروپا با ابزارهای هوش مصنوعی هدف حمله سایبری قرار گرفت",
+      "url": "https://digiato.com/security/eu-commission-targeted-in-cyberattack-through-ai-tools",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-11-20T10:23:21.000Z",
+      "summary": "این حمله چندین اپلیکیشن و سامانه از جمله سیستم‌های منابع انسانی را هدف قرار داده است. The post کمیسیون اروپا با ابزارهای هوش مصنوعی هدف حمله سایبری قرار گرفت appeared first on دیجیاتو."
+    },
     {
       "title": "هوش مصنوعی بعدی اپل به‌جای شما با کامپیوتر کار می‌کند",
       "url": "https://www.zoomit.ir/ai-articles/471501-apple-ai-agent-control-apps-devices-browsing-coding/",
@@ -18,22 +58,6 @@
       "summary": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots."
     },
     {
-      "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
-      "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-11-20T00:43:50.000Z",
-      "summary": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion."
-    },
-    {
-      "title": "Meta’s new Muse Charm device may cost $300",
-      "url": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-11-19T21:58:06.000Z",
-      "summary": "Meta hasn't denied the reporting from The Information, saying only that it will \"have more to share soon\" about its upcoming AI wearable."
-    },
-    {
       "title": "جایگزینی گزارشگران مسابقات بازی The Finals با هوش مصنوعی جنجال به پا کرد",
       "url": "https://www.zoomit.ir/gaming/471399-embark-studios-ai-commentary-controversy/",
       "source": "زومیت",
@@ -48,14 +72,6 @@
       "lang": "fa",
       "published": "2026-11-19T13:00:00.000Z",
       "summary": "پلتفرم مدیریت استخراج بیت‌کوین لوکسور هدف حمله‌ی سایبری مبتنی‌بر هوش مصنوعی قرار گرفت و توان پردازشی مشتریان به استخر دیگری منتقل شد."
-    },
-    {
-      "title": "صادرات کره جنوبی با تکیه بر تراشه‌های هوش مصنوعی از یک تریلیون دلار عبور کرد",
-      "url": "https://digiato.com/finance-investment/south-korea-hits-1-trillion-exports-ai-chip-boom",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-11-19T12:52:49.000Z",
-      "summary": "رشد ۱۸۴ درصدی صادرات نیمه‌رساناها در سال ۲۰۲۶، سهم این بخش را به ۴۲ درصد از کل صادرات کره جنوبی رساند. The post صادرات کره جنوبی با تکیه بر تراشه‌های هوش مصنوعی از یک تریلیون دلار عبور کرد appeared first on دیجیاتو."
     },
     {
       "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
@@ -80,22 +96,6 @@
       "lang": "en",
       "published": "2026-11-19T00:00:00.000Z",
       "summary": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow."
-    },
-    {
-      "title": "Introducing Gemini 4 Neon",
-      "url": "https://deepmind.google/blog/introducing-gemini-4-neon/",
-      "source": "Google DeepMind",
-      "lang": "en",
-      "published": "2026-11-18T21:35:43.000Z",
-      "summary": ""
-    },
-    {
-      "title": "Genie 4 is now available",
-      "url": "https://deepmind.google/blog/genie-4-is-now-available/",
-      "source": "Google DeepMind",
-      "lang": "en",
-      "published": "2026-11-18T18:13:42.000Z",
-      "summary": ""
     }
   ]
 }
