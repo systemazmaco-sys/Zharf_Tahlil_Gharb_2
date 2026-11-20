@@ -1,21 +1,61 @@
 {
-  "updated_at": "2026-11-20T14:55:56.892Z",
+  "updated_at": "2026-11-20T23:28:19.602Z",
   "items": [
     {
-      "title": "The fallout from Nvidia’s Jensen Huang scandal continues",
-      "url": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/",
+      "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+      "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
       "source": "TechCrunch AI",
       "lang": "en",
-      "published": "2026-11-20T14:55:44.000Z",
-      "summary": "In the midst of dealing with the fallout from its ouster of CEO Jensen Huang, Nvidia delivered its latest earnings report this week, with healthy growth and promises that the good times will continue. At the same time, t"
+      "published": "2026-11-20T19:53:41.000Z",
+      "summary": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building."
     },
     {
-      "title": "Six AI-powered gadgets that could make your home office smarter",
-      "url": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
+      "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
+      "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
       "source": "TechCrunch AI",
       "lang": "en",
-      "published": "2026-11-20T14:00:00.000Z",
-      "summary": "From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace."
+      "published": "2026-11-20T19:32:08.000Z",
+      "summary": "Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too."
+    },
+    {
+      "title": "The most misunderstood graph in AI just got a major update",
+      "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+      "source": "MIT Technology Review",
+      "lang": "en",
+      "published": "2026-11-20T18:15:15.000Z",
+      "summary": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require ju"
+    },
+    {
+      "title": "Chips can survive the space environment — can their financing?",
+      "url": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-11-20T17:40:01.000Z",
+      "summary": "Lenders don't want SpaceX shooting their collateral into orbit. What does that mean for space data centers writ large?"
+    },
+    {
+      "title": "منابع انسانی بدون انسان؛ آیا می‌توان تصمیم‌های شغلی را به هوش مصنوعی سپرد؟",
+      "url": "https://digiato.com/artificial-intelligence/what-happent-when-ai-gets-in-human-resources",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-11-20T17:30:00.000Z",
+      "summary": "هوش مصنوعی عامل‌محور می‌تواند وظایف منابع انسانی را مستقل انجام دهد؛ اما درک شرایط شخصی کارکنان همچنان به قضاوت انسانی نیاز دارد. The post منابع انسانی بدون انسان؛ آیا می‌توان تصمیم‌های شغلی را به هوش مصنوعی سپرد؟ appear"
+    },
+    {
+      "title": "ساخت ربات پرنده‌ای که روی گل‌ها می‌نشیند؛ گامی تازه به‌سوی گرده‌افشانی رباتیک",
+      "url": "https://www.zoomit.ir/robotics-smart-machines/471551-tiny-flying-robot-insect-mit/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-11-20T17:25:00.000Z",
+      "summary": "پژوهشگران ربات پرنده‌ی کوچکی ساخته‌اند که بدون نیاز به دوربین‌های خارجی در هوا معلق می‌ماند و شاید روزی جایگزینی کمکی برای گرده‌افشان‌های طبیعی باشد."
+    },
+    {
+      "title": "کلاهبرداری با چهره جعلی ایلان ماسک؛ هوش مصنوعی کوین‌بیس جلوی فاجعه را گرفت",
+      "url": "https://www.zoomit.ir/security/471464-coinbase-ai-blocks-musk-scam/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-11-20T15:10:00.000Z",
+      "summary": "سیستم دفاعی مبتنی‌بر هوش مصنوعی کوین‌بیس موفق به مسدودسازی تراکنش‌های کلاهبرداری ۴٫۷ میلیون دلاری شد."
     },
     {
       "title": "سیگنال برای مقابله با جاسوسی ایجنت‌های هوش مصنوعی، اسکرین‌شات را محدود می‌کند",
@@ -34,12 +74,12 @@
       "summary": "این چت‌بات طراحی شبیه به ChatGPT دارد و به پرسش‌های علمی و فناوری به زبان‌های کره‌ای و انگلیسی پاسخ می‌دهد. The post کره شمالی از چت‌بات هوش مصنوعی اختصاصی خود با نام «چشمه خرد» رونمایی کرد appeared first on دیجیاتو."
     },
     {
-      "title": "کمیسیون اروپا با ابزارهای هوش مصنوعی هدف حمله سایبری قرار گرفت",
-      "url": "https://digiato.com/security/eu-commission-targeted-in-cyberattack-through-ai-tools",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-11-20T10:23:21.000Z",
-      "summary": "این حمله چندین اپلیکیشن و سامانه از جمله سیستم‌های منابع انسانی را هدف قرار داده است. The post کمیسیون اروپا با ابزارهای هوش مصنوعی هدف حمله سایبری قرار گرفت appeared first on دیجیاتو."
+      "title": "Combatting adversarial distillation",
+      "url": "https://openai.com/index/combatting-adversarial-distillation",
+      "source": "OpenAI",
+      "lang": "en",
+      "published": "2026-11-20T10:00:00.000Z",
+      "summary": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction."
     },
     {
       "title": "هوش مصنوعی بعدی اپل به‌جای شما با کامپیوتر کار می‌کند",
@@ -50,52 +90,12 @@
       "summary": "اپل در حال توسعه‌ی عامل هوش مصنوعی جدیدی است که می‌تواند کامپیوتر را کنترل کند، در وب جست‌وجو کند و کد بنویسد."
     },
     {
-      "title": "Apple may be developing its own AI agent that runs your Mac",
-      "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-11-20T00:56:01.000Z",
-      "summary": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots."
-    },
-    {
-      "title": "جایگزینی گزارشگران مسابقات بازی The Finals با هوش مصنوعی جنجال به پا کرد",
-      "url": "https://www.zoomit.ir/gaming/471399-embark-studios-ai-commentary-controversy/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-11-19T17:45:00.000Z",
-      "summary": "استودیوی Embark پس از حذف صدای گزارشگران واقعی مسابقات بازی The Finals و جایگزینی آن‌ها با هوش مصنوعی، ناچار به حذف ویدیوی رسمی و عذرخواهی شد."
-    },
-    {
-      "title": "جنگ سایبری تازه در شبکه بیت‌کوین با کمک هوش مصنوعی",
-      "url": "https://www.zoomit.ir/cryptocurrency/471236-luxor-ai-cyberattack-bitcoin-mining/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-11-19T13:00:00.000Z",
-      "summary": "پلتفرم مدیریت استخراج بیت‌کوین لوکسور هدف حمله‌ی سایبری مبتنی‌بر هوش مصنوعی قرار گرفت و توان پردازشی مشتریان به استخر دیگری منتقل شد."
-    },
-    {
-      "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
-      "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+      "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+      "url": "https://openai.com/business/customer-stories/hebbia",
       "source": "OpenAI",
       "lang": "en",
-      "published": "2026-11-19T08:00:00.000Z",
-      "summary": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast."
-    },
-    {
-      "title": "Deploying Daybreak Red",
-      "url": "https://openai.com/business/learn/deploying-daybreak-red",
-      "source": "OpenAI",
-      "lang": "en",
-      "published": "2026-11-19T00:00:00.000Z",
-      "summary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring."
-    },
-    {
-      "title": "See PR scans in action",
-      "url": "https://openai.com/business/learn/pr-scans-demo",
-      "source": "OpenAI",
-      "lang": "en",
-      "published": "2026-11-19T00:00:00.000Z",
-      "summary": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow."
+      "published": "2026-11-20T00:00:00.000Z",
+      "summary": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality."
     }
   ]
 }
