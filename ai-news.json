@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-22T13:44:33.058Z",
+  "updated_at": "2026-11-22T22:55:50.315Z",
   "items": [
+    {
+      "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+      "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-11-22T21:14:07.000Z",
+      "summary": "To establish a speed limit on AI development, you need to agree on how to measure speed."
+    },
+    {
+      "title": "Why data centers are at the center of the Big Tech backlash",
+      "url": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-11-22T18:08:43.000Z",
+      "summary": "Journalist Paris Marx unpacks his new book \"Hyperscale.\""
+    },
     {
       "title": "هشدار جدی سیگنال درباره جاسوسی ناخواسته هوش مصنوعی؛ پیام‌های رمزگذاری‌شده هم در خطرند",
       "url": "https://www.zoomit.ir/security/471540-signal-restricts-screenshots-against-ai/",
@@ -26,28 +42,20 @@
       "summary": "توسعه‌دهندگان با استفاده از ابزار متن‌باز AnyPS5 و مدل‌های هوش مصنوعی، فرایند پورت بازی GTA 6 را برای کامپیوتر آغاز کرده‌اند."
     },
     {
+      "title": "Perplexity and Intelligence",
+      "url": "https://openai.com/index/perplexity-and-intelligence",
+      "source": "OpenAI",
+      "lang": "en",
+      "published": "2026-11-22T00:00:00.000Z",
+      "summary": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities."
+    },
+    {
       "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
       "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
       "source": "TechCrunch AI",
       "lang": "en",
       "published": "2026-11-21T21:37:10.000Z",
       "summary": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps."
-    },
-    {
-      "title": "A tale of two Nvidias",
-      "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-11-21T21:07:42.000Z",
-      "summary": "We got two very different pictures of Nvidia — the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return."
-    },
-    {
-      "title": "Here are the top AI agents that can live in your text messages",
-      "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-11-21T17:00:00.000Z",
-      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work."
     },
     {
       "title": "The most misunderstood graph in AI just got a major update",
@@ -72,14 +80,6 @@
       "lang": "en",
       "published": "2026-11-20T00:00:00.000Z",
       "summary": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality."
-    },
-    {
-      "title": "Can AI help scientists identify promising drug candidates?",
-      "url": "https://openai.com/index/introducing-medchembench",
-      "source": "OpenAI",
-      "lang": "en",
-      "published": "2026-11-20T00:00:00.000Z",
-      "summary": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery."
     },
     {
       "title": "Introducing Gemini 4 Neon",
