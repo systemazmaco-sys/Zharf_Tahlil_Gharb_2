@@ -1,13 +1,29 @@
 {
-  "updated_at": "2026-11-22T03:55:07.511Z",
+  "updated_at": "2026-11-22T13:44:33.058Z",
   "items": [
     {
-      "title": "هوش مصنوعی جمنای کنترل مک را به دست می‌گیرد؛ انجام کارها بدون نیاز به کلیک و تایپ کاربر",
-      "url": "https://www.zoomit.ir/ai-articles/471517-google-gemini-mac-computer-use/",
+      "title": "هشدار جدی سیگنال درباره جاسوسی ناخواسته هوش مصنوعی؛ پیام‌های رمزگذاری‌شده هم در خطرند",
+      "url": "https://www.zoomit.ir/security/471540-signal-restricts-screenshots-against-ai/",
       "source": "زومیت",
       "lang": "fa",
-      "published": "2026-11-22T02:30:00.000Z",
-      "summary": "گوگل قابلیت جدیدی را در جمنای فعال کرده است که کنترل مستقیم کامپیوترهای مک را برای انجام خودکار کارها ممکن می‌کند."
+      "published": "2026-11-22T11:00:00.000Z",
+      "summary": "پیام‌رسان سیگنال برای جلوگیری از خوانده‌شدن چت‌های خصوصی توسط عاملان هوش مصنوعی، قابلیت اسکرین‌شات را محدود کرد."
+    },
+    {
+      "title": "چطور با ۷ دستور ساده، هر موضوعی را با هوش مصنوعی یاد بگیریم؟",
+      "url": "https://www.zoomit.ir/ai-tutorials/470675-ai-study-prompts-private-tutor/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-11-22T10:07:56.000Z",
+      "summary": "با معرفی هفت دستور ساده به هوش مصنوعی می‌توانید از آن برای یادگیری مفاهیم دشوار، خلاصه‌سازی جزوه، آزمون‌گرفتن و مرور مطالب درسی استفاده کنید."
+    },
+    {
+      "title": "برنامه‌نویسان به کمک هوش مصنوعی برای اجرای GTA 6 روی کامپیوتر تلاش می‌کنند",
+      "url": "https://www.zoomit.ir/gaming/471657-gta-6-pc-port-github/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-11-22T09:39:42.000Z",
+      "summary": "توسعه‌دهندگان با استفاده از ابزار متن‌باز AnyPS5 و مدل‌های هوش مصنوعی، فرایند پورت بازی GTA 6 را برای کامپیوتر آغاز کرده‌اند."
     },
     {
       "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
@@ -34,28 +50,12 @@
       "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work."
     },
     {
-      "title": "هوش مصنوعی کلاد فرضیه ریمان، مشهورترین مسئله تاریخ ریاضی را احتمالاً حل کرده است",
-      "url": "https://www.zoomit.ir/fundamental-science/471591-ai-riemann-hypothesis-proof/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-11-21T10:15:00.000Z",
-      "summary": "ریاضی‌دان شاغل در شرکت آنتروپیک مدعی شده است که با کمک هوش مصنوعی کلاد، فرضیه ریمان، یکی از بزرگ‌ترین مسائل حل‌نشده ریاضیات را ثابت کرده است."
-    },
-    {
       "title": "The most misunderstood graph in AI just got a major update",
       "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
       "source": "MIT Technology Review",
       "lang": "en",
       "published": "2026-11-20T18:15:15.000Z",
       "summary": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require ju"
-    },
-    {
-      "title": "ساخت ربات پرنده‌ای که روی گل‌ها می‌نشیند؛ گامی تازه به‌سوی گرده‌افشانی رباتیک",
-      "url": "https://www.zoomit.ir/robotics-smart-machines/471551-tiny-flying-robot-insect-mit/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-11-20T17:25:00.000Z",
-      "summary": "پژوهشگران ربات پرنده‌ی کوچکی ساخته‌اند که بدون نیاز به دوربین‌های خارجی در هوا معلق می‌ماند و شاید روزی جایگزینی کمکی برای گرده‌افشان‌های طبیعی باشد."
     },
     {
       "title": "Combatting adversarial distillation",
