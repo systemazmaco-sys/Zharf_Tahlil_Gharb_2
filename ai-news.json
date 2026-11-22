@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-21T22:33:10.320Z",
+  "updated_at": "2026-11-22T03:55:07.511Z",
   "items": [
+    {
+      "title": "هوش مصنوعی جمنای کنترل مک را به دست می‌گیرد؛ انجام کارها بدون نیاز به کلیک و تایپ کاربر",
+      "url": "https://www.zoomit.ir/ai-articles/471517-google-gemini-mac-computer-use/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-11-22T02:30:00.000Z",
+      "summary": "گوگل قابلیت جدیدی را در جمنای فعال کرده است که کنترل مستقیم کامپیوترهای مک را برای انجام خودکار کارها ممکن می‌کند."
+    },
     {
       "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
       "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
@@ -48,14 +56,6 @@
       "lang": "fa",
       "published": "2026-11-20T17:25:00.000Z",
       "summary": "پژوهشگران ربات پرنده‌ی کوچکی ساخته‌اند که بدون نیاز به دوربین‌های خارجی در هوا معلق می‌ماند و شاید روزی جایگزینی کمکی برای گرده‌افشان‌های طبیعی باشد."
-    },
-    {
-      "title": "کلاهبرداری با چهره جعلی ایلان ماسک؛ هوش مصنوعی کوین‌بیس جلوی فاجعه را گرفت",
-      "url": "https://www.zoomit.ir/security/471464-coinbase-ai-blocks-musk-scam/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-11-20T15:10:00.000Z",
-      "summary": "سیستم دفاعی مبتنی‌بر هوش مصنوعی کوین‌بیس موفق به مسدودسازی تراکنش‌های کلاهبرداری ۴٫۷ میلیون دلاری شد."
     },
     {
       "title": "Combatting adversarial distillation",
