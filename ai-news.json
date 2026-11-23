@@ -1,29 +1,53 @@
 {
-  "updated_at": "2026-11-23T04:35:33.927Z",
+  "updated_at": "2026-11-23T16:45:20.351Z",
   "items": [
     {
-      "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
-      "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+      "title": "Trump reportedly called into Nvidia board meeting to advocate for Huang’s return",
+      "url": "https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/",
       "source": "TechCrunch AI",
       "lang": "en",
-      "published": "2026-11-23T01:25:53.000Z",
-      "summary": "Three significant backers share what gave them conviction to bet billions on Anthropic."
+      "published": "2026-11-23T16:39:10.000Z",
+      "summary": "\"I spoke to them, let me put it that way... And I convinced them,\" the president told CNBC."
     },
     {
-      "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
-      "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-11-22T21:14:07.000Z",
-      "summary": "To establish a speed limit on AI development, you need to agree on how to measure speed."
+      "title": "آنتروپیک چگونه کاربران Claude را از روی مشخصات مرورگر شناسایی می‌کند؟",
+      "url": "https://digiato.com/artificial-intelligence/claude-sift-browser-fingerprinting-privacy",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-11-23T15:30:00.000Z",
+      "summary": "یک پژوهشگر چینی می‌گوید کلاد آنتروپیک اطلاعات مرورگر و دستگاه کاربران را جمع‌آوری و حتی پس از پاک‌کردن کوکی‌ها نیز آن‌ها را شناسایی می‌کند. The post آنتروپیک چگونه کاربران Claude را از روی مشخصات مرورگر شناسایی می‌کند؟ a"
     },
     {
-      "title": "Why data centers are at the center of the Big Tech backlash",
-      "url": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
+      "title": "Trump endorses Jensen Huang’s return to Nvidia, says US has no evidence of wrongdoing",
+      "url": "https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/",
       "source": "TechCrunch AI",
       "lang": "en",
-      "published": "2026-11-22T18:08:43.000Z",
-      "summary": "Journalist Paris Marx unpacks his new book \"Hyperscale.\""
+      "published": "2026-11-23T15:04:01.000Z",
+      "summary": "The president cited the U.S. attorney general in defending Huang's return, while urging Nvidia to continue its export-control investigation."
+    },
+    {
+      "title": "Sierra doubles valuation to $30B within six months as demand for AI in CX takes off",
+      "url": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-11-23T14:43:03.000Z",
+      "summary": "Enterprise customer experience company Sierra, co-founded by former Salesforce co-CEO Bret Taylor, said on Monday that it has raised $1.75 billion in a Series F round."
+    },
+    {
+      "title": "ساخت ویدیو رایگان با هوش مصنوعی گوگل؛ آموزش انتقال حرکت ویدیو به کاراکتر با گوگل فلو",
+      "url": "https://www.zoomit.ir/ai-articles/471584-google-flow-ai-motion-transfer/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-11-23T14:30:00.000Z",
+      "summary": "با ترکیب ChatGPT و مدل Omni در گوگل فلو می‌توانید شخصیت اختصاصی بسازید و حرکات یک ویدیوی مرجع را به آن منتقل کنید."
+    },
+    {
+      "title": "هوش مصنوعی GLM-5.4 از راه رسید؛ پردازش تصویر، برنامه‌نویسی بهتر و محدودیت‌های کمتر",
+      "url": "https://www.zoomit.ir/ai-articles/471701-zai-glm-5-4-coding-model/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-11-23T07:33:14.000Z",
+      "summary": "شرکت Z.ai هوش مصنوعی GLM-5.4 را با پشتیبانی از تصویر و افزایش ۵۰ درصدی سهمیه‌ی هفتگی ارائه کرد."
     },
     {
       "title": "هشدار جدی سیگنال درباره جاسوسی ناخواسته هوش مصنوعی؛ پیام‌های رمزگذاری‌شده هم در خطرند",
@@ -32,22 +56,6 @@
       "lang": "fa",
       "published": "2026-11-22T11:00:00.000Z",
       "summary": "پیام‌رسان سیگنال برای جلوگیری از خوانده‌شدن چت‌های خصوصی توسط عاملان هوش مصنوعی، قابلیت اسکرین‌شات را محدود کرد."
-    },
-    {
-      "title": "چطور با ۷ دستور ساده، هر موضوعی را با هوش مصنوعی یاد بگیریم؟",
-      "url": "https://www.zoomit.ir/ai-tutorials/470675-ai-study-prompts-private-tutor/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-11-22T10:07:56.000Z",
-      "summary": "با معرفی هفت دستور ساده به هوش مصنوعی می‌توانید از آن برای یادگیری مفاهیم دشوار، خلاصه‌سازی جزوه، آزمون‌گرفتن و مرور مطالب درسی استفاده کنید."
-    },
-    {
-      "title": "برنامه‌نویسان به کمک هوش مصنوعی برای اجرای GTA 6 روی کامپیوتر تلاش می‌کنند",
-      "url": "https://www.zoomit.ir/gaming/471657-gta-6-pc-port-github/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-11-22T09:39:42.000Z",
-      "summary": "توسعه‌دهندگان با استفاده از ابزار متن‌باز AnyPS5 و مدل‌های هوش مصنوعی، فرایند پورت بازی GTA 6 را برای کامپیوتر آغاز کرده‌اند."
     },
     {
       "title": "Perplexity and Intelligence",
@@ -87,14 +95,6 @@
       "source": "Google DeepMind",
       "lang": "en",
       "published": "2026-11-18T21:35:43.000Z",
-      "summary": ""
-    },
-    {
-      "title": "Genie 4 is now available",
-      "url": "https://deepmind.google/blog/genie-4-is-now-available/",
-      "source": "Google DeepMind",
-      "lang": "en",
-      "published": "2026-11-18T18:13:42.000Z",
       "summary": ""
     }
   ]
