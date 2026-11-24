@@ -1,13 +1,77 @@
 {
-  "updated_at": "2026-11-23T16:45:20.351Z",
+  "updated_at": "2026-11-24T03:34:50.825Z",
   "items": [
     {
-      "title": "Trump reportedly called into Nvidia board meeting to advocate for Huang’s return",
-      "url": "https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/",
+      "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+      "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
       "source": "TechCrunch AI",
       "lang": "en",
-      "published": "2026-11-23T16:39:10.000Z",
-      "summary": "\"I spoke to them, let me put it that way... And I convinced them,\" the president told CNBC."
+      "published": "2026-11-23T22:05:50.000Z",
+      "summary": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals."
+    },
+    {
+      "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+      "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-11-23T22:02:05.000Z",
+      "summary": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself."
+    },
+    {
+      "title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
+      "url": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-11-23T21:47:41.000Z",
+      "summary": "\"The mistake has been corrected,\" Elon Musk chimed in."
+    },
+    {
+      "title": "OpenAI and Cisco introduce Shirudo",
+      "url": "https://openai.com/index/introducing-shirudo",
+      "source": "OpenAI",
+      "lang": "en",
+      "published": "2026-11-23T21:20:00.000Z",
+      "summary": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches."
+    },
+    {
+      "title": "سامسونگ با هوش مصنوعی عکس‌های شما را به ویدیوهای کوتاه تبدیل می‌کند",
+      "url": "https://www.zoomit.ir/ai-articles/471682-samsung-gallery-shorts-feature-leak/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-11-23T19:00:00.000Z",
+      "summary": "سامسونگ قابلیت تازه‌ای به نام Shorts را برای تبدیل خودکار عکس‌ها و ویدیوها به کلیپ‌های کوتاه توسعه می‌دهد."
+    },
+    {
+      "title": "هک، هوش مصنوعی یا شکنندگی؛ چرا سرویس‌های بزرگ آنلاین یکباره از کار افتادند؟",
+      "url": "https://digiato.com/internet-network/fragile-digital-world-could-collapse-easily",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-11-23T18:30:00.000Z",
+      "summary": "چرا یک باگ کوچک، تجهیزات قدیمی یا یک سرویس ثالث می‌تواند کل زیرساخت دیجیتال ما را فلج کند. The post هک، هوش مصنوعی یا شکنندگی؛ چرا سرویس‌های بزرگ آنلاین یکباره از کار افتادند؟ appeared first on دیجیاتو."
+    },
+    {
+      "title": "HONOR 600 Lite؛ ترکیبی متعادل از طراحی، دوربین، باتری و هوش مصنوعی",
+      "url": "https://digiato.com/iran-technology-news/honor-600-lite",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-11-23T18:09:41.000Z",
+      "summary": "دکمه اختصاصی AI Camera Button است که کار با دوربین و دسترسی به امکانات هوشمند را ساده‌تر می‌کند The post HONOR 600 Lite؛ ترکیبی متعادل از طراحی، دوربین، باتری و هوش مصنوعی appeared first on دیجیاتو."
+    },
+    {
+      "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
+      "url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
+      "source": "MIT Technology Review",
+      "lang": "en",
+      "published": "2026-11-23T17:36:08.000Z",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Before going public last week, Anthropic named the possibility that AI could be co"
+    },
+    {
+      "title": "Finding faster quantum algorithms with agents and formal verification",
+      "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+      "source": "Google DeepMind",
+      "lang": "en",
+      "published": "2026-11-23T16:59:40.000Z",
+      "summary": "Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry."
     },
     {
       "title": "آنتروپیک چگونه کاربران Claude را از روی مشخصات مرورگر شناسایی می‌کند؟",
@@ -18,22 +82,6 @@
       "summary": "یک پژوهشگر چینی می‌گوید کلاد آنتروپیک اطلاعات مرورگر و دستگاه کاربران را جمع‌آوری و حتی پس از پاک‌کردن کوکی‌ها نیز آن‌ها را شناسایی می‌کند. The post آنتروپیک چگونه کاربران Claude را از روی مشخصات مرورگر شناسایی می‌کند؟ a"
     },
     {
-      "title": "Trump endorses Jensen Huang’s return to Nvidia, says US has no evidence of wrongdoing",
-      "url": "https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-11-23T15:04:01.000Z",
-      "summary": "The president cited the U.S. attorney general in defending Huang's return, while urging Nvidia to continue its export-control investigation."
-    },
-    {
-      "title": "Sierra doubles valuation to $30B within six months as demand for AI in CX takes off",
-      "url": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-11-23T14:43:03.000Z",
-      "summary": "Enterprise customer experience company Sierra, co-founded by former Salesforce co-CEO Bret Taylor, said on Monday that it has raised $1.75 billion in a Series F round."
-    },
-    {
       "title": "ساخت ویدیو رایگان با هوش مصنوعی گوگل؛ آموزش انتقال حرکت ویدیو به کاراکتر با گوگل فلو",
       "url": "https://www.zoomit.ir/ai-articles/471584-google-flow-ai-motion-transfer/",
       "source": "زومیت",
@@ -42,60 +90,12 @@
       "summary": "با ترکیب ChatGPT و مدل Omni در گوگل فلو می‌توانید شخصیت اختصاصی بسازید و حرکات یک ویدیوی مرجع را به آن منتقل کنید."
     },
     {
-      "title": "هوش مصنوعی GLM-5.4 از راه رسید؛ پردازش تصویر، برنامه‌نویسی بهتر و محدودیت‌های کمتر",
-      "url": "https://www.zoomit.ir/ai-articles/471701-zai-glm-5-4-coding-model/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-11-23T07:33:14.000Z",
-      "summary": "شرکت Z.ai هوش مصنوعی GLM-5.4 را با پشتیبانی از تصویر و افزایش ۵۰ درصدی سهمیه‌ی هفتگی ارائه کرد."
-    },
-    {
-      "title": "هشدار جدی سیگنال درباره جاسوسی ناخواسته هوش مصنوعی؛ پیام‌های رمزگذاری‌شده هم در خطرند",
-      "url": "https://www.zoomit.ir/security/471540-signal-restricts-screenshots-against-ai/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-11-22T11:00:00.000Z",
-      "summary": "پیام‌رسان سیگنال برای جلوگیری از خوانده‌شدن چت‌های خصوصی توسط عاملان هوش مصنوعی، قابلیت اسکرین‌شات را محدود کرد."
-    },
-    {
-      "title": "Perplexity and Intelligence",
-      "url": "https://openai.com/index/perplexity-and-intelligence",
+      "title": "Connected intelligence for in-house legal",
+      "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
       "source": "OpenAI",
       "lang": "en",
-      "published": "2026-11-22T00:00:00.000Z",
-      "summary": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities."
-    },
-    {
-      "title": "The most misunderstood graph in AI just got a major update",
-      "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
-      "source": "MIT Technology Review",
-      "lang": "en",
-      "published": "2026-11-20T18:15:15.000Z",
-      "summary": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require ju"
-    },
-    {
-      "title": "Combatting adversarial distillation",
-      "url": "https://openai.com/index/combatting-adversarial-distillation",
-      "source": "OpenAI",
-      "lang": "en",
-      "published": "2026-11-20T10:00:00.000Z",
-      "summary": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction."
-    },
-    {
-      "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
-      "url": "https://openai.com/business/customer-stories/hebbia",
-      "source": "OpenAI",
-      "lang": "en",
-      "published": "2026-11-20T00:00:00.000Z",
-      "summary": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality."
-    },
-    {
-      "title": "Introducing Gemini 4 Neon",
-      "url": "https://deepmind.google/blog/introducing-gemini-4-neon/",
-      "source": "Google DeepMind",
-      "lang": "en",
-      "published": "2026-11-18T21:35:43.000Z",
-      "summary": ""
+      "published": "2026-11-23T08:00:00.000Z",
+      "summary": "Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect business context, build reusable workflows and get more from outside co"
     }
   ]
 }
