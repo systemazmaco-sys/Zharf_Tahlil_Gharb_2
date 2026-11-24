@@ -1,29 +1,77 @@
 {
-  "updated_at": "2026-11-24T03:34:50.825Z",
+  "updated_at": "2026-11-24T16:40:15.545Z",
   "items": [
     {
-      "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
-      "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-11-23T22:05:50.000Z",
-      "summary": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals."
+      "title": "نگرانی کارمندان اوپن‌ای‌آی و آنتروپیک؛ شاید دیگر نتوان هوش مصنوعی را کنترل کرد",
+      "url": "https://www.zoomit.ir/ai-articles/471791-openai-anthropic-employees-unreleased-ai-models-safety-concerns/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-11-24T16:19:43.000Z",
+      "summary": "کارکنان اوپن‌ای‌آی و آنتروپیک هشدار می‌دهند مدل‌های آزمایشی هوش مصنوعی چنان قدرتمند شده‌اند که عرضه‌ی ایمن آن‌ها با تردیدهای جدی روبه‌رو است."
     },
     {
-      "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
-      "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+      "title": "Why a Crusoe investor is betting on solar and batteries to power future AI data centers",
+      "url": "https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/",
       "source": "TechCrunch AI",
       "lang": "en",
-      "published": "2026-11-23T22:02:05.000Z",
-      "summary": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself."
+      "published": "2026-11-24T16:10:00.000Z",
+      "summary": "Next-generation data centers will need tens of gigawatts of power every year. One of Crusoe's investors thinks solar and energy storage are the obvious choice."
     },
     {
-      "title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
-      "url": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/",
+      "title": "Pinterest will now let parents limit the AI-generated content their teens see",
+      "url": "https://techcrunch.com/2026/11/24/pinterest-will-now-let-parents-limit-the-ai-generated-content-their-teens-see/",
       "source": "TechCrunch AI",
       "lang": "en",
-      "published": "2026-11-23T21:47:41.000Z",
-      "summary": "\"The mistake has been corrected,\" Elon Musk chimed in."
+      "published": "2026-11-24T16:02:37.000Z",
+      "summary": "While other social platforms have focused on restricting teens' access to AI chatbots, Pinterest is addressing the AI content filling their feeds."
+    },
+    {
+      "title": "Amazon’s Decart acquisition is a bet on using software to narrow the gap with Nvidia in the AI chip race",
+      "url": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-11-24T15:51:07.000Z",
+      "summary": "Amazon’s decision to acquire Decart for a reported $7.5 billion is part of its efforts to improve the efficiency of its Trainium chips."
+    },
+    {
+      "title": "Raising the stakes for enterprise networks with AI modernization",
+      "url": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/",
+      "source": "MIT Technology Review",
+      "lang": "en",
+      "published": "2026-11-24T15:15:16.000Z",
+      "summary": "Enterprise networks are under severe strain. As companies rush to deploy artificial intelligence, the technology is quickly becoming the biggest source of demand on the network. Now, agentic AI is adding to the load. Tas"
+    },
+    {
+      "title": "هشدار مدیر هوش مصنوعی متا: نباید با واگذاری کنترل جامعه به هوش مصنوعی کنار بیاییم",
+      "url": "https://digiato.com/artificial-intelligence/meta-ai-chief-warns-against-superintelligence-handover",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-11-24T14:16:00.000Z",
+      "summary": "«الکساندر وانگ» پس از انتشار خبر حل فرضیه ریمان توسط مدل Claude، درباره آینده بشریت هشدار داد. The post هشدار مدیر هوش مصنوعی متا: نباید با واگذاری کنترل جامعه به هوش مصنوعی کنار بیاییم appeared first on دیجیاتو."
+    },
+    {
+      "title": "ایده عجیب گوگل: ساخت کانال تلویزیونی با AI که شما شخصیت اصلی فیلم‌های آن هستید",
+      "url": "https://digiato.com/artificial-intelligence/google-ai-personalized-tv-shows",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-11-24T14:01:00.000Z",
+      "summary": "گوگل ایده ساخت برنامه‌های تلویزیونی با هوش مصنوعی را مطرح کرده که در آن خود کاربر نقش اصلی داستان را بازی می‌کند. The post ایده عجیب گوگل: ساخت کانال تلویزیونی با AI که شما شخصیت اصلی فیلم‌های آن هستید appeared first on "
+    },
+    {
+      "title": "آغاز فعالیت اپراتور هوش مصنوعی/ هاشمی: شرکت‌های فناور می‌توانند بدون خرید تجهیزات، خدمات پردازشی دریافت کنند",
+      "url": "https://www.zoomit.ir/iran-news/471783-iran-first-ai-operator-approval/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-11-24T13:58:18.000Z",
+      "summary": "وزیر ارتباطات می‌گوید با صدور اولین موافقت اصولی اپراتور هوش مصنوعی، شرکت‌های فناور می‌توانند بدون خرید سخت‌افزار به منابع پردازشی و GPU دسترسی یابند."
+    },
+    {
+      "title": "راهنمای استفاده از هوش مصنوعی در پژوهش ابلاغ شد",
+      "url": "https://www.zoomit.ir/iran-news/471737-ai-research-guidelines-iran-university-science-technology/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-11-24T07:41:00.000Z",
+      "summary": "دانشگاه علم و صنعت اولین ویراست راهنمای استفاده از هوش مصنوعی در پژوهش را ابلاغ کرد؛ سندی که بر شفافیت و مسئولیت نهایی پژوهشگر تأکید دارد."
     },
     {
       "title": "OpenAI and Cisco introduce Shirudo",
@@ -32,30 +80,6 @@
       "lang": "en",
       "published": "2026-11-23T21:20:00.000Z",
       "summary": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches."
-    },
-    {
-      "title": "سامسونگ با هوش مصنوعی عکس‌های شما را به ویدیوهای کوتاه تبدیل می‌کند",
-      "url": "https://www.zoomit.ir/ai-articles/471682-samsung-gallery-shorts-feature-leak/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-11-23T19:00:00.000Z",
-      "summary": "سامسونگ قابلیت تازه‌ای به نام Shorts را برای تبدیل خودکار عکس‌ها و ویدیوها به کلیپ‌های کوتاه توسعه می‌دهد."
-    },
-    {
-      "title": "هک، هوش مصنوعی یا شکنندگی؛ چرا سرویس‌های بزرگ آنلاین یکباره از کار افتادند؟",
-      "url": "https://digiato.com/internet-network/fragile-digital-world-could-collapse-easily",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-11-23T18:30:00.000Z",
-      "summary": "چرا یک باگ کوچک، تجهیزات قدیمی یا یک سرویس ثالث می‌تواند کل زیرساخت دیجیتال ما را فلج کند. The post هک، هوش مصنوعی یا شکنندگی؛ چرا سرویس‌های بزرگ آنلاین یکباره از کار افتادند؟ appeared first on دیجیاتو."
-    },
-    {
-      "title": "HONOR 600 Lite؛ ترکیبی متعادل از طراحی، دوربین، باتری و هوش مصنوعی",
-      "url": "https://digiato.com/iran-technology-news/honor-600-lite",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-11-23T18:09:41.000Z",
-      "summary": "دکمه اختصاصی AI Camera Button است که کار با دوربین و دسترسی به امکانات هوشمند را ساده‌تر می‌کند The post HONOR 600 Lite؛ ترکیبی متعادل از طراحی، دوربین، باتری و هوش مصنوعی appeared first on دیجیاتو."
     },
     {
       "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
@@ -72,30 +96,6 @@
       "lang": "en",
       "published": "2026-11-23T16:59:40.000Z",
       "summary": "Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry."
-    },
-    {
-      "title": "آنتروپیک چگونه کاربران Claude را از روی مشخصات مرورگر شناسایی می‌کند؟",
-      "url": "https://digiato.com/artificial-intelligence/claude-sift-browser-fingerprinting-privacy",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-11-23T15:30:00.000Z",
-      "summary": "یک پژوهشگر چینی می‌گوید کلاد آنتروپیک اطلاعات مرورگر و دستگاه کاربران را جمع‌آوری و حتی پس از پاک‌کردن کوکی‌ها نیز آن‌ها را شناسایی می‌کند. The post آنتروپیک چگونه کاربران Claude را از روی مشخصات مرورگر شناسایی می‌کند؟ a"
-    },
-    {
-      "title": "ساخت ویدیو رایگان با هوش مصنوعی گوگل؛ آموزش انتقال حرکت ویدیو به کاراکتر با گوگل فلو",
-      "url": "https://www.zoomit.ir/ai-articles/471584-google-flow-ai-motion-transfer/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-11-23T14:30:00.000Z",
-      "summary": "با ترکیب ChatGPT و مدل Omni در گوگل فلو می‌توانید شخصیت اختصاصی بسازید و حرکات یک ویدیوی مرجع را به آن منتقل کنید."
-    },
-    {
-      "title": "Connected intelligence for in-house legal",
-      "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
-      "source": "OpenAI",
-      "lang": "en",
-      "published": "2026-11-23T08:00:00.000Z",
-      "summary": "Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect business context, build reusable workflows and get more from outside co"
     }
   ]
 }
