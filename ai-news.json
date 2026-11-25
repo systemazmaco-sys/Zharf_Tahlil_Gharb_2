@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-11-24T16:40:15.545Z",
+  "updated_at": "2026-11-25T01:43:20.626Z",
   "items": [
+    {
+      "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to U.S. industrial might — not a champion",
+      "url": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-11-25T00:12:02.000Z",
+      "summary": "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could prove a giant mistake, exposing the directors to \"historic\" personal l"
+    },
+    {
+      "title": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
+      "url": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-11-24T22:27:52.000Z",
+      "summary": "It's a remarkable stance for a company that spent the last two weeks finding out what happens without its founder."
+    },
+    {
+      "title": "In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy",
+      "url": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-11-24T21:48:27.000Z",
+      "summary": "The Nvidia founder apologized to his staff on Tuesday and said he was grateful for a second chance to lead the company."
+    },
+    {
+      "title": "هوش مصنوعی کلاد حالا کدهای برنامه‌نویسان را بررسی، اصلاح و تأیید می‌کند",
+      "url": "https://www.zoomit.ir/ai-articles/471746-anthropic-claude-ship-ai-pull-requests/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-11-24T20:05:00.000Z",
+      "summary": "آنتروپیک از محصول جدیدی به نام Claude Ship رونمایی کرد که به هوش مصنوعی کلاد اجازه می‌دهد کد را بازبینی، اصلاح و تأیید کند."
+    },
+    {
+      "title": "هشدار کارکنان شرکت‌های هوش مصنوعی: مدل‌های جدید آن‌قدر قدرتمند شده‌اند که شاید دیگر نتوان منتشرشان کرد",
+      "url": "https://digiato.com/artificial-intelligence/ai-company-employees-warn-models-too-powerful-to-release",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-11-24T18:52:13.000Z",
+      "summary": "کارمندان شرکت‌های هوش مصنوعی می‌گویند مدل‌های جدید چنان قدرتمند و خطرناک شده‌اند که شاید دیگر نتوان از ایمنی آن‌ها برای انتشار اطمینان حاصل کرد. The post هشدار کارکنان شرکت‌های هوش مصنوعی: مدل‌های جدید آن‌قدر قدرتمند شده"
+    },
+    {
+      "title": "پاک‌سازی بزرگ تایدل؛ رقیب معروف اسپاتیفای ۲۹ میلیون آهنگ هوش مصنوعی را حذف می‌کند",
+      "url": "https://www.zoomit.ir/ai-articles/471795-tidal-ban-remove-29-million-ai-generated-songs/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-11-24T17:50:08.000Z",
+      "summary": "تایدل اعلام کرد ۲۹ میلیون آهنگ ساخته‌شده با هوش مصنوعی را حذف می‌کند."
+    },
     {
       "title": "نگرانی کارمندان اوپن‌ای‌آی و آنتروپیک؛ شاید دیگر نتوان هوش مصنوعی را کنترل کرد",
       "url": "https://www.zoomit.ir/ai-articles/471791-openai-anthropic-employees-unreleased-ai-models-safety-concerns/",
@@ -8,30 +56,6 @@
       "lang": "fa",
       "published": "2026-11-24T16:19:43.000Z",
       "summary": "کارکنان اوپن‌ای‌آی و آنتروپیک هشدار می‌دهند مدل‌های آزمایشی هوش مصنوعی چنان قدرتمند شده‌اند که عرضه‌ی ایمن آن‌ها با تردیدهای جدی روبه‌رو است."
-    },
-    {
-      "title": "Why a Crusoe investor is betting on solar and batteries to power future AI data centers",
-      "url": "https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-11-24T16:10:00.000Z",
-      "summary": "Next-generation data centers will need tens of gigawatts of power every year. One of Crusoe's investors thinks solar and energy storage are the obvious choice."
-    },
-    {
-      "title": "Pinterest will now let parents limit the AI-generated content their teens see",
-      "url": "https://techcrunch.com/2026/11/24/pinterest-will-now-let-parents-limit-the-ai-generated-content-their-teens-see/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-11-24T16:02:37.000Z",
-      "summary": "While other social platforms have focused on restricting teens' access to AI chatbots, Pinterest is addressing the AI content filling their feeds."
-    },
-    {
-      "title": "Amazon’s Decart acquisition is a bet on using software to narrow the gap with Nvidia in the AI chip race",
-      "url": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-11-24T15:51:07.000Z",
-      "summary": "Amazon’s decision to acquire Decart for a reported $7.5 billion is part of its efforts to improve the efficiency of its Trainium chips."
     },
     {
       "title": "Raising the stakes for enterprise networks with AI modernization",
@@ -58,44 +82,20 @@
       "summary": "گوگل ایده ساخت برنامه‌های تلویزیونی با هوش مصنوعی را مطرح کرده که در آن خود کاربر نقش اصلی داستان را بازی می‌کند. The post ایده عجیب گوگل: ساخت کانال تلویزیونی با AI که شما شخصیت اصلی فیلم‌های آن هستید appeared first on "
     },
     {
-      "title": "آغاز فعالیت اپراتور هوش مصنوعی/ هاشمی: شرکت‌های فناور می‌توانند بدون خرید تجهیزات، خدمات پردازشی دریافت کنند",
-      "url": "https://www.zoomit.ir/iran-news/471783-iran-first-ai-operator-approval/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-11-24T13:58:18.000Z",
-      "summary": "وزیر ارتباطات می‌گوید با صدور اولین موافقت اصولی اپراتور هوش مصنوعی، شرکت‌های فناور می‌توانند بدون خرید سخت‌افزار به منابع پردازشی و GPU دسترسی یابند."
-    },
-    {
-      "title": "راهنمای استفاده از هوش مصنوعی در پژوهش ابلاغ شد",
-      "url": "https://www.zoomit.ir/iran-news/471737-ai-research-guidelines-iran-university-science-technology/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-11-24T07:41:00.000Z",
-      "summary": "دانشگاه علم و صنعت اولین ویراست راهنمای استفاده از هوش مصنوعی در پژوهش را ابلاغ کرد؛ سندی که بر شفافیت و مسئولیت نهایی پژوهشگر تأکید دارد."
-    },
-    {
-      "title": "OpenAI and Cisco introduce Shirudo",
-      "url": "https://openai.com/index/introducing-shirudo",
+      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
       "source": "OpenAI",
       "lang": "en",
-      "published": "2026-11-23T21:20:00.000Z",
-      "summary": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches."
+      "published": "2026-11-24T13:00:00.000Z",
+      "summary": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets."
     },
     {
-      "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
-      "url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
-      "source": "MIT Technology Review",
+      "title": "Searching for distant planets with Astra",
+      "url": "https://openai.com/index/searching-for-distant-planets-with-astra",
+      "source": "OpenAI",
       "lang": "en",
-      "published": "2026-11-23T17:36:08.000Z",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Before going public last week, Anthropic named the possibility that AI could be co"
-    },
-    {
-      "title": "Finding faster quantum algorithms with agents and formal verification",
-      "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
-      "source": "Google DeepMind",
-      "lang": "en",
-      "published": "2026-11-23T16:59:40.000Z",
-      "summary": "Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry."
+      "published": "2026-11-24T11:00:00.000Z",
+      "summary": "See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA’s Kepler and TESS space telescopes."
     }
   ]
 }
