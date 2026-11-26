@@ -1,37 +1,61 @@
 {
-  "updated_at": "2026-11-25T16:23:36.493Z",
+  "updated_at": "2026-11-26T01:16:57.744Z",
   "items": [
     {
-      "title": "AI data centers are becoming harder to build, and neoclouds are feeling it",
-      "url": "https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-11-25T15:41:43.000Z",
-      "summary": "⁠Nvidia has made clear⁠ it won’t backstop an AI data center until it’s nearly ready to run, and that’s landing just as neoclouds report construction delays and more expensive debt. The message to developers is that land,"
-    },
-    {
-      "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
-      "url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-11-25T14:10:18.000Z",
-      "summary": "Amazon and Meta are discussing a potential deal that would end a two-month-long blockade of Muse."
-    },
-    {
-      "title": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
-      "url": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-11-25T13:00:00.000Z",
-      "summary": "Huang still faces questions from Congress and his own board about his romantic relationship with an alleged chip smuggler."
-    },
-    {
-      "title": "مرکز ملی فضای مجازی به‌دنبال تقویت دفاع سایبری با هوش مصنوعی و محصولات بومی است",
-      "url": "https://www.zoomit.ir/iran-news/471850-iran-cybersecurity-drill-private-sector/",
+      "title": "بازگشت جنسن هوانگ به انویدیا، اختلاف بزرگ غول‌های هوش مصنوعی را آشکار کرد",
+      "url": "https://www.zoomit.ir/business/471822-jensen-huang-nvidia-reinstated-ai/",
       "source": "زومیت",
       "lang": "fa",
-      "published": "2026-11-25T12:03:00.000Z",
-      "summary": "مرکز ملی فضای مجازی با تأکید بر پیچیده‌تر شدن حملات هکرها، از مشارکت بخش خصوصی و محصولات بومی در دومین رزمایش ملی امنیت سایبری خبر داد."
+      "published": "2026-11-25T23:15:00.000Z",
+      "summary": "جنسن هوانگ با حمایت دونالد ترامپ و برای تقویت مدل‌های متن‌باز هوش مصنوعی به سمت مدیرعاملی انویدیا بازگشت."
+    },
+    {
+      "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
+      "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-11-25T22:44:32.000Z",
+      "summary": "The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating."
+    },
+    {
+      "title": "دردسرهای انویدیا به آسیا رسید؛ آینده مراکز داده هوش مصنوعی در خطر است؟",
+      "url": "https://www.zoomit.ir/ai-articles/471827-us-ai-chip-curbs-southeast-asia/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-11-25T21:40:00.000Z",
+      "summary": "محدودیت‌های جدید صادراتی آمریکا سرمایه‌گذاری‌های صد میلیارد دلاری دیتاسنترهای آسیای جنوب شرقی را برای تامین تراشه به خطر انداخت."
+    },
+    {
+      "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+      "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-11-25T20:03:27.000Z",
+      "summary": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences."
+    },
+    {
+      "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
+      "url": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-11-25T19:54:57.000Z",
+      "summary": "Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences."
+    },
+    {
+      "title": "نمای ضرب ماتریسی چیست؟ داستان ۵۷ سال تلاش برای رسیدن به یک عدد و اثبات OpenAI",
+      "url": "https://www.zoomit.ir/fundamental-science/471866-matrix-multiplication-exponent-featured/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-11-25T19:35:00.000Z",
+      "summary": "نمای ضرب ماتریسی یا امگا، نرخ رشد محاسبات را تعیین می‌کند و کاهش آن برای تسریع پردازش هوش مصنوعی و گرافیک حیاتی است."
+    },
+    {
+      "title": "حباب هوش مصنوعی در آستانه انفجار؛ ترکش‌های سقوط به کدام بازارها می‌خورد؟",
+      "url": "https://digiato.com/artificial-intelligence/ai-bubble-possible-burst-impact-on-financial-markets",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-11-25T18:30:00.000Z",
+      "summary": "آیا شرط‌بندی ۵.۵ تریلیون دلاری روی هوش مصنوعی به سرنوشت حباب دات‌کام دچار می‌شود؟ The post حباب هوش مصنوعی در آستانه انفجار؛ ترکش‌های سقوط به کدام بازارها می‌خورد؟ appeared first on دیجیاتو."
     },
     {
       "title": "AI is straining America’s open records systems",
@@ -42,20 +66,12 @@
       "summary": "In Panton, Vermont, population 660, town clerk Kyle Rowe did it all. He crafted budgets, paid vendors, handled property tax disputes, and served as the town’s zoning supervisor and presiding elections officer. During mor"
     },
     {
-      "title": "ناتینگ با گجت جدیدش می‌خواهد هوش مصنوعی را از گوشی جدا کند",
-      "url": "https://www.zoomit.ir/gadget/471804-nothing-ear-note-teaser-december/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-11-25T07:50:00.000Z",
-      "summary": "ناتینگ با انتشار تصویری رسمی از کیس شارژ مجهز به دکمه‌ی مکالمه، از معرفی محصولی متفاوت در آینده‌ی نزدیک خبر داد."
-    },
-    {
-      "title": "اعتراض به تسلیحاتی‌سازی هوش مصنوعی؛ نماینده ایران در سازمان ملل درباره کاربرد نظامی کلاد و گراک هشدار داد",
-      "url": "https://www.zoomit.ir/iran-news/471819-iran-un-warning-military-ai-use/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-11-25T06:41:50.000Z",
-      "summary": "نماینده ایران در سازمان ملل با اشاره به استفاده آمریکا از سامانه‌های هوش مصنوعی در جنگ علیه ایران، درباره پیامدهای نظامی این فناوری هشدار داد."
+      "title": "From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity",
+      "url": "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity/",
+      "source": "Google DeepMind",
+      "lang": "en",
+      "published": "2026-11-24T13:07:53.000Z",
+      "summary": "Mass Spec Skills empowers scientists using Google Antigravity to interpret tandem mass spectra."
     },
     {
       "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
@@ -80,22 +96,6 @@
       "lang": "en",
       "published": "2026-11-24T00:00:00.000Z",
       "summary": "Marina Petrova’s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues."
-    },
-    {
-      "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
-      "url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
-      "source": "MIT Technology Review",
-      "lang": "en",
-      "published": "2026-11-23T17:36:08.000Z",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Before going public last week, Anthropic named the possibility that AI could be co"
-    },
-    {
-      "title": "Finding faster quantum algorithms with agents and formal verification",
-      "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
-      "source": "Google DeepMind",
-      "lang": "en",
-      "published": "2026-11-23T16:59:40.000Z",
-      "summary": "Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry."
     }
   ]
 }
