@@ -1,13 +1,45 @@
 {
-  "updated_at": "2026-11-26T01:16:57.744Z",
+  "updated_at": "2026-11-26T15:57:48.628Z",
   "items": [
     {
-      "title": "بازگشت جنسن هوانگ به انویدیا، اختلاف بزرگ غول‌های هوش مصنوعی را آشکار کرد",
-      "url": "https://www.zoomit.ir/business/471822-jensen-huang-nvidia-reinstated-ai/",
+      "title": "مدیرعامل گروه دیجی‌کالا: بزرگ‌ترین ریسک تحریم‌ها در عصر هوش مصنوعی، از بین رفتن بلندپروازی ایرانی‌هاست",
+      "url": "https://www.zoomit.ir/iran-news/471925-digikala-ceo-ai-sanctions-warning/",
       "source": "زومیت",
       "lang": "fa",
-      "published": "2026-11-25T23:15:00.000Z",
-      "summary": "جنسن هوانگ با حمایت دونالد ترامپ و برای تقویت مدل‌های متن‌باز هوش مصنوعی به سمت مدیرعاملی انویدیا بازگشت."
+      "published": "2026-11-26T14:59:00.000Z",
+      "summary": "مدیرعامل گروه دیجی‌کالا در رویداد اکوتاک تحریم‌ها را مانع تمرکز در عصر هوش مصنوعی دانست و درباره از دست رفتن امید و مهاجرت نخبگان هشدار داد."
+    },
+    {
+      "title": "انویدیا ارسال تراشه‌های هوش مصنوعی به چهار کشور جنوب شرق آسیا را متوقف کرد",
+      "url": "https://digiato.com/computers-hardware/nvidia-halts-ai-chip-server-shipments-southeast-asia",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-11-26T14:00:44.000Z",
+      "summary": "واشنگتن برای بستن مسیرهای غیرمستقیم دسترسی چین به تراشه‌های پیشرفته، مهلت ۹۰ روزه‌ای برای دریافت مجوز شرکت‌های ابری تعیین کرده است. The post انویدیا ارسال تراشه‌های هوش مصنوعی به چهار کشور جنوب شرق آسیا را متوقف کرد appe"
+    },
+    {
+      "title": "آیا هوش مصنوعی رمزنگاری امروزی را شکسته است؟ هشدار تازه یک دانشمند علوم کامپیوتر",
+      "url": "https://www.zoomit.ir/ai-articles/471887-ai-cryptography-breakthrough-concerns/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-11-26T11:20:00.000Z",
+      "summary": "دانشمند برجسته‌ی علوم کامپیوتر از دستیابی محرمانه‌ی آزمایشگاه‌های هوش مصنوعی به پیشرفت‌های شگرف در شکستن ساختارهای رمزنگاری خبر داد."
+    },
+    {
+      "title": "اسپیس‌ایکس مجوز پرتاب یک میلیون ماهواره هوش مصنوعی را دریافت کرد",
+      "url": "https://www.zoomit.ir/space/471914-feds-approve-spacexs-ai-data-center-satellites/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-11-26T10:30:00.000Z",
+      "summary": "اسپیس‌ایکس با دریافت مجوز استقرار یک میلیون ماهواره مجهز به تراشه‌های هوش مصنوعی، یک گام به ساخت مراکز داده مداری نزدیک‌تر شد."
+    },
+    {
+      "title": "اسپیس‌ایکس مجوز اولیه ساخت دیتاسنتر هوش مصنوعی در فضا را دریافت کرد",
+      "url": "https://digiato.com/growth-hacking/fcc-approves-spacex-ai-data-centers-space",
+      "source": "دیجیاتو",
+      "lang": "fa",
+      "published": "2026-11-26T08:38:20.000Z",
+      "summary": "این منظومه ماهواره‌ای که استارمایند نام دارد، با وجود اعتراض رقبایی همچون آمازون درباره خطرات زباله‌های فضایی، تأییدیه اولیه را دریافت کرد. The post اسپیس‌ایکس مجوز اولیه ساخت دیتاسنتر هوش مصنوعی در فضا را دریافت کرد app"
     },
     {
       "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
@@ -16,14 +48,6 @@
       "lang": "en",
       "published": "2026-11-25T22:44:32.000Z",
       "summary": "The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating."
-    },
-    {
-      "title": "دردسرهای انویدیا به آسیا رسید؛ آینده مراکز داده هوش مصنوعی در خطر است؟",
-      "url": "https://www.zoomit.ir/ai-articles/471827-us-ai-chip-curbs-southeast-asia/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-11-25T21:40:00.000Z",
-      "summary": "محدودیت‌های جدید صادراتی آمریکا سرمایه‌گذاری‌های صد میلیارد دلاری دیتاسنترهای آسیای جنوب شرقی را برای تامین تراشه به خطر انداخت."
     },
     {
       "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
@@ -40,22 +64,6 @@
       "lang": "en",
       "published": "2026-11-25T19:54:57.000Z",
       "summary": "Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences."
-    },
-    {
-      "title": "نمای ضرب ماتریسی چیست؟ داستان ۵۷ سال تلاش برای رسیدن به یک عدد و اثبات OpenAI",
-      "url": "https://www.zoomit.ir/fundamental-science/471866-matrix-multiplication-exponent-featured/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-11-25T19:35:00.000Z",
-      "summary": "نمای ضرب ماتریسی یا امگا، نرخ رشد محاسبات را تعیین می‌کند و کاهش آن برای تسریع پردازش هوش مصنوعی و گرافیک حیاتی است."
-    },
-    {
-      "title": "حباب هوش مصنوعی در آستانه انفجار؛ ترکش‌های سقوط به کدام بازارها می‌خورد؟",
-      "url": "https://digiato.com/artificial-intelligence/ai-bubble-possible-burst-impact-on-financial-markets",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-11-25T18:30:00.000Z",
-      "summary": "آیا شرط‌بندی ۵.۵ تریلیون دلاری روی هوش مصنوعی به سرنوشت حباب دات‌کام دچار می‌شود؟ The post حباب هوش مصنوعی در آستانه انفجار؛ ترکش‌های سقوط به کدام بازارها می‌خورد؟ appeared first on دیجیاتو."
     },
     {
       "title": "AI is straining America’s open records systems",
@@ -88,14 +96,6 @@
       "lang": "en",
       "published": "2026-11-24T11:00:00.000Z",
       "summary": "See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA’s Kepler and TESS space telescopes."
-    },
-    {
-      "title": "How Intentful uses dots to make more time for growth",
-      "url": "https://openai.com/business/customer-stories/intentful-dots",
-      "source": "OpenAI",
-      "lang": "en",
-      "published": "2026-11-24T00:00:00.000Z",
-      "summary": "Marina Petrova’s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues."
     }
   ]
 }
