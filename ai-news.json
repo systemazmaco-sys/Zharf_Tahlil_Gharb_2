@@ -1,6 +1,30 @@
 {
-  "updated_at": "2026-11-26T15:57:48.628Z",
+  "updated_at": "2026-11-27T01:15:02.294Z",
   "items": [
+    {
+      "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+      "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-11-26T20:03:54.000Z",
+      "summary": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China."
+    },
+    {
+      "title": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
+      "url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
+      "source": "TechCrunch AI",
+      "lang": "en",
+      "published": "2026-11-26T16:00:00.000Z",
+      "summary": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time."
+    },
+    {
+      "title": "هنرمندان از ترس هوش مصنوعی در حال ترک اینستاگرام هستند",
+      "url": "https://www.zoomit.ir/social-network/471935-artists-quitting-instagram-facebook-ai-art/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-11-26T15:54:23.000Z",
+      "summary": "هنرمندان مستقل از ترس استفاده‌ی بدون اجازه از آثارشان برای آموزش هوش مصنوعی، در حال ترک اینستاگرام و فیسبوک هستند."
+    },
     {
       "title": "مدیرعامل گروه دیجی‌کالا: بزرگ‌ترین ریسک تحریم‌ها در عصر هوش مصنوعی، از بین رفتن بلندپروازی ایرانی‌هاست",
       "url": "https://www.zoomit.ir/iran-news/471925-digikala-ceo-ai-sanctions-warning/",
@@ -26,44 +50,12 @@
       "summary": "دانشمند برجسته‌ی علوم کامپیوتر از دستیابی محرمانه‌ی آزمایشگاه‌های هوش مصنوعی به پیشرفت‌های شگرف در شکستن ساختارهای رمزنگاری خبر داد."
     },
     {
-      "title": "اسپیس‌ایکس مجوز پرتاب یک میلیون ماهواره هوش مصنوعی را دریافت کرد",
-      "url": "https://www.zoomit.ir/space/471914-feds-approve-spacexs-ai-data-center-satellites/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-11-26T10:30:00.000Z",
-      "summary": "اسپیس‌ایکس با دریافت مجوز استقرار یک میلیون ماهواره مجهز به تراشه‌های هوش مصنوعی، یک گام به ساخت مراکز داده مداری نزدیک‌تر شد."
-    },
-    {
-      "title": "اسپیس‌ایکس مجوز اولیه ساخت دیتاسنتر هوش مصنوعی در فضا را دریافت کرد",
-      "url": "https://digiato.com/growth-hacking/fcc-approves-spacex-ai-data-centers-space",
-      "source": "دیجیاتو",
-      "lang": "fa",
-      "published": "2026-11-26T08:38:20.000Z",
-      "summary": "این منظومه ماهواره‌ای که استارمایند نام دارد، با وجود اعتراض رقبایی همچون آمازون درباره خطرات زباله‌های فضایی، تأییدیه اولیه را دریافت کرد. The post اسپیس‌ایکس مجوز اولیه ساخت دیتاسنتر هوش مصنوعی در فضا را دریافت کرد app"
-    },
-    {
       "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
       "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
       "source": "TechCrunch AI",
       "lang": "en",
       "published": "2026-11-25T22:44:32.000Z",
       "summary": "The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating."
-    },
-    {
-      "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
-      "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-11-25T20:03:27.000Z",
-      "summary": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences."
-    },
-    {
-      "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
-      "url": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
-      "source": "TechCrunch AI",
-      "lang": "en",
-      "published": "2026-11-25T19:54:57.000Z",
-      "summary": "Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences."
     },
     {
       "title": "AI is straining America’s open records systems",
@@ -96,6 +88,14 @@
       "lang": "en",
       "published": "2026-11-24T11:00:00.000Z",
       "summary": "See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA’s Kepler and TESS space telescopes."
+    },
+    {
+      "title": "How Intentful uses dots to make more time for growth",
+      "url": "https://openai.com/business/customer-stories/intentful-dots",
+      "source": "OpenAI",
+      "lang": "en",
+      "published": "2026-11-24T00:00:00.000Z",
+      "summary": "Marina Petrova’s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues."
     }
   ]
 }
