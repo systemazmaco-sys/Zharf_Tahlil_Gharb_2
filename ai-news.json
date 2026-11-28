@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-27T15:46:25.458Z",
+  "updated_at": "2026-11-28T00:47:55.207Z",
   "items": [
+    {
+      "title": "پلتفرم‌های امنیتی رمزارز برای مقابله با گزارش‌های انبوه به هوش مصنوعی پناه بردند",
+      "url": "https://www.zoomit.ir/cryptocurrency/471947-crypto-bug-bounty-ai-surge/",
+      "source": "زومیت",
+      "lang": "fa",
+      "published": "2026-11-27T18:55:00.000Z",
+      "summary": "پلتفرم‌های پاداش شکار باگ در دنیای رمزارز برای مدیریت حجم عظیم گزارش‌های تولیدشده با هوش مصنوعی، به‌کارگیری سیستم‌های خودکار را به‌شدت افزایش دادند."
+    },
     {
       "title": "کسپرسکی: هوش مصنوعی شاید بشر را نابود نکند، اما برای امنیت سایبری خطر جدی دارد",
       "url": "https://digiato.com/artificial-intelligence/kaspersky-ceo-says-ai-wont-destroy-humanity-but-warns-of-cybersecurity-risks",
@@ -32,14 +40,6 @@
       "lang": "fa",
       "published": "2026-11-27T11:05:00.000Z",
       "summary": "مدل MiMo-V2.6-Pro شیائومی با ثبت امتیاز ۱۳۳۸ و جهش ۲۲ پله‌ای، در رتبه هشتم دیزاین آرنا و جایگاه سوم مدل‌های باز این بنچمارک قرار گرفت."
-    },
-    {
-      "title": "گوگل در حال ساخت هوش مصنوعی همیشه‌فعال است",
-      "url": "https://www.zoomit.ir/ai-articles/471899-google-gemini-bots-persistent-agent/",
-      "source": "زومیت",
-      "lang": "fa",
-      "published": "2026-11-27T06:40:00.000Z",
-      "summary": "کدهای جدید گوگل نشان می‌دهد قابلیت Gemini Bots به این هوش مصنوعی امکان می‌دهد حتی در حالت آفلاین کارهای محول‌شده را مستقل پیش ببرد."
     },
     {
       "title": "Nvidia hits pause on chip shipments to Southeast Asia",
@@ -74,14 +74,6 @@
       "summary": "In Panton, Vermont, population 660, town clerk Kyle Rowe did it all. He crafted budgets, paid vendors, handled property tax disputes, and served as the town’s zoning supervisor and presiding elections officer. During mor"
     },
     {
-      "title": "From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity",
-      "url": "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity/",
-      "source": "Google DeepMind",
-      "lang": "en",
-      "published": "2026-11-24T13:07:53.000Z",
-      "summary": "Mass Spec Skills empowers scientists using Google Antigravity to interpret tandem mass spectra."
-    },
-    {
       "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
       "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
       "source": "OpenAI",
@@ -96,6 +88,14 @@
       "lang": "en",
       "published": "2026-11-24T11:00:00.000Z",
       "summary": "See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA’s Kepler and TESS space telescopes."
+    },
+    {
+      "title": "How Intentful uses dots to make more time for growth",
+      "url": "https://openai.com/business/customer-stories/intentful-dots",
+      "source": "OpenAI",
+      "lang": "en",
+      "published": "2026-11-24T00:00:00.000Z",
+      "summary": "Marina Petrova’s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues."
     }
   ]
 }
